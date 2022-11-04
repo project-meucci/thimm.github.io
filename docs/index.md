@@ -1,2 +1,2 @@
 # Podcast transcriptions
-These are transcripts for podcasts from the regenerative agriculture space.
+Transcripts for podcasts from the regenerative agriculture space. We do not own the content, so please support the creators of these podcasts in any way you can.
