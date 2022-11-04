@@ -1,2 +1,9 @@
 .vscode/settings.json
 .obsidian/*
+.SearchEngine/data
+.SearchEngine/feedmeta
+.SearchEngine/html
+.SearchEngine/markdown
+.SearchEngine/segments
+.SearchEngine/transcriptions
+*.zip
