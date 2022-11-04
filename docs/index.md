@@ -9,4 +9,4 @@ Farmerama Radio is an award-winning podcast sharing the voices behind regenerati
 In Investing in Regenerative Agriculture and Food podcast show we talk to the pioneers in the regenerative food and agriculture space to learn more on how to put our money to work to regenerate soil, people, local communities and ecosystems while making an appropriate and fair return.
 
 ### [The Regenerative Agroforestry Podcast](https://www.regenerativeagroforestry.org/)
-A space where recognised experts from the field share their practical experiences, challenges and success stories  implementing productive agroforestry projects
+A space where recognised experts from the field share their practical experiences, challenges and success stories  implementing productive agroforestry projects.
