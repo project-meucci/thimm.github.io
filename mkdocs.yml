@@ -49,7 +49,7 @@ plugins:
   - search:
       lang: "en"
       #     prebuild_index: true
-      indexing: "sections"
+      indexing: "titles"
   - roamlinks
   - mermaid2
 
