@@ -47,9 +47,9 @@ markdown_extensions:
 
 plugins:
   - search:
-      - lang: "en"
+      lang: "en"
       #     prebuild_index: true
-      - indexing: "sections"
+      indexing: "sections"
   - roamlinks
   - mermaid2
 
