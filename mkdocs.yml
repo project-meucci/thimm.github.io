@@ -20,9 +20,9 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  # features:
-  #   - search.highlight
-  #   - search.suggest
+  features:
+    - search.highlight
+    - search.suggest
 
 # Extensions
 markdown_extensions:
@@ -46,7 +46,7 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  # - search:
+  - search:
   #     prebuild_index: true
   - roamlinks
   - mermaid2
