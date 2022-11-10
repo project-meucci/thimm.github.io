@@ -50,7 +50,7 @@ plugins:
   - search:
       lang: "en"
       #     prebuild_index: true
-      # indexing: "titles"
+      indexing: "titles"
 
 extra_javascript:
   - javascripts/mathjax.js
