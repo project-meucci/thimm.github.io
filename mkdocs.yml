@@ -23,6 +23,7 @@ theme:
   features:
     - search.highlight
     - search.suggest
+    - navigation.instant
 
 # Extensions
 markdown_extensions:
@@ -50,8 +51,6 @@ plugins:
       lang: "en"
       #     prebuild_index: true
       indexing: "titles"
-  - roamlinks
-  - mermaid2
 
 extra_javascript:
   - javascripts/mathjax.js
