@@ -1,0 +1,490 @@
+### Tasting Terroir  (Thu, 03 Nov 2022 08:00:00)
+**0:00:00-0:00:05:**  When you look at the nutritional profile of, say, sorghum compared to other commodity crops that we  
+**0:00:05-0:00:13:**  commonly consume, it's shocking how much higher it is in almost every nutrient. So that was one  
+**0:00:13-0:00:18:**  of our big, big points. Like, for me, I was like, okay, what do I feed my kids? I want to feed them  
+**0:00:18-0:00:23:**  something healthy. And then as a nurse and someone who was involved in nutrition, I was a diabetic  
+**0:00:23-0:00:30:**  educator working in ICU. And I was like, why isn't everybody eating this?  
+**0:00:38-0:00:43:**  Welcome back to our podcast, Tasting Tarawa, a journey that helps you more accurately navigate  
+**0:00:43-0:00:50:**  the marketing claims of better for you food by understanding the link between healthy soil  
+**0:00:50-0:00:56:**  and the flavor and health of your food. I'm your host, Sarah Harper. That clip was from a  
+**0:00:56-0:01:02:**  follow-up interview with Snacktivist Foods co-founder Joni Kinwell Moore. Joni set out on a  
+**0:01:02-0:01:07:**  journey to find better snacks for her kids who had food allergies and in the process discovered a  
+**0:01:07-0:01:14:**  world of quote oddball grains, as she calls them. Grains like millet and sorghum, which you will get  
+**0:01:14-0:01:21:**  to learn a lot more about in this episode. It turns out that these gluten-free ingredients can offer  
+**0:01:21-0:01:28:**  us all a lot, from a flavor and texture boost in our breads and crackers, to health benefits and  
+**0:01:28-0:01:35:**  positive contributions to the health of the soil that grows our food. In our last episode, we  
+**0:01:35-0:01:40:**  explored whether a brand can authentically be regenerative if it doesn't really know the farmers  
+**0:01:40-0:01:46:**  growing its ingredients. I think you'll see in our continued discussion with Joni just why this  
+**0:01:46-0:01:52:**  knowledge is so important. This week we are taking a closer look at some of the lesser known  
+**0:01:52-0:01:57:**  ingredients being embraced by Joni's brand Snacktivist, the role these ingredients play in  
+**0:01:57-0:02:03:**  enhancing both soil and human health, and we talk frankly about the supply chain and the food  
+**0:02:03-0:02:09:**  processing challenges that her brand is working so hard to overcome. Once again, I want to encourage  
+**0:02:09-0:02:16:**  you to claim the power that you have as consumers and use it to reward those who are working hard  
+**0:02:16-0:02:22:**  to create better, regeneratively grown, flavorful, healthy food. People like our next interview and  
+**0:02:22-0:02:29:**  frankly all the folks that we've been interviewing. You can find links to their online stores in each  
+**0:02:29-0:02:36:**  podcast episode. And with that, we'll return to our conversation with Joni and understand a little  
+**0:02:36-0:02:44:**  better why it's so important to know the farmers that grow your food. Well hi Joni, it's great to  
+**0:02:44-0:02:51:**  talk to you again. You too, it's wonderful to see you. Yeah, well we had such a great conversation  
+**0:02:51-0:02:57:**  last time exploring what is regenerative and how your company is applying it and how your  
+**0:02:57-0:03:02:**  supply chains are doing that and how you're really working to both bring regenerative into your  
+**0:03:02-0:03:11:**  supply chain and be honest about it, which is so refreshing. Yeah, the honest part is hard.  
+**0:03:13-0:03:19:**  Yeah, so I wanted to follow up with you and talk more about the flavor side. You know,  
+**0:03:19-0:03:24:**  we've talked about this podcast being tasting terroir and trying to understand the link between  
+**0:03:24-0:03:29:**  health and flavor because those are things that consumers are really interested in. But then also  
+**0:03:29-0:03:35:**  linking that back to the practices and the type of farming that we know really does add more,  
+**0:03:35-0:03:42:**  certainly more nutrient density. And depending on who you are, flavor is a very subjective thing,  
+**0:03:43-0:03:49:**  but it makes sense at least that there would be a positive flavor connection to having more  
+**0:03:49-0:03:55:**  minerals and nutrients and things. So one of the really unique things about what you're doing is  
+**0:03:55-0:04:00:**  that you're working with some really unique grains. I mean, they're not unique, they're just  
+**0:04:00-0:04:07:**  grains, but they're not in the supply chain. They're kind of oddball grains. Yes, they're  
+**0:04:07-0:04:11:**  ones that just the average American, if they're like, Oh, what are your products made out of?  
+**0:04:11-0:04:15:**  And I'm like, oh, millet, tefs, sorghum. They're like, what, what, what? Like,  
+**0:04:16-0:04:20:**  not everybody's heard of them. So yeah, and you're very involved in the millet. Is there a millet  
+**0:04:20-0:04:27:**  association or organization? Yeah, so we've just launched like our kind of public facing side of  
+**0:04:27-0:04:33:**  the North American millet Alliance. And really, that's just trying to create a community around  
+**0:04:33-0:04:40:**  this emerging category of the millets, which are, you know, a large group. I mean, there's like 10  
+**0:04:40-0:04:45:**  different species that are considered millets, even though they're not actually related species.  
+**0:04:45-0:04:50:**  So there's a lot of folks taxonomy and kind of like cumbersome botany that needs to be navigated  
+**0:04:50-0:04:56:**  here to create this category around the food group. But next year, the UN has declared UN  
+**0:04:56-0:05:02:**  Europe millets. So it's a huge opportunity for us to leverage that storytelling and that narrative  
+**0:05:02-0:05:07:**  around what the millets are, why they're really important to global food systems moving forward,  
+**0:05:07-0:05:13:**  especially in the face of changing climate in a warming planet, and why they are nutritional  
+**0:05:13-0:05:20:**  powerhouses. And what do they taste like? What does millet tastes like? Yeah, it's actually they  
+**0:05:20-0:05:26:**  all taste very different. Proso millet is like a sweeter grain. It actually has a very nice flavor  
+**0:05:26-0:05:31:**  profile. And if you buy like the killer bread or you know, any of the a lot of the more healthier  
+**0:05:31-0:05:36:**  breads on the market actually usually do add some millet to it. And it's a component in the original  
+**0:05:36-0:05:42:**  of like Ezekiel bread, the Ezekiel recipe. And it's got a lovely flavor and texture that people  
+**0:05:42-0:05:48:**  really like once they try it. And I'm sure there are all sorts of health benefits for people.  
+**0:05:49-0:05:55:**  Is it higher in fiber? Does it keep its shell? It's not milled off or what? Yeah, so it really  
+**0:05:55-0:05:59:**  depends on the millet that you're, you know, focused on. Like for instance, the Proso millet  
+**0:05:59-0:06:05:**  I just mentioned is kind of like a classic one that people see commonly in like bulk bins or  
+**0:06:05-0:06:12:**  in products. That one has to have a hard pericarp like an actual that has to be de-hulled. It has a  
+**0:06:12-0:06:17:**  hull that is not digestible by humans. So that one does have to be de-hulled. But then you take  
+**0:06:17-0:06:23:**  sorghum, which is the most commonly grown millet, millet in our in our nation and in North American  
+**0:06:23-0:06:29:**  farming systems. And it does not need to be de-hulled. So there's a lot of nuances in the  
+**0:06:29-0:06:36:**  processing and all these different millets. Well that's very cool. What made you want to go down  
+**0:06:36-0:06:41:**  this path of sourcing these kind of grains for your snack foods and baking mixes?  
+**0:06:41-0:06:49:**  Yeah, two major things. I mean for us, I have to say like my entry point was, you know, not just out of  
+**0:06:49-0:06:55:**  curiosity but out of necessity because I was struggling to feed a family that had multiple food  
+**0:06:55-0:07:02:**  allergies. And we were looking for things that had high nutrient integrity, which millets by  
+**0:07:02-0:07:09:**  and large do. And there's some really interesting information coming out about millets and about the  
+**0:07:09-0:07:15:**  diverse nutrient profile that they contain. It is rather significant in that they're much superior,  
+**0:07:15-0:07:22:**  especially compared to rice and corn. In fact, it's shocking. The United Sorghum Association just did  
+**0:07:22-0:07:28:**  some really great work from a nutritional standpoint looking at the actual just basic  
+**0:07:28-0:07:34:**  nutritional profile, including minerals, trace nutrients, like you know the things that don't  
+**0:07:34-0:07:39:**  usually make it to the main frame on the back of the package. And when you look at the nutritional  
+**0:07:39-0:07:46:**  profile of say sorghum compared to other commodity crops that we commonly consume, it's shocking how  
+**0:07:46-0:07:54:**  much higher it is in almost every nutrient. So that was one of our big, big points. Like for me,  
+**0:07:54-0:07:58:**  I was like, okay, what do I feed my kids? I want to feed them something healthy. And then as a nurse  
+**0:07:58-0:08:04:**  and someone who was involved in nutrition, I was a diabetic educator working in ICU. And I was like,  
+**0:08:04-0:08:09:**  why isn't everybody eating this? I mean, why is this just for gluten-free people? That doesn't make  
+**0:08:09-0:08:15:**  any sense. So it became kind of a personal mission for me to really kind of champion for them.  
+**0:08:15-0:08:20:**  Not only for a nutritional buy-in, like, hey, you're looking for more nutrition. We're trying to  
+**0:08:20-0:08:25:**  give people permission to love grains again, because grains have been demonized largely in  
+**0:08:25-0:08:32:**  American food systems for being empty calories and fostering inflammation and all these  
+**0:08:32-0:08:38:**  other diseases. But when you look at millets as a whole, they're a grain group that's  
+**0:08:38-0:08:43:**  rather exempt from a lot of those issues. So that's one of the reasons I champion so hard for  
+**0:08:43-0:08:49:**  millets as a food. The other reason is when you look at agricultural systems and you look at  
+**0:08:49-0:08:56:**  their role that they can play in regenerative cropping systems, it's really, really significant.  
+**0:08:56-0:09:02:**  And thorium is a longer season crop, so it's not as much like a crop that you're going to sneak in  
+**0:09:02-0:09:09:**  as a cover crop. But many of the other millets, like prosomillets, other minor millets like  
+**0:09:09-0:09:16:**  foxtail, pearl, many, many others, they fill a very vital role in cover cropping between other  
+**0:09:16-0:09:22:**  cash crops. And if we can add a value to those cover crops, the farmers are that much more  
+**0:09:22-0:09:27:**  incentivized to bring in more biodiversity to their farming system and then shift in a  
+**0:09:27-0:09:33:**  biomimicry way towards crops that are more naturally drought resilient. So long answer to a  
+**0:09:33-0:09:34:**  short question.  
+**0:09:34-0:09:41:**  No, no, it's very good. Do you know why millet wasn't developed as a mainstream grain?  
+**0:09:42-0:09:45:**  Is it harder to process or what's held it back?  
+**0:09:46-0:09:51:**  Yeah, so I have given this a lot of thought and I think that there is really a nexus point  
+**0:09:51-0:09:58:**  between two major events in history that have made them underutilized kind of neglected  
+**0:09:58-0:10:05:**  grains. First, green revolution. When you look at millets in general, they're not highly  
+**0:10:05-0:10:13:**  responsive to heavy chemical fertilizer regimens. And so they, you know, compared to corn, wheat,  
+**0:10:13-0:10:18:**  and rice, when you looked at agronomy during the green revolution where they were like,  
+**0:10:18-0:10:25:**  what can we pile chemicals on and get crazy yield improvements? And that was the primary  
+**0:10:25-0:10:31:**  crops that we see today, soy, corn, wheat, rice, etc. And these other crops just became  
+**0:10:31-0:10:36:**  something that didn't have a lot of exploration when it comes to genetics and because they  
+**0:10:36-0:10:42:**  didn't fit the model of the green revolution. Secondly, which now is proving to be important  
+**0:10:42-0:10:48:**  because now that chemicals are very expensive and hard to get, many nations are scrambling  
+**0:10:48-0:10:54:**  to go back to these non-green revolution crops because they will still perform, still produce  
+**0:10:54-0:11:01:**  yields without any fertilizers added to the system or artificial irrigation. So that's  
+**0:11:01-0:11:06:**  one reason. Second reason I think is cultural having to do with more just of like a colonial  
+**0:11:06-0:11:11:**  food system mindset. Like there's a lot of racism associated with food. So when you look at, for  
+**0:11:11-0:11:17:**  instance, sorghum and the role that sorghum played in Africa and when slaves were brought to the new  
+**0:11:17-0:11:22:**  world, they brought sorghum seeds with them and it was a very important food group too.  
+**0:11:22-0:11:28:**  African American early, you know, communities in the South. And so sorghum syrup and sorghum  
+**0:11:28-0:11:34:**  products were commonly eaten, but it, I feel like it was kind of a lens of racism that they  
+**0:11:34-0:11:37:**  were not brought into broader food systems because it was literally thought of as food for  
+**0:11:38-0:11:42:**  slave groups, which a lot of people don't like to talk about that. But I think it's really important  
+**0:11:42-0:11:47:**  that we're just really transparent about this conversation. It's fun to talk about, but it's  
+**0:11:47-0:11:52:**  important to talk about. Well, as you explore, because I mean, obviously a lot goes into making  
+**0:11:53-0:11:58:**  a food company and products, and you're always dealing with choices about ingredients and  
+**0:11:58-0:12:04:**  putting them together and what consumers want versus also what your brand stands for. And as we  
+**0:12:04-0:12:09:**  talked about with regenerative and wanting to bring in this better way of growing, that's that's  
+**0:12:09-0:12:13:**  really prominent in your brand. And then you've got these great things like millet and other  
+**0:12:13-0:12:20:**  sorghum and other grains, but you also of course have to make sure that it tastes good. And you're  
+**0:12:20-0:12:26:**  dealing with a palate that in a large part of the mainstream public probably isn't used to a lot of  
+**0:12:26-0:12:31:**  these things. So how did you go through like this product formulation path of balancing out the  
+**0:12:31-0:12:36:**  the taste that's going to be attractive just to an average person that maybe that isn't  
+**0:12:37-0:12:42:**  sophisticated or you know been, you know, hearty and growing their own, you know, great all the  
+**0:12:42-0:12:47:**  stuff we should do, but most people don't, you know. And so how do you meet those people kind of  
+**0:12:47-0:12:52:**  where they already are with a palate that's particularly loaded with sugar and so everything  
+**0:12:52-0:12:57:**  if it doesn't have a lot of sugar then yeah. So how did you decide and balance all of that  
+**0:12:57-0:13:03:**  out in terms of ingredients you selected? Well it was kind of a, I'd have to say a bit of a rough  
+**0:13:03-0:13:07:**  learning curve for me because like I came in really gung-ho like, hey we're going to do this  
+**0:13:07-0:13:13:**  100% whole grain, all this stuff. And then the early iterations people were like, uh, that's a  
+**0:13:13-0:13:20:**  little too hippie for us. Like tone back on the granola style like hippie food. I was like, oh,  
+**0:13:20-0:13:27:**  noted. So I ended up starting to make blends and blending in more things that were palatable to the  
+**0:13:27-0:13:33:**  typical American palate given that most people are like, bread is white, it's bleached, it's enriched,  
+**0:13:33-0:13:40:**  it's tasty, it's basically flavorless. Nowadays you look at like what, you know, commodity like  
+**0:13:40-0:13:47:**  bimbo bread, all you taste is the sweetness of the starch. And so it's really tough when that's your  
+**0:13:47-0:13:53:**  entry point compared to like in a European market where there's like a real market for like the old  
+**0:13:53-0:13:58:**  world dark bread that have super robust flavor profiles. And so that's been a challenge for me.  
+**0:13:58-0:14:02:**  Like what we first brought to the market was really robust. Everything the very first time  
+**0:14:02-0:14:09:**  ingredient was sorghum or millet or teff of that early product line. We immediately heard from a  
+**0:14:09-0:14:14:**  group of moms that they were like our early adopters. And a lot of these moms were struggling  
+**0:14:14-0:14:21:**  to feed families that had not only food allergy issues, but behavioral spectrum of different things  
+**0:14:21-0:14:25:**  that they were managing from autism to other behavioral things. And that's what led them to  
+**0:14:25-0:14:31:**  an allergy-assisted diet is they had a child who is they're trying to fit this into their  
+**0:14:31-0:14:36:**  therapeutic regimen to help manage their behavioral condition. And so they said,  
+**0:14:36-0:14:41:**  hey, we need your help. You know, we've got these kids. They'll only eat it if it's white  
+**0:14:41-0:14:46:**  and they'll only eat two types of food a day because that's just where they're at. So I actually  
+**0:14:46-0:14:52:**  did a series of blending experiments and then I served food to all these moms and all their kids.  
+**0:14:52-0:15:00:**  It was the Washington Autism Society actually in Spokane and they voted in what became our  
+**0:15:00-0:15:05:**  all-purpose flour blend, which did lead with brown rice, but still had significant levels of millet,  
+**0:15:05-0:15:11:**  sorghum, and teff. What a great idea. We were able to kind of blend that down. And so we ended up,  
+**0:15:11-0:15:15:**  yeah, so in 2018, it kind of broke my heart because I was like, I'm all about the ancient grains.  
+**0:15:15-0:15:20:**  That's what I want to put out there. We did a split where it was like, okay, focaccia remained,  
+**0:15:20-0:15:27:**  sorghum forward, millet forward. Our pancake and waffle mix remained. First ingredient is teff.  
+**0:15:27-0:15:33:**  It still is. And that's our top-selling skew. But then we put a milder flour blend in some of our  
+**0:15:33-0:15:39:**  other products like our Artisan Sandwich Loaf because these moms were like, it needs to taste  
+**0:15:40-0:15:47:**  like white bread or our kids want to eat it. What we're doing now, however, because this is years  
+**0:15:47-0:15:52:**  later and I now have a lot more control over our supply chain and how it's based, which is  
+**0:15:52-0:15:59:**  fantastic. I can collect for sorghum that has a milder flavor. I can collect for millet that  
+**0:15:59-0:16:04:**  tastes a little sweeter. And now we're bringing back going into 2023. Starting in January,  
+**0:16:04-0:16:09:**  we have brand new branding, brand new packaging. And again, we're shifting our ancient grains to  
+**0:16:09-0:16:15:**  the top of the ingredients deck again. I think people are ready now. And I think I've gotten  
+**0:16:15-0:16:20:**  better at blending. I think I've gotten better at blending it. So yeah, it's like we can sneak it in  
+**0:16:20-0:16:27:**  as much as we can. That's so cool. That's very cool. And when you're tasting these different  
+**0:16:27-0:16:34:**  ingredients to decide what would go into them, were you able to tell a difference between  
+**0:16:35-0:16:39:**  places where you at least knew something about the farms? Maybe that the whole supply chain wasn't  
+**0:16:39-0:16:44:**  fully regenerative, but at least they had various practices that they were sticking to and they had  
+**0:16:44-0:16:49:**  more knowledge about the supply chain. And then these ancient grains are just kind of a whole  
+**0:16:49-0:16:55:**  different supply chain bucket themselves because they're not mainstream. So talk a little bit about  
+**0:16:55-0:17:04:**  the tasting of this different stream. So the very first ingredients that we started noticing  
+**0:17:04-0:17:10:**  real differences in the flavor were in the sorghum and in the millet. We have always sourced all of  
+**0:17:10-0:17:16:**  our tefs from Mezcal's test or Teffco, which is based in Boise. And they work with a really  
+**0:17:16-0:17:22:**  dedicated farming group that is contemplating and shifting more and more regenerative practices,  
+**0:17:22-0:17:26:**  but they're just not there yet. We're offering to work with them as much as possible,  
+**0:17:27-0:17:31:**  but we don't have as much visibility into that supply chain because of the nature of how it comes  
+**0:17:31-0:17:37:**  through the market. And they have specialized milling and a facility that handles tefs,  
+**0:17:37-0:17:43:**  which is unique. So we're not really going there with the tefs. So I'm going to stay focused on  
+**0:17:43-0:17:49:**  more of the sorghums and the prosomillet. We were sourcing prosomillet from Colorado organic farmers,  
+**0:17:49-0:17:53:**  and we couldn't tell how regenerative they were in their practices, but we knew they were certified  
+**0:17:53-0:18:01:**  organic. We knew that they were using organic biologicals for their soil health regimen and for  
+**0:18:01-0:18:06:**  their fertilizer inputs. And we noticed when we couldn't get millet from them, and then we pulled  
+**0:18:06-0:18:13:**  it from commodity and it wasn't organic, I noticed a flavor change. The commodity prosomillet, and it  
+**0:18:13-0:18:17:**  could have been a different variety too, which we didn't know because there was no transparency or  
+**0:18:17-0:18:23:**  provenance in that communication. But what we got from commodity had a little bit more of a corn  
+**0:18:23-0:18:28:**  flavor that was a little bit more pronounced, where the organic one had a sweeter flavor without  
+**0:18:28-0:18:36:**  that kind of corn flavor to it. We also noticed a change in the kernel size where the organic kernel  
+**0:18:36-0:18:41:**  tends to be smaller and has that sweeter flavor, where the commodity one tends to have a plumper  
+**0:18:41-0:18:47:**  kernel, but it's a little bit like a more pungent flavor, also more difficult to de-hull.  
+**0:18:48-0:18:53:**  Organic is much simpler to de-hull. It goes to the de-huller with better efficiencies.  
+**0:18:54-0:19:00:**  And then in sorghum, as I mentioned, when we would get organic sorghum, it would have a sweeter flavor  
+**0:19:00-0:19:05:**  where the ones that we would pull from commodity would have a more bitter flavor to it. And we were  
+**0:19:05-0:19:09:**  never able to figure out why or where that bitter flavor came from. You were saying that the the  
+**0:19:09-0:19:15:**  sorghum commodity stream wasn't always consistent, which that's the whole definition of commodity.  
+**0:19:17-0:19:23:**  Yeah, I know, and it's still not. And in fact, I actually just went and got a bunch of sorghum at  
+**0:19:23-0:19:30:**  a bulk bin, my local health food store bulk bin. We were doing a photo shoot, so I was like getting  
+**0:19:30-0:19:35:**  bulk sorghum for a video. And I took it home and I had to clean it. It had like bits of the straw,  
+**0:19:35-0:19:41:**  and it had like chunks of stuff in it, and it had rocks. I don't know how you get a rock in  
+**0:19:41-0:19:47:**  sorghum, because sorghum is like eight feet tall. I was like, how are there rocks in here? And I was  
+**0:19:47-0:19:53:**  like, boy, the commodity side of sorghum is struggling to meet those consistencies. And I  
+**0:19:53-0:20:00:**  think it's because it doesn't have the spec sheet control that say wheat does, where wheat, flour  
+**0:20:00-0:20:07:**  standards, barley flour standards are strictly enforced by huge industry players that actually  
+**0:20:07-0:20:13:**  force them to farm a certain way to meet a certain spec sheet that's somewhat artificially fabricated  
+**0:20:13-0:20:19:**  through industrial chemical farming practices. But they keep it holds that that segment of the  
+**0:20:19-0:20:24:**  commodity market hostage and farming the way it does, which is not regenerative or organic. So  
+**0:20:25-0:20:32:**  it's a fascinating process as we kind of unpack this whole industry. And it's kind of fun working  
+**0:20:32-0:20:36:**  in the wild west with these oddball grains that nobody really cares about because no one set a  
+**0:20:36-0:20:43:**  standard for what the spec sheet should look like yet in these crops. So I think it's a great way to  
+**0:20:43-0:20:48:**  like create a new category around rather unknown crops and bring them in as being like from the  
+**0:20:48-0:20:53:**  beginning, they could come in as like part of their value proposition is that they lean  
+**0:20:54-0:20:59:**  really well into organic and regenerative farming systems and that's part of their value.  
+**0:20:59-0:21:04:**  Yeah, well, and that brings around, since we're talking about sorghum, one of my favorite,  
+**0:21:04-0:21:10:**  favorite things, absolute favorite things is when two really good people that I happen to get to  
+**0:21:10-0:21:15:**  know or work with end up working with each other. And so I know Clint Brower, and we featured him in  
+**0:21:15-0:21:23:**  the podcast on the robots and he's growing sorghum among other things. And so I was thrilled  
+**0:21:23-0:21:27:**  that you let people know that you're going to be sourcing some sorghum from them.  
+**0:21:27-0:21:35:**  Yeah, we're so excited about that project because I've known Clint for a few years now. We've been  
+**0:21:35-0:21:41:**  talking through this whole process of how we can work together, like how Snackivist could be one of  
+**0:21:41-0:21:47:**  the path to market partners for Greenfield and their farmers who are using Greenfield robotics  
+**0:21:47-0:21:53:**  so that those farmers who are investing in regenerative have a market to sell into that's  
+**0:21:53-0:21:59:**  not just commodity that will allow them to tell their story and have that farmer soil connection  
+**0:21:59-0:22:06:**  and that provenance piece in place. So I actually, we wanted to do it last year, but the sorghum  
+**0:22:06-0:22:12:**  didn't turn out quite like we wanted it to. And but this year we actually despite crazy, crazy,  
+**0:22:12-0:22:18:**  crazy, you know, terrible weather in this part of the world, we have a beautiful sorghum crop.  
+**0:22:18-0:22:24:**  So this is actually, this is Clint's sorghum. And this weekend I'm going to be running it through  
+**0:22:24-0:22:30:**  our little mill. We do have a small mill at our facility. Nothing that we would do on commercial  
+**0:22:30-0:22:39:**  scale, but it's awesome for small scale stuff. This episode brought to you by the Global Food  
+**0:22:39-0:22:46:**  and Farm Community, globalfoodandfarm.com. A private online space where farmers, chefs,  
+**0:22:46-0:22:51:**  emerging food entrepreneurs, and conscious consumers learn about and apply the latest  
+**0:22:51-0:22:57:**  science behind building healthier soils for a healthier world. Members also gain access to help  
+**0:22:57-0:23:02:**  with their marketing and communication efforts through our Grounded Growth Paddock, featuring  
+**0:23:02-0:23:07:**  DIY instructional videos and joint marketing projects that are designed to help small  
+**0:23:07-0:23:12:**  businesses find an audience for the better products they are making. The community provides  
+**0:23:12-0:23:17:**  new original content to members each week in the form of video interviews, scholarly articles,  
+**0:23:17-0:23:24:**  and the chance to ask Dr. Jo Claperton any questions you may have each week. To get a free  
+**0:23:24-0:23:29:**  online tour of our digital streaming library and learn more about how this amazing resource  
+**0:23:29-0:23:37:**  community can help your business grow, contact me, Sarah Harper, at Sarah S-A-R-A at Global Food  
+**0:23:37-0:23:44:**  and Farm, all spelled out, G-L-O-B-A-L-F-O-O-D-A-N-D-F-A-R-M.com.  
+**0:23:44-0:23:55:**  Because we're doing all kinds of fun stuff with sorghum, not only just flowering it and using it  
+**0:23:55-0:24:01:**  as a flour in our baked products, but we also have a whole cool R&D pipeline for other sorghum  
+**0:24:01-0:24:08:**  products that are, I can't really talk about, but very cool, exciting stuff. So we love the fact  
+**0:24:08-0:24:14:**  that there's no gross stuff on that sorghum. The robots did all the weeding, so we didn't have to  
+**0:24:14-0:24:19:**  pour a bunch of chemicals on them. And they have some pretty tough weeds. And no till!  
+**0:24:21-0:24:26:**  Exactly, exactly. Because that's one of the things we're always up against with regenerative.  
+**0:24:27-0:24:30:**  And I'm a huge proponent of regenerative because I have a heart for transitional agricultural  
+**0:24:30-0:24:34:**  systems. We can't, it's like drug addiction, you can't just say, well stop doing your drugs  
+**0:24:34-0:24:39:**  tomorrow guys, it'll be fine. Like it's not going to work that way. We have to have a transitional  
+**0:24:39-0:24:46:**  piece. And with a goal in my mind getting to a point where we don't have dependency on chemical  
+**0:24:46-0:24:51:**  inputs any longer. And even in fantastic regenerative systems, we still do have a lot  
+**0:24:51-0:24:56:**  of glyphosate dependency, we still have a lot of, and I'm all for technologies that can help us get  
+**0:24:56-0:25:03:**  that extra mile and eliminate those chemicals from those systems whenever possible. I love the work  
+**0:25:03-0:25:09:**  Clint's doing. That's a huge missing piece. I mean I've talked about this with probably everybody and  
+**0:25:09-0:25:14:**  I'll just admit, I probably always will because my heart burns when I think of this, that  
+**0:25:15-0:25:21:**  there are all these people marketing about regenerative. And there are a number of  
+**0:25:21-0:25:26:**  large-scale companies that even have their own mills, or have their own, you know, the ability  
+**0:25:26-0:25:33:**  to process. Some of them have mills in the name, I'll just say. Yeah, so they could do it. They  
+**0:25:33-0:25:40:**  could absolutely do it. And in a way that wouldn't add a whole lot of cost. And they're not. And yet,  
+**0:25:40-0:25:44:**  you know, people like you, people like Jennifer Kohler, you know, small brands and farmers like  
+**0:25:44-0:25:50:**  the Axons who are becoming a brand, becoming a mill themselves, you know, you are the linchpin.  
+**0:25:50-0:25:57:**  I mean it's great to have some transitional grace for these farmers, but there's nowhere for it to  
+**0:25:57-0:26:03:**  go. There's no difference. And without a brand to bring it through and to capture that value.  
+**0:26:03-0:26:08:**  And you know, I'm kind of jaded by, you know, I started out too naive and then I turned too jaded,  
+**0:26:08-0:26:13:**  so that's a problem, my own problem. But I have that problem too sometimes. You're a good company,  
+**0:26:13-0:26:23:**  Sarah. But you know, I look at what the trajectory they're on and it seems to me that there's just a  
+**0:26:23-0:26:29:**  push to try to, you know, sprinkle in a few things and call the whole existing system regenerative.  
+**0:26:29-0:26:34:**  Like that's the path. Oh yeah. That's the path that they would like to be on. So they don't have  
+**0:26:34-0:26:39:**  to change any of the efficiency, you don't have to change, you know, and get this whole big PR boost  
+**0:26:39-0:26:46:**  for the whole existing system, which is so far away from what the farmers that we talked to and  
+**0:26:46-0:26:53:**  that we work with are doing. Yeah, it's so frustrating because I feel like you'll hear this,  
+**0:26:53-0:26:58:**  I'll read a press release and you know, here we just had the whole big USDA Climate Smart Ag  
+**0:26:58-0:27:02:**  grant go through and some of these large corporations and they're like, oh yay, we got  
+**0:27:03-0:27:09:**  100 million dollars and we're going to do this. And I'm like, and we're going to be regenerative.  
+**0:27:09-0:27:14:**  I'm like, guys, have you not been reading the agriculture books the last like 50 years? We  
+**0:27:14-0:27:18:**  already have been doing that. It's called conservation agriculture and that's not regenerative.  
+**0:27:18-0:27:24:**  That's just one tool in the shed that plays into what regenerative is. And I feel like that  
+**0:27:24-0:27:30:**  reductionistic mindset of like, okay, we checked that box, now we're regenerative is a dangerous  
+**0:27:30-0:27:35:**  thing. I'm glad these big companies are at least doing that. Like yay, hooray for them, we need  
+**0:27:35-0:27:42:**  that. But should we pay them 200 million dollars to do that? No, their farmers could be saving  
+**0:27:42-0:27:46:**  money by doing that, which means they could be saving money by doing that and they're already  
+**0:27:46-0:27:52:**  profitable. So a lot of really fantastic smaller organizations and companies that did put in for  
+**0:27:52-0:27:59:**  that grant didn't get it because they were already doing the good work. And it is, oh, the story.  
+**0:27:59-0:28:04:**  I used to work on climate policy, you know, 20 years ago, climate nag policy on Capitol Hill  
+**0:28:04-0:28:10:**  and the Senate and then, you know, with environmental groups and farmers and that was  
+**0:28:10-0:28:16:**  the most maddening part of it all. That people who with a straight face care about the environment so  
+**0:28:16-0:28:23:**  so passionately that they will exclude the people that already did it. And because we have to get  
+**0:28:23-0:28:31:**  additionality, we can't credit anybody that's already done it. And no really not letting it  
+**0:28:31-0:28:37:**  sink in at all. The message that that sends, the undermining of all the first movers, all  
+**0:28:37-0:28:42:**  you know, all those people that pointed at them and said, you're stupid, you're taking too much  
+**0:28:42-0:28:47:**  risk, you're never going to get paid for that. You just made them right. You know, by yes,  
+**0:28:47-0:28:57:**  exactly. A little technical policy. Right. And what's crazy to me, you know, in addition to that  
+**0:28:57-0:29:02:**  is like, you know, some of the, you know, applicants that I know that did not get awarded,  
+**0:29:02-0:29:06:**  you know, some of them were, you know, they were already doing the good work. So it wasn't a matter  
+**0:29:06-0:29:11:**  of convincing farmers to transition. A lot of these particular grants were working on growing  
+**0:29:11-0:29:17:**  the market channels to get these products to market through novel channels. And again,  
+**0:29:17-0:29:22:**  this is where I think the USDA made a big mistake is that I feel and granted, this is just my lens  
+**0:29:22-0:29:29:**  into the people I've spoken to, I could be wrong, but that they didn't put enough value on that  
+**0:29:29-0:29:35:**  market growing focus, where they were like, a let's prioritize getting more farmers to start  
+**0:29:35-0:29:40:**  trying to do this or thinking about it. And be let's really put a lot of money towards validating  
+**0:29:40-0:29:46:**  carbon sequestration data. Like any grant proposal that had that carbon piece in it seemed to get  
+**0:29:46-0:29:51:**  funded a lot faster than the other ones that were like, let's try to create market segments  
+**0:29:51-0:29:56:**  and market pool for the farmers who are already doing it that did that just was down the triage  
+**0:29:56-0:30:01:**  list apparently for the USDA, which I think is really tragic because yeah, I mean, in my position,  
+**0:30:01-0:30:06:**  I have way more farmers that want to sell to us and we can possibly move to market.  
+**0:30:06-0:30:12:**  And if we could have with our partners that we applied for the grant with it, had we gotten that  
+**0:30:12-0:30:18:**  money, we could have built a more robust, you know, kind of a market poll that would have helped  
+**0:30:18-0:30:23:**  get a lot of this product to market. Yeah, I know. I mean, it's like when I started  
+**0:30:23-0:30:28:**  Grounded Growth and we, we had wheat growers all over the US and Canada and all varieties,  
+**0:30:28-0:30:35:**  all, you know, and we're talking with a number of different potential big millers and we could  
+**0:30:35-0:30:42:**  have put together a regenerative flower supply chain easily. Yeah. And, but guess what? They  
+**0:30:42-0:30:50:**  don't want to pay anymore anymore. So what, what is the reason to aggregate all of that,  
+**0:30:50-0:30:54:**  you know, and it's the same old answer, like, well, we need to get the market started first  
+**0:30:54-0:30:58:**  and then, you know, we need to prove the concept and then, you know, that would be fine as long as  
+**0:30:58-0:31:05:**  the then part kicked in and money did actually come back down the chain, which it hardly ever  
+**0:31:05-0:31:11:**  does, you know. Especially when you're dealing with big, huge brands, like the big guys that  
+**0:31:11-0:31:16:**  got a huge chunk of money out of this grant program, we already know it's very rare that  
+**0:31:16-0:31:23:**  they're going to have any sort of trickle down cash effects that ends up reaching the end  
+**0:31:23-0:31:28:**  producers, because that's not how their business model is structured and it never has been. I  
+**0:31:28-0:31:33:**  highly doubt they're going to be able to change that mid-flight when they're running billion  
+**0:31:33-0:31:38:**  dollar a year companies that are global, like you don't change your business model overnight. It  
+**0:31:38-0:31:44:**  just doesn't work like that. But unfortunately, a lot of the, you know, organizations and entities  
+**0:31:44-0:31:49:**  that do have that built into their business model just weren't selected for the grant. Bummer.  
+**0:31:49-0:31:56:**  MELINDA EPLERINI Well, I mean, the good news about all of this is that consumers have a  
+**0:31:56-0:32:02:**  tremendous amount of power in the market and increasingly they are getting more opportunities  
+**0:32:02-0:32:10:**  to vote with that dollar in ways that really matter. And especially I love that you guys are  
+**0:32:10-0:32:16:**  on Thrive Market because that's a nice online store that already has a lot of customers looking  
+**0:32:16-0:32:24:**  for better food and done in a responsible way. And so that they can find you easily there is so  
+**0:32:24-0:32:29:**  they're fantastic. I mean, Thrive honestly, like they put their mouth, they do their  
+**0:32:29-0:32:34:**  their top, they do their walking with their talking, which is fantastic, because I'm finding  
+**0:32:34-0:32:39:**  that most retailers don't like, you know, I'll go to a retailer that I'm like, we've submitted  
+**0:32:39-0:32:45:**  our product line to multiple times, don't even get a call back. And then you go to their website,  
+**0:32:45-0:32:49:**  and they're bragging about how they're the leaders of working with brands that are doing regenerative.  
+**0:32:49-0:32:52:**  And I'm like, well, that's funny, because you don't even bother calling us back. And  
+**0:32:52-0:32:58:**  we're one of the only ones in the in the grain sector that focus on regenerative and focus on  
+**0:32:58-0:33:04:**  climate resistant crops as a focus, which Hello, that's a big freaking deal. And I'm like, Come on,  
+**0:33:04-0:33:11:**  now, guys, really like I get with it. It just, it irritates me because as a little brand, like,  
+**0:33:11-0:33:16:**  we would love to grow and be able to drop our prices with along with our volume. But you can't  
+**0:33:16-0:33:22:**  do that when you're coming in as a very small brand. You don't have you don't have that luxury.  
+**0:33:22-0:33:26:**  And it's not because we're making a lot of profit. It's because you just aren't, you're not  
+**0:33:26-0:33:31:**  competitive yet. So you're you have to come in and kind of an ultra premium positioning. So we're  
+**0:33:31-0:33:38:**  hopeful that as we grow, and as we grow our product lines to leave the baking mix that I mean, I'm not  
+**0:33:38-0:33:44:**  I we never started our company to be a baking mix company. We started it to make great brain based  
+**0:33:44-0:33:48:**  foods out of different grains, unique ancient grain blends. And eventually we'll be back.  
+**0:33:48-0:33:53:**  You know, we're launching our frozen lines, our pizza crust and brownie bites. And we have some  
+**0:33:53-0:33:59:**  fantastic snack lines that we're piloting and hoping to launch and then in the coming years,  
+**0:33:59-0:34:05:**  but you know, without the without the business from retailers, we're at a standstill.  
+**0:34:05-0:34:11:**  I mean, we're literally contingent on retailers listening to us to even have a chance. And which  
+**0:34:11-0:34:15:**  is a bummer because when you're a little brand from Idaho, they don't really care. They're like,  
+**0:34:15-0:34:19:**  Idaho, where's that? Ohio? Like, I literally will argue with people that were like, you're in the  
+**0:34:19-0:34:24:**  Midwest. I'm like, No, we're in the Northwest. They're like, Idaho is in the Midwest. I'm like,  
+**0:34:24-0:34:31:**  no, Idaho is in the Northwest. Like, really? Yeah, but they've thoroughly checked their supply  
+**0:34:31-0:34:38:**  chains for regenerative. I'm, I'm sure. Yeah, clearly they do. Yeah, yeah. Because I'm like,  
+**0:34:38-0:34:42:**  I can give you the phone numbers of like five of our farmers if you'd like to talk to them.  
+**0:34:43-0:34:48:**  Yeah. But you know what we're doing Sarah, and I'm really excited about this is, you know, because  
+**0:34:48-0:34:52:**  we have been really hit and miss, like, we'd be like, Oh, cool, we can buy this. You know,  
+**0:34:52-0:34:57:**  we do our purchasing with our co packer as a partner. He's fantastic. It helps us solve some  
+**0:34:57-0:35:03:**  of our cash flow needs. Because and he's just a dedicated, amazing human. But and so that makes  
+**0:35:03-0:35:08:**  it cumbersome as well, because it's not just us and vertically integrated as us in partnership  
+**0:35:08-0:35:14:**  with co packers, etc. And one of the things we're doing to help combat that need for transparent  
+**0:35:14-0:35:19:**  storytelling in the supply chain is we are releasing a QR code that will be live on our  
+**0:35:19-0:35:27:**  packaging as of like January 1, where you will be able to go in and it will be a little bit more  
+**0:35:27-0:35:32:**  expensive. And it won't take you to our website, like most QR codes do. It'll take you to a world  
+**0:35:32-0:35:36:**  where you can end up at our website if you want to learn more about our products and you want to  
+**0:35:36-0:35:41:**  buy from us online. But it will also allow you to navigate into a world where you can go to the  
+**0:35:41-0:35:46:**  field where the millet was grown or to the field and there's Clint's robots out there, whacking  
+**0:35:46-0:35:51:**  down the weeds or, you know, me sitting down with farmer Steve and he's talking about his garbanzos  
+**0:35:51-0:35:56:**  and why he is an early adopter of regenerative where he lives in Nebraska and where they're  
+**0:35:56-0:36:01:**  in drought. You know, like, and those are the stories that we need to tell. And then from where  
+**0:36:01-0:36:05:**  from our operational standpoint, you know, because we're not a huge brand, we can only buy so much,  
+**0:36:05-0:36:10:**  we only have our farmers grow so much if they're growing for us. So when we run out, we'll be out  
+**0:36:10-0:36:15:**  until the next year. And so if that happens with that QR code being what it is, we can say, Hey,  
+**0:36:15-0:36:21:**  guys, here's what are now we're planting with three more farmers, meet them, here's farmer,  
+**0:36:21-0:36:26:**  you know, Deanna, and here's farmer, you know, john and whatever, and they're planting for us.  
+**0:36:26-0:36:31:**  And by next fall, you'll be able to paste in these products. And it kind of brings them into  
+**0:36:31-0:36:35:**  a community experience rather than this static supply chain, which is not realistic.  
+**0:36:35-0:36:41:**  Yeah, well, and it really lives up to your name, it lets your consumers be snacktivists,  
+**0:36:41-0:36:47:**  you know, be actual activists in the best sense of doing something positive to make the change  
+**0:36:47-0:36:54:**  that they want. Yeah, right. And, you know, and then it'll be cool to hear the stories from these  
+**0:36:54-0:36:59:**  farmers, especially farmers who are really in precarious positions where they don't have access  
+**0:36:59-0:37:06:**  to irrigation, they don't have their significantly strained by drought. And the fact that they're  
+**0:37:06-0:37:10:**  shifting to really drought resilient grains is one of their only life saving measures of keeping the  
+**0:37:10-0:37:15:**  farm. And that's something I'm really passionate about. And a lot of farmers have already lost  
+**0:37:15-0:37:20:**  everything, you know, having to cut down orchards in California because they've lost irrigation,  
+**0:37:20-0:37:24:**  they're sitting there on fallow ground, the dust is blowing away, they're going to have to turn  
+**0:37:24-0:37:28:**  their backs on their farms and walk away. And we're like, No, you don't you can grow, you can  
+**0:37:28-0:37:33:**  grow post a millet for us, you can grow triticale. Let's figure out a way to make a great triticale  
+**0:37:33-0:37:38:**  cracker. Let's partner with like California wheat commission, they already know how to do it. Like,  
+**0:37:38-0:37:44:**  we can add value to these crops that desperately play a role in a changing climate and the  
+**0:37:44-0:37:49:**  face of agriculture. It's just that no one's doing the work to do it. And then investors are  
+**0:37:49-0:37:52:**  scared to touch it because they're like, boy, that's risky. I'm like, Yeah, but it's the most  
+**0:37:52-0:38:00:**  freaking important thing you could do. Come on. Yeah, I'm so glad. I'm so I'm so glad that you  
+**0:38:00-0:38:06:**  mentioned California wheat commission and our dear friend Claudia Carter. She's a fan. She is  
+**0:38:06-0:38:10:**  amazing. I know I love her. And she's, she's helped a number of members in our network help  
+**0:38:10-0:38:17:**  Jen Koehr find her mill to do rice smelling and, and help just explain the whole industry side  
+**0:38:18-0:38:25:**  to the farmers in our group that often are just in the dark about that. And they need to know it  
+**0:38:25-0:38:30:**  if they if they're going to have to move into that space to get their better stuff to market.  
+**0:38:31-0:38:35:**  So yeah, I can't say enough about her. In fact, reminds me I need to need to get her on the  
+**0:38:35-0:38:41:**  podcast too. But I know you totally do. It's an interesting world. We're all navigating because  
+**0:38:41-0:38:45:**  like, we're kind of building the parachute on the way down. But like someone who believes in future  
+**0:38:45-0:38:51:**  generation, someone's got to do it. And it's not going to be easy. But I am confident enough that  
+**0:38:51-0:38:57:**  we can shift our food system to where our grandkids and great grandkids will have food on  
+**0:38:57-0:39:03:**  the plate. And we can feed the world against some pretty dire circumstances. But we have to change  
+**0:39:03-0:39:08:**  now. And we have to put our money where our mouth is and, and get serious and be collaborative and  
+**0:39:08-0:39:12:**  work together as a team to get it done. Yeah, well, and that's, that's what our global food and  
+**0:39:12-0:39:18:**  farm community is about to trying to bring those people together and help each other and, and help  
+**0:39:18-0:39:24:**  consumers to find to have a hub to find, you know, to find these different people. So important.  
+**0:39:24-0:39:28:**  I know you probably have to go but I do want to ask you about, you know, just as you think  
+**0:39:28-0:39:35:**  about the flavor of place, do you think that you can taste place? I mean, I know it's, it's not a  
+**0:39:35-0:39:40:**  scientifically settled question at all. But you're working with all sorts of different places that  
+**0:39:40-0:39:46:**  you and you know where they're coming from. So do you have any experience with having different  
+**0:39:46-0:39:53:**  tastes based on where it's coming from? We don't have a much enough data yet with our crops that  
+**0:39:53-0:39:58:**  we're working on to really have like a microclimate terroir type of a focus. Like, we don't have  
+**0:39:58-0:40:05:**  a lot of data yet. My suspicion is that it will happen. My suspicion is that it will not only be  
+**0:40:05-0:40:11:**  reflective of actual geographical location and soil type, but it will also be highly reflective  
+**0:40:11-0:40:17:**  of the actual rotational systems and the rhizosphere ecology that we have. Because we know  
+**0:40:17-0:40:23:**  it's the rhizosphere ecology that drives a lot of the presence of the secondary tertiary metabolites  
+**0:40:23-0:40:30:**  that are largely responsible for flavor. And we do know that that is also a potential driver in  
+**0:40:30-0:40:35:**  metabolites that have certain functional properties that we're really interested in, like, for  
+**0:40:35-0:40:40:**  instance, the antioxidants and phytonutrients that are present in sorghum that are not only  
+**0:40:40-0:40:46:**  antioxidants, but have microbiome conditioning properties that are now being validated and proven  
+**0:40:46-0:40:51:**  in the lab, like University of Nebraska-Lincoln and in Benson's lab, they're actually trying to  
+**0:40:51-0:40:59:**  prove that, yes, these metabolites positively affect the gut microbiome. What we don't know is  
+**0:40:59-0:41:05:**  what's driving presence of those metabolites. Like, what key component of either the variety of the  
+**0:41:05-0:41:11:**  sorghum or the farming system or the rhizosphere ecology, what's setting that up to make that  
+**0:41:11-0:41:18:**  perfect storm happen? And so to add in the flavor nuance to that is like a whole other thing that's  
+**0:41:18-0:41:23:**  going to be like transformational in the next few years as we start to get enough data to really  
+**0:41:23-0:41:28:**  like pull that all together. But there's a fantastic baker by the name of Sean Duffy,  
+**0:41:28-0:41:35:**  and he's the head baker at the Grain Shed in Spokane, Washington. And he works with a group  
+**0:41:35-0:41:42:**  of farmers, but mostly farmer Don Shurman out of Duluth country in eastern Washington. And they  
+**0:41:42-0:41:47:**  have taken the terroir of these wheats down to the hillside. And it's when you taste the breads  
+**0:41:47-0:41:53:**  that they make, it's like a whole other world of bread making. It's like the wine, it's the fine  
+**0:41:53-0:41:58:**  wine of the grain sector. And I'm confident we'll also find that in the grains that we're working  
+**0:41:58-0:42:03:**  with too. Yeah, I mean, that's the thing. I mean, that's part of why I wanted to name the podcast  
+**0:42:03-0:42:10:**  Tasting Terroir because it isn't just wine, it is in a lot of different crops. And especially as we  
+**0:42:10-0:42:17:**  know more about the varieties, the place, the practices, and that can only come from knowing  
+**0:42:17-0:42:22:**  the supply chain. And that's the thing. That's what will make it more valuable in the marketplace,  
+**0:42:22-0:42:29:**  just as certain wines are more valuable for the exact type of grape in place and all that data  
+**0:42:29-0:42:35:**  information that then fuels the story too. Yeah, we'll be, I mean, we're just going to be working  
+**0:42:35-0:42:43:**  independently to gather as much of that data as we can. I know Martin, our North Dakota farmer,  
+**0:42:43-0:42:49:**  he's biodynamic, he's regenerative, he's organic. He grew prosomillet, a small kind of a test plot  
+**0:42:49-0:42:54:**  of prosopress this year, and we are going to get, he just sent in the soil samples. So, and then  
+**0:42:54-0:43:01:**  we're sending that off to BioNutrient Association and BioNutrient Institute to get some actual  
+**0:43:01-0:43:07:**  quantitative data on nutrient density there as well. So as this all comes together, the work at  
+**0:43:07-0:43:12:**  Adacity with Eric and Joe and like all these different people, we're going to build a database  
+**0:43:12-0:43:19:**  that's going to give us actual data sets that drive our food system towards quality and change  
+**0:43:19-0:43:24:**  the narrative because our food system has been only driven by quantity and we have abandoned  
+**0:43:24-0:43:29:**  not only flavor and terroir, but the medicinal properties that used to be naturally occurring  
+**0:43:29-0:43:34:**  in our food. And we've actually selected our food system away from medicinal properties. And that's  
+**0:43:34-0:43:39:**  why food's no longer medicine and food's killing us. So we've got to bring that back and flavor is  
+**0:43:39-0:43:45:**  going to be a huge driver. Yeah, yeah. I'm so excited to see all these different pieces coming  
+**0:43:45-0:43:52:**  together across our network and I'm convinced that, I mean, these are the people that are  
+**0:43:52-0:43:58:**  really going to be paving the way for a much better food system. So. Absolutely. And you know,  
+**0:43:58-0:44:03:**  when we have all that data in place, I mean, I don't, I can taste something and I don't need  
+**0:44:03-0:44:09:**  data to convince me I'm like, this is better. But a lot of people do and industry does and  
+**0:44:10-0:44:15:**  policy does. And so it's really important that we develop a body of basically evidence-based  
+**0:44:15-0:44:21:**  practice guidelines for growing nutrient-dense regenerative foods. And so I'm really grateful  
+**0:44:21-0:44:27:**  to all the work that's being done to everyone out there so that we have lots of options to quantify  
+**0:44:27-0:44:33:**  this moving forward. Well, that is great. Thank you so much for spending so much time and I have  
+**0:44:33-0:44:38:**  to compliment you on all your understanding of agronomy and the rhizosphere. I mean, I ventured  
+**0:44:38-0:44:44:**  a guess that there are very few food brand owners that even know what half those things are, let  
+**0:44:44-0:44:51:**  alone fluent in them. So it's a really, it's a soil. I was a soil scientist for a couple of years,  
+**0:44:51-0:44:57:**  for a couple of years, like a grunt. I know just enough to be dangerous. Well, that's wonderful. I  
+**0:44:57-0:45:02:**  work in the labs of Dr. Tom DeLuca at University of Montana for a couple of years, and I collected  
+**0:45:02-0:45:07:**  thousands of soil samples and ran them in the lab. So again, I know just enough to be dangerous,  
+**0:45:07-0:45:12:**  but it's also enough to really load a different level of appreciation for how that affects food.  
+**0:45:12-0:45:17:**  Yeah, absolutely. Thanks, Tom. Those were really primitive years.  
+**0:45:17-0:45:26:**  Well, good. Well, awesome, Sarah. Yeah. Thanks for having me and best of luck. Yeah. Always so much  
+**0:45:26-0:45:30:**  fun to get caught up with you. Thanks for doing the awesome work of advocating and getting the  
+**0:45:30-0:45:35:**  community rallied. And I just love the work that you and Jill are doing. So Dr. Claperton,  
+**0:45:35-0:45:49:**  Sarah, keep up the awesome work. Love you guys. All right. We will. Okay. All right. Take care.  
+**0:45:53-0:45:59:**  You've been listening to Tasting Terroir, a podcast made possible by a magical collaboration  
+**0:45:59-0:46:05:**  between the following companies and supporters, all working together to help farmers, chefs,  
+**0:46:05-0:46:12:**  food companies, and consumers to build healthier soil for a healthier world. Risotera,  
+**0:46:12-0:46:18:**  owned by Dr. Jill Claperton, Risotera is an international food security consulting company  
+**0:46:18-0:46:23:**  providing expert guidance for creating healthy soils that yield tasty nutrient-dense foods.  
+**0:46:24-0:46:31:**  Check us out at risotera.com. That's R-H-I-Z-O-T-E-R-R-A.com.  
+**0:46:31-0:46:39:**  And the Global Food and Farm online community, an ad-free global social network and soil health  
+**0:46:39-0:46:45:**  streaming service that provides information and connections that help you apply the science and  
+**0:46:45-0:46:53:**  practice of improving soil health. Join us at globalfoodandfarm.com. And from listeners like  
+**0:46:53-0:47:00:**  you who support us through our Patreon account at patreon.com slash tasting terroir. Patrons  
+**0:47:00-0:47:06:**  receive access to our full-length interviews and selected additional materials. Patrons will also  
+**0:47:06-0:47:12:**  have the opportunity to submit questions that we will answer on the podcast. Tune in next week to  
+**0:47:12-0:47:19:**  hear more interviews and insights with myself, Sarah Harper, and Dr. Jill Claperton, as well as  
+**0:47:19-0:47:24:**  the regenerative farmers, chefs, and emerging food companies in the Global Food and Farm  
+**0:47:24-0:47:34:**  online community and beyond. If you like our work, please give us a five-star rating and  
+**0:47:34-0:47:39:**  share the podcast with your friends. Thanks so much for listening and for helping us get the  
+**0:47:39-0:47:46:**  word out about this new resource to taste the health of your food. Until next week,  
+**0:47:46-0:47:55:**  stay curious, keep improving, and don't stop believing that better is possible when knowledge  
+**0:47:55-0:48:17:**  is available.  
