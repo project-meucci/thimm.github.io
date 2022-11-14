@@ -33,3 +33,6 @@ Tony Riddle devised his Natural Life-stylist philosophy as a way to recharge, re
 
 ### [The Regenerative Agroforestry Podcast](https://www.regenerativeagroforestry.org/)
 A space where recognised experts from the field share their practical experiences, challenges and success stories  implementing productive agroforestry projects.
+
+## Get in touch
+Find us on [LinkedIn](https://www.linkedin.com/company/farm-on/) or contact us at [info@farmonapp.com](mailto:info@farmonapp.com).
