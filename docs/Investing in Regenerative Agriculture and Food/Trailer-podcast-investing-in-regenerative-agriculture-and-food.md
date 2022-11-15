@@ -1,4 +1,8 @@
-### Investing in Regenerative Agriculture and Food  (2020-00-20)
-**[0:00:00-0:00:03](https://investinginregenerativeagriculture.com#t=0:00:00):**  Welcome to Investing in Regenerative Agriculture and Food.  Investing as if the planet mattered,  a podcast show where I talk to the pioneers in  regenerative agriculture and food space to learn more on how to put  our money to work in regenerating soil, people,  
-**[0:00:14-0:00:16](https://investinginregenerativeagriculture.com#t=0:00:14):**  local communities, and ecosystems,  while making an appropriate and fair return.  Why am I focusing on soil and regeneration?  Because so many of the pressing issues we face today have their roots in how we  treat our land, grow our food, and what we eat.  
-**[0:00:28-0:00:31](https://investinginregenerativeagriculture.com#t=0:00:28):**  It's time that we as investors, big and small,  and consumers start paying much more attention to the dirt  slash soil underneath our feet.  
+### Investing in Regenerative Agriculture and Food  (2020-07-20)  
+### Author(s): Koen van Seijen  
+
+**[0:00:00-0:00:03](https://investinginregenerativeagriculture.com#t=0:00:00):**  Welcome to Investing in Regenerative Agriculture and Food.  Investing as if the planet mattered,  a podcast show where I talk to the pioneers in  
+**[0:00:07-0:00:11](https://investinginregenerativeagriculture.com#t=0:00:07):**  regenerative agriculture and food space to learn more on how to put  our money to work in regenerating soil, people,  local communities, and ecosystems,  
+**[0:00:16-0:00:19](https://investinginregenerativeagriculture.com#t=0:00:16):**  while making an appropriate and fair return.  Why am I focusing on soil and regeneration?  Because so many of the pressing issues we face today have their roots in how we  
+**[0:00:25-0:00:28](https://investinginregenerativeagriculture.com#t=0:00:25):**  treat our land, grow our food, and what we eat.  It's time that we as investors, big and small,  and consumers start paying much more attention to the dirt  
+**[0:00:35-0:01:02](https://investinginregenerativeagriculture.com#t=0:00:35):**  slash soil underneath our feet.  
