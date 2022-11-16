@@ -1,4 +1,9 @@
-### Agtech - So What?  (2020-12-02)  
+
+    ---
+    title: Scaling up Soil Carbon Markets - feat. guests from Cargill, Nori and more!
+    ---
+
+    ### Agtech - So What?  (2020-12-02)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/12/2/scaling-up-soil-carbon-markets#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Ag Then Day Group.  I'm your host, Sarah Nolet.  Carbon is one of the most exciting and yet most complex topics in ag tech at the moment.  
 **[0:00:14-0:00:18](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/12/2/scaling-up-soil-carbon-markets#t=0:00:14):**  Carbon markets, where farmers on one side can sell credits that represent the carbon  they sequester in soil through management practices, to buyers on the other side that  range from governments to large private emitters to individuals, are a hot topic.  

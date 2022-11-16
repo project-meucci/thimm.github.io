@@ -1,4 +1,9 @@
-### Agtech - So What?  (2020-07-29)  
+
+    ---
+    title: Regen Ag Series #2: Sam Trethewey on applying startup business model insights to produce carbon positive beef
+    ---
+
+    ### Agtech - So What?  (2020-07-29)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/sam-tretheway-on-carbon-positive-beef#t=0:00:00):**  Welcome back to the Ag Tech So What podcast, brought to you by Agthentic.  I'm your host, Sarah Nolet.  Today we are back with episode two in our series on regenerative agriculture or regen  
 **[0:00:14-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/sam-tretheway-on-carbon-positive-beef#t=0:00:14):**  ag.  We had awesome feedback on our first episode featuring Mark Wooten of Jigsaw Farms, who  is you might say not a fan of the term regen ag.  

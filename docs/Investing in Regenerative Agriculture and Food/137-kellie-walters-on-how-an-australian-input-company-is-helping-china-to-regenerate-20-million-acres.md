@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-10-26)  
+
+    ---
+    title: 137 Kellie Walters on how an Australian input company is helping China to regenerate 20 million acres
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-10-26)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/kellie-walters#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

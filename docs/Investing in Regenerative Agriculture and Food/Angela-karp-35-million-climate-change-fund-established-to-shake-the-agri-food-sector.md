@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2019-07-22)  
+
+    ---
+    title: Angela Karp, £3.5 million climate change fund established to shake the agri-food sector
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2019-07-22)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/2019/07/20/angela-karp/#t=0:00:00):**  Welcome to a new short episode of Investing in Regenerative Agriculture and Food.  Today I'm talking to Professor Angela Karp,  Director for Science Innovation Engagement and Partnerships at Rossamstad Research.  

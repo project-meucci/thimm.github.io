@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2022-05-31)  
+
+    ---
+    title: 171 Charles Eisenstein - Money or ecology: investors have to make a choice on which master they serve
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2022-05-31)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/charles-eisenstein#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

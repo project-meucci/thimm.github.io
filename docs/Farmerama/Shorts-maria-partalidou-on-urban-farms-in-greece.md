@@ -1,4 +1,9 @@
-### Farmerama  (2017-11-26)  
+
+    ---
+    title: Shorts: Maria Partalidou on urban farms in Greece
+    ---
+
+    ### Farmerama  (2017-11-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:12](https://soundcloud.com/farmerama-radio/short-maria-partalidou-on-urban-farms-in-greece#t=0:00:00):**  Urban gardening is also a phenomenon in Greece that has, we've seen like gardens  pop up in almost every city in Greece since 2010. They begin to, urban gardens  in Greece is also a new phenomenon, a new phenomenon that has made its appearance  

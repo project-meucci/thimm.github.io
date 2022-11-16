@@ -1,4 +1,9 @@
-### Farmerama  (2018-05-29)  
+
+    ---
+    title: Shorts: PERKA
+    ---
+
+    ### Farmerama  (2018-05-29)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/shorts-perka#t=0:00:00):**  This is Pavlos and this is Oliver who came from Ireland together.  Shall we go and meet the guys?  Yeah, let's do it.  

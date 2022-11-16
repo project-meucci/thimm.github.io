@@ -1,4 +1,9 @@
-### Farmerama  (2019-10-06)  
+
+    ---
+    title: Shorts: XR Farmers
+    ---
+
+    ### Farmerama  (2019-10-06)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/shorts-xr-farmers#t=0:00:00):**  Hello and welcome to this short episode of Farmerama. We don't usually do breaking news,  but we thought we should share this story with you right away. If you're in the UK,  you may well see a bright pink tractor on the move over the next few days, and we wanted  

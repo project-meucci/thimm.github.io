@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2021-03-12)  
+
+    ---
+    title: Episode #65: Jay Fuhrer
+    ---
+
+    ### Regenerative Agriculture Podcast  (2021-03-12)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:03](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_S4_EP_3_Jay_Fuhrer_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, welcome back to the Regenerative Agriculture podcast.  This is Jon.  Here, the intention and the purpose of this podcast is to talk about the  

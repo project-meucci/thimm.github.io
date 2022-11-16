@@ -1,4 +1,9 @@
-### Farmerama  (2019-12-08)  
+
+    ---
+    title: 'Cereal', Episode 3: Farms produce food
+    ---
+
+    ### Farmerama  (2019-12-08)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:04](https://soundcloud.com/farmerama-radio/cereal-episode-3-farms-produce-food#t=0:00:00):**  Farmers are at the sharp end.  With the weather, they are definitely carrying the most risk,  but then there's massive volatility in global commodity prices.  

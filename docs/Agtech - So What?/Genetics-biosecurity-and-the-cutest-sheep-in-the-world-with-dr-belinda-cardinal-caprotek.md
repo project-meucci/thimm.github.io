@@ -1,4 +1,9 @@
-### Agtech - So What?  (2022-01-26)  
+
+    ---
+    title: Genetics, biosecurity, and the cutest sheep in the world with Dr Belinda Cardinal, Caprotek
+    ---
+
+    ### Agtech - So What?  (2022-01-26)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/2022/1/27/belinda-cardinal-livestock-genetics#t=0:00:00):**  Hello and welcome to AgTech So What, brought to you by the Agnetic Group.  I'm Sarah Nolet.  Our next guest has enjoyed the benefits of some good press and endured some pretty rough  
 **[0:00:12-0:00:13](https://www.agtechsowhat.com/2022/1/27/belinda-cardinal-livestock-genetics#t=0:00:12):**  media attention too.  And all the fuss was over very small, very cute sheep called the Valet Black Nose.  But because we were unknown, I think people were concerned that perhaps we were cowboys  

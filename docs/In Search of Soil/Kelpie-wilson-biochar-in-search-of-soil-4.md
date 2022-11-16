@@ -1,4 +1,9 @@
-### In Search of Soil  (2020-11-04)  
+
+    ---
+    title: Kelpie Wilson - Biochar | In Search of Soil #4
+    ---
+
+    ### In Search of Soil  (2020-11-04)  
 
 **[0:00:00-0:00:04](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-04-KelpieWilson-FullEpisode.mp3#t=0:00:00):**  So Kelby, prior to getting into biochar,  what were you doing at the time?  Oh, a variety of things.  
 **[0:00:09-0:00:11](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-04-KelpieWilson-FullEpisode.mp3#t=0:00:09):**  I have a degree in mechanical engineering.  And so, I've always been interested in renewable energy,  but I was making my living just prior to biochar  

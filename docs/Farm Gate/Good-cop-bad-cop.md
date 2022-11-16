@@ -1,4 +1,9 @@
-### Farm Gate  (2021-12-06)  
+
+    ---
+    title: Good COP, Bad COP?
+    ---
+
+    ### Farm Gate  (2021-12-06)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Good-COP--Bad-COP-e1baoo3#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finnlow Costayne, the Chief Executive of Farmwell and the founder  of the Food and Global Security Network.  Was COP26 a success? Arguably, there was incremental progress on emissions reduction, but climate  

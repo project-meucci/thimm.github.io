@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-05-19)  
+
+    ---
+    title: 79 Wood Turner and Atish Babu, how to build the ideal regenerative fund structure
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-05-19)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://www.investinginregenerativeagriculture.com/2020/05/20/wood-turner-atish-babu/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

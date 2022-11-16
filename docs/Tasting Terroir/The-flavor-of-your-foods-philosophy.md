@@ -1,4 +1,9 @@
-### Tasting Terroir  (2022-09-07)  
+
+    ---
+    title: The Flavor of Your Food’s Philosophy
+    ---
+
+    ### Tasting Terroir  (2022-09-07)  
 ### Author(s): Sara H Harper  
 
 **0:00:00-0:00:18:**  You know, there's not a label on the shelf in the grocery store today that I see any  merit to, whether it's certified organic or grass finished or free range or local or whatever.  They all seem to have their issues, and so I just think if we're going to certify Regen,  

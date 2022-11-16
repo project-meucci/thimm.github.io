@@ -1,4 +1,9 @@
-### Farmerama  (2020-08-30)  
+
+    ---
+    title: 59: Upland restoration, agroforestry in Kenya and the language of regeneration
+    ---
+
+    ### Farmerama  (2020-08-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/episode-59-upland-restoration-agroforestry-in-kenya-and-the-language-of-regeneration#t=0:00:00):**  Hello, and welcome to Farmerama. This month we explore an innovative model for ecological  restoration in the uplands that's a combination of rewilding and regenerative farming techniques.  We head to Kenya to hear about tree planting with farmers there and why the future is bright.  

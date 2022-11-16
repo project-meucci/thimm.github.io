@@ -1,4 +1,9 @@
-### Farmerama  (2019-12-01)  
+
+    ---
+    title: 'Cereal', Episode 2: Nature hates uniformity
+    ---
+
+    ### Farmerama  (2019-12-01)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:26](https://soundcloud.com/farmerama-radio/cereal-episode-2-nature-hates-uniformity#t=0:00:00):**  Welcome to Serial, from Farmerama.  This is episode 2, Nature Hates Uniformity.  Bellhaven Community Garden, just outside my hometown of Dunbar, on the east coast of Scotland.  

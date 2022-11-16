@@ -1,4 +1,9 @@
-### In Search of Soil  (2020-10-21)  
+
+    ---
+    title: Jim Hoorman - Soil Health for Crops | In Search of Soil #2
+    ---
+
+    ### In Search of Soil  (2020-10-21)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-02-JimHoorman-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Whenever you hear somebody talk about no-till, you always hear it talked about in a positive  light.  
 **[0:00:26-0:00:28](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-02-JimHoorman-FullEpisode.mp3#t=0:00:26):**  Why is that?  What is no-till preventing?  Or maybe a better way of asking that is, what problems do tillage cause to the soil structure?  

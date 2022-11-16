@@ -1,4 +1,9 @@
-### Agtech - So What?  (2022-06-14)  
+
+    ---
+    title: Bonus Ep: Ag Insurance 101
+    ---
+
+    ### Agtech - So What?  (2022-06-14)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/06/15/how-does-agricultural-insurance-work-explainer#t=0:00:00):**  Hello, and welcome to another special bonus episode of Ag Tech So What, brought to you  by the Agthintic Group.  I'm Sarah Nolet.  
 **[0:00:09-0:00:13](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/06/15/how-does-agricultural-insurance-work-explainer#t=0:00:09):**  When we think about the global future of agriculture, especially one characterized by exponentially  more climate risk, it's not easy to tell what impact, positive or negative, that insurance,  and specifically crop insurance, might have going forward.  

@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2018-07-16)  
+
+    ---
+    title: The Fallacy of Perfect Soil Reports
+    ---
+
+    ### Regenerative Agriculture Podcast  (2018-07-16)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/the-fallacy-of-perfect-soil-reports/#t=0:00:00):**  Hi friends, I'm Jon Kampf hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

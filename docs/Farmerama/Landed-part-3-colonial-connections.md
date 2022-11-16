@@ -1,4 +1,9 @@
-### Farmerama  (2021-07-25)  
+
+    ---
+    title: Landed part 3: Colonial connections
+    ---
+
+    ### Farmerama  (2021-07-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:04](https://soundcloud.com/farmerama-radio/landed-part-3-colonial-connections#t=0:00:00):**  I'm proud of coming from the Highlands. I'm proud of being Scottish.  You can't be proud of your past unless you're prepared to look at the other side of your past,  the things that you should be ashamed of. The two just come together.  

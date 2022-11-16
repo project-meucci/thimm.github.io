@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2020-01-28)  
+
+    ---
+    title: High Quality Wheat Production with Claudia Carter
+    ---
+
+    ### Regenerative Agriculture Podcast  (2020-01-28)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://podcast.vhostevents.com/uncategorized/high-quality-wheat-production-with-claudia-carter/#t=0:00:00):**  Wheat producers get paid for quality based on protein content, test weight, and the sprouting  number.  Bakers care about the quality of protein, not just the content, and it is expensive  

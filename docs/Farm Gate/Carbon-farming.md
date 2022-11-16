@@ -1,4 +1,9 @@
-### Farm Gate  (2022-01-26)  
+
+    ---
+    title: Carbon farming
+    ---
+
+    ### Farm Gate  (2022-01-26)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Carbon-farming-e1dg24r#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn LoKusteyn, the chief executive of Farmwell and founder  of the Food and Global Security Network.  Carbon farming is on the rise, both in response to the pressing need to mitigate global warming,  

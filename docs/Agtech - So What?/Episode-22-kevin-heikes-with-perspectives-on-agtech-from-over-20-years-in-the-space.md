@@ -1,4 +1,9 @@
-### Agtech - So What?  (2018-05-23)  
+
+    ---
+    title: Episode 22 - Kevin Heikes With Perspectives On Agtech From Over 20 Years In The Space
+    ---
+
+    ### Agtech - So What?  (2018-05-23)  
 
 **[0:00:00-0:00:04](https://player.whooshkaa.com/episode?id=357340#t=0:00:00):**  Hi everyone, you're listening to BushTech, an agtech podcast that gets to the so what  of agtech.  We'll bring you interesting things from interesting people and I'm one of your co-hosts,  
 **[0:00:10-0:00:11](https://player.whooshkaa.com/episode?id=357340#t=0:00:10):**  Simon Mathewson.  And I'm your other co-host, Sarah Nolette.  On this podcast we will bring in leading speakers in technology, entrepreneurship, investment,  

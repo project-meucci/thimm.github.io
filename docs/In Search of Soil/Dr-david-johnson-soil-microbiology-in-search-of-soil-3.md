@@ -1,4 +1,9 @@
-### In Search of Soil  (2020-10-28)  
+
+    ---
+    title: Dr. David Johnson - Soil Microbiology | In Search of Soil #3
+    ---
+
+    ### In Search of Soil  (2020-10-28)  
 
 **[0:00:00-0:00:16](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-03-DavidJohnson-FullEpisode.mp3#t=0:00:00):**  So we meet again.  You kind of shoot yourself on the foot because as you apply the fertilizers, it makes it  a soil more amenable to weed growing in it.  
 **[0:00:29-0:00:32](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-03-DavidJohnson-FullEpisode.mp3#t=0:00:29):**  The weeds serve a purpose.  The voice you're hearing?  That's Dr. David Johnson.  

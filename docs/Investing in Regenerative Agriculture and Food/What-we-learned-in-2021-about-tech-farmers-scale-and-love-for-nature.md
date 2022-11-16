@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-12-28)  
+
+    ---
+    title: What we learned in 2021 about tech, farmers, scale and love for nature
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-12-28)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/what-we-learned-in-2021#t=0:00:00):**  What did we learn in 2021 about tech, farmers, scale, and love for nature?  Wow, another crazy 12 months have absolutely flown by and we ended the 2020, so a year ago, with these words.  We hope that 2021 will be a boring, as in, an uneventful year, where we start to focus on the growth of the regenerative agriculture sector  

@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-04-13)  
+
+    ---
+    title: 112 Kirsty Saddler, using the power of storytelling and marketing to disrupt the agri food world
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-04-13)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/kirsty-saddler#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

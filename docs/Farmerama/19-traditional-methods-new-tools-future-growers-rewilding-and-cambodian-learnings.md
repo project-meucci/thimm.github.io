@@ -1,4 +1,9 @@
-### Farmerama  (2017-03-11)  
+
+    ---
+    title: 19: Traditional methods & new tools, future growers, rewilding and Cambodian learnings
+    ---
+
+    ### Farmerama  (2017-03-11)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/19-farmerama#t=0:00:00):**  Welcome to Farmerama, bringing you stories about smaller scale sustainable farming from  around the world. This month we bring you Joel Salatin talking traditional methods and  modern tools. We have our first foray into the rewilding debate with Steve Carver of  

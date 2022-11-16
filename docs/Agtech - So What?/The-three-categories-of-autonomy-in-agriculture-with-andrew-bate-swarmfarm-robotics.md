@@ -1,4 +1,9 @@
-### Agtech - So What?  (2022-07-27)  
+
+    ---
+    title: The Three Categories of Autonomy in Agriculture, with Andrew Bate, SwarmFarm Robotics
+    ---
+
+    ### Agtech - So What?  (2022-07-27)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/7/28/autonomous-farming-solutions-robotics-in-ag#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  I think it's safe to say that agrobotics is finally, or at least very nearly, here.  
 **[0:00:13-0:00:18](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/7/28/autonomous-farming-solutions-robotics-in-ag#t=0:00:13):**  From autonomous equipment, to retrofit kits, to hyper-specialized tools and attachments,  startups are taking all kinds of approaches to bring solutions to market.  And as they do, fundamentally new practices are becoming viable.  

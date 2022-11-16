@@ -1,4 +1,9 @@
-### Farmerama  (2018-03-25)  
+
+    ---
+    title: 32: Post-fire update, Welsh new farmers policy, farming as practice & organic matter
+    ---
+
+    ### Farmerama  (2018-03-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/32-post-fire-update-welsh-new-farmers-policy-farming-as-practice-organic-matter#t=0:00:00):**  Welcome to Farmer Armour, where we share the voices of small-scale farmers from around the world.  This month we start in Wales, where we learn how planning legislation is opening doors for people wanting to produce and live sustainably.  Then we head to the US, to hear how one farm is taking a philosophical approach to sharing the practice of farming and connecting to the land.  

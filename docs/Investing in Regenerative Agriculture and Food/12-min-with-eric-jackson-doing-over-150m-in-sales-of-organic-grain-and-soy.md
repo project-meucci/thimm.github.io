@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2019-05-23)  
+
+    ---
+    title: 12 min with Eric Jackson, doing over 150M in sales of organic grain and soy
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2019-05-23)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2018/07/18/eric-jackson/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full length episode, please check the description below.  We're going to listen to an interview with Eric Jackson of Pipeline Foods,  where we are discussing large scale conversion of land to organic farming.  

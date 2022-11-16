@@ -1,4 +1,9 @@
-### Farmerama  (2022-07-03)  
+
+    ---
+    title: Cultivating Justice: Episode 2
+    ---
+
+    ### Farmerama  (2022-07-03)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/cultivating-justice-episode-2#t=0:00:00):**  I guess being outside in nature to me, especially in the last two years, has become a bit of  a necessity, a very, very concrete part of my day-to-day rituals. I now cannot imagine  a day where I don't go outside in some capacity, be that in urban landscapes or rural landscapes.  

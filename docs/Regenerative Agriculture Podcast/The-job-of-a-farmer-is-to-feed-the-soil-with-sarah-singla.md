@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2018-07-27)  
+
+    ---
+    title: The Job of a Farmer is to Feed the Soil  with Sarah Singla
+    ---
+
+    ### Regenerative Agriculture Podcast  (2018-07-27)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:02](https://podcast.vhostevents.com/uncategorized/the-job-of-a-farmer-is-to-feed-the-soil-with-sarah-singla/#t=0:00:00):**  Hi friends, I'm John Kempf, hosting this podcast.  It is simply about producing volume.  It's very difficult for us to imagine a world like that.  

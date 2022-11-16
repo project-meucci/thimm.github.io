@@ -1,4 +1,9 @@
-### Farm Gate  (2021-03-15)  
+
+    ---
+    title: What's the difference?
+    ---
+
+    ### Farm Gate  (2021-03-15)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Whats-the-difference-eskuhm#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finn LoKusteyn. What's the difference between agroecology  and regenerative agriculture? Not sure? Well then, what about holistic grazing? Organic,  no-till farming or AMP adaptive multi-paddock grazing? Well, in this programme we hope to  

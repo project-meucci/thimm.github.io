@@ -1,4 +1,9 @@
-### In Search of Soil  (2021-07-14)  
+
+    ---
+    title: Dr. Paul Zorner - Soil Microbes | In Search of Soil #13
+    ---
+
+    ### In Search of Soil  (2021-07-14)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-13-PaulZorner-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Sometimes nature works in mysterious ways.  For example, you can add one microbe to a soil and you might not see any results at  
 **[0:00:28-0:00:36](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-13-PaulZorner-FullEpisode.mp3#t=0:00:28):**  all. But if you add that same microbe to the soil in combination with other microbes, you might see  miraculous results. To talk about that concept and many others, today I'm joined by Dr. Paul Zorner  of Locus Agricultural Solutions. Paul is going to be sharing his decades of experience dealing with  

@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2018-03-15)  
+
+    ---
+    title: 31 Jeremy Harry Ethan, planting millions of productive trees with farmers on their farms
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2018-03-15)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2018/05/21/jeremy-kaufman-harry-greene-ethan-steinberg/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

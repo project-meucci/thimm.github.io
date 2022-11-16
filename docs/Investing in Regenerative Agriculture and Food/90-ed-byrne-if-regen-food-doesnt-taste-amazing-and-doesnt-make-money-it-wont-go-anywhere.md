@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-08-25)  
+
+    ---
+    title: 90 Ed Byrne, if regen food doesn't taste amazing and doesn’t make money it won't go anywhere
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-08-25)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/08/25/ed-byrne#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course, or in the links below.  Now onto the podcast.  

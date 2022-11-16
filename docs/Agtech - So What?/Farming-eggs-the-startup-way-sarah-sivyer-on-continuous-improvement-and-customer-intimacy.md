@@ -1,4 +1,9 @@
-### Agtech - So What?  (2020-11-18)  
+
+    ---
+    title: Farming eggs the startup way - Sarah Sivyer on continuous improvement and customer intimacy
+    ---
+
+    ### Agtech - So What?  (2020-11-18)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/11/18/farming-eggs-the-startup-way-sarah-sivyer#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast, brought to you by the Agthentic Group.  I'm your host, Sarah Nolet.  In this episode, we asked, how do you like your eggs?  
 **[0:00:13-0:00:18](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/11/18/farming-eggs-the-startup-way-sarah-sivyer#t=0:00:13):**  I like mine fried and runny, but everyone has their own personal preference.  And that's kind of the point.  It's precisely this kind of customer focus that Sarah Sivir, today's guest, is passionate  

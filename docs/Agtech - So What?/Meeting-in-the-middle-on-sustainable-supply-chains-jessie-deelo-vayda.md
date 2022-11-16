@@ -1,4 +1,9 @@
-### Agtech - So What?  (2022-03-09)  
+
+    ---
+    title: Meeting in the Middle on Sustainable Supply Chains - Jessie Deelo, Vayda
+    ---
+
+    ### Agtech - So What?  (2022-03-09)  
 
 **[0:00:00-0:00:05](https://player.whooshkaa.com/episode?id=967349#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Icthentic Group.  I'm Sarah Nollet.  At this point, it seems like pretty much every major food company has announced their commitment  
 **[0:00:11-0:00:14](https://player.whooshkaa.com/episode?id=967349#t=0:00:11):**  to making their supply chains more sustainable.  It's not quite as common, I think, to hear the flip side of this story, that farms are  operating sustainably at scale and are looking to build supply chains up to big brands.  

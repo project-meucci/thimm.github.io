@@ -1,4 +1,9 @@
-### Farmerama  (2022-09-25)  
+
+    ---
+    title: ‘Cereal’ bonus episode: Scotland the Bread
+    ---
+
+    ### Farmerama  (2022-09-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:25](https://soundcloud.com/farmerama-radio/cereal-bonus-episode-scotland-the-bread#t=0:00:00):**  Welcome to Cereal from Farmerama. This is a bonus episode featuring an extended interview  with Scotland the bread miller Connie Hunter. Okay, yeah, so my name is Connie and I work  as a miller manager for Scotland the bread here at Bauhaus. So it's my job to mill all  

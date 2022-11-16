@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2018-04-14)  
+
+    ---
+    title: Social Impacts of Regenerative Agriculture with Gabe Brown
+    ---
+
+    ### Regenerative Agriculture Podcast  (2018-04-14)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/social-impacts-of-regenerative-agriculture-with-gabe-brown/#t=0:00:00):**  Hi friends, I'm John Kempf, hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

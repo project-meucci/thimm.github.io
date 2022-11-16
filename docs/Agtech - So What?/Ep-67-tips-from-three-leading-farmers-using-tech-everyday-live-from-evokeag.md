@@ -1,4 +1,9 @@
-### Agtech - So What?  (2020-05-20)  
+
+    ---
+    title: Ep 67: tips from three leading farmers using tech everyday (live from evokeAG)
+    ---
+
+    ### Agtech - So What?  (2020-05-20)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/tips-from-leading-producers#t=0:00:00):**  Welcome back to the AgTech So What podcast, brought to you by Agthentic.  I'm your host, Sarah Nolet.  We're on a bit of a streak here with episodes recorded live at recent events.  
 **[0:00:13-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/tips-from-leading-producers#t=0:00:13):**  I'd love your feedback.  Are you liking the live events or do you want more interviews?  Reach out on Twitter or on our website and let us know.  

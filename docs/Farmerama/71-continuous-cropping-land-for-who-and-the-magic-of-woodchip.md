@@ -1,4 +1,9 @@
-### Farmerama  (2022-01-30)  
+
+    ---
+    title: 71: Continuous Cropping, Land For Who and the Magic of Woodchip
+    ---
+
+    ### Farmerama  (2022-01-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/71-continuous-cropping-land-for-who-and-the-magic-of-woodchip#t=0:00:00):**  Hello and welcome to Farmerama. We're grateful to those of you who support us and allow us  to bring you these stories every month. Even the smallest contribution makes a big difference  to us, so if you'd like to become a supporter, please visit patreon.com forward slash farmerama.  

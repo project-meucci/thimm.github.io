@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2022-03-29)  
+
+    ---
+    title: 161 Eurof Uppington on decommodifying olive oil, the largest and most fraudulent crop in the Mediterranean
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2022-03-29)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/eurof-uppington#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

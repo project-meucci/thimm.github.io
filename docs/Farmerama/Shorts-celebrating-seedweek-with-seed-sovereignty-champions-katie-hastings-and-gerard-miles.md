@@ -1,4 +1,9 @@
-### Farmerama  (2019-11-18)  
+
+    ---
+    title: Shorts: Celebrating #SeedWeek with seed sovereignty champions Katie Hastings and Gerard Miles
+    ---
+
+    ### Farmerama  (2019-11-18)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:29](https://soundcloud.com/farmerama-radio/gaia-fondation-black-oats#t=0:00:00):**  Hello and welcome to this special short film on the  Gaea Foundation Seed Sovereignty Programme.  The Gaea Foundation has been working to uphold indigenous wisdom and earth-centred perspectives  

@@ -1,4 +1,9 @@
-### Farm Gate  (2021-02-23)  
+
+    ---
+    title: Arable farming - Putting agroecology into practice
+    ---
+
+    ### Farm Gate  (2021-02-23)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Arable-farming---Putting-agroecology-into-practice-eqsva7#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. This is the third programme in a series in  which I talk to farmers delivering agro-ecological agriculture on their farms. Today we're talking  all things arable and I'm joined by two inspirational farmers putting agroecology into practice.  

@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-11-16)  
+
+    ---
+    title: 140 Satish Kumar – Be humble, you can’t outsmart nature
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-11-16)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/satish-kumar#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

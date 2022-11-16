@@ -1,4 +1,9 @@
-### Farmerama  (2019-03-31)  
+
+    ---
+    title: 44: Radical roots, Slow Money, CSAs and Allies.
+    ---
+
+    ### Farmerama  (2019-03-31)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/farmerama-44#t=0:00:00):**  Hello and welcome to Farmerama.  This month we explore radical roots and cider apples with a farming couple in Oregon.  We hear about a different type of investment, the slow money movement.  

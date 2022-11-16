@@ -1,4 +1,9 @@
-### Farm Gate  (2020-01-04)  
+
+    ---
+    title: Is vegan a dirty word?
+    ---
+
+    ### Farm Gate  (2020-01-04)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Is-vegan-a-dirty-word-e9vtat#t=0:00:00):**  Hello. On Farmgate today, prompted by a recent blog by Tara Garnett from FCRN, the Food and  Climate Research Network, I'm asking the question, has vegan become a dirty word?  It seems pretty crazy that we've reached the stage where this question is even formulated,  

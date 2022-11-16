@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-04-27)  
+
+    ---
+    title: 114 Christian Shearer on selling 100.000 soil carbon credits to Microsoft on the blockchain
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-04-27)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/christian-shearer#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

@@ -1,4 +1,9 @@
-### In Search of Soil  (2020-12-02)  
+
+    ---
+    title: Dr. Buz Kloot - Soil Nutrients | In Search of Soil #8
+    ---
+
+    ### In Search of Soil  (2020-12-02)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-08-BuzKloot-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  What if you took a soil test and that test showed that nutrient levels were at value  X.  
 **[0:00:26-0:00:31](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-08-BuzKloot-FullEpisode.mp3#t=0:00:26):**  And then you grew crops in that same soil and you took a soil test later on and that  test revealed that those nutrient levels had increased over the time in which those crops  were growing.  

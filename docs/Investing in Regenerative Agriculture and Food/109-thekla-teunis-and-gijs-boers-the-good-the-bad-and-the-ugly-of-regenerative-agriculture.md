@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-03-23)  
+
+    ---
+    title: 109 Thekla Teunis and Gijs Boers, the good the bad and the ugly of regenerative agriculture
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-03-23)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/thekla-teunis-gijs-boers-2#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

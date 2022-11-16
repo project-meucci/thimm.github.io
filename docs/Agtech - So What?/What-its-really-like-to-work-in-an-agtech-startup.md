@@ -1,4 +1,9 @@
-### Agtech - So What?  (2021-01-13)  
+
+    ---
+    title: What it's REALLY like to work in an agtech startup
+    ---
+
+    ### Agtech - So What?  (2021-01-13)  
 
 **[0:00:00-0:00:08](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/1/13/what-its-really-like-to-work-in-an-agtech-startup#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group. I'm Sarah Nolet.  This is the second episode in our two-part AgTech Career series, which we're bringing  to you in collaboration with the Future Farmers Network. I know a lot of people, whether you've  
 **[0:00:16-0:00:21](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/1/13/what-its-really-like-to-work-in-an-agtech-startup#t=0:00:16):**  just graduated from college or high school or are looking to switch industries mid-career,  are looking at agtech startups as an opportunity. But it's not always obvious what exactly working  in an agtech startup will be like or why you'd choose a startup over a big company.  

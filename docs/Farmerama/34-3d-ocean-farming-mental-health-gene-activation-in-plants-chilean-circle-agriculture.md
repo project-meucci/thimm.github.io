@@ -1,4 +1,9 @@
-### Farmerama  (2018-05-27)  
+
+    ---
+    title: 34: 3D ocean farming, mental health, gene activation in plants & Chilean circle agriculture
+    ---
+
+    ### Farmerama  (2018-05-27)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/farmerama-episode-34#t=0:00:00):**  Hello and welcome to episode 34 of Farmerama.  This month we first hear from a self-confessed non-environmentalist about an ocean-based  farming solution that might inadvertently be saving the environment, as well as providing  

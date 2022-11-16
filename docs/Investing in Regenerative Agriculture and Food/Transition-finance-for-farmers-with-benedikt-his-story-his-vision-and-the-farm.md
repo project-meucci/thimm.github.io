@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2019-12-21)  
+
+    ---
+    title: Transition Finance for Farmers with Benedikt (his story, his vision and the farm)
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2019-12-21)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:03](https://www.investinginregenerativeagriculture.com/transition-finance-series/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative  food and agriculture, follow our video course via investinginregenerativeagriculture.com  slash course, or in the links below now onto the podcast.  

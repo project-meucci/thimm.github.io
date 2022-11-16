@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-01-14)  
+
+    ---
+    title: 69 Thomas Rippel, checking in on land ownership, stable coins, pensions for farmers and city folks
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-01-14)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/01/15/thomas-rippel-2/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course, or in the links below.  Now onto the podcast.  

@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2018-05-21)  
+
+    ---
+    title: 34 Peter Donovan, the wonders of soil and asking better questions when investing in it
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2018-05-21)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2018/05/21/peter-donovan/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

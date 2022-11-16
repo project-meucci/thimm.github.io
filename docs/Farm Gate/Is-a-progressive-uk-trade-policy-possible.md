@@ -1,4 +1,9 @@
-### Farm Gate  (2020-12-01)  
+
+    ---
+    title: Is a progressive UK trade policy possible?
+    ---
+
+    ### Farm Gate  (2020-12-01)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Is-a-progressive-UK-trade-policy-possible-en7ant#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. Despite near universal support for laws to  restrict lower quality food imports into the UK, the government rejected amendments to  the agriculture bill that would have protected farmers and citizens. Instead, in a bid to  

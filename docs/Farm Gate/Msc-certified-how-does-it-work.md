@@ -1,4 +1,9 @@
-### Farm Gate  (2021-05-24)  
+
+    ---
+    title: MSC Certified - How does it work?
+    ---
+
+    ### Farm Gate  (2021-05-24)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/MSC-Certified---How-does-it-work-e11g4bs#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. The Marine Stewardship Council is an international  NGO working to protect oceans and safeguard seafood supplies for the future. They're  also behind the blue MSC eco-label, which can be found on a wide range of seafood products  

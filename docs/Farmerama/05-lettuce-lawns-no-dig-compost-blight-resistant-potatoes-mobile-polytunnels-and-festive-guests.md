@@ -1,4 +1,9 @@
-### Farmerama  (2017-03-10)  
+
+    ---
+    title: 05: Lettuce lawns, no-dig compost, blight-resistant potatoes, mobile polytunnels and festive guests
+    ---
+
+    ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:02](https://soundcloud.com/farmerama-radio/05-farmerama#t=0:00:00):**  Shall I bring some more? I've left the door open.  I think that's loads. We're not going to get through all of that.  It's like slightly smaller bits, like that should lighten the beads, yeah.  

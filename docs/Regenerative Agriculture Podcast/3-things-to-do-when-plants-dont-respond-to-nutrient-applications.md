@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2018-07-31)  
+
+    ---
+    title: 3 Things To Do When Plants Don't Respond to Nutrient Applications
+    ---
+
+    ### Regenerative Agriculture Podcast  (2018-07-31)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:02](https://podcast.vhostevents.com/uncategorized/3-things-to-do-when-plants-dont-respond-to-nutrient-applications/#t=0:00:00):**  A peach grower in southeastern Pennsylvania has a problem.  He's working with a block of young peach trees who are in their fourth leaf with very small  amounts of new shoot growth, a very small amount of fruit, low vigor.  

@@ -1,4 +1,9 @@
-### Farmerama  (2019-11-24)  
+
+    ---
+    title: 'Cereal', Episode 1: Flour, water, salt
+    ---
+
+    ### Farmerama  (2019-11-24)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:02](https://soundcloud.com/farmerama-radio/cereal-episode-1-flour-water-salt#t=0:00:00):**  Would you like to do a dough?  That would be great.  Yeah, you sure?  

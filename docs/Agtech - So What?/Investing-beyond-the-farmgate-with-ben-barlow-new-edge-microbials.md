@@ -1,4 +1,9 @@
-### Agtech - So What?  (2022-03-23)  
+
+    ---
+    title: Investing Beyond the Farmgate with Ben Barlow, New Edge Microbials
+    ---
+
+    ### Agtech - So What?  (2022-03-23)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/23/ben-barlow-new-edge-microbials-biologicals-agriculture#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the AgPente Group.  I'm Sarah Nolet.  Right now, there are a lot of existential threats facing global agriculture.  
 **[0:00:11-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/23/ben-barlow-new-edge-microbials-biologicals-agriculture#t=0:00:11):**  Climate change, shifting consumer preferences, growing and aging populations, human health  concerns, the list goes on.  But there's also conviction that solutions exist, and that more are on the horizon, if  

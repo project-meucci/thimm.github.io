@@ -1,4 +1,9 @@
-### In Search of Soil  (2020-11-18)  
+
+    ---
+    title: Dr. Michael Miille - Nitrogen Fixation | In Search of Soil #6
+    ---
+
+    ### In Search of Soil  (2020-11-18)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-06-JOYN-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  For the past 50 years, the Holy Grail and Agricultural Research has been getting nitrogen-fixing  bacteria to form a relationship with non-legumes.  
 **[0:00:32-0:00:38](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-06-JOYN-FullEpisode.mp3#t=0:00:32):**  Scientists have tried, explorers have looked, but the solution has never been found.  It would be an amazing discovery if you could find that microbe-plant relationship and get  it to work with agricultural crops.  

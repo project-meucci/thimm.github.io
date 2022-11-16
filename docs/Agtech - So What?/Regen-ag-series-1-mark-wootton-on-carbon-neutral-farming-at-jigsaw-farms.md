@@ -1,4 +1,9 @@
-### Agtech - So What?  (2020-07-15)  
+
+    ---
+    title: Regen Ag Series #1: Mark Wootton on carbon-neutral farming at Jigsaw Farms
+    ---
+
+    ### Agtech - So What?  (2020-07-15)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/mark-wootton-on-carbon-neutral-farming#t=0:00:00):**  Hello, and welcome back to the AgTech So What podcast brought to you by Agthentic.  As always, I'm your host, Sarah Nolet.  Today's episode is the first in another series that we're doing, this time on regenerative  
 **[0:00:16-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/mark-wootton-on-carbon-neutral-farming#t=0:00:16):**  agriculture.  We'll be looking at this topic from a few different angles, sharing some pretty strong  and hard won views.  

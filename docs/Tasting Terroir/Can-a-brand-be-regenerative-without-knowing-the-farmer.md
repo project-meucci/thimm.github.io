@@ -1,4 +1,9 @@
-### Tasting Terroir  (2022-10-14)  
+
+    ---
+    title: Can A Brand Be Regenerative Without Knowing the Farmer?
+    ---
+
+    ### Tasting Terroir  (2022-10-14)  
 ### Author(s): Sara H Harper  
 
 **0:00:00-0:00:05:**  When we can, we buy from farms that are doing regenerative methods, but it's inconsistent  because we'll get like a truckload of that and then it's gone and then we're, you know,  have to dip in the commodity and we can't just be out of stock.  

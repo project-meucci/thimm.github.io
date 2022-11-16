@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2019-05-15)  
+
+    ---
+    title: A Geological Perspective On Regenerative Agriculture with David Montgomery
+    ---
+
+    ### Regenerative Agriculture Podcast  (2019-05-15)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/a-geological-perspective-on-regenerative-agriculture-with-david-montgomery/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems  

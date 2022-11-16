@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2019-07-23)  
+
+    ---
+    title: 5min short clip with John Kempf
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2019-07-23)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2019/07/29/john-kempf/#t=0:00:00):**  You're going to listen to a short clip from the full interview I did with John Kempf,  co-founder of Advancing Eco-Agriculture, where John explains why you should forget about  soil health and focus on plant health instead.  

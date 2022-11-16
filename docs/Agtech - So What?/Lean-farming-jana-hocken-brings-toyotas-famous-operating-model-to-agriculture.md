@@ -1,4 +1,9 @@
-### Agtech - So What?  (2021-05-19)  
+
+    ---
+    title: Lean Farming - Jana Hocken brings Toyota's famous operating model to agriculture
+    ---
+
+    ### Agtech - So What?  (2021-05-19)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/5/18/lean-farming-with-jana-hocken#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthente Group.  I'm your host, Sarah Nolet.  You often hear that farming's different, that the rules of business that apply in other  
 **[0:00:12-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/5/18/lean-farming-with-jana-hocken#t=0:00:12):**  industries simply don't translate into running a farm.  Well, meet Jana Hawken.  She is here to challenge that.  

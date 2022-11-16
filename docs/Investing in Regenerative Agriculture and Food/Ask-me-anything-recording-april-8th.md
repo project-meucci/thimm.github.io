@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-05-24)  
+
+    ---
+    title: Ask Me Anything Recording - April 8th
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-05-24)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://www.investinginregenerativeagriculture.com/ama-webinar-4-8-2020/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

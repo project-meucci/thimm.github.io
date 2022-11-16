@@ -1,4 +1,9 @@
-### Farm Gate  (2021-07-19)  
+
+    ---
+    title: From greed to green
+    ---
+
+    ### Farm Gate  (2021-07-19)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/From-greed-to-green-e14mjr9#t=0:00:00):**  Hello and welcome to Land Unlocked, a collaboration from the Food, Farming and Countryside Commission  and the Farmgate podcast. I'm Finnlow Costayne, the chief executive of Farmwell, and in this  series, I'm talking about land use, with influential figures from the UK and around  

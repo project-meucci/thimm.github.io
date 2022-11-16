@@ -1,4 +1,9 @@
-### Farm Gate  (2022-07-21)  
+
+    ---
+    title: A small farm future
+    ---
+
+    ### Farm Gate  (2022-07-21)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/A-small-farm-future-e1lgv7i#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finnlow Costayne, the Chief Executive of Farmwell and founder  of the Food and Global Security Network. Many governments see farm expansion and aggregation  as the future for agriculture, but there's a grave risk that this will simply embed the  

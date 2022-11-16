@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2018-03-12)  
+
+    ---
+    title: 30 Esther Park, CEO of Cienega capital on impact investing in regen ag and food
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2018-03-12)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2018/05/21/esther-park/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

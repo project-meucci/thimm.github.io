@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2019-11-12)  
+
+    ---
+    title: 63 Joelle Faulkner, why a $250M Canadian farmland investor entered regen ag
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2019-11-12)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:03](https://investinginregenerativeagriculture.com/2019/11/11/joelle-faulkner/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative  food and agriculture, follow our video course via investing in regenerative  agriculture.com slash course, or in the links below now onto the podcast.  

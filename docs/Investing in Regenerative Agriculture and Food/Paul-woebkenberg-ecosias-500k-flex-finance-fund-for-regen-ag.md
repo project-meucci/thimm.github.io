@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2019-09-13)  
+
+    ---
+    title: Paul Woebkenberg, Ecosia's 500K flex finance fund for regen ag
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2019-09-13)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:08](https://investinginregenerativeagriculture.com/2019/09/15/paul-woebkenberg/#t=0:00:00):**  This interview is about how the search engine that plants trees will invest half a million euros into region ag farms.  Welcome to another episode of Investing in Regenerative Agriculture, Investing as if the Planet Mattered,  a podcast show where I talk to the pioneers in the regenerative food and agriculture space  

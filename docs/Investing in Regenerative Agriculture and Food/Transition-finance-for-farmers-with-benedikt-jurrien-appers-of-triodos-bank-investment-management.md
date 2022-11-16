@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-02-11)  
+
+    ---
+    title: Transition Finance for Farmers with Benedikt - Jurrien Appers of Triodos Bank Investment Management
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-02-11)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://www.investinginregenerativeagriculture.com/2020/03/10/transition-finance-ep2/#t=0:00:00):**  In this interview, we will learn how one of the most sustainable banks in the world, Triodos,  approaches financing transitions in energy and food, and what the role of banks can be  now and will be in the future when it comes to financing farmers who want to go beyond  

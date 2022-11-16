@@ -1,4 +1,9 @@
-### Farmerama  (2018-08-31)  
+
+    ---
+    title: Shorts: Greg Judy on mob grazing tips and cow pats
+    ---
+
+    ### Farmerama  (2018-08-31)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/shorts-greg-judy#t=0:00:00):**  As I travel around your country, one of the things that is really absent is not seeing the animals on the land.  You know, to really get the soil biology and to get the health back in the soil, cover crops and this stuff are great, but we need the animals.  That's what happens in nature. If you go out and observe nature, there's always animals in the background.  

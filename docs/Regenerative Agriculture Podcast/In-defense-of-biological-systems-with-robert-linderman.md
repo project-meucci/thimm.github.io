@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2020-08-11)  
+
+    ---
+    title: In Defense of Biological Systems with Robert Linderman
+    ---
+
+    ### Regenerative Agriculture Podcast  (2020-08-11)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://traffic.libsyn.com/secure/regenerativeagriculture/Regen_Ag_Podcast_Linderman_FINAL.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast where we talk about agronomic  science and cultural management practices that regenerate plant health, soil health,  and ultimately also regenerate public health.  

@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2022-09-06)  
+
+    ---
+    title: 183 Johannes Scheibe on using carbon credits to transition from understocked and overgrazed to zero input grazing
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2022-09-06)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/johannes-scheibe#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  
