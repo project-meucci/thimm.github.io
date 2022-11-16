@@ -1,5 +1,5 @@
 --- 
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps in your favorite podcasts.
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
 # Podcast transcriptions
