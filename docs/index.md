@@ -1,3 +1,7 @@
+--- 
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps in your favorite podcasts.
+---
+
 # Podcast transcriptions
 Transcripts for podcasts from the regenerative agriculture space. We do not own the content, so please support the creators of the podcasts in any way you can.
 
