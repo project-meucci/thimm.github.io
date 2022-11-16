@@ -42,6 +42,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - attr_list
 
   - toc:
       permalink: true
