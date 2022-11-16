@@ -51,6 +51,7 @@ plugins:
       lang: "en"
       #     prebuild_index: true
       indexing: "titles"
+  - social
 
 extra_javascript:
   - javascripts/mathjax.js
