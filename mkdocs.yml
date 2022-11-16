@@ -2,6 +2,8 @@ site_name: Regenerative Agriculture Podcast Transcripts
 site_url: https://podcasts.farmonapp.com
 theme:
   name: "material"
+  logo: assets/FarmOnLogoWhite.svg
+  favicon: assets/FarmOnFavicon.png
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
