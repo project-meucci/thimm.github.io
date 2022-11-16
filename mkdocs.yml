@@ -1,5 +1,5 @@
 site_name: Regenerative Agriculture Podcast Transcripts
-
+site_url: https://podcasts.farmonapp.com
 theme:
   name: "material"
   palette:
