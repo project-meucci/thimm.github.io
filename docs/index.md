@@ -26,11 +26,15 @@ In Investing in Regenerative Agriculture and Food podcast show we talk to the pi
 ### [Regenerative Agriculture Podcast](https://regenerativeagriculturepodcast.com){target=_blank}
 On this show, John and his guests describe why most growers have crop challenges, and how to resolve them. You will find straightforward, actionable information about growing that can be implemented right away to increase crop quality, yields, pest resistance, and climate resilience -- to regenerate soil health, and most importantly, increase farm profitability.
 
-### [Abundant Edge Podcast](https://podcasts.apple.com/us/podcast/regenerative-skills/id1199230234)
+### [Regenerative-Skills/Abundant Edge Podcast](https://podcasts.apple.com/us/podcast/regenerative-skills/id1199230234)
 Regenerative Skills is based on the pursuit of a regenerative life. A lifestyle centered on stewardship of the natural world, strong connections to community, and the daily habits that bring us closer to those goals. Each week learn actionable information from experts around the world that you can apply in your own life. Together we can regenerate our planet and our communities.
 
 ### [Tasting Terroir](https://podvine.com/podcast/tasting-terroir){target=_blank}
 A journey that helps you have a better understanding of what really makes food healthier for you and for the planet. We do this by giving you a deeper understanding of the link between healthy soil and the flavor and health of your food.
+
+### [The Great Full podcast](https://www.thegreatfull.com/podcast)
+Welcome to The Great Full podcast, where we contemplate how to eat, live and lead for a more sustainable world!
+Join me on a journey around the world to connect with thinkers and doers working to build more sustainable food systems, communities and lives. They share insights into the challenges we collectively face, highlight the solutions they are bringing to life and offer up wisdom they have gained along their leadership journey.
 
 ### [The Natural Lifestylist Podcast](https://podcasts.apple.com/gb/podcast/the-natural-lifestylist-podcast/id1480720354){target=_blank}
 Tony Riddle devised his Natural Life-stylist philosophy as a way to recharge, reboot and re-educate on the importance of re-aligning ourselves with Nature for emotional, spiritual and physical health. Tony’s work is based around the premise that if we can recognise where nature is missing from our lives, we can reconnect with it and fall back in love with it, and in doing so can shake the angst-inducing monkey off our collective back.
