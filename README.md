@@ -1,55 +1,38 @@
-# Publish your Obsidian Notes
+# Podcast transcriptions
+Transcripts for podcasts from the regenerative agriculture space. We do not own the content, so please support the creators of the podcasts in any way you can.
 
-(MkDocs template)
+## Transcribed Podcasts
 
-Would you like to take _some_ of your notes in [Obsidian](https://obsidian.md/) and make it public?
+### [Agtech So What?](https://www.agtechsowhat.com/)
+Investment in agriculture technology and momentum for agtech entrepreneurship is taking off. But this is not new: farmers have been adopting technologies that add value for decades. So is it just hype? What does all the momentum for agtech- from accelerators to venture capital funds to sexy technologies like drones and robots- actually mean for farmers and the agriculture industry?
 
-This template gives you an easy (and automated) way to publish your Obsidian notes on your Github pages.
+### [Farm Gate](https://www.faifarms.com/podcasts/)
+Farm Gate is the regenerative agriculture podcast, focussed on practical solutions for climate and food security. The topics covered are relevant for everyone who eats, but is particularly intended for farmers, food chain professionals, and policy-makers. Every week or two our host ffinlo Costain will bring our listeners stories of the people and solutions that is shaping a regenerative future for food and agriculture.
 
-With this template, you get these **out-of-the-box**:
+### [Farmerama](https://farmerama.co)
+Farmerama Radio is an award-winning podcast sharing the voices behind regenerative farming. Each month, the show features farmers and growers rebuilding our food and ecosystems from the ground up. 
 
-- an awesome website based on Material theme, complete with a search bar (Checkout this template repo published [here](https://jobindjohn.github.io/obsidian-publish-mkdocs/))
-![](2021-11-22-22-49-26.png)
-- get the Obsidian/Roam style `[[wikilinks]]` from your vault in your published notes
-- Toggle between light and dark mode
+### [In Search of Soil](https://insearchofsoil.libsyn.com/) 
+Exploring the mysteries of soil in search of answers that you can use in your garden or on your farm.
+Each week features scientists and experts sharing insights into topics like soil science, composting, cover cropping, biochar, no-till, and fungi, among other things!
 
+### [Investing in Regenerative Agriculture and Food](https://investinginregenerativeagriculture.com/)
+In Investing in Regenerative Agriculture and Food podcast show we talk to the pioneers in the regenerative food and agriculture space to learn more on how to put our money to work to regenerate soil, people, local communities and ecosystems while making an appropriate and fair return.
 
-## Quick start
+### [Regenerative Agriculture Podcast](https://regenerativeagriculturepodcast.com)
+On this show, John and his guests describe why most growers have crop challenges, and how to resolve them. You will find straightforward, actionable information about growing that can be implemented right away to increase crop quality, yields, pest resistance, and climate resilience -- to regenerate soil health, and most importantly, increase farm profitability.
 
-1. Create a **new github repository using this template**. Click the green button at the top or use [this link](https://github.com/jobindjohn/obsidian-publish-mkdocs/generate). 
+### [Regenerative Skills](https://podcasts.apple.com/us/podcast/regenerative-skills/id1199230234)
+Regenerative Skills is based on the pursuit of a regenerative life. A lifestyle centered on stewardship of the natural world, strong connections to community, and the daily habits that bring us closer to those goals. Each week learn actionable information from experts around the world that you can apply in your own life. Together we can regenerate our planet and our communities.
 
-![](2021-11-22-22-54-02.png)
+### [Tasting Terroir](https://podvine.com/podcast/tasting-terroir)
+A journey that helps you have a better understanding of what really makes food healthier for you and for the planet. We do this by giving you a deeper understanding of the link between healthy soil and the flavor and health of your food.
 
-2.  **Give a name** to your repository. By default your notes will be published at `<https://username.github.io/repo-name/>`
-     - Copy only the `main` branch while creating the repo from the template
-3. **Clone** the repository you generated **into your Obsidian folder/vault.**
-4. **Move your notes** that you would like to make public to the `repo-name/docs` folder.
-    - Easiest way to do this would be using drag and drop within Obsidian
-5. Commit and **push** the changes. Github actions will take care of the rest, publishing your notes using [MkDocs](https://www.mkdocs.org/), with the [Material theme](https://squidfunk.github.io/mkdocs-material/). 
-6. Go to `Settings > Pages` and select the select the **Source** as your `gh-pages` branch.
+### [The Natural Lifestylist Podcast](https://podcasts.apple.com/gb/podcast/the-natural-lifestylist-podcast/id1480720354)
+Tony Riddle devised his Natural Life-stylist philosophy as a way to recharge, reboot and re-educate on the importance of re-aligning ourselves with Nature for emotional, spiritual and physical health. Tony’s work is based around the premise that if we can recognise where nature is missing from our lives, we can reconnect with it and fall back in love with it, and in doing so can shake the angst-inducing monkey off our collective back.
 
-![](2021-11-22-22-52-49.png)
+### [The Regenerative Agroforestry Podcast](https://www.regenerativeagroforestry.org/)
+A space where recognised experts from the field share their practical experiences, challenges and success stories  implementing productive agroforestry projects.
 
-**Not working for you?** Open an [issue](https://github.com/jobindjohn/obsidian-publish-mkdocs/issues/new/choose) and let me know what went wrong.
-
-## Configuring your website
-
-### How do I arrange notes as sections and pages?
-
-By default, the sections and pages will follow the folder structure within `/docs`. The folders and sub-folders will show up as sections. Try not to have white spaces in your folder and file names, as these will be converted to HTML links. The webpage heading will be the same as the first-level heading in the markdown note.
-
-- If you would like to arrange the pages manually, then use the `nav` option in the `mkdocs.yml` [configuration file](https://www.mkdocs.org/#adding-pages) at the root of this repo  to set custom page navigation.
-    - For example, see the setup for [the Blue Book](https://lyz-code.github.io/blue-book/) at [github](https://github.com/lyz-code/blue-book/blob/master/mkdocs.yml). Managing each page using `nav` can become cumbersome as the number of notes increase though!
-- The Materials theme provides multiple options to arrange [sections](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections), use [navigation tabs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-tabs), and many other helpful [navigation setups](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/)
-
-## Alternatives
-
-- [kmaasrud/oboe](https://github.com/kmaasrud/oboe): tool to convert an Obsidian vault into a static directory of HTML files.
-- [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template): template for Obsidian/Foam using mkdocs/mkdocs-material/mkdocs-roamlinks-plugin
-- [foambubble/foam-template](https://github.com/foambubble/foam-template): Foam workpace template
-
-## Other interesting projects
-
-- [mathieudutour/gatsby-digital-garden: digital garden with Gatsby](https://github.com/mathieudutour/gatsby-digital-garden)
-- [TuanManhCao/digital-garden: Free Obisidian Publish alternative](https://github.com/TuanManhCao/digital-garden)
-
+## Get in touch
+Find us on [LinkedIn](https://www.linkedin.com/company/farm-on/) or contact us at [info@farmonapp.com](mailto:info@farmonapp.com).
