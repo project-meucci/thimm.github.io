@@ -1,5 +1,7 @@
 ---
 title: 10min with Geert van der Veer on how Herenboeren is scaling community owned farms in Europe
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-03-24)  

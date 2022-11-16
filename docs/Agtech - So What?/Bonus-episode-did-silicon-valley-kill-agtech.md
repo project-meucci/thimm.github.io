@@ -1,5 +1,7 @@
 ---
 title: Bonus Episode: Did Silicon Valley Kill Agtech?
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2021-08-18)  

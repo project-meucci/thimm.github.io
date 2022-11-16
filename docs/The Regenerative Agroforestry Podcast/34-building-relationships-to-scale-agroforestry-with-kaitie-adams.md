@@ -1,5 +1,7 @@
 ---
 title: #34 Building relationships to scale agroforestry with Kaitie Adams
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-01-31)  

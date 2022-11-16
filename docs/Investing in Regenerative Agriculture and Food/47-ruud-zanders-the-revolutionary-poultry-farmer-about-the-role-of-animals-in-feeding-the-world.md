@@ -1,5 +1,7 @@
 ---
 title: 47 Ruud Zanders, the revolutionary poultry farmer about the role of animals in feeding the world
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-04-02)  

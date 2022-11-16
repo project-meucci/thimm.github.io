@@ -1,5 +1,7 @@
 ---
 title: #41 The transition to Regen Ag and Belgian alley cropping trials with Soil Capital Farming
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-06-16)  

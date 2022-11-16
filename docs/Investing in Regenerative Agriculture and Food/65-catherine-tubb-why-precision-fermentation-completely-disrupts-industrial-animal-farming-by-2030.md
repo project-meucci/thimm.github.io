@@ -1,5 +1,7 @@
 ---
 title: 65 Catherine Tubb, why precision fermentation completely disrupts industrial animal farming by 2030
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-12-10)  

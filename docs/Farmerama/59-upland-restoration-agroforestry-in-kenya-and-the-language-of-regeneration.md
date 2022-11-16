@@ -1,5 +1,7 @@
 ---
 title: 59: Upland restoration, agroforestry in Kenya and the language of regeneration
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2020-08-30)  

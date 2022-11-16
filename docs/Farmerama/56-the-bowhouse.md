@@ -1,5 +1,7 @@
 ---
 title: 56: The Bowhouse
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2020-05-31)  

@@ -1,5 +1,7 @@
 ---
 title: 66 Lachy Ritchie, why fixing the agtalent problem is the key to the regen ag revolution
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-12-23)  

@@ -1,5 +1,7 @@
 ---
 title: 115 Robin Saluoks and Kristjan Luha on how to start paying 1500 grain farmers across 1M hectares for soil carbon
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-04-30)  

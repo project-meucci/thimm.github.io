@@ -1,5 +1,7 @@
 ---
 title: Can A Brand Be Regenerative Without Knowing the Farmer?
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Tasting Terroir  (2022-10-14)  

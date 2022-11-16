@@ -1,5 +1,7 @@
 ---
 title: #27 Practical feedback on establishing silvopastoral systems with Ben Raskin
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-08-27)  

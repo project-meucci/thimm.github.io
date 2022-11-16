@@ -1,5 +1,7 @@
 ---
 title: #3 Introducing agroforestry to a 1000ha grain farm with Benedikt Bösel
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-08-14)  

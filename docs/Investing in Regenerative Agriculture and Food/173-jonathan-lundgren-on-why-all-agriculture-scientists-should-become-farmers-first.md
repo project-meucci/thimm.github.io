@@ -1,5 +1,7 @@
 ---
 title: 173 Jonathan Lundgren on why all agriculture scientists should become farmers first
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-06-14)  

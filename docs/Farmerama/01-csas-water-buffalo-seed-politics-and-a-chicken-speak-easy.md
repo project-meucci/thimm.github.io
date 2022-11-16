@@ -1,5 +1,7 @@
 ---
 title: 01: CSAs, water buffalo, seed politics and a chicken speak-easy
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-03-10)  

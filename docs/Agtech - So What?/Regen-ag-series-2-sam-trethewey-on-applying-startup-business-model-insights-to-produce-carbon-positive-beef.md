@@ -1,5 +1,7 @@
 ---
 title: Regen Ag Series #2: Sam Trethewey on applying startup business model insights to produce carbon positive beef
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-07-29)  

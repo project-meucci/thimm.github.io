@@ -1,5 +1,7 @@
 ---
 title: Shorts: Tony Lovell, carbon-canny cattle rancher at Atlas of the Future event
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2018-06-30)  

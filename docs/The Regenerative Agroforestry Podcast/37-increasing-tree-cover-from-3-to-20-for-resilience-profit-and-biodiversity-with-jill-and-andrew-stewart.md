@@ -1,5 +1,7 @@
 ---
 title: #37 Increasing tree cover from 3% to 20% for resilience, profit and biodiversity with Jill and Andrew Stewart
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-03-31)  

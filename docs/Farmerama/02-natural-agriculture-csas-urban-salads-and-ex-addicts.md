@@ -1,5 +1,7 @@
 ---
 title: 02: Natural Agriculture, CSAs, urban salads and ex-addicts
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-03-10)  

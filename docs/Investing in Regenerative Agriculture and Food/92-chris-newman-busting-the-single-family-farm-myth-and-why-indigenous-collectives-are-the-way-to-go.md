@@ -1,5 +1,7 @@
 ---
 title: 92 Chris Newman, busting the single family farm myth and why indigenous collectives are the way to go
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-09-29)  

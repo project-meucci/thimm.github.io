@@ -1,5 +1,7 @@
 ---
 title: 103 Dan Kittredge, our biggest lever against climate change is paying for food quality
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-02-02)  

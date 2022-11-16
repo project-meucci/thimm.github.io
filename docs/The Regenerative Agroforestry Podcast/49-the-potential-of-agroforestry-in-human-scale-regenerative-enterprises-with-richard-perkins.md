@@ -1,5 +1,7 @@
 ---
 title: #49 The potential of agroforestry in human scale regenerative enterprises with Richard Perkins
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-10-28)  

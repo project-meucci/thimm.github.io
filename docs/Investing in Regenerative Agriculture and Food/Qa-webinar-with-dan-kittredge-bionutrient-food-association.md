@@ -1,5 +1,7 @@
 ---
 title: QA webinar with Dan Kittredge, Bionutrient Food Association
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-06-22)  

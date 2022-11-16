@@ -1,5 +1,7 @@
 ---
 title: The Authenticity Premium in AgTech Marketing with Camille Grade from Bushel and Travis Martin from Magnetic Ag
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2022-02-23)  

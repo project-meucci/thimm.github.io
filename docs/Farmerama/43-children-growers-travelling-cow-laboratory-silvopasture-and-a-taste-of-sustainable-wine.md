@@ -1,5 +1,7 @@
 ---
 title: 43: Children growers, travelling cow laboratory, silvopasture, and a taste of sustainable wine
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2019-02-24)  

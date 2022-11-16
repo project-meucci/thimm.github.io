@@ -1,5 +1,7 @@
 ---
 title: E45 Andrew Whitlock (Theme: getting agtech ready)
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2019-07-11)  

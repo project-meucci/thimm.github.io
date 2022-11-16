@@ -1,5 +1,7 @@
 ---
 title: 10 min with Brian Von Herzen on why oceans are the next billion $ opportunity of regen ag
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-04-07)  

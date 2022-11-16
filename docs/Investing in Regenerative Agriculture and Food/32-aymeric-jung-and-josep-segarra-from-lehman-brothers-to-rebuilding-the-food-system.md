@@ -1,5 +1,7 @@
 ---
 title: 32 Aymeric Jung and Josep Segarra, from Lehman Brothers to rebuilding the food system
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-03-17)  

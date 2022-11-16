@@ -1,5 +1,7 @@
 ---
 title: Dr. Jane Fife - Applying Better Soil Microbes | In Search of Soil #16
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### In Search of Soil  (2021-08-04)  

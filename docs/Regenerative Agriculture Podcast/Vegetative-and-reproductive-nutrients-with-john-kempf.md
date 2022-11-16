@@ -1,5 +1,7 @@
 ---
 title: Vegetative and Reproductive Nutrients with John Kempf
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Regenerative Agriculture Podcast  (2018-07-10)  

@@ -1,5 +1,7 @@
 ---
 title: 07a Mike Korchinsky, protecting forests in Congo and Kenya with local communities
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-02-25)  

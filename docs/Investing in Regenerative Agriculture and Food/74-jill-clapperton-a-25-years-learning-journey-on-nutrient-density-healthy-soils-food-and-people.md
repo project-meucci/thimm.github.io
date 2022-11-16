@@ -1,5 +1,7 @@
 ---
 title: 74 Jill Clapperton, a 25 years learning journey on nutrient density, healthy soils, food and people
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-02-25)  

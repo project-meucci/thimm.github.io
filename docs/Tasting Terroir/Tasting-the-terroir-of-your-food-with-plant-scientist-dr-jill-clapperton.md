@@ -1,5 +1,7 @@
 ---
 title: Tasting the Terroir of Your Food with plant scientist Dr. Jill Clapperton
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Tasting Terroir  (2022-08-17)  

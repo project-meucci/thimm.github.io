@@ -1,5 +1,7 @@
 ---
 title: 35: soil carbon, Greek traditional seeds, starting a market garden and educators in Indiana
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2018-06-24)  

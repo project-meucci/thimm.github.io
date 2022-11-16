@@ -1,5 +1,7 @@
 ---
 title: 10 min with Armin Steuernagel on how to keep a mission driven company independent and raise capital
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-11-19)  

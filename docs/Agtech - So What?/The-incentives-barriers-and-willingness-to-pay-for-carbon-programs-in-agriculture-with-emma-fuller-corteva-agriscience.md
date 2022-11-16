@@ -1,5 +1,7 @@
 ---
 title: The Incentives, Barriers, and Willingness to Pay for Carbon Programs in Agriculture, with Emma Fuller, Corteva Agriscience
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2022-07-13)  

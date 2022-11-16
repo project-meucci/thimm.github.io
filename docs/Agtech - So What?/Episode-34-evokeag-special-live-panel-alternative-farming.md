@@ -1,5 +1,7 @@
 ---
 title: Episode 34: EvokeAG Special. Live Panel - Alternative Farming
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2019-03-03)  

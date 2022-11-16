@@ -1,5 +1,7 @@
 ---
 title: Ep61 Alisdair Tulloch on the first-mover advantages of going carbon neutral
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-03-04)  

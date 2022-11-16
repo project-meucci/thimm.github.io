@@ -1,5 +1,7 @@
 ---
 title: 72 Mark Campanale Matt McLuckie, the hidden risks in the food and ag system any investor should know
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-02-04)  

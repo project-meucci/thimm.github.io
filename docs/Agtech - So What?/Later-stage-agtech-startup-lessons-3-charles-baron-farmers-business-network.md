@@ -1,5 +1,7 @@
 ---
 title: Later-Stage Agtech Startup Lessons #3 - Charles Baron, Farmers Business Network
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2021-12-01)  

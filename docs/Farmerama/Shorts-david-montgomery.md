@@ -1,5 +1,7 @@
 ---
 title: Shorts: David Montgomery
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-09-24)  

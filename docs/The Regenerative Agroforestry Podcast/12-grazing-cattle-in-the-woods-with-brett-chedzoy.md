@@ -1,5 +1,7 @@
 ---
 title: #12 Grazing cattle in the woods with Brett Chedzoy
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-12-26)  

@@ -1,5 +1,7 @@
 ---
 title: #45 Rethinking the agricultural status-quo by mimicking natural ecosystems with Mark Shepard
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-09-16)  

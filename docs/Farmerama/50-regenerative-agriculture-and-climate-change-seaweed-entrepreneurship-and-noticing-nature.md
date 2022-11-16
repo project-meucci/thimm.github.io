@@ -1,5 +1,7 @@
 ---
 title: 50: Regenerative agriculture and climate change, Seaweed entrepreneurship and noticing nature
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2019-09-29)  

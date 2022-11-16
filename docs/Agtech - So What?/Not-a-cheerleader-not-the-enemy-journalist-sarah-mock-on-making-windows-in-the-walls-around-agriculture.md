@@ -1,5 +1,7 @@
 ---
 title: "Not a cheerleader, not the enemy",  journalist Sarah Mock on making windows in the walls around agriculture
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-10-07)  

@@ -1,5 +1,7 @@
 ---
 title: #31 Designing, planting and managing a silvopasture system with Brett Chedzoy
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-11-24)  

@@ -1,5 +1,7 @@
 ---
 title: Ep 69: Renée Anderson "Cotton Farm Girl" on social media and social license
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-06-17)  

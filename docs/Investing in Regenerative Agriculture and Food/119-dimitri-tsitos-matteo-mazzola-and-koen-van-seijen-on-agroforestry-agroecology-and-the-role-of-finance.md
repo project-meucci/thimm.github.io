@@ -1,5 +1,7 @@
 ---
 title: 119 Dimitri Tsitos, Matteo Mazzola and Koen van Seijen on agroforestry, agroecology and the role of finance
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-05-18)  

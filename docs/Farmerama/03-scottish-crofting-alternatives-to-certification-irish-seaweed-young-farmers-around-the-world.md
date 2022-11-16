@@ -1,5 +1,7 @@
 ---
 title: 03: Scottish Crofting, alternatives to certification, Irish seaweed & young farmers around the world
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-03-10)  

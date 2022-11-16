@@ -1,5 +1,7 @@
 ---
 title: 143 Oscar Hovde Berntsen on how a global leader in virtual fencing comes from a tiny Norwegian town
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-12-07)  

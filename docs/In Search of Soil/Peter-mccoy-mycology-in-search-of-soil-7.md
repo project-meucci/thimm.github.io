@@ -1,5 +1,7 @@
 ---
 title: Peter McCoy - Mycology |In Search of Soil #7
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### In Search of Soil  (2020-11-25)  

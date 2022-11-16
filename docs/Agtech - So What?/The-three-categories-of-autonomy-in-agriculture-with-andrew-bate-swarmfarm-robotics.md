@@ -1,5 +1,7 @@
 ---
 title: The Three Categories of Autonomy in Agriculture, with Andrew Bate, SwarmFarm Robotics
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2022-07-27)  

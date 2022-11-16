@@ -1,5 +1,7 @@
 ---
 title: Ep 57 Fee Turner and Lee Coleman on being farmers and agtech founders
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-01-07)  

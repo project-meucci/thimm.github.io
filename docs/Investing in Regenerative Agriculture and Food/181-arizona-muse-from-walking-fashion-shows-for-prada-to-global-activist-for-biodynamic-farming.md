@@ -1,5 +1,7 @@
 ---
 title: 181 Arizona Muse from walking fashion shows for Prada to global activist for biodynamic farming
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-08-09)  

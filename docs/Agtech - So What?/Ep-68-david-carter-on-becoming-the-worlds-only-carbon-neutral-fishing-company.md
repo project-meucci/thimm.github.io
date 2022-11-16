@@ -1,5 +1,7 @@
 ---
 title: Ep 68: David Carter on becoming the world's only carbon neutral fishing company
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-06-03)  

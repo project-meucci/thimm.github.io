@@ -1,5 +1,7 @@
 ---
 title: 25: Soil carbon uncovered, chef-farmer connections, happy bees & homegrown veg
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-08-26)  

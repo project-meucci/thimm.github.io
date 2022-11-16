@@ -1,5 +1,7 @@
 ---
 title: 67 Ethan Steinberg and Jeremy Kaufman, ready to invest over 15M into agroforestry systems in the US
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-12-30)  

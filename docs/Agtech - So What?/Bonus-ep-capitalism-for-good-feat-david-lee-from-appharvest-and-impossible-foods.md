@@ -1,5 +1,7 @@
 ---
 title: BONUS EP: Capitalism for Good, feat. David Lee from AppHarvest and Impossible Foods
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2021-07-07)  

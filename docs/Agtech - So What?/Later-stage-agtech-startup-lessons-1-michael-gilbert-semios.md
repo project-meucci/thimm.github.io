@@ -1,5 +1,7 @@
 ---
 title: Later-Stage Agtech Startup Lessons #1 - Michael Gilbert, Semios
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2021-11-03)  

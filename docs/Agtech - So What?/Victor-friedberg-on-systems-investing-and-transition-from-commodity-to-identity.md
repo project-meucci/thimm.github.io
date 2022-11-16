@@ -1,5 +1,7 @@
 ---
 title: Victor Friedberg on Systems Investing and Transition from Commodity to Identity
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2019-10-09)  

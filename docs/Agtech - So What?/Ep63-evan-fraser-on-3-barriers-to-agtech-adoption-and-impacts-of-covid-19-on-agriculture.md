@@ -1,5 +1,7 @@
 ---
 title: Ep63 Evan Fraser on 3 barriers to agtech adoption and impacts of COVID-19 on agriculture
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-03-25)  

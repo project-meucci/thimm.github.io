@@ -1,5 +1,7 @@
 ---
 title: Carbon neutrality and tackling misinformation in red meat - Jason Strong, Meat and Livestock Australia
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2021-08-11)  

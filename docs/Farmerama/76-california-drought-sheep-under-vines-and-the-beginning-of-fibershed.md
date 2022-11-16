@@ -1,5 +1,7 @@
 ---
 title: 76: California drought, Sheep under vines and the beginning of Fibershed
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2022-10-30)  

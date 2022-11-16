@@ -1,5 +1,7 @@
 ---
 title: 155 Knut Bentzen on how to scale virtual fencing, the true enabler of regeneration
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-03-04)  

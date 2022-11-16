@@ -1,5 +1,7 @@
 ---
 title: 90 Ed Byrne, if regen food doesn't taste amazing and doesn’t make money it won't go anywhere
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-08-25)  

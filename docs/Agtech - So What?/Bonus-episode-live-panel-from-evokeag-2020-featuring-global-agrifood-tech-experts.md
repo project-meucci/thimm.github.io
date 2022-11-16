@@ -1,5 +1,7 @@
 ---
 title: BONUS Episode: Live panel from evokeAG 2020 featuring global agrifood tech experts
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-03-11)  

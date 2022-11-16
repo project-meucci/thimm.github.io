@@ -1,5 +1,7 @@
 ---
 title: 51: Compost, soil carbon vs soil health, a call to farm, CEREAL, and community beer
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2019-10-27)  

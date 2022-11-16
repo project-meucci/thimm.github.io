@@ -1,5 +1,7 @@
 ---
 title: Soil Builders, updates on green bonds in regen ag and the land ownership in the commons in the US
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-11-03)  

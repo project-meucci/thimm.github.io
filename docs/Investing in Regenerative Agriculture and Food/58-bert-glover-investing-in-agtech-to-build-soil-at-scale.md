@@ -1,5 +1,7 @@
 ---
 title: 58 Bert Glover, investing in agtech to build soil at scale
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-09-03)  

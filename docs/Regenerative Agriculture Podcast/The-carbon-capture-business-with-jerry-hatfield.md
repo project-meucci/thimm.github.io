@@ -1,5 +1,7 @@
 ---
 title: The Carbon Capture Business with Jerry Hatfield
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Regenerative Agriculture Podcast  (2019-06-11)  

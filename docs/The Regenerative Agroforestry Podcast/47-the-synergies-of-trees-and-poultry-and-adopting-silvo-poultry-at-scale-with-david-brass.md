@@ -1,5 +1,7 @@
 ---
 title: #47 The synergies of trees and poultry and adopting silvo-poultry at scale with David Brass
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-10-04)  

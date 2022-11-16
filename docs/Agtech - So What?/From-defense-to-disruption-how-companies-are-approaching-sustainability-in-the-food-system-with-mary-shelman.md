@@ -1,5 +1,7 @@
 ---
 title: From defense to disruption, how companies are approaching sustainability in the food system, with Mary Shelman
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Agtech - So What?  (2020-10-21)  

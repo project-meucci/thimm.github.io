@@ -1,5 +1,7 @@
 ---
 title: 23: Indigenous Soils, regenerative farming in Malawi, Essex Sea Buckthorn & no-till Meet the Farmers
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-06-25)  

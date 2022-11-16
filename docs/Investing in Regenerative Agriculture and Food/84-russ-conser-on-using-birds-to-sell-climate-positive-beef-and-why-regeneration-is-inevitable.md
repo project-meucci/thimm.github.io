@@ -1,5 +1,7 @@
 ---
 title: 84 Russ Conser on using birds to sell climate positive beef and why regeneration is inevitable
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-07-07)  

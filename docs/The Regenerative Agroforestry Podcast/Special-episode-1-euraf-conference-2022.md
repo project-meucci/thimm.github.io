@@ -1,5 +1,7 @@
 ---
 title: Special Episode #1 - EURAF Conference 2022
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-05-31)  

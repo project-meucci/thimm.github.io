@@ -1,5 +1,7 @@
 ---
 title: 47: Women farmers in Chile, woodchip, pasture-happy pigs and regenerative vineyard management
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2019-06-30)  

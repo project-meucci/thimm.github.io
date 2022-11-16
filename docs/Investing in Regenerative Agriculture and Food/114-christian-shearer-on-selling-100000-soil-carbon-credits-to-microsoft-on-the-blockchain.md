@@ -1,5 +1,7 @@
 ---
 title: 114 Christian Shearer on selling 100.000 soil carbon credits to Microsoft on the blockchain
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-04-27)  

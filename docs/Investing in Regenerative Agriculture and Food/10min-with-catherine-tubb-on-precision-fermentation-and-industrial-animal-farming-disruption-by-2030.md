@@ -1,5 +1,7 @@
 ---
 title: 10min with Catherine Tubb on precision fermentation and industrial animal farming disruption by 2030
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-04-21)  

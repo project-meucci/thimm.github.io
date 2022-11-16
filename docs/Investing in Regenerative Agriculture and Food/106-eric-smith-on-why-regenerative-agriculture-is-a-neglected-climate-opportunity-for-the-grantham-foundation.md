@@ -1,5 +1,7 @@
 ---
 title: 106 Eric Smith on why regenerative agriculture is a neglected climate opportunity for the Grantham Foundation
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-02-23)  

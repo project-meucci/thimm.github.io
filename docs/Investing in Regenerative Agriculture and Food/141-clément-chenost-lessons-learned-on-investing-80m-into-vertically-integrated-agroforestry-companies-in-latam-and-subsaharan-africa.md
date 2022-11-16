@@ -1,5 +1,7 @@
 ---
 title: 141 Clément Chenost - Lessons learned on investing 80M into vertically integrated agroforestry companies in LATAM and Subsaharan Africa
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-11-23)  

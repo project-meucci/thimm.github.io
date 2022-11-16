@@ -1,5 +1,7 @@
 ---
 title: #46 How can regenerative agriculture be scaled into the food industry supply chain?
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-09-26)  

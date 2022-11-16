@@ -1,5 +1,7 @@
 ---
 title: 77 Paul Gambill, paying farmers for storing carbon in their soils at Nori
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-04-14)  

@@ -1,5 +1,7 @@
 ---
 title: 24: Soil Health Principles, dung beetles, potato blight & native breed cheese
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-07-30)  

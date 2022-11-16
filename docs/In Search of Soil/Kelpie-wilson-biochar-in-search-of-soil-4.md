@@ -1,5 +1,7 @@
 ---
 title: Kelpie Wilson - Biochar | In Search of Soil #4
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### In Search of Soil  (2020-11-04)  

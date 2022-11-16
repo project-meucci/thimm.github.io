@@ -1,5 +1,7 @@
 ---
 title: Shorts: Sea Buckthorn
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-07-04)  

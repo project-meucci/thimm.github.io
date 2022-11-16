@@ -1,5 +1,7 @@
 ---
 title: 15: Dairy farming, transparent pricing, cheap soil testing, Wwoofing and the first Scottish Farmhack
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-03-10)  

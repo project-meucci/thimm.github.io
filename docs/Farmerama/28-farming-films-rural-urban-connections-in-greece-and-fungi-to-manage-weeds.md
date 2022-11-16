@@ -1,5 +1,7 @@
 ---
 title: 28: Farming films, rural-urban connections in Greece and fungi to manage weeds
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farmerama  (2017-11-26)  

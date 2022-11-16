@@ -1,5 +1,7 @@
 ---
 title: Diversity in agriculture & animal sciences
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Farm Gate  (2021-03-22)  

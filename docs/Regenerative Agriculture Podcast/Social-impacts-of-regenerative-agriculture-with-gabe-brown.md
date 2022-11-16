@@ -1,5 +1,7 @@
 ---
 title: Social Impacts of Regenerative Agriculture with Gabe Brown
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Regenerative Agriculture Podcast  (2018-04-14)  

@@ -1,5 +1,7 @@
 ---
 title: Building Soil While Cash Cropping with Loran Steinlage
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+
 ---
 
 ### Regenerative Agriculture Podcast  (2020-08-04)  
