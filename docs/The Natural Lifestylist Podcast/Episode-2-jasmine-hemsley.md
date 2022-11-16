@@ -1,4 +1,9 @@
-### The Natural Lifestylist Podcast  (2019-09-08)  
+
+    ---
+    title: Episode 2: Jasmine Hemsley
+    ---
+
+    ### The Natural Lifestylist Podcast  (2019-09-08)  
 ### Author(s): Tony Riddle  
 
 **[0:00:00-0:00:06](https://anchor.fm/tony-riddle/episodes/Episode-2-Jasmine-Hemsley-e59gj0#t=0:00:00):**  Hi I'm Tony Riddle and this is the Natural Lifestylist podcast. So way back  in December I had this crazy idea that I was going to run 900 miles from Lands End  to John O'Groats in 30 days but not just that I was gonna do it barefoot and yet  

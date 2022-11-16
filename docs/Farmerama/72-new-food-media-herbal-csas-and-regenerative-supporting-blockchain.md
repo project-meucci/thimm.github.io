@@ -1,4 +1,9 @@
-### Farmerama  (2022-02-28)  
+
+    ---
+    title: 72: new food media, herbal CSAs and regenerative supporting blockchain
+    ---
+
+    ### Farmerama  (2022-02-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/72-new-food-media-herbal-csas-and-regenerative-supporting-blockchain#t=0:00:00):**  Hello, welcome to PharmaRama. We're very grateful for those of you that support us  and allow us to bring you these stories every month. Even the smallest contribution makes  a big difference to us, so if you'd like to become a supporter, please visit patreon.com  

@@ -1,4 +1,9 @@
-### Farm Gate  (2022-02-08)  
+
+    ---
+    title: Soil & satellites
+    ---
+
+    ### Farm Gate  (2022-02-08)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Soil--satellites-e1e3roh#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finnlow Kustain, the Chief Executive of Farmwell and  the founder of the Food and Global Security Network.  In the last programme, I spoke to Charlie Davis from Savills about carbon farming and  

@@ -1,4 +1,9 @@
-### Farmerama  (2017-03-10)  
+
+    ---
+    title: 03: Scottish Crofting, alternatives to certification, Irish seaweed & young farmers around the world
+    ---
+
+    ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/03-farmerama#t=0:00:00):**  Thank you for being the hope that everyone in my generation has been looking for.  Thank you for turning on its head centuries of prejudice.  The prejudice against rural areas.  

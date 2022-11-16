@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2016-12-20)  
+
+    ---
+    title: 03 Paul McMahon, ecological agriculture makes more business sense than chemical agriculture
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2016-12-20)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2016/12/26/paul-mcmahon/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

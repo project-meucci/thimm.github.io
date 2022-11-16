@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2022-01-04)  
+
+    ---
+    title: 146 Paul Chatterton on working to finance the regeneration of 85m hectares across 16 landscapes
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2022-01-04)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/paul-chatterton-2#t=0:00:00):**  From Fiji to Slovakia, from Gabon to Scotland, there are very few people on the planet working  on financing regeneration at a landscape scale level.  So I'm super happy to check in again with Paul Chatterton of the Landscape Finance Lab  

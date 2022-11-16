@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2018-11-09)  
+
+    ---
+    title: 41 Victor Friedberg, 30m available for food moonshots! First focus: Soil 3.0
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2018-11-09)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2018/11/10/victor-friedberg/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

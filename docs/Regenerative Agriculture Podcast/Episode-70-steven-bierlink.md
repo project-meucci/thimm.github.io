@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2021-05-27)  
+
+    ---
+    title: Episode #70: Steven Bierlink
+    ---
+
+    ### Regenerative Agriculture Podcast  (2021-05-27)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:03](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_Bierlink_FINAL_AUDIO.mp3#t=0:00:00):**  Hi, friends. This is John, and this is the Regenerative Agriculture podcast,  where we talk about agronomic science and cultural management practices that regenerate plant health  and soil health, and of course, ultimately, animal and human health and the entire ecosystem.  

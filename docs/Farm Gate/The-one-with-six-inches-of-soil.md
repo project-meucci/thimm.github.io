@@ -1,4 +1,9 @@
-### Farm Gate  (2022-05-04)  
+
+    ---
+    title: The one with Six inches of Soil
+    ---
+
+    ### Farm Gate  (2022-05-04)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/The-one-with-Six-inches-of-Soil-e1i2g0p#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn LoKastain, the chief executive of Farmwell and founder  of the Food and Global Security Network.  The American radio broadcaster Paul Harvey summarised the fragility of human existence  

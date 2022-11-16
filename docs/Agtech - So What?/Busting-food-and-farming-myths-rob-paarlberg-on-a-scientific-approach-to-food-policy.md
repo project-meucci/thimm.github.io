@@ -1,4 +1,9 @@
-### Agtech - So What?  (2021-02-10)  
+
+    ---
+    title: Busting food and farming myths - Rob Paarlberg on a scientific approach to food policy
+    ---
+
+    ### Agtech - So What?  (2021-02-10)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/2/10/busting-food-and-farming-myths-with-evidence#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm your host, Sarah Nolet.  If you've ever struggled to get the facts straight around some of the controversial  
 **[0:00:12-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/2/10/busting-food-and-farming-myths-with-evidence#t=0:00:12):**  issues in food and agriculture, then you need to meet our next guest.  Robert Prowlberg is a political scientist and an author, and his books turn some of  the popular myths around food and farming policy completely on their head.  

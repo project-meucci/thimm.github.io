@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2019-06-04)  
+
+    ---
+    title: 12 min with Chuck de Liedekerke, we need more regenerative and financially literate farm managers
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2019-06-04)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2018/12/10/chuck-de-liedekerke/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full-length episode, please check the description below.  Welcome to another episode of Investing in Regenerative Agriculture – Investing as if the Planet Mattered,  a podcast show where I talk to the pioneers in the regenerative food and agriculture space  

@@ -1,4 +1,9 @@
-### Farmerama  (2018-05-28)  
+
+    ---
+    title: Shorts: GROW Observatory farm tour summary
+    ---
+
+    ### Farmerama  (2018-05-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:12](https://soundcloud.com/farmerama-radio/pavlos-and-olly#t=0:00:00):**  So we've just completed five farms in two days here in rural Greece and I've been really  impressed with the resilience, the innovation, the connecting up people and places are doing  with each other, with their land.  

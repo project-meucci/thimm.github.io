@@ -1,4 +1,9 @@
-### Farm Gate  (2021-04-13)  
+
+    ---
+    title: Dairy farming - Putting agroecology into practice
+    ---
+
+    ### Farm Gate  (2021-04-13)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Dairy-farming---Putting-agroecology-into-practice-euqnpg#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finlow Costain. This is the final episode in our Agroecology  series and I'm joined by two innovative and inspirational dairy farmers who are putting  agroecology into practice. David Finlay is from The Ethical Dairy in Dumfries and Galloway  

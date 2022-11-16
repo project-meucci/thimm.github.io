@@ -1,4 +1,9 @@
-### Farm Gate  (2022-09-01)  
+
+    ---
+    title: Getting off the treadmill
+    ---
+
+    ### Farm Gate  (2022-09-01)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Getting-off-the-treadmill-e1n8451#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finlow Costain, the Chief Executive of Farmwell and founder  of the Food and Global Security Network. This programme is part of a series in which I talk  to regenerative dairy producers from around the world. The series is part of the Regen  

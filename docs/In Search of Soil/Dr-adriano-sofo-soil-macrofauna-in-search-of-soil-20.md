@@ -1,4 +1,9 @@
-### In Search of Soil  (2021-09-01)  
+
+    ---
+    title: Dr. Adriano Sofo - Soil Macrofauna| In Search of Soil #20
+    ---
+
+    ### In Search of Soil  (2021-09-01)  
 
 **[0:00:00-0:00:21](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-20-AdrianoSofo-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Soil macrophauna.  Earthworms, beetles, ants, termites.  
 **[0:00:26-0:00:28](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-20-AdrianoSofo-FullEpisode.mp3#t=0:00:26):**  They're the engineers of the soil.  They open up pathways to allow air, water, and roots to go deep down in the soil, and  they help hold soil together by creating aggregate particles.  

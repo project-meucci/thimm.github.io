@@ -1,4 +1,9 @@
-### Farm Gate  (2020-11-10)  
+
+    ---
+    title: English agriculture policy - Where are we now?
+    ---
+
+    ### Farm Gate  (2020-11-10)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:08](https://anchor.fm/farmgate/episodes/English-agriculture-policy---Where-are-we-now-em9e4m#t=0:00:00):**  Welcome to Farmgate, I'm Finnlow Costayne.  The UK Agriculture Bill passed its third reading and has gone off for Royal Assent. But although  the principles have passed through parliament, much of the detail remains uncertain.  

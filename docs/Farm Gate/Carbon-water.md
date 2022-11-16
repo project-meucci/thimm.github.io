@@ -1,4 +1,9 @@
-### Farm Gate  (2021-06-28)  
+
+    ---
+    title: Carbon & water
+    ---
+
+    ### Farm Gate  (2021-06-28)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Carbon--water-e13jbga#t=0:00:00):**  Hello and welcome to Land Unlocked, a collaboration from the Food Farming and Countryside Commission  and the Farmgate podcast. I'm Fenlow Kastain, the chief executive of Farmwell, and in this  series I'm talking about land use, with influential figures from the UK and around the world in  

@@ -1,4 +1,9 @@
-### Farmerama  (2019-05-26)  
+
+    ---
+    title: 46: Vandana Shiva, Loans for enlightened Agriculture, mulching systems and talking no-til
+    ---
+
+    ### Farmerama  (2019-05-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/46-vandana-shiva-loans-or-enlightened-agriculture-and-mulching-systems#t=0:00:00):**  Hello and welcome to Farmerama. This month we hear from an inspirational woman who's  long been banging the drum for biodiversity and small-scale farmers around the world.  Then it's on to a field mulching evangelist and finally loans for enlightened agriculture.  

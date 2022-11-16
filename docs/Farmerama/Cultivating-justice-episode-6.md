@@ -1,4 +1,9 @@
-### Farmerama  (2022-07-31)  
+
+    ---
+    title: Cultivating Justice: Episode 6
+    ---
+
+    ### Farmerama  (2022-07-31)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:15](https://soundcloud.com/farmerama-radio/cultivating-justice-episode-6#t=0:00:00):**  She had a dream once where she realized that her experience and her consciousness and her  desire was just the sum total of all of her cells and bacteria, her organs and parts,  all held together in her skin, ornamented with painted nails and long brushed hair,  

@@ -1,4 +1,9 @@
-### Farmerama  (2022-10-30)  
+
+    ---
+    title: 76: California drought, Sheep under vines and the beginning of Fibershed
+    ---
+
+    ### Farmerama  (2022-10-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/california-drought-sheep-under-vines-and-the-beginning-of-fibershed#t=0:00:00):**  Hello and welcome to Farmerama. We haven't said that in a while. We hope you enjoyed  the recent Cultivating Justice series and then our bonus shorts where we featured different  millers from our series Cereal. We've just celebrated our seventh birthday, seven years  

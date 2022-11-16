@@ -1,4 +1,9 @@
-### Farmerama  (2018-05-02)  
+
+    ---
+    title: Shorts: GROW Observatory
+    ---
+
+    ### Farmerama  (2018-05-02)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/shorts-grow-observatory#t=0:00:00):**  Hello and welcome to this special feature for Farmerama.  The Grower Observatory is an EU-wide citizen science project helping people grow food and  care for their soils using regenerative practices. They do so through massive experiments using  

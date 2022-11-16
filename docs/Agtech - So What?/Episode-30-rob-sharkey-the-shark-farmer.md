@@ -1,4 +1,9 @@
-### Agtech - So What?  (2019-01-13)  
+
+    ---
+    title: Episode 30: Rob Sharkey, The Shark Farmer
+    ---
+
+    ### Agtech - So What?  (2019-01-13)  
 
 **[0:00:00-0:00:24](https://player.whooshkaa.com/episode?id=357330#t=0:00:00):**  Hello, and welcome to the AgTech So What podcast. Emerging technologies are rapidly changing  the global agricultural industry. We believe that this revolution is only getting started.  But there's still too much hype out there and too big of a disconnect between Ag and AgTech.  
 **[0:00:36-0:00:40](https://player.whooshkaa.com/episode?id=357330#t=0:00:36):**  So on this show, we try to bridge that gap. In each episode, we bring you the story of a  different innovator in agriculture and try to find the place where Ag and Tech meet.  I'm your host, Sarah Nolet. Welcome back to the AgTech So What podcast.  

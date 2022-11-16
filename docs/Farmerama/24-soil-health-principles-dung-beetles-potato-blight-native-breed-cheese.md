@@ -1,4 +1,9 @@
-### Farmerama  (2017-07-30)  
+
+    ---
+    title: 24: Soil Health Principles, dung beetles, potato blight & native breed cheese
+    ---
+
+    ### Farmerama  (2017-07-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/farmerama-24#t=0:00:00):**  Welcome to our two year anniversary edition of Farmer Llama.  We're here to bring you stories from farmers and growers around the UK.  We want to get stuck into uncovering the nitty gritty of producing.  

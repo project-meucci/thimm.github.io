@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-02-09)  
+
+    ---
+    title: 104 Judith D Schwartz on why our current economic framework is completely inadequate for regeneration at scale
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-02-09)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/judith-d-schwartz-2/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

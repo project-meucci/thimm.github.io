@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2021-03-31)  
+
+    ---
+    title: Episode #67: Jesse Frost
+    ---
+
+    ### Regenerative Agriculture Podcast  (2021-03-31)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_Jesse_Frost_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is Jon and this is the Regenerative Agriculture Podcast.  Welcome back, or if you haven't heard it before, welcome here for the first time.  This podcast is where we talk about the agronomic science and the cultural management practices  

@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2018-05-18)  
+
+    ---
+    title: Plant and Insect Communications in Biological Cropping Systems with Larry Phelan
+    ---
+
+    ### Regenerative Agriculture Podcast  (2018-05-18)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/plant-and-insect-communications-in-biological-cropping-systems-with-larry-phelan/#t=0:00:00):**  Hi friends, I'm Jon Kempf hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

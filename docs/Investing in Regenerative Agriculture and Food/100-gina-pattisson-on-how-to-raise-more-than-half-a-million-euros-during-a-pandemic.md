@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-01-05)  
+
+    ---
+    title: 100 Gina Pattisson on how to raise more than half a million euros during a pandemic
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-01-05)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2021/01/05/gina-pattinson#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

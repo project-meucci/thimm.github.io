@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2017-02-05)  
+
+    ---
+    title: 05 Michiel de Man, pushing back the desert in Spain with regenerative agriculture
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2017-02-05)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2017/04/30/michiel-de-man/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2019-07-19)  
+
+    ---
+    title: Andrew Voysey, Why the EU Taxonomy on Sustainable Finance matters to all regen investors?
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2019-07-19)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/2019/07/22/andrew-voysey/#t=0:00:00):**  Welcome to another interview. This is a short interview with Andri Vojtse, head of Business  and Government Solutions at Soil Capital. He wrote a LinkedIn post, Europe has defined  green business for investors. But what does this mean for regenerative agriculture?  

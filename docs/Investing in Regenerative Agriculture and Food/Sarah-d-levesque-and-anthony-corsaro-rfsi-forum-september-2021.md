@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-09-03)  
+
+    ---
+    title: Sarah D. Levesque and Anthony Corsaro - RFSI Forum September 2021
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-09-03)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:07](https://investinginregenerativeagriculture.com/sarah-d-levesque-and-anthony-corsaro#t=0:00:00):**  The Regenerative Food Systems Investment Forum is happening again in person in Oakland on September 28th and 29th.  And I'm joined by Sarah and Antonio to share a bit more about it.  Welcome to another episode of Investing in Regenerative Agriculture, Investing as if the Planet Mattered,  

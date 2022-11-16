@@ -1,4 +1,9 @@
-### Agtech - So What?  (2020-05-06)  
+
+    ---
+    title: Ep 66: Jim Chambers (Trimble) and Derek Norman (Bayer) on agtech acquisitions
+    ---
+
+    ### Agtech - So What?  (2020-05-06)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/5/6/ep-66-jim-chambers-trimble-and-derek-norman-bayer-on-agtech-acquisitions#t=0:00:00):**  Welcome back to the Ag Tech Silhouette podcast brought to you by Agthentik.  I'm your host and Agthentik founding partner, Sarah Nolet.  Today we are bringing you another live episode that was recorded at a virtual event I co-hosted  
 **[0:00:17-0:00:19](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/5/6/ep-66-jim-chambers-trimble-and-derek-norman-bayer-on-agtech-acquisitions#t=0:00:17):**  with Tim Hamrich.  Tim is the host of the amazing Future of Agriculture podcast, which I definitely recommend.  If you haven't checked it out, maybe start with episode 201 where Matthew Pryor, my business  

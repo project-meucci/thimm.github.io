@@ -1,4 +1,9 @@
-### Farmerama  (2020-07-26)  
+
+    ---
+    title: 58: Cooperative land, holistic management, FMNR and the secret life of insects
+    ---
+
+    ### Farmerama  (2020-07-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/episode-58-cooperative-land-holistic-management-farmer-managed-natural-regeneration-and-the-secret-life-of-insects#t=0:00:00):**  Hello and welcome to Farmerama.  This month, two new farmers share their experience of getting land through the Ecological Land  Cooperative and tell us why having a stake in their land is so crucial.  

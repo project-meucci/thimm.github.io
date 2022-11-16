@@ -1,4 +1,9 @@
-### Farm Gate  (2020-01-20)  
+
+    ---
+    title: Conservatives & the Environment - Interview with Sam Hall
+    ---
+
+    ### Farm Gate  (2020-01-20)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Conservatives--the-Environment---Interview-with-Sam-Hall-eaa26q#t=0:00:00):**  Hello. On Farmgate today, I'm talking to Sam Hall, the Director of the Conservative  Environment Network, also known as SEN. With nearly 60 MPs making up its parliamentary  caucus, SEN is arguably the most important and influential network of environmentally  

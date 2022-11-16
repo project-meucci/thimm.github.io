@@ -1,4 +1,9 @@
-### Agtech - So What?  (2021-01-27)  
+
+    ---
+    title: How can big companies like Coca-Cola impact the sustainability of our food system?
+    ---
+
+    ### Agtech - So What?  (2021-01-27)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/1/26-coca-cola-and-our-food-system#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast, brought to you by the Agthente Group.  I'm Sarah Nolet. So you've just clicked on this episode about Coca-Cola and you might  be wondering, well, what does Coke have to do with Ag Tech and farming? Well, more than  
 **[0:00:17-0:00:22](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/1/26-coca-cola-and-our-food-system#t=0:00:17):**  you may think. For one, the Coca-Cola company happens to be the largest commercial buyer  of sugar globally. And while their high sugar drinks certainly haven't earned them any gold  stars from nutritionists, we're interested in what the company is doing in terms of innovation  

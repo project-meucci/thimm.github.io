@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2022-05-24)  
+
+    ---
+    title: 170 Pete Oberle on how to invest in lab grown regenerative meat
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2022-05-24)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/pete-oberle#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

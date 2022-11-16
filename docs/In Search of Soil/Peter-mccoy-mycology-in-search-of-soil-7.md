@@ -1,4 +1,9 @@
-### In Search of Soil  (2020-11-25)  
+
+    ---
+    title: Peter McCoy - Mycology |In Search of Soil #7
+    ---
+
+    ### In Search of Soil  (2020-11-25)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-07-PeterMcCoy-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Is this our world?  Or are we just living inside of their world?  
 **[0:00:26-0:00:30](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-07-PeterMcCoy-FullEpisode.mp3#t=0:00:26):**  As humans we like to think that we control everything.  We're at the top of the food chain.  But yet everything that we create and build will eventually be taken apart one day by  

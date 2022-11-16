@@ -1,4 +1,9 @@
-### Farm Gate  (2020-10-05)  
+
+    ---
+    title: Regen Question Time
+    ---
+
+    ### Farm Gate  (2020-10-05)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Regen-Question-Time-ekk722#t=0:00:00):**  Hello, welcome to Farmgate, the Regenerative Agriculture podcast. I'm Finnlow Costane.  From the start, Farmgate has championed regenerative food systems as a solution to many of the  social, economic and environmental challenges we face. Because the regenerative movement  

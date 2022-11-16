@@ -1,4 +1,9 @@
-### Farmerama  (2018-10-27)  
+
+    ---
+    title: 39: Beginner farmer tips, Piglet to Plate and small-scale farmers feed the world
+    ---
+
+    ### Farmerama  (2018-10-27)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:18](https://soundcloud.com/farmerama-radio/39-activist-tips-piglet-to-plate-and-marching-for-farmers#t=0:00:00):**  Hello and welcome to episode 39 of Farmer Rama.  This month we're full to the brim with small scale farming heroines.  We start with a super inspiring farmer in New York state who shares her top 3 tips for  

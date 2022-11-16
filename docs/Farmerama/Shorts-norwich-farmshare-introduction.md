@@ -1,4 +1,9 @@
-### Farmerama  (2019-08-12)  
+
+    ---
+    title: Shorts: Norwich Farmshare introduction
+    ---
+
+    ### Farmerama  (2019-08-12)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:17](https://soundcloud.com/farmerama-radio/shorts-norwich-farmshare-introduction#t=0:00:00):**  Hello, my name is Joel Rodka. Last year I was setting up a market garden on a farm near  Peterborough. I recorded various podcasts throughout the year, charting my journey in  trying to establish a market garden and trying to make it successful. Unfortunately, that project  

@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-08-04)  
+
+    ---
+    title: 88 Elaine Ingham on why healthy soils don't need rotations
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-08-04)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/08/04/elaine-ingham#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

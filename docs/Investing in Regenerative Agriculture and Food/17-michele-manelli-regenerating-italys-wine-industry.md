@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2017-09-01)  
+
+    ---
+    title: 17 Michele Manelli, regenerating Italy's wine industry
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2017-09-01)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2017/09/06/michele-manelli/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course, or in the links below.  Now onto the podcast.  

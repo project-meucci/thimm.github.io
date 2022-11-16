@@ -1,4 +1,9 @@
-### Agtech - So What?  (2021-12-22)  
+
+    ---
+    title: FROM THE VAULT: Mark Ferguson on science, sheep, and the tech-enabled future of genetics
+    ---
+
+    ### Agtech - So What?  (2021-12-22)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/2/16/ep-60-mark-ferguson-on-science-sheep-and-the-tech-enabled-future-of-genetics#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the AgPentate Group.  I'm Sarah Nolet.  As we head off for the holidays and the summer here in Australia, we thought we'd bring back  
 **[0:00:12-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/2/16/ep-60-mark-ferguson-on-science-sheep-and-the-tech-enabled-future-of-genetics#t=0:00:12):**  one of our favorite and most popular episodes from the AgTech So What Vault.  We'll be back at the start of 2022 with new episodes, but in the meantime, this is my  conversation with Mark Ferguson, or Ferg as he's better known, from back in February 2020.  

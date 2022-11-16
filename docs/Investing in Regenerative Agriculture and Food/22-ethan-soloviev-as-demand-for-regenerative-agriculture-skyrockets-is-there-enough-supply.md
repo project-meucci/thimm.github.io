@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2017-11-24)  
+
+    ---
+    title: 22 Ethan Soloviev: As demand for regenerative agriculture skyrockets, is there enough supply?
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2017-11-24)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2017/11/28/ethan-soloviev/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

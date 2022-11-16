@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2020-02-11)  
+
+    ---
+    title: Redox: The Driver of Soil Microbial Interactions and Nutrient Availability with Olivier Husson
+    ---
+
+    ### Regenerative Agriculture Podcast  (2020-02-11)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/redox-the-driver-of-soil-microbial-interactions-and-nutrient-availability-with-olivier-husson/#t=0:00:00):**  Hi friends, this is Jon and this is the Regenerative Agriculture Podcast.  Welcome back to the Regenerative Agriculture Podcast.  In this episode, I am delighted to host Olivier Husson, who has been one of my heroes for  

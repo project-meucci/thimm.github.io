@@ -1,4 +1,9 @@
-### Farmerama  (2018-06-30)  
+
+    ---
+    title: Shorts: Tony Lovell, carbon-canny cattle rancher at Atlas of the Future event
+    ---
+
+    ### Farmerama  (2018-06-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/shorts-tony-lovell#t=0:00:00):**  Hello, how is everyone? Very good. So we've had very flash technology, we've had flash  videos and we've had block chains and all these sorts of things and now we're going  to have cows and grass just to ease us in at the end of the day. That's my two grandsons,  

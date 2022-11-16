@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2021-03-18)  
+
+    ---
+    title: Episode #66: Jon Stika
+    ---
+
+    ### Regenerative Agriculture Podcast  (2021-03-18)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_Jon_Stika_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is Jon and welcome back to the Regenerative Agriculture podcast where we talk  about the agronomic science and the cultural management practices that regenerate plant health  and soil health and ultimately of course livestock health and our own health as well and the health  

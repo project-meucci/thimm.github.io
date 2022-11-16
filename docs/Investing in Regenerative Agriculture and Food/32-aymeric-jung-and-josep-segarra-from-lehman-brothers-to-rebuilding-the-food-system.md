@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2018-03-17)  
+
+    ---
+    title: 32 Aymeric Jung and Josep Segarra, from Lehman Brothers to rebuilding the food system
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2018-03-17)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/2018/03/24/aymeric-jung-josep-segarra/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

@@ -1,4 +1,9 @@
-### Regenerative Agriculture Podcast  (2020-04-13)  
+
+    ---
+    title: Biophysics of Soil Plant Systems with Arden Andersen
+    ---
+
+    ### Regenerative Agriculture Podcast  (2020-04-13)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:29](https://podcast.vhostevents.com/uncategorized/biophysics-of-soil-plant-systems-with-arden-andersen/#t=0:00:00):**  Hi, friends. This is Jon and this is the Regenerative Agriculture podcast. Welcome back and thank you for listening. Today I'm very pleased and honored to have one of my mentors with us, Dr. Arden Anderson. For those who are familiar with the organic and biological agriculture history, Arden needs no introduction. He has a very rich history, both as a medical doctor and an agriculturalist with a PhD in biophysics, which is not  a typical approach you would find to the agricultural conversation. So I wanted to have a discussion with Arden about some more unusual aspects of agronomy that are very important. Before we jump into it, Arden, thank you for being here and we'd love for you to hear a bit about your background and the story of the work that you're doing today and your work in agriculture and what brought you there.  Certainly, my pleasure, Jon. Thank you very much. And thank you for all of your work as well. It's certainly been an interesting journey for me over the past number of decades. And I actually grew up on a dairy farm that my father and grandfather were a little bit holistically minded in that in the 50s and 60s, they saw that nutrition was the foundation of animal health.  

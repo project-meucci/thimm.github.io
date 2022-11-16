@@ -1,4 +1,9 @@
-### Farm Gate  (2021-05-31)  
+
+    ---
+    title: Saving Sierra Leone's fish
+    ---
+
+    ### Farm Gate  (2021-05-31)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Saving-Sierra-Leones-fish-e11tope#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. Our current mini-series about ocean  food is responding to sea-spiracy. The Netflix film concluded that there's no such thing  as sustainable fishing. Well, that's a pretty blunt statement and one that fails to recognise  

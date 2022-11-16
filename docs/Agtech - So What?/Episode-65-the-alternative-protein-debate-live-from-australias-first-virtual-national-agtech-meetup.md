@@ -1,4 +1,9 @@
-### Agtech - So What?  (2020-04-22)  
+
+    ---
+    title: Episode 65: The Alternative Protein Debate: live from Australia's first virtual, national agtech meetup
+    ---
+
+    ### Agtech - So What?  (2020-04-22)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/4/22/episode-65-the-alternative-protein-debate-live-from-australias-first-virtual-national-agtech-meetup#t=0:00:00):**  Welcome back to the Ag Tech So What! podcast brought to you by Agthentic.  I'm your host, Sarah Nolet.  Today's episode is a slightly edited recording of the first national virtual Ag Tech meetup.  
 **[0:00:15-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/4/22/episode-65-the-alternative-protein-debate-live-from-australias-first-virtual-national-agtech-meetup#t=0:00:15):**  The topic?  Alternative proteins.  Three guests, a chef and cellular agriculture entrepreneur, a chemistry PhD and disruption  

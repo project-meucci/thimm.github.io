@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-09-22)  
+
+    ---
+    title: Soil Builders, checking in with Zach Weiss on water cycles and a biodynamic baby food startup
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-09-22)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/09/22/soil-builders-1/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

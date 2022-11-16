@@ -1,4 +1,9 @@
-### Farmerama  (2019-11-14)  
+
+    ---
+    title: Rhonda Sherman: The Worm Farmer's Handbook
+    ---
+
+    ### Farmerama  (2019-11-14)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:15](https://soundcloud.com/farmerama-radio/rhonda-sherman-the-worm-farmers-handbook#t=0:00:00):**  Hello, and welcome to this special interview with vermicomposting aficionado Ronda Sherman.  Author, researcher and director of the Compost Learning Lab at North Carolina State University.  This episode is part of our Women of the Land series with Chelsea Green Publishing, in which  

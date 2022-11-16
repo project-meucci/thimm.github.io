@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2021-08-10)  
+
+    ---
+    title: 127 Pierre Rousseau, how can large banks finance the regeneration transition
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2021-08-10)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/pierre-rousseau#t=0:00:00):**  Welcome to a special mini-series where we explore the role of corporates in the regenerative transition.  This series is supported by the Earthworm Foundation.  Find out more in an interview we did with Bastien Sachet, the CEO of Earthworm, in the show notes below.  

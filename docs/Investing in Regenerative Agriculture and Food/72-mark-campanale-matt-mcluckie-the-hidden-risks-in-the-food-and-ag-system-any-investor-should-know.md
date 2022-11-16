@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-02-04)  
+
+    ---
+    title: 72 Mark Campanale Matt McLuckie, the hidden risks in the food and ag system any investor should know
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-02-04)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/02/05/mark-campanale-matt-mcluckie/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

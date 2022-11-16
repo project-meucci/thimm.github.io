@@ -1,4 +1,9 @@
-### Farmerama  (2020-08-26)  
+
+    ---
+    title: Shorts: Roger Dixon-Spain, Lismore, Scotland
+    ---
+
+    ### Farmerama  (2020-08-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/lismore-roger-dixon-spain-interview-short-edit#t=0:00:00):**  Welcome to this Farmerama short, featuring an extended interview with Lismore-based farmer  and holistic land manager Roger Dixon-Spain.  Do you want my surname as well?  

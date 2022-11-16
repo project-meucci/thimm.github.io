@@ -1,4 +1,9 @@
-### Investing in Regenerative Agriculture and Food  (2020-08-18)  
+
+    ---
+    title: Transition Finance for Farmers with Benedikt - Thomas Kliemt-Rippel, Kulturland Genossenschaft
+    ---
+
+    ### Investing in Regenerative Agriculture and Food  (2020-08-18)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](http://www.investinginregenerativeagriculture.com/2020/06/16/transition-finance-ep8#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

@@ -1,4 +1,9 @@
-### Farmerama  (2017-04-30)  
+
+    ---
+    title: 21: Care farming globally, cover crop porridge, small farmers activism, purple corn & PFLA Poetry
+    ---
+
+    ### Farmerama  (2017-04-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/21-farmerama#t=0:00:00):**  Hello and welcome once again to Farmer Mama.  This week we hear from a Canadian farm going against the grain and putting purple corn on the map.  We take a look at care farming examples from around the world, catch up with a Via Campesina member from Berlin,  

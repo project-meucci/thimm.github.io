@@ -1,4 +1,9 @@
-### Farmerama  (2017-04-30)  
+
+    ---
+    title: Shorts: Blue Corn
+    ---
+
+    ### Farmerama  (2017-04-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:12](https://soundcloud.com/farmerama-radio/blue-corn#t=0:00:00):**  The corn, yeah, we've had a lot of fun with that because we're not from a culture or an  ethnicity that typically uses a lot of corn, cooked corn.  So just developing recipes and finding different ways to use it has been rewarding.  

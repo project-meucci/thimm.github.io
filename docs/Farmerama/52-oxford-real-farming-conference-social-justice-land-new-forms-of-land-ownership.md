@@ -1,4 +1,9 @@
-### Farmerama  (2020-01-26)  
+
+    ---
+    title: 52: Oxford Real Farming Conference, social justice & land, new forms of land ownership
+    ---
+
+    ### Farmerama  (2020-01-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/farmerama-52#t=0:00:00):**  Hello and welcome to Farmerama.  And that was how it all began, with the mesmerising drums of the Shumei Taiko Ensemble.  This month we're at the Oxford Real Farming Conference, as we often are in the first week of the year.  

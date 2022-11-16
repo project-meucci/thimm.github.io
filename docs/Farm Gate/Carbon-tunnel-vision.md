@@ -1,4 +1,9 @@
-### Farm Gate  (2022-10-19)  
+
+    ---
+    title: Carbon tunnel vision
+    ---
+
+    ### Farm Gate  (2022-10-19)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Carbon-tunnel-vision-e1pfrsm#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finlow Kustain, the Chief Executive of Farmwell and founder  of the Food and Global Security Network.  Carbon tunnel vision is a nasty disease and can create a strongly distorted perspective  
