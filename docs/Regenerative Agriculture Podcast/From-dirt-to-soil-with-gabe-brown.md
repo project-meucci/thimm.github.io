@@ -1,7 +1,6 @@
 ---
-title: From Dirt To Soil with Gabe Brown
+title: From Dirt To Soil With Gabe Brown
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-11-02)  

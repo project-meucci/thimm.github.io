@@ -1,7 +1,6 @@
 ---
-title: Soil Builders, regenerative agroforestry on Hawaii and soil carbon credits in Australia
+title: Soil Builders Regenerative Agroforestry On Hawaii And Soil Carbon Credits In Australia
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-05-13)  

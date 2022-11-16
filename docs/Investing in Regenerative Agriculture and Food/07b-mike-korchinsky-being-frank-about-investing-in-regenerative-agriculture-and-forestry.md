@@ -1,7 +1,6 @@
 ---
-title: 07b Mike Korchinsky, being frank about investing in Regenerative Agriculture and Forestry
+title: 07b Mike Korchinsky Being Frank About Investing In Regenerative Agriculture And Forestry
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-04-18)  

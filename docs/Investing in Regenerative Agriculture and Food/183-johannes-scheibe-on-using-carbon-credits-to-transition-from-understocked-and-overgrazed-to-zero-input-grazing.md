@@ -1,7 +1,6 @@
 ---
-title: 183 Johannes Scheibe on using carbon credits to transition from understocked and overgrazed to zero input grazing
+title: 183 Johannes Scheibe On Using Carbon Credits To Transition From Understocked And Overgrazed To Zero Input Grazing
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-09-06)  

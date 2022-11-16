@@ -1,7 +1,6 @@
 ---
-title: Rebuilding Rural Economies with Ancient Grain and Regenerative Practices with Bob Quinn
+title: Rebuilding Rural Economies With Ancient Grain And Regenerative Practices With Bob Quinn
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2020-09-15)  

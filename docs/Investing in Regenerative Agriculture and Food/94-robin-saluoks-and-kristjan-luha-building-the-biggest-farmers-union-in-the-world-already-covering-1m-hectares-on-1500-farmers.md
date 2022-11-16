@@ -1,7 +1,6 @@
 ---
-title: 94 Robin Saluoks and Kristjan Luha, building the biggest farmers union in the world, already covering 1m hectares on 1500 farmers
+title: 94 Robin Saluoks And Kristjan Luha Building The Biggest Farmers Union In The World Already Covering 1m Hectares On 1500 Farmers
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-10-27)  

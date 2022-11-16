@@ -1,7 +1,6 @@
 ---
-title: 14 Renske Lynde, how to invest in the food system of the future?
+title: 14 Renske Lynde How To Invest In The Food System Of The Future
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-06-22)  

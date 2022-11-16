@@ -1,7 +1,6 @@
 ---
-title: 68 Brian Von Herzen, Why oceans are the next billion $ opportunity of regenerative agriculture
+title: 68 Brian Von Herzen Why Oceans Are The Next Billion Opportunity Of Regenerative Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-01-07)  

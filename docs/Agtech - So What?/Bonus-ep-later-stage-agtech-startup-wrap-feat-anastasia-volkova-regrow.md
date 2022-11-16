@@ -1,7 +1,6 @@
 ---
-title: Bonus Ep: Later-Stage Agtech Startup Wrap, feat. Anastasia Volkova, Regrow
+title: Bonus Ep Later Stage Agtech Startup Wrap Feat Anastasia Volkova Regrow
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-12-08)  

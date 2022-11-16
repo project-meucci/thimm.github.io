@@ -1,7 +1,6 @@
 ---
-title: What's changing at FAI Farms?
+title: Whats Changing At Fai Farms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-09-09)  

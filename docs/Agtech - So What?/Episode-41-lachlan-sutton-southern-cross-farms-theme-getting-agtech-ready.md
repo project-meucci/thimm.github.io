@@ -1,7 +1,6 @@
 ---
-title: Episode 41: Lachlan Sutton, Southern Cross Farms (Theme: getting agtech ready)
+title: Episode 41 Lachlan Sutton Southern Cross Farms Theme Getting Agtech Ready
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-05-14)  

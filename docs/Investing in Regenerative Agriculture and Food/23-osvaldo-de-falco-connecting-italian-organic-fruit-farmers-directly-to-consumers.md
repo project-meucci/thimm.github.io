@@ -1,7 +1,6 @@
 ---
-title: 23 Osvaldo de Falco, connecting Italian organic fruit farmers directly to consumers
+title: 23 Osvaldo De Falco Connecting Italian Organic Fruit Farmers Directly To Consumers
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-12-01)  

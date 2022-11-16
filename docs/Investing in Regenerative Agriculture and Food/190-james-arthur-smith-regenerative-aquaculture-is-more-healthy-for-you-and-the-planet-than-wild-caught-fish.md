@@ -1,7 +1,6 @@
 ---
-title: 190 James Arthur Smith - Regenerative aquaculture is more healthy for you and the planet than wild caught fish
+title: 190 James Arthur Smith Regenerative Aquaculture Is More Healthy For You And The Planet Than Wild Caught Fish
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-10-25)  

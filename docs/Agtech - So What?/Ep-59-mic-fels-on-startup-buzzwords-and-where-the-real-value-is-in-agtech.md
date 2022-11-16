@@ -1,7 +1,6 @@
 ---
-title: Ep 59: Mic Fels on startup buzzwords and where the real value is in agtech
+title: Ep 59 Mic Fels On Startup Buzzwords And Where The Real Value Is In Agtech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-02-05)  

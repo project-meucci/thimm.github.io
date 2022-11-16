@@ -1,7 +1,6 @@
 ---
-title: #20 Investing in large scale agroforestry with 12Tree
+title: 20 Investing In Large Scale Agroforestry With 12tree
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-05-10)  

@@ -1,7 +1,6 @@
 ---
-title: 170 Pete Oberle on how to invest in lab grown regenerative meat
+title: 170 Pete Oberle On How To Invest In Lab Grown Regenerative Meat
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-05-24)  

@@ -1,7 +1,6 @@
 ---
-title: Shorts: Charles Schembre on Carbon Farm Plans & Monitoring Soils
+title: Shorts Charles Schembre On Carbon Farm Plans Monitoring Soils
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-07-26)  

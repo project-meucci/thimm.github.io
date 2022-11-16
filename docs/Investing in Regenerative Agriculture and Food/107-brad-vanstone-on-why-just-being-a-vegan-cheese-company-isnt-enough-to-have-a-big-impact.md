@@ -1,7 +1,6 @@
 ---
-title: 107 Brad Vanstone on why just being a vegan cheese company isn’t enough to have a big impact
+title: 107 Brad Vanstone On Why Just Being A Vegan Cheese Company Isnt Enough To Have A Big Impact
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-03-09)  

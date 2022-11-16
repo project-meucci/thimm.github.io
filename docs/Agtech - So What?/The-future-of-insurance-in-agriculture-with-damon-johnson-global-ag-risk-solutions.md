@@ -1,7 +1,6 @@
 ---
-title: The Future of Insurance in Agriculture, with Damon Johnson, Global Ag Risk Solutions
+title: The Future Of Insurance In Agriculture With Damon Johnson Global Ag Risk Solutions
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-06-15)  

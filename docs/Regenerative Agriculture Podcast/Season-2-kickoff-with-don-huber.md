@@ -1,7 +1,6 @@
 ---
-title: Season 2 Kickoff with Don Huber
+title: Season 2 Kickoff With Don Huber
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2019-02-16)  

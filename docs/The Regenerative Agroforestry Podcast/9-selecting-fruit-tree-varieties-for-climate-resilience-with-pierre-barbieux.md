@@ -1,7 +1,6 @@
 ---
-title: #9 Selecting fruit tree varieties for climate resilience with Pierre Barbieux
+title: 9 Selecting Fruit Tree Varieties For Climate Resilience With Pierre Barbieux
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-11-10)  

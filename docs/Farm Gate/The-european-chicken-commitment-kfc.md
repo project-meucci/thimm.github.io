@@ -1,7 +1,6 @@
 ---
-title: The European Chicken Commitment & KFC
+title: The European Chicken Commitment Kfc
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-02-23)  

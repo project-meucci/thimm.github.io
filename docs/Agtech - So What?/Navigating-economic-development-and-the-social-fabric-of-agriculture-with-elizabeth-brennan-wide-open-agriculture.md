@@ -1,7 +1,6 @@
 ---
-title: Navigating Economic Development and the Social Fabric of Agriculture, with Elizabeth Brennan, Wide Open Agriculture
+title: Navigating Economic Development And The Social Fabric Of Agriculture With Elizabeth Brennan Wide Open Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-04-20)  

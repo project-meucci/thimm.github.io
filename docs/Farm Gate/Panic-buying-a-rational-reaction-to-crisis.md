@@ -1,7 +1,6 @@
 ---
-title: Panic buying - a rational reaction to crisis?
+title: Panic Buying A Rational Reaction To Crisis
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-03-31)  

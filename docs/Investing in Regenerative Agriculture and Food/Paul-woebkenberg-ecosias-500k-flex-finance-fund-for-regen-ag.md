@@ -1,7 +1,6 @@
 ---
-title: Paul Woebkenberg, Ecosia's 500K flex finance fund for regen ag
+title: Paul Woebkenberg Ecosias 500k Flex Finance Fund For Regen Ag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-09-13)  

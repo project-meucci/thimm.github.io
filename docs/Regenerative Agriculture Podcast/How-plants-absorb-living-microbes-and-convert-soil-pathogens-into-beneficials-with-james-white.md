@@ -1,7 +1,6 @@
 ---
-title: How Plants Absorb Living Microbes and Convert Soil Pathogens into Beneficials with James White
+title: How Plants Absorb Living Microbes And Convert Soil Pathogens Into Beneficials With James White
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2020-01-15)  

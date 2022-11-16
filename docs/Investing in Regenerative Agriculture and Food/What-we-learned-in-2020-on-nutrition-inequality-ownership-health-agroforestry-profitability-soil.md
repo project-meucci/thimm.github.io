@@ -1,7 +1,6 @@
 ---
-title: What we learned in 2020 on nutrition, inequality, ownership, health, agroforestry, profitability, soil
+title: What We Learned In 2020 On Nutrition Inequality Ownership Health Agroforestry Profitability Soil
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-12-28)  

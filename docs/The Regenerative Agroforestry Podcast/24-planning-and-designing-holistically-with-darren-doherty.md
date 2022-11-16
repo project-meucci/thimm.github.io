@@ -1,7 +1,6 @@
 ---
-title: #24 Planning and designing holistically with Darren Doherty
+title: 24 Planning And Designing Holistically With Darren Doherty
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-07-12)  

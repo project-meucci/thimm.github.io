@@ -1,7 +1,6 @@
 ---
-title: 42 Armin Steuernagel, how to keep your mission driven company independent and raise capital
+title: 42 Armin Steuernagel How To Keep Your Mission Driven Company Independent And Raise Capital
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-11-14)  

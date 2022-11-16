@@ -1,7 +1,6 @@
 ---
-title: 28 Volkert Engelsman, organic isn't too expensive, chemical is too cheap
+title: 28 Volkert Engelsman Organic Isnt Too Expensive Chemical Is Too Cheap
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-01-29)  

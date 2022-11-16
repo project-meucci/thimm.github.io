@@ -1,7 +1,6 @@
 ---
-title: Dr. David Johnson - Soil Microbiology | In Search of Soil #3
+title: Dr David Johnson Soil Microbiology In Search Of Soil 3
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### In Search of Soil  (2020-10-28)  

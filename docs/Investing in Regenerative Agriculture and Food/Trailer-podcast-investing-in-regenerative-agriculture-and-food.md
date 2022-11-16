@@ -1,7 +1,6 @@
 ---
-title: Trailer podcast Investing in Regenerative Agriculture and Food
+title: Trailer Podcast Investing In Regenerative Agriculture And Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-07-20)  

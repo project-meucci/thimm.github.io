@@ -1,7 +1,6 @@
 ---
-title: Breaking into agtech when you're not from a farm and "don't look the part"
+title: Breaking Into Agtech When Youre Not From A Farm And Dont Look The Part
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-12-16)  

@@ -1,7 +1,6 @@
 ---
-title: Ep 58: Fiona Aveyard on drought, dust storms, and value-adding
+title: Ep 58 Fiona Aveyard On Drought Dust Storms And Value Adding
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-01-22)  

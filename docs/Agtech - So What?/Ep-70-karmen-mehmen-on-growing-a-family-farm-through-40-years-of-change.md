@@ -1,7 +1,6 @@
 ---
-title: Ep 70: Karmen Mehmen on growing a family farm through 40 years of change
+title: Ep 70 Karmen Mehmen On Growing A Family Farm Through 40 Years Of Change
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-07-01)  

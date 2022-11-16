@@ -1,7 +1,6 @@
 ---
-title: Biologicals and chemistry: finding ways to commercialize the science
+title: Biologicals And Chemistry Finding Ways To Commercialize The Science
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-07-14)  

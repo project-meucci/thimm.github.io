@@ -1,7 +1,6 @@
 ---
-title: #43 The story, philosophy and principles of Syntropic Farming with Marc Leiber
+title: 43 The Story Philosophy And Principles Of Syntropic Farming With Marc Leiber
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-08-01)  

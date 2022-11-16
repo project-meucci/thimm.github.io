@@ -1,7 +1,6 @@
 ---
-title: 09: SoilCity in Glasgow, Farmhack, urban farm updates, glasshouses, plus rural entrepreneurs
+title: 09 Soilcity In Glasgow Farmhack Urban Farm Updates Glasshouses Plus Rural Entrepreneurs
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-10)  

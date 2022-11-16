@@ -1,7 +1,6 @@
 ---
-title: The food price crisis
+title: The Food Price Crisis
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2022-06-13)  

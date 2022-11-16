@@ -1,7 +1,6 @@
 ---
-title: #1 Our challenges at Mazi Farm and how the podcast came about
+title: 1 Our Challenges At Mazi Farm And How The Podcast Came About
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-08-03)  

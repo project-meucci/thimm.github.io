@@ -1,7 +1,6 @@
 ---
-title: What's caused the farmer protests in India and what does it mean for innovation in Ag?
+title: Whats Caused The Farmer Protests In India And What Does It Mean For Innovation In Ag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-06-16)  

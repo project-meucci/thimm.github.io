@@ -1,7 +1,6 @@
 ---
-title: 14: Terra Madre fishers, open-source tractor, holistic management, calves & eco-gastronomy
+title: 14 Terra Madre Fishers Open Source Tractor Holistic Management Calves Eco Gastronomy
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-10)  

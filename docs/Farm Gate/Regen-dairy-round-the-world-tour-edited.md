@@ -1,7 +1,6 @@
 ---
-title: Regen Dairy round-the-world tour (edited)
+title: Regen Dairy Round The World Tour Edited
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2022-10-06)  

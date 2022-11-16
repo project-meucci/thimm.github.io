@@ -1,7 +1,6 @@
 ---
-title: Busting food and farming myths - Rob Paarlberg on a scientific approach to food policy
+title: Busting Food And Farming Myths Rob Paarlberg On A Scientific Approach To Food Policy
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-02-10)  

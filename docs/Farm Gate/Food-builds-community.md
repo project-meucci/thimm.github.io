@@ -1,7 +1,6 @@
 ---
-title: Food builds community
+title: Food Builds Community
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-07-05)  

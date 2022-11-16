@@ -1,7 +1,6 @@
 ---
-title: Episode 27: Carl Lippert - FeedX
+title: Episode 27 Carl Lippert Feedx
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2018-12-10)  

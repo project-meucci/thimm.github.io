@@ -1,7 +1,6 @@
 ---
-title: 116 Russ Carrington on why Knepp, after rewilding, is moving into regenerative agriculture
+title: 116 Russ Carrington On Why Knepp After Rewilding Is Moving Into Regenerative Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-05-04)  

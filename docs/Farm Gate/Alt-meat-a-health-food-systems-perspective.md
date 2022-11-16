@@ -1,7 +1,6 @@
 ---
-title: ALT Meat - A health & food systems perspective
+title: Alt Meat A Health Food Systems Perspective
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-02-15)  

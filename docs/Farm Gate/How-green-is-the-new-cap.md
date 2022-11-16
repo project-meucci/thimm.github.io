@@ -1,7 +1,6 @@
 ---
-title: How green is the new CAP?
+title: How Green Is The New Cap
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-11-17)  

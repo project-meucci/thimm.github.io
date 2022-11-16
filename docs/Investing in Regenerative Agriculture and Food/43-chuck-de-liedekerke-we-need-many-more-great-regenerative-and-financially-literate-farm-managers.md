@@ -1,7 +1,6 @@
 ---
-title: 43 Chuck de Liedekerke, we need many more great regenerative and financially literate farm managers
+title: 43 Chuck De Liedekerke We Need Many More Great Regenerative And Financially Literate Farm Managers
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-11-27)  

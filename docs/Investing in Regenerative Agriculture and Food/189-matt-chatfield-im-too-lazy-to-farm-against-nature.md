@@ -1,7 +1,6 @@
 ---
-title: 189 Matt Chatfield – I’m too lazy to farm against nature
+title: 189 Matt Chatfield Im Too Lazy To Farm Against Nature
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-10-18)  

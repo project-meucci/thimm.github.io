@@ -1,7 +1,6 @@
 ---
-title: The one with Will Harris
+title: The One With Will Harris
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-01-19)  

@@ -1,7 +1,6 @@
 ---
-title: QA webinar with Phil Taylor and Brandon Welch of the Perennial Fund and Mad Agriculture
+title: Qa Webinar With Phil Taylor And Brandon Welch Of The Perennial Fund And Mad Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-07-20)  

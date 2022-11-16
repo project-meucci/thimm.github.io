@@ -1,7 +1,6 @@
 ---
-title: The Future of Fertilizer - Nitrogen: Part 2, with Jupiter Ionics and Kula Bio
+title: The Future Of Fertilizer Nitrogen Part 2 With Jupiter Ionics And Kula Bio
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-11-02)  

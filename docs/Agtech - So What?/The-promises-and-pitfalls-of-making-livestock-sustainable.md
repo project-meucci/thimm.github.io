@@ -1,7 +1,6 @@
 ---
-title: The promises and pitfalls of making livestock sustainable
+title: The Promises And Pitfalls Of Making Livestock Sustainable
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-03-10)  

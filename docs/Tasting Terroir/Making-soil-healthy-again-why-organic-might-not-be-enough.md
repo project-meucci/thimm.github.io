@@ -1,7 +1,6 @@
 ---
-title: Making Soil Healthy Again – Why Organic Might Not Be Enough
+title: Making Soil Healthy Again Why Organic Might Not Be Enough
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Tasting Terroir  (2022-08-24)  

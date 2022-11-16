@@ -1,7 +1,6 @@
 ---
-title: Soil Builders, 40M for carbon farming in AU and transitioning a 1000a farm using regenerative approaches
+title: Soil Builders 40m For Carbon Farming In Au And Transitioning A 1000a Farm Using Regenerative Approaches
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-01-12)  

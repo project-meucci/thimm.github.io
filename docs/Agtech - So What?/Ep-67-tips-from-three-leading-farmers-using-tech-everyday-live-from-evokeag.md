@@ -1,7 +1,6 @@
 ---
-title: Ep 67: tips from three leading farmers using tech everyday (live from evokeAG)
+title: Ep 67 Tips From Three Leading Farmers Using Tech Everyday Live From Evokeag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-05-20)  

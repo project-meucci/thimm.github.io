@@ -1,7 +1,6 @@
 ---
-title: 139 Dan Fitzgerald on applying the principles of regen ag to technology, even cellular ag
+title: 139 Dan Fitzgerald On Applying The Principles Of Regen Ag To Technology Even Cellular Ag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-11-09)  

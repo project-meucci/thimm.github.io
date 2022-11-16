@@ -1,7 +1,6 @@
 ---
-title: 40: Grain Lab, Flour Ambassadors, and Students helping to fix the food system
+title: 40 Grain Lab Flour Ambassadors And Students Helping To Fix The Food System
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-11-25)  

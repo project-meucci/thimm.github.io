@@ -1,7 +1,6 @@
 ---
-title: Why Regenerative Agriculture with John Kempf
+title: Why Regenerative Agriculture With John Kempf
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-06-26)  

@@ -1,7 +1,6 @@
 ---
-title: 64: Dung beetles, herbal medicine, hydrology and soil carbon
+title: 64 Dung Beetles Herbal Medicine Hydrology And Soil Carbon
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2021-03-28)  

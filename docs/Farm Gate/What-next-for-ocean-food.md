@@ -1,7 +1,6 @@
 ---
-title: What next for ocean food?
+title: What Next For Ocean Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-04-20)  

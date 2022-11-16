@@ -1,7 +1,6 @@
 ---
-title: Meeting in the Middle on Sustainable Supply Chains - Jessie Deelo, Vayda
+title: Meeting In The Middle On Sustainable Supply Chains Jessie Deelo Vayda
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-03-09)  

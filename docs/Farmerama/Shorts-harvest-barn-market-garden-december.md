@@ -1,7 +1,6 @@
 ---
-title: Shorts: Harvest Barn Market Garden December
+title: Shorts Harvest Barn Market Garden December
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-01-03)  

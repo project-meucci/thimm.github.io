@@ -1,7 +1,6 @@
 ---
-title: Regenerative Agriculture Industry Map ft Ethan Soloviev plus review 2019
+title: Regenerative Agriculture Industry Map Ft Ethan Soloviev Plus Review 2019
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-12-23)  

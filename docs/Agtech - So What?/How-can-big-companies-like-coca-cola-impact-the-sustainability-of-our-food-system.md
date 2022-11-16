@@ -1,7 +1,6 @@
 ---
-title: How can big companies like Coca-Cola impact the sustainability of our food system?
+title: How Can Big Companies Like Coca Cola Impact The Sustainability Of Our Food System
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-01-27)  

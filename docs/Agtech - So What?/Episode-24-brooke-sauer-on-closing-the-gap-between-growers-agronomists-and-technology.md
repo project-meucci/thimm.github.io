@@ -1,7 +1,6 @@
 ---
-title: Episode 24- Brooke Sauer On Closing The Gap Between Growers, Agronomists And Technology
+title: Episode 24 Brooke Sauer On Closing The Gap Between Growers Agronomists And Technology
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2018-06-06)  

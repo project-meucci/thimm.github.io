@@ -1,7 +1,6 @@
 ---
-title: 46: Vandana Shiva, Loans for enlightened Agriculture, mulching systems and talking no-til
+title: 46 Vandana Shiva Loans For Enlightened Agriculture Mulching Systems And Talking No Til
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-05-26)  

@@ -1,7 +1,6 @@
 ---
-title: ‘Cereal’ bonus episode: Felin Ganol watermill
+title: Cereal Bonus Episode Felin Ganol Watermill
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2022-10-02)  

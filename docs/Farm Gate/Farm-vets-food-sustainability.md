@@ -1,7 +1,6 @@
 ---
-title: Farm vets & food sustainability
+title: Farm Vets Food Sustainability
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2019-11-22)  

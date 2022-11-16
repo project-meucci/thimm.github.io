@@ -1,7 +1,6 @@
 ---
-title: From greed to green
+title: From Greed To Green
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-07-19)  

@@ -1,7 +1,6 @@
 ---
-title: 25: Soil carbon uncovered, chef-farmer connections, happy bees & homegrown veg
+title: 25 Soil Carbon Uncovered Chef Farmer Connections Happy Bees Homegrown Veg
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-08-26)  

@@ -1,7 +1,6 @@
 ---
-title: #21 How to get started farming with Matteo Mazzola, Koen van Seijen and Dimitri Tsitos
+title: 21 How To Get Started Farming With Matteo Mazzola Koen Van Seijen And Dimitri Tsitos
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-05-20)  

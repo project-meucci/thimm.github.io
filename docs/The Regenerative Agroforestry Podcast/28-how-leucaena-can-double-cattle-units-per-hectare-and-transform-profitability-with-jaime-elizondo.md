@@ -1,7 +1,6 @@
 ---
-title: #28 How leucaena can double cattle units per hectare and transform profitability with Jaime Elizondo
+title: 28 How Leucaena Can Double Cattle Units Per Hectare And Transform Profitability With Jaime Elizondo
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-09-15)  

@@ -1,7 +1,6 @@
 ---
-title: 38 Dirk Aleven, can investing in soil less, greenhouses in Ukraine be regenerative?
+title: 38 Dirk Aleven Can Investing In Soil Less Greenhouses In Ukraine Be Regenerative
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-08-05)  

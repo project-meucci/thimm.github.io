@@ -1,7 +1,6 @@
 ---
-title: 66: Ecosystem agriculture, the probiotic turn and regenerative flower growing
+title: 66 Ecosystem Agriculture The Probiotic Turn And Regenerative Flower Growing
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2021-05-30)  

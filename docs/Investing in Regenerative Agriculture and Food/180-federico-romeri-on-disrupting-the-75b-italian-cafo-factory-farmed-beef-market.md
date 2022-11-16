@@ -1,7 +1,6 @@
 ---
-title: 180 Federico Romeri on disrupting the €7,5B Italian CAFO factory farmed beef market
+title: 180 Federico Romeri On Disrupting The 75b Italian Cafo Factory Farmed Beef Market
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-08-02)  

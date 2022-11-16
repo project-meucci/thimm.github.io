@@ -1,7 +1,6 @@
 ---
-title: Episode 26: Chris McLoughlin - Mycelia Organics
+title: Episode 26 Chris Mcloughlin Mycelia Organics
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2018-12-04)  

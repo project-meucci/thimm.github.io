@@ -1,7 +1,6 @@
 ---
-title: Brandon Welch, Perennial fund, investing and profit sharing to get farmers to organic and beyond
+title: Brandon Welch Perennial Fund Investing And Profit Sharing To Get Farmers To Organic And Beyond
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-07-12)  

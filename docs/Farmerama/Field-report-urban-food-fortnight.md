@@ -1,7 +1,6 @@
 ---
-title: Field Report: Urban Food Fortnight
+title: Field Report Urban Food Fortnight
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-11)  

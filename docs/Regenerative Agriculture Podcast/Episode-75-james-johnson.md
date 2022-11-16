@@ -1,7 +1,6 @@
 ---
-title: Episode #75: James Johnson
+title: Episode 75 James Johnson
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2021-08-06)  

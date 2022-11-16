@@ -1,7 +1,6 @@
 ---
-title: Facilitating Large Scale Transitions to Regenerative Agriculture with Terry McCosker
+title: Facilitating Large Scale Transitions To Regenerative Agriculture With Terry Mccosker
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2020-09-02)  

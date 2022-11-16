@@ -1,7 +1,6 @@
 ---
-title: 48 Russell Wallack, which trees to plant where? Answering the oldest question in agriculture
+title: 48 Russell Wallack Which Trees To Plant Where Answering The Oldest Question In Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-04-16)  

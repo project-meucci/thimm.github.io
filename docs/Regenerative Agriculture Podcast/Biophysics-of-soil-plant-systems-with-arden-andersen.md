@@ -1,7 +1,6 @@
 ---
-title: Biophysics of Soil Plant Systems with Arden Andersen
+title: Biophysics Of Soil Plant Systems With Arden Andersen
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2020-04-13)  

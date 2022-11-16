@@ -1,7 +1,6 @@
 ---
-title: 11: Organic Soil-less Growing?, landscape based eating, salad harvester, crowdfarming & more
+title: 11 Organic Soil Less Growing Landscape Based Eating Salad Harvester Crowdfarming More
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-10)  

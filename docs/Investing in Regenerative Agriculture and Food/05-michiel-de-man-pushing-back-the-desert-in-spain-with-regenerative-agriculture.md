@@ -1,7 +1,6 @@
 ---
-title: 05 Michiel de Man, pushing back the desert in Spain with regenerative agriculture
+title: 05 Michiel De Man Pushing Back The Desert In Spain With Regenerative Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-02-05)  

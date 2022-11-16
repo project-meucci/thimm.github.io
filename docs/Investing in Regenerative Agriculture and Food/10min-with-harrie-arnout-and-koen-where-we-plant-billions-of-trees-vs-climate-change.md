@@ -1,7 +1,6 @@
 ---
-title: 10min with Harrie, Arnout and Koen where we plant billions of trees vs climate change?
+title: 10min With Harrie Arnout And Koen Where We Plant Billions Of Trees Vs Climate Change
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-05-09)  

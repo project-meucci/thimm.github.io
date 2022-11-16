@@ -1,7 +1,6 @@
 ---
-title: 31 Jeremy Harry Ethan, planting millions of productive trees with farmers on their farms
+title: 31 Jeremy Harry Ethan Planting Millions Of Productive Trees With Farmers On Their Farms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-03-15)  

@@ -1,7 +1,6 @@
 ---
-title: 12 min with Chuck de Liedekerke, we need more regenerative and financially literate farm managers
+title: 12 Min With Chuck De Liedekerke We Need More Regenerative And Financially Literate Farm Managers
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-06-04)  

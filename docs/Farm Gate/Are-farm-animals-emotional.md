@@ -1,7 +1,6 @@
 ---
-title: Are farm animals emotional?
+title: Are Farm Animals Emotional
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-09-21)  

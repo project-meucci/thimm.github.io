@@ -1,7 +1,6 @@
 ---
-title: 162 Clara Rowe on mapping all restoration projects in the world and provide transparency to the restoration movement
+title: 162 Clara Rowe On Mapping All Restoration Projects In The World And Provide Transparency To The Restoration Movement
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-04-05)  

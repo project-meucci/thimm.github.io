@@ -1,7 +1,6 @@
 ---
-title: 45: Gardens of Sanctuary, the adventure of organic farming, and biodynamic wines
+title: 45 Gardens Of Sanctuary The Adventure Of Organic Farming And Biodynamic Wines
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-04-28)  

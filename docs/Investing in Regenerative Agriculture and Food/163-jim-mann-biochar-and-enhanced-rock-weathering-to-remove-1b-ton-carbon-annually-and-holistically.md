@@ -1,7 +1,6 @@
 ---
-title: 163 Jim Mann - Biochar and enhanced rock weathering to remove 1B ton carbon annually and holistically
+title: 163 Jim Mann Biochar And Enhanced Rock Weathering To Remove 1b Ton Carbon Annually And Holistically
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-04-08)  

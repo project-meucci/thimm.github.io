@@ -1,7 +1,6 @@
 ---
-title: Ecosystem Diversity Prevents Insect Pressure with Jonathan Lundgren
+title: Ecosystem Diversity Prevents Insect Pressure With Jonathan Lundgren
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-07-20)  

@@ -1,7 +1,6 @@
 ---
-title: 137 Kellie Walters on how an Australian input company is helping China to regenerate 20 million acres
+title: 137 Kellie Walters On How An Australian Input Company Is Helping China To Regenerate 20 Million Acres
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-10-26)  

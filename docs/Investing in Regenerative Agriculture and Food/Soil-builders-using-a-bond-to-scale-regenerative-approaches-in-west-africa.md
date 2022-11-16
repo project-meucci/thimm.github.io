@@ -1,7 +1,6 @@
 ---
-title: Soil Builders, using a bond to scale regenerative approaches in West Africa
+title: Soil Builders Using A Bond To Scale Regenerative Approaches In West Africa
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-12-01)  

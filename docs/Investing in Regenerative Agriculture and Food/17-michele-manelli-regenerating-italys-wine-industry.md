@@ -1,7 +1,6 @@
 ---
-title: 17 Michele Manelli, regenerating Italy's wine industry
+title: 17 Michele Manelli Regenerating Italys Wine Industry
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-09-01)  

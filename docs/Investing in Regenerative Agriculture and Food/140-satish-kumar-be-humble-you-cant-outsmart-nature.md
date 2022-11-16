@@ -1,7 +1,6 @@
 ---
-title: 140 Satish Kumar – Be humble, you can’t outsmart nature
+title: 140 Satish Kumar Be Humble You Cant Outsmart Nature
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-11-16)  

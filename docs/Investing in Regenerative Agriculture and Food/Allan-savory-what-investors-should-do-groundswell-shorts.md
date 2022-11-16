@@ -1,7 +1,6 @@
 ---
-title: Allan Savory, What investors should do - Groundswell Shorts
+title: Allan Savory What Investors Should Do Groundswell Shorts
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-07-01)  

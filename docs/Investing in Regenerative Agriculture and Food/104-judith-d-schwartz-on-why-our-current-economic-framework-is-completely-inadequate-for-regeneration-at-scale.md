@@ -1,7 +1,6 @@
 ---
-title: 104 Judith D Schwartz on why our current economic framework is completely inadequate for regeneration at scale
+title: 104 Judith D Schwartz On Why Our Current Economic Framework Is Completely Inadequate For Regeneration At Scale
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-02-09)  

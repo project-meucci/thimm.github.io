@@ -1,7 +1,6 @@
 ---
-title: 89 Jeroen Klompe on building a fair farmers first marketplace
+title: 89 Jeroen Klompe On Building A Fair Farmers First Marketplace
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-08-11)  

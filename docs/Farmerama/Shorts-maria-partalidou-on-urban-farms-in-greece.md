@@ -1,7 +1,6 @@
 ---
-title: Shorts: Maria Partalidou on urban farms in Greece
+title: Shorts Maria Partalidou On Urban Farms In Greece
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-11-26)  

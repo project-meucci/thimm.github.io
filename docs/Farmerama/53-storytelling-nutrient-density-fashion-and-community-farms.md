@@ -1,7 +1,6 @@
 ---
-title: 53: Storytelling, Nutrient Density, Fashion and Community Farms
+title: 53 Storytelling Nutrient Density Fashion And Community Farms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-02-23)  

@@ -1,7 +1,6 @@
 ---
-title: The one with the WHO & IPES Food
+title: The One With The Who Ipes Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-07-06)  

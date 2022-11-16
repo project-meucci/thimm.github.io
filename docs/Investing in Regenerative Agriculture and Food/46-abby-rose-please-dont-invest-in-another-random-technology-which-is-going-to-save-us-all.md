@@ -1,7 +1,6 @@
 ---
-title: 46 Abby Rose, please don’t invest in another random technology which is going to save us all
+title: 46 Abby Rose Please Dont Invest In Another Random Technology Which Is Going To Save Us All
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-03-26)  

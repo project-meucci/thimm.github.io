@@ -1,7 +1,6 @@
 ---
-title: 61 Greg Shewmaker, there are hardly any nutrients in the food we eat
+title: 61 Greg Shewmaker There Are Hardly Any Nutrients In The Food We Eat
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-10-15)  

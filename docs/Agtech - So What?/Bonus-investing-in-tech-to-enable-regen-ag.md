@@ -1,7 +1,6 @@
 ---
-title: Bonus: Investing in tech to enable regen ag
+title: Bonus Investing In Tech To Enable Regen Ag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-10-28)  

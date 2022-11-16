@@ -1,7 +1,6 @@
 ---
-title: Systems Thinking and the Legacy of Big Food, with Dr Nigel Hughes, Kellogg
+title: Systems Thinking And The Legacy Of Big Food With Dr Nigel Hughes Kellogg
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-09-21)  

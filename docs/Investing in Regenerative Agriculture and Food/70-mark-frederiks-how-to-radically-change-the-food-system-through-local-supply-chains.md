@@ -1,7 +1,6 @@
 ---
-title: 70 Mark Frederiks, how to radically change the food system through local supply chains
+title: 70 Mark Frederiks How To Radically Change The Food System Through Local Supply Chains
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-01-21)  

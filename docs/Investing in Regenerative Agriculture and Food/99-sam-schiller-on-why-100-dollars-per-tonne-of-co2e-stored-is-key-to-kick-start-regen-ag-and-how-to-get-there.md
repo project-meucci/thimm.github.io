@@ -1,7 +1,6 @@
 ---
-title: 99 Sam Schiller on why 100 dollars per tonne of CO2e stored is key to kick start regen ag and how to get there
+title: 99 Sam Schiller On Why 100 Dollars Per Tonne Of Co2e Stored Is Key To Kick Start Regen Ag And How To Get There
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-12-15)  

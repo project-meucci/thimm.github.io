@@ -1,7 +1,6 @@
 ---
-title: Winning the Weed Control Challenge on Organic Crops with Klaas Martens
+title: Winning The Weed Control Challenge On Organic Crops With Klaas Martens
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-05-12)  

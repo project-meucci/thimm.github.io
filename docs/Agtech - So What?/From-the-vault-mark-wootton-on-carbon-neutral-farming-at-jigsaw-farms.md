@@ -1,7 +1,6 @@
 ---
-title: From the Vault: Mark Wootton on Carbon-Neutral Farming at Jigsaw Farms
+title: From The Vault Mark Wootton On Carbon Neutral Farming At Jigsaw Farms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-06-01)  

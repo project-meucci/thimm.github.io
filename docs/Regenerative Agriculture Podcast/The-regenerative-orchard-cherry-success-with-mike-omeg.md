@@ -1,7 +1,6 @@
 ---
-title: The Regenerative Orchard: Cherry Success with Mike Omeg
+title: The Regenerative Orchard Cherry Success With Mike Omeg
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2019-04-16)  

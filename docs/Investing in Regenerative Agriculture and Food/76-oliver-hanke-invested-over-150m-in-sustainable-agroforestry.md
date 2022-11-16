@@ -1,7 +1,6 @@
 ---
-title: 76 Oliver Hanke, invested over 150M in sustainable agroforestry
+title: 76 Oliver Hanke Invested Over 150m In Sustainable Agroforestry
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-03-17)  

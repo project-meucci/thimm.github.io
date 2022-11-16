@@ -1,7 +1,6 @@
 ---
-title: Ep. 46 - Ben Krasnostein (responding to climate risk)
+title: Ep 46 Ben Krasnostein Responding To Climate Risk
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-07-23)  

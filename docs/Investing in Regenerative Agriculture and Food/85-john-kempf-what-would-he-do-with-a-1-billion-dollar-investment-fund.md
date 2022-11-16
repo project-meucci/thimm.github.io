@@ -1,7 +1,6 @@
 ---
-title: 85 John Kempf, what would he do with a 1 billion dollar investment fund?
+title: 85 John Kempf What Would He Do With A 1 Billion Dollar Investment Fund
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-07-14)  

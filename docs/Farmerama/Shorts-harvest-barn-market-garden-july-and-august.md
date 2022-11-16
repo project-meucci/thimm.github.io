@@ -1,7 +1,6 @@
 ---
-title: Shorts: Harvest Barn Market Garden July and August
+title: Shorts Harvest Barn Market Garden July And August
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-08-13)  

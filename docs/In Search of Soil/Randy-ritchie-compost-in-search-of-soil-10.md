@@ -1,7 +1,6 @@
 ---
-title: Randy Ritchie - Compost | In Search of Soil #10
+title: Randy Ritchie Compost In Search Of Soil 10
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### In Search of Soil  (2020-12-16)  

@@ -1,7 +1,6 @@
 ---
-title: 42: No-cost agriculture in Zambia, Biofertilisers and a Regenerative farming journey
+title: 42 No Cost Agriculture In Zambia Biofertilisers And A Regenerative Farming Journey
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-01-27)  

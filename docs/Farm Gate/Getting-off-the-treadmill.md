@@ -1,7 +1,6 @@
 ---
-title: Getting off the treadmill
+title: Getting Off The Treadmill
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2022-09-01)  

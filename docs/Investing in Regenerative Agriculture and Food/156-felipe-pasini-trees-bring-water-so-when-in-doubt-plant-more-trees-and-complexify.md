@@ -1,7 +1,6 @@
 ---
-title: 156 Felipe Pasini – Trees bring water so when in doubt plant more trees and complexify
+title: 156 Felipe Pasini Trees Bring Water So When In Doubt Plant More Trees And Complexify
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-03-08)  

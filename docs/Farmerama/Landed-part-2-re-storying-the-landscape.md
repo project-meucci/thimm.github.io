@@ -1,7 +1,6 @@
 ---
-title: Landed part 2: Re-storying the landscape
+title: Landed Part 2 Re Storying The Landscape
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2021-07-11)  

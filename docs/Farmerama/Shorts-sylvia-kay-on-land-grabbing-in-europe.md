@@ -1,7 +1,6 @@
 ---
-title: Shorts: Sylvia Kay on land grabbing in Europe
+title: Shorts Sylvia Kay On Land Grabbing In Europe
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-03-07)  

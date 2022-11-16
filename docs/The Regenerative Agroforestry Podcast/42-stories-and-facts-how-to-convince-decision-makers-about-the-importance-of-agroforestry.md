@@ -1,7 +1,6 @@
 ---
-title: #42 Stories and facts: how to convince decision makers about the importance of agroforestry
+title: 42 Stories And Facts How To Convince Decision Makers About The Importance Of Agroforestry
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-07-15)  

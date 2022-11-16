@@ -1,7 +1,6 @@
 ---
-title: How Regenerative Agriculture Lets You Love Grains Again!
+title: How Regenerative Agriculture Lets You Love Grains Again
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Tasting Terroir  (2022-11-03)  

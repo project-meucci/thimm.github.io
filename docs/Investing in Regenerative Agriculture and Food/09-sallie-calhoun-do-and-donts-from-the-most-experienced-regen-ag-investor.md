@@ -1,7 +1,6 @@
 ---
-title: 09 Sallie Calhoun, do and don'ts from the most experienced regen ag investor
+title: 09 Sallie Calhoun Do And Donts From The Most Experienced Regen Ag Investor
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-04-02)  

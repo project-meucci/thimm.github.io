@@ -1,7 +1,6 @@
 ---
-title: 11 Sara Scherr, how to find great landscapes to invest in regenerative agriculture?
+title: 11 Sara Scherr How To Find Great Landscapes To Invest In Regenerative Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-05-15)  

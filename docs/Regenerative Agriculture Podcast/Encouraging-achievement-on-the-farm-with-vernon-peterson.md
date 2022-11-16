@@ -1,7 +1,6 @@
 ---
-title: Encouraging Achievement on the Farm with Vernon Peterson
+title: Encouraging Achievement On The Farm With Vernon Peterson
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2019-08-27)  

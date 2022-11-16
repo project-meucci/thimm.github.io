@@ -1,7 +1,6 @@
 ---
-title: 128 Laura Ortiz, let financiers being seduced by Latin America biodiversity wealth
+title: 128 Laura Ortiz Let Financiers Being Seduced By Latin America Biodiversity Wealth
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-08-24)  

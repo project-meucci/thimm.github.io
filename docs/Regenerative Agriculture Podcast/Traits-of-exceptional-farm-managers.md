@@ -1,7 +1,6 @@
 ---
-title: Traits of Exceptional Farm Managers
+title: Traits Of Exceptional Farm Managers
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-10-25)  

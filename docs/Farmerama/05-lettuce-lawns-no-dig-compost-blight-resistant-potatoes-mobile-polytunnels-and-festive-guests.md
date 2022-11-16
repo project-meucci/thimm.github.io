@@ -1,7 +1,6 @@
 ---
-title: 05: Lettuce lawns, no-dig compost, blight-resistant potatoes, mobile polytunnels and festive guests
+title: 05 Lettuce Lawns No Dig Compost Blight Resistant Potatoes Mobile Polytunnels And Festive Guests
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-10)  

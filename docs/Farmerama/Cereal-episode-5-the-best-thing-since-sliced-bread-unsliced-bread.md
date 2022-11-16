@@ -1,7 +1,6 @@
 ---
-title: ‘Cereal’ Episode 5: The best thing since sliced bread? Unsliced bread
+title: Cereal Episode 5 The Best Thing Since Sliced Bread Unsliced Bread
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-12-22)  

@@ -1,7 +1,6 @@
 ---
-title: "Who feeds us?" Episode 3: Growing our own
+title: Who Feeds Us Episode 3 Growing Our Own
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-10-25)  

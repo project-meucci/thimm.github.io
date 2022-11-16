@@ -1,7 +1,6 @@
 ---
-title: 64 Matteo Mazzola, the potential and opportunity of regenerative agriculture in Italy
+title: 64 Matteo Mazzola The Potential And Opportunity Of Regenerative Agriculture In Italy
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-11-26)  

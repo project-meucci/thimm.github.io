@@ -1,7 +1,6 @@
 ---
-title: Episode #69: Jason Hobson
+title: Episode 69 Jason Hobson
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2021-05-04)  

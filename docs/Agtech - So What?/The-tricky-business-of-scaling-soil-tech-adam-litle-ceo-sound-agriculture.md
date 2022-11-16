@@ -1,7 +1,6 @@
 ---
-title: The Tricky Business of Scaling Soil Tech - Adam Litle, CEO, Sound Agriculture
+title: The Tricky Business Of Scaling Soil Tech Adam Litle Ceo Sound Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-01-12)  

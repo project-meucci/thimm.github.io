@@ -1,7 +1,6 @@
 ---
-title: Soil Wealth: growing opportunities to allocate capital to regenerative food systems
+title: Soil Wealth Growing Opportunities To Allocate Capital To Regenerative Food Systems
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-10-08)  

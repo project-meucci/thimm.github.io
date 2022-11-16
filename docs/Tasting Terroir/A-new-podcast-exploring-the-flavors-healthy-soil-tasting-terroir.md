@@ -1,7 +1,6 @@
 ---
-title: A New Podcast Exploring the Flavors Healthy Soil: Tasting Terroir
+title: A New Podcast Exploring The Flavors Healthy Soil Tasting Terroir
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Tasting Terroir  (2022-08-05)  

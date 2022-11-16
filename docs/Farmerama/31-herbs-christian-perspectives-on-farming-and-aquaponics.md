@@ -1,7 +1,6 @@
 ---
-title: 31: herbs, Christian perspectives on farming and aquaponics
+title: 31 Herbs Christian Perspectives On Farming And Aquaponics
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-02-25)  

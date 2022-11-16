@@ -1,7 +1,6 @@
 ---
-title: Episode #73: John Fagan
+title: Episode 73 John Fagan
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2021-07-07)  

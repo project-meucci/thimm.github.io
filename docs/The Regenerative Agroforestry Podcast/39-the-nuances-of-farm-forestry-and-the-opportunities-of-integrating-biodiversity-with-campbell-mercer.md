@@ -1,7 +1,6 @@
 ---
-title: #39 The nuances of farm forestry and the opportunities of integrating biodiversity with Campbell Mercer
+title: 39 The Nuances Of Farm Forestry And The Opportunities Of Integrating Biodiversity With Campbell Mercer
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-05-03)  

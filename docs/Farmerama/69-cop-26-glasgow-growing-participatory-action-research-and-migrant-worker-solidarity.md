@@ -1,7 +1,6 @@
 ---
-title: 69: COP 26: Glasgow growing, participatory action research and migrant worker solidarity
+title: 69 Cop 26 Glasgow Growing Participatory Action Research And Migrant Worker Solidarity
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2021-11-28)  

@@ -1,7 +1,6 @@
 ---
-title: Farmers unite for global statement on GWP*
+title: Farmers Unite For Global Statement On Gwp
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-03-06)  

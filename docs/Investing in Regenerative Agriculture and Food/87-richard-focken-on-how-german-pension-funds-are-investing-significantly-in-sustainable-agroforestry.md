@@ -1,7 +1,6 @@
 ---
-title: 87 Richard Focken on how German pension funds are investing significantly in sustainable agroforestry
+title: 87 Richard Focken On How German Pension Funds Are Investing Significantly In Sustainable Agroforestry
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-07-28)  

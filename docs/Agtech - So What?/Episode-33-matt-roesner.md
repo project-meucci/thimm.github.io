@@ -1,7 +1,6 @@
 ---
-title: Episode 33: Matt Roesner
+title: Episode 33 Matt Roesner
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-02-25)  

@@ -1,7 +1,6 @@
 ---
 title: The Podcast Introduction
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-08-02)  

@@ -1,7 +1,6 @@
 ---
-title: #36 Managing a diverse landscape for healthy and productive animals with Fred Provenza
+title: 36 Managing A Diverse Landscape For Healthy And Productive Animals With Fred Provenza
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-03-09)  

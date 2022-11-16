@@ -1,7 +1,6 @@
 ---
-title: Managing water in the landscape
+title: Managing Water In The Landscape
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2022-08-17)  

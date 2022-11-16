@@ -1,7 +1,6 @@
 ---
-title: ‘Cereal’ Episode 4: The miller is missing
+title: Cereal Episode 4 The Miller Is Missing
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-12-15)  

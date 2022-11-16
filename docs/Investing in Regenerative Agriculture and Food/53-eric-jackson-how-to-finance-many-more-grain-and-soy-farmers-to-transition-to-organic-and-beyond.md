@@ -1,7 +1,6 @@
 ---
-title: 53 Eric Jackson - How to finance many more grain and soy farmers to transition to organic and beyond
+title: 53 Eric Jackson How To Finance Many More Grain And Soy Farmers To Transition To Organic And Beyond
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-06-25)  

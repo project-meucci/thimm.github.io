@@ -1,7 +1,6 @@
 ---
-title: 126 Nathalie Whitaker and Mike Taitoko, regenerating New Zealand’s dairy industry focussing on water not carbon
+title: 126 Nathalie Whitaker And Mike Taitoko Regenerating New Zealands Dairy Industry Focussing On Water Not Carbon
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-07-27)  

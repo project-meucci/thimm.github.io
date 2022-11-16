@@ -1,7 +1,6 @@
 ---
-title: 73: Chilean natural cider, the Regen Platform and biodynamic whiskey
+title: 73 Chilean Natural Cider The Regen Platform And Biodynamic Whiskey
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2022-03-27)  

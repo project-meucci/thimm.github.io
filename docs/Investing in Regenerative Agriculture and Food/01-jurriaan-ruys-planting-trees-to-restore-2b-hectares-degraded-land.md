@@ -1,7 +1,6 @@
 ---
-title: 01 Jurriaan Ruys, planting trees to restore 2b hectares degraded land
+title: 01 Jurriaan Ruys Planting Trees To Restore 2b Hectares Degraded Land
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2016-12-20)  

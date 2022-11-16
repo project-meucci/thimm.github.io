@@ -1,7 +1,6 @@
 ---
-title: 171 Charles Eisenstein - Money or ecology: investors have to make a choice on which master they serve
+title: 171 Charles Eisenstein Money Or Ecology Investors Have To Make A Choice On Which Master They Serve
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-05-31)  

@@ -1,7 +1,6 @@
 ---
-title: 13 Gregory Landua, the role of blockchain in regenerative agriculture, and much more
+title: 13 Gregory Landua The Role Of Blockchain In Regenerative Agriculture And Much More
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-06-04)  

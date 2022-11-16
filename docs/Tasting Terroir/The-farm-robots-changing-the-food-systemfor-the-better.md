@@ -1,7 +1,6 @@
 ---
-title: The Farm Robots Changing the Food System....For the Better!
+title: The Farm Robots Changing The Food Systemfor The Better
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Tasting Terroir  (2022-10-06)  

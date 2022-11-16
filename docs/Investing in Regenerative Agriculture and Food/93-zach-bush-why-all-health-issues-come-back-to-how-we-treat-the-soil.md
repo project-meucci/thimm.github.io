@@ -1,7 +1,6 @@
 ---
-title: 93 Zach Bush, why all health issues come back to how we treat the soil
+title: 93 Zach Bush Why All Health Issues Come Back To How We Treat The Soil
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-10-12)  

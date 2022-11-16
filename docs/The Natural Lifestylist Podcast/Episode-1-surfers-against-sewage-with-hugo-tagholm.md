@@ -1,7 +1,6 @@
 ---
-title: Episode 1: Surfers Against Sewage with Hugo Tagholm
+title: Episode 1 Surfers Against Sewage With Hugo Tagholm
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Natural Lifestylist Podcast  (2019-09-03)  

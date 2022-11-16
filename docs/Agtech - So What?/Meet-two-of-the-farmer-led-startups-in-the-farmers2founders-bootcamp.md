@@ -1,7 +1,6 @@
 ---
-title: Meet two of the farmer-led startups in the Farmers2Founders Bootcamp
+title: Meet Two Of The Farmer Led Startups In The Farmers2founders Bootcamp
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-12-04)  

@@ -1,7 +1,6 @@
 ---
-title: 10 Thomas Vaassen, land tenures hold the key to regenerative agriculture?
+title: 10 Thomas Vaassen Land Tenures Hold The Key To Regenerative Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-04-18)  

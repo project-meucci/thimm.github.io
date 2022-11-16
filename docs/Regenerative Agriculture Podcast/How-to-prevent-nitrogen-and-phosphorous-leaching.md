@@ -1,7 +1,6 @@
 ---
-title: How To Prevent Nitrogen and Phosphorous Leaching
+title: How To Prevent Nitrogen And Phosphorous Leaching
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-08-10)  

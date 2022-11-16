@@ -1,7 +1,6 @@
 ---
-title: What's happening to food & agriculture in Wales?
+title: Whats Happening To Food Agriculture In Wales
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-08-04)  

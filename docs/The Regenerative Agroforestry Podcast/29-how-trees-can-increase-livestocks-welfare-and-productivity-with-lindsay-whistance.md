@@ -1,7 +1,6 @@
 ---
-title: #29 How trees can increase livestock's welfare and productivity with Lindsay Whistance
+title: 29 How Trees Can Increase Livestocks Welfare And Productivity With Lindsay Whistance
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-10-05)  

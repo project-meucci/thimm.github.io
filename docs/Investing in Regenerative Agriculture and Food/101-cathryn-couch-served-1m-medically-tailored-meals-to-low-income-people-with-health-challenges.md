@@ -1,7 +1,6 @@
 ---
-title: 101 Cathryn Couch served 1m medically tailored meals to low income people with health challenges
+title: 101 Cathryn Couch Served 1m Medically Tailored Meals To Low Income People With Health Challenges
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-01-19)  

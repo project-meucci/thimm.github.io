@@ -1,7 +1,6 @@
 ---
-title: Erosion, Soil Balance, and Cover Crops with Steve Groff
+title: Erosion Soil Balance And Cover Crops With Steve Groff
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-05-05)  

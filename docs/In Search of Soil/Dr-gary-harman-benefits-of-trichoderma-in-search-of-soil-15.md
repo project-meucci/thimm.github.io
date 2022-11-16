@@ -1,7 +1,6 @@
 ---
-title: Dr. Gary Harman - Benefits of Trichoderma | In Search of Soil #15
+title: Dr Gary Harman Benefits Of Trichoderma In Search Of Soil 15
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### In Search of Soil  (2021-07-28)  

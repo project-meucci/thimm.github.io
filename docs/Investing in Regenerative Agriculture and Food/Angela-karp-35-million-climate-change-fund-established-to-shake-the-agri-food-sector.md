@@ -1,7 +1,6 @@
 ---
-title: Angela Karp, £3.5 million climate change fund established to shake the agri-food sector
+title: Angela Karp 35 Million Climate Change Fund Established To Shake The Agri Food Sector
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-07-22)  

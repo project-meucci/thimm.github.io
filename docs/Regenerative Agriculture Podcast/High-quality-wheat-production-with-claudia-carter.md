@@ -1,7 +1,6 @@
 ---
-title: High Quality Wheat Production with Claudia Carter
+title: High Quality Wheat Production With Claudia Carter
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2020-01-28)  

@@ -1,7 +1,6 @@
 ---
-title: #33 Perennial polycultures and a 500 acre landlord driven agroforestry conversion with Scott and Sandy Williams
+title: 33 Perennial Polycultures And A 500 Acre Landlord Driven Agroforestry Conversion With Scott And Sandy Williams
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-01-16)  

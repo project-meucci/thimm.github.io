@@ -1,7 +1,6 @@
 ---
-title: Scaling up Soil Carbon Markets - feat. guests from Cargill, Nori and more!
+title: Scaling Up Soil Carbon Markets Feat Guests From Cargill Nori And More
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-12-02)  

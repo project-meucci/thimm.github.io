@@ -1,7 +1,6 @@
 ---
-title: New Zealand's Dairy Pollution Problem - how an urgent issue is driving innovation
+title: New Zealands Dairy Pollution Problem How An Urgent Issue Is Driving Innovation
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-05-05)  

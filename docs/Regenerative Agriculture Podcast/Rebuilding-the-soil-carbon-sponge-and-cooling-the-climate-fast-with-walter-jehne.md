@@ -1,7 +1,6 @@
 ---
-title: Rebuilding The Soil Carbon Sponge, and Cooling the Climate Fast with Walter Jehne
+title: Rebuilding The Soil Carbon Sponge And Cooling The Climate Fast With Walter Jehne
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2019-10-15)  

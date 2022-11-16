@@ -1,7 +1,6 @@
 ---
-title: Can a small non-profit farm near NYC change the food system?
+title: Can A Small Non Profit Farm Near Nyc Change The Food System
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-02-24)  

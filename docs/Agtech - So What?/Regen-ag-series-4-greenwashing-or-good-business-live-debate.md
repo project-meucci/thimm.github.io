@@ -1,7 +1,6 @@
 ---
-title: Regen Ag Series #4: Greenwashing or Good Business? Live debate.
+title: Regen Ag Series 4 Greenwashing Or Good Business Live Debate
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-09-09)  

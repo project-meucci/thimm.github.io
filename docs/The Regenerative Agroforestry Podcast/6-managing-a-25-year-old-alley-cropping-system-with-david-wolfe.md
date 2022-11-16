@@ -1,7 +1,6 @@
 ---
-title: #6 Managing a 25 year old alley cropping system with David Wolfe
+title: 6 Managing A 25 Year Old Alley Cropping System With David Wolfe
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-09-30)  

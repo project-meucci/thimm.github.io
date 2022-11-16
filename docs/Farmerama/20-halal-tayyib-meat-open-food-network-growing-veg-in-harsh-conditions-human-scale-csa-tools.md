@@ -1,7 +1,6 @@
 ---
-title: 20: Halal & Tayyib meat, Open Food Network, growing veg in harsh conditions & human-scale CSA tools
+title: 20 Halal Tayyib Meat Open Food Network Growing Veg In Harsh Conditions Human Scale Csa Tools
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-25)  

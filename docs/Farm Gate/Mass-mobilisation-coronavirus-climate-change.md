@@ -1,7 +1,6 @@
 ---
-title: Mass mobilisation, coronavirus & climate change
+title: Mass Mobilisation Coronavirus Climate Change
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-05-04)  

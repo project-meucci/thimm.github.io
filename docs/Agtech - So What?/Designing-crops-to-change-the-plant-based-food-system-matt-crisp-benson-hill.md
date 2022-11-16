@@ -1,7 +1,6 @@
 ---
-title: Designing Crops to Change the Plant-Based Food System - Matt Crisp, Benson Hill
+title: Designing Crops To Change The Plant Based Food System Matt Crisp Benson Hill
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-08-25)  

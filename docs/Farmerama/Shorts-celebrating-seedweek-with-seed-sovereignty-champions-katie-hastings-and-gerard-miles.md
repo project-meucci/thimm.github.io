@@ -1,7 +1,6 @@
 ---
-title: Shorts: Celebrating #SeedWeek with seed sovereignty champions Katie Hastings and Gerard Miles
+title: Shorts Celebrating Seedweek With Seed Sovereignty Champions Katie Hastings And Gerard Miles
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-11-18)  

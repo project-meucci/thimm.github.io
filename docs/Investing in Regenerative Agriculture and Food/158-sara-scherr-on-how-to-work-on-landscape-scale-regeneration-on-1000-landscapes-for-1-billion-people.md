@@ -1,7 +1,6 @@
 ---
-title: 158 Sara Scherr on how to work on landscape scale regeneration on 1000 landscapes for 1 billion people
+title: 158 Sara Scherr On How To Work On Landscape Scale Regeneration On 1000 Landscapes For 1 Billion People
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-03-15)  

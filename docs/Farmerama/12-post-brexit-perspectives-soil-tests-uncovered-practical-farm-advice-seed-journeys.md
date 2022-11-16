@@ -1,7 +1,6 @@
 ---
-title: 12: Post-brexit perspectives, soil tests uncovered, practical farm advice & seed journeys
+title: 12 Post Brexit Perspectives Soil Tests Uncovered Practical Farm Advice Seed Journeys
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-10)  

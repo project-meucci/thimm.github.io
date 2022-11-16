@@ -1,7 +1,6 @@
 ---
-title: Episode 22 - Kevin Heikes With Perspectives On Agtech From Over 20 Years In The Space
+title: Episode 22 Kevin Heikes With Perspectives On Agtech From Over 20 Years In The Space
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2018-05-23)  

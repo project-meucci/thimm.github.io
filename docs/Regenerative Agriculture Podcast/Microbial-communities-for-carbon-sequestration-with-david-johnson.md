@@ -1,7 +1,6 @@
 ---
-title: Microbial Communities for Carbon Sequestration with David Johnson
+title: Microbial Communities For Carbon Sequestration With David Johnson
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2020-06-29)  

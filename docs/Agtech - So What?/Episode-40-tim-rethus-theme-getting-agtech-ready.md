@@ -1,7 +1,6 @@
 ---
-title: Episode 40: Tim Rethus (Theme: Getting AgTech Ready)
+title: Episode 40 Tim Rethus Theme Getting Agtech Ready
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-04-30)  

@@ -1,7 +1,6 @@
 ---
-title: Unscrambling Go-to-Market and Brand in Alternative Protein, with Tanja Bogumil, Perfeggt
+title: Unscrambling Go To Market And Brand In Alternative Protein With Tanja Bogumil Perfeggt
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-04-06)  

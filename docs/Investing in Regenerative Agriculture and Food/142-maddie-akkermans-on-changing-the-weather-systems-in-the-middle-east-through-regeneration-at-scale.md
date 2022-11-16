@@ -1,7 +1,6 @@
 ---
-title: 142 Maddie Akkermans on changing the weather systems in the Middle East through regeneration at scale
+title: 142 Maddie Akkermans On Changing The Weather Systems In The Middle East Through Regeneration At Scale
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-11-30)  

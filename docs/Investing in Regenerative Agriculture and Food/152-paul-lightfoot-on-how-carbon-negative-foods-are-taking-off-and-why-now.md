@@ -1,7 +1,6 @@
 ---
-title: 152 Paul Lightfoot on how carbon negative foods are taking off and why now
+title: 152 Paul Lightfoot On How Carbon Negative Foods Are Taking Off And Why Now
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-02-15)  

@@ -1,7 +1,6 @@
 ---
-title: Do we need an IPCC for food?
+title: Do We Need An Ipcc For Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-08-02)  

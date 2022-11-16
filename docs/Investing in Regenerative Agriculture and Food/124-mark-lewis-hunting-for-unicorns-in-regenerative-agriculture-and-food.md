@@ -1,7 +1,6 @@
 ---
-title: 124 Mark Lewis, hunting for unicorns in regenerative agriculture and food
+title: 124 Mark Lewis Hunting For Unicorns In Regenerative Agriculture And Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-06-29)  

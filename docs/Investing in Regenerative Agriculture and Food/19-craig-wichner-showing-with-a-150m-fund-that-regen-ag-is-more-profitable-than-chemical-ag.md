@@ -1,7 +1,6 @@
 ---
-title: 19 Craig Wichner, showing with a 150M fund that regen ag is more profitable than chemical ag
+title: 19 Craig Wichner Showing With A 150m Fund That Regen Ag Is More Profitable Than Chemical Ag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-09-24)  

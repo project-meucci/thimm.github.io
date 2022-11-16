@@ -1,7 +1,6 @@
 ---
-title: Good COP, Bad COP?
+title: Good Cop Bad Cop
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-12-06)  

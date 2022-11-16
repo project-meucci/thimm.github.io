@@ -1,7 +1,6 @@
 ---
-title: Cultivating Justice: Episode 1
+title: Cultivating Justice Episode 1
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2022-06-26)  

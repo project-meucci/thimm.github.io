@@ -1,7 +1,6 @@
 ---
-title: James Thornton - Client Earth. Protecting People, Nature & The Planet.
+title: James Thornton Client Earth Protecting People Nature The Planet
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Natural Lifestylist Podcast  (2020-04-27)  

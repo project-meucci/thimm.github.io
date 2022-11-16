@@ -1,7 +1,6 @@
 ---
-title: 49: The Sustainable Cooperative, wilding, beneficial insects and connecting faith with farming
+title: 49 The Sustainable Cooperative Wilding Beneficial Insects And Connecting Faith With Farming
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-08-25)  

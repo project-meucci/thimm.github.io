@@ -1,7 +1,6 @@
 ---
-title: Is vegan a dirty word?
+title: Is Vegan A Dirty Word
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-01-04)  

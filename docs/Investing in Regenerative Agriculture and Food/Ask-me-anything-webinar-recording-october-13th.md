@@ -1,7 +1,6 @@
 ---
-title: Ask Me Anything Webinar Recording - October 13th
+title: Ask Me Anything Webinar Recording October 13th
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-10-20)  

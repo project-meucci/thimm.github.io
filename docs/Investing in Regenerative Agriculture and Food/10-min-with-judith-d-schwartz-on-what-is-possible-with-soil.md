@@ -1,7 +1,6 @@
 ---
-title: 10 min with Judith D Schwartz on what is possible with soil
+title: 10 Min With Judith D Schwartz On What Is Possible With Soil
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-11-05)  

@@ -1,7 +1,6 @@
 ---
-title: Landed part 1: The family farm
+title: Landed Part 1 The Family Farm
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2021-06-27)  

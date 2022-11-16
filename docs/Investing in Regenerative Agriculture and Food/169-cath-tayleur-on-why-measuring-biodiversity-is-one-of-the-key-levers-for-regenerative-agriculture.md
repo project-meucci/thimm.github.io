@@ -1,7 +1,6 @@
 ---
-title: 169 Cath Tayleur on why measuring biodiversity is one of the key levers for regenerative agriculture
+title: 169 Cath Tayleur On Why Measuring Biodiversity Is One Of The Key Levers For Regenerative Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-05-17)  

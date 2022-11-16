@@ -1,7 +1,6 @@
 ---
-title: 39: Beginner farmer tips, Piglet to Plate and small-scale farmers feed the world
+title: 39 Beginner Farmer Tips Piglet To Plate And Small Scale Farmers Feed The World
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-10-27)  

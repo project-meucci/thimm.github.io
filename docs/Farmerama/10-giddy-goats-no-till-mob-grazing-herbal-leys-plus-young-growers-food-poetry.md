@@ -1,7 +1,6 @@
 ---
-title: 10: Giddy goats, no-till, mob grazing & herbal leys plus young growers & food poetry
+title: 10 Giddy Goats No Till Mob Grazing Herbal Leys Plus Young Growers Food Poetry
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-10)  

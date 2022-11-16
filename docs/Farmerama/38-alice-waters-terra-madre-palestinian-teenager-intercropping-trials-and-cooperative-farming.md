@@ -1,7 +1,6 @@
 ---
-title: 38: Alice Waters, Terra Madre, Palestinian teenager, intercropping trials and cooperative farming
+title: 38 Alice Waters Terra Madre Palestinian Teenager Intercropping Trials And Cooperative Farming
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-09-30)  

@@ -1,7 +1,6 @@
 ---
-title: 41 Victor Friedberg, 30m available for food moonshots! First focus: Soil 3.0
+title: 41 Victor Friedberg 30m Available For Food Moonshots First Focus Soil 30
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-11-09)  

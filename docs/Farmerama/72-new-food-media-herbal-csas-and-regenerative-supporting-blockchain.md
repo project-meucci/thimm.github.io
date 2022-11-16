@@ -1,7 +1,6 @@
 ---
-title: 72: new food media, herbal CSAs and regenerative supporting blockchain
+title: 72 New Food Media Herbal Csas And Regenerative Supporting Blockchain
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2022-02-28)  

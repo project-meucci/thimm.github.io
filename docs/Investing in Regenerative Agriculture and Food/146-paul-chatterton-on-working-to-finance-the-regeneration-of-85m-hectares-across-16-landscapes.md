@@ -1,7 +1,6 @@
 ---
-title: 146 Paul Chatterton on working to finance the regeneration of 85m hectares across 16 landscapes
+title: 146 Paul Chatterton On Working To Finance The Regeneration Of 85m Hectares Across 16 Landscapes
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-01-04)  

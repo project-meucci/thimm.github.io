@@ -1,7 +1,6 @@
 ---
-title: 111 Bart van der Zande on building the world's first regenerative startup studio
+title: 111 Bart Van Der Zande On Building The Worlds First Regenerative Startup Studio
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-04-06)  

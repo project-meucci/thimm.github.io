@@ -1,7 +1,6 @@
 ---
-title: 08 Thekla Teunis and Gijs Boers, what African regenerative farmers can teach us
+title: 08 Thekla Teunis And Gijs Boers What African Regenerative Farmers Can Teach Us
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-03-19)  

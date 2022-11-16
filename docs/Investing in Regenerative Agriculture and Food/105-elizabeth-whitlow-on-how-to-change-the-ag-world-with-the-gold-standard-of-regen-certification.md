@@ -1,7 +1,6 @@
 ---
-title: 105 Elizabeth Whitlow on how to change the ag world with the gold standard of regen certification
+title: 105 Elizabeth Whitlow On How To Change The Ag World With The Gold Standard Of Regen Certification
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-02-16)  

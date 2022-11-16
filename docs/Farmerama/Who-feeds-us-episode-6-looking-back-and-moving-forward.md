@@ -1,7 +1,6 @@
 ---
-title: "Who feeds us?" Episode 6: Looking back and moving forward
+title: Who Feeds Us Episode 6 Looking Back And Moving Forward
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-11-15)  

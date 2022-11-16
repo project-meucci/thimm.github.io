@@ -1,7 +1,6 @@
 ---
-title: 83 Fabio Sakamoto, growing large scale Brazilian regenerative organic agriculture
+title: 83 Fabio Sakamoto Growing Large Scale Brazilian Regenerative Organic Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-06-30)  

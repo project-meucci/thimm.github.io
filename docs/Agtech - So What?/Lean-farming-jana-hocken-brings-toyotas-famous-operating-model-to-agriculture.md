@@ -1,7 +1,6 @@
 ---
-title: Lean Farming - Jana Hocken brings Toyota's famous operating model to agriculture
+title: Lean Farming Jana Hocken Brings Toyotas Famous Operating Model To Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-05-19)  

@@ -1,7 +1,6 @@
 ---
-title: 34 Peter Donovan, the wonders of soil and asking better questions when investing in it
+title: 34 Peter Donovan The Wonders Of Soil And Asking Better Questions When Investing In It
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-05-21)  

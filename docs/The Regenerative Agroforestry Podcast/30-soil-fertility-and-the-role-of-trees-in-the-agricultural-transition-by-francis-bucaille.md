@@ -1,7 +1,6 @@
 ---
-title: #30 Soil fertility and the role of trees in the agricultural transition by Francis Bucaille
+title: 30 Soil Fertility And The Role Of Trees In The Agricultural Transition By Francis Bucaille
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-10-31)  

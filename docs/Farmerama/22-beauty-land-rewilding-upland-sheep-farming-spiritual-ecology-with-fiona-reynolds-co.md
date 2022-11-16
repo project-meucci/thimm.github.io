@@ -1,7 +1,6 @@
 ---
-title: 22: Beauty, land, rewilding, upland sheep farming, spiritual ecology with Fiona Reynolds & Co
+title: 22 Beauty Land Rewilding Upland Sheep Farming Spiritual Ecology With Fiona Reynolds Co
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-05-28)  

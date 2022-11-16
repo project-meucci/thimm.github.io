@@ -1,7 +1,6 @@
 ---
-title: 127 Pierre Rousseau, how can large banks finance the regeneration transition
+title: 127 Pierre Rousseau How Can Large Banks Finance The Regeneration Transition
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-08-10)  

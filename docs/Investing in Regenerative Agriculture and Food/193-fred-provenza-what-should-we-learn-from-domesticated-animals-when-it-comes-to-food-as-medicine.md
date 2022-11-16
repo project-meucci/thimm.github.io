@@ -1,7 +1,6 @@
 ---
-title: 193 Fred Provenza - What should we learn from domesticated animals when it comes to food as medicine
+title: 193 Fred Provenza What Should We Learn From Domesticated Animals When It Comes To Food As Medicine
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-11-15)  

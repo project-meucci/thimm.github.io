@@ -1,7 +1,6 @@
 ---
-title: Services and Software for On-Farm Autonomy, with Iftach Birger of FieldIn
+title: Services And Software For On Farm Autonomy With Iftach Birger Of Fieldin
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-05-04)  

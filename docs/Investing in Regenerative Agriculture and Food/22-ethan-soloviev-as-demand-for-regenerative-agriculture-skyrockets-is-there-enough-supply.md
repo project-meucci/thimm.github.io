@@ -1,7 +1,6 @@
 ---
-title: 22 Ethan Soloviev: As demand for regenerative agriculture skyrockets, is there enough supply?
+title: 22 Ethan Soloviev As Demand For Regenerative Agriculture Skyrockets Is There Enough Supply
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-11-24)  

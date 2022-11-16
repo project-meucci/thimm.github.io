@@ -1,7 +1,6 @@
 ---
-title: Tackling antimicrobial resistance
+title: Tackling Antimicrobial Resistance
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-11-24)  

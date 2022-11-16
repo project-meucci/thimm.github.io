@@ -1,7 +1,6 @@
 ---
-title: How Nutrition Impacts Dairy Performance with Silvia Abel-Caines
+title: How Nutrition Impacts Dairy Performance With Silvia Abel Caines
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-08-31)  

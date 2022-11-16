@@ -1,7 +1,6 @@
 ---
-title: 17: A zero-waste food system, pigness of pigs and sustainable woodlands
+title: 17 A Zero Waste Food System Pigness Of Pigs And Sustainable Woodlands
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-11)  

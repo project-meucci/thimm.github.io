@@ -1,7 +1,6 @@
 ---
-title: Ep 44: Karin Stark and Jon Elder (responding to climate risk)
+title: Ep 44 Karin Stark And Jon Elder Responding To Climate Risk
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-06-24)  

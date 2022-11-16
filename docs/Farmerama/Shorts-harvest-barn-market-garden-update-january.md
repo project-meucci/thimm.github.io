@@ -1,7 +1,6 @@
 ---
-title: Shorts: Harvest Barn Market Garden update January
+title: Shorts Harvest Barn Market Garden Update January
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-02-18)  

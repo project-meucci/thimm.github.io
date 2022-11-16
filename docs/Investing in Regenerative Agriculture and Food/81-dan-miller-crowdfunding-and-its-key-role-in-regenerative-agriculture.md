@@ -1,7 +1,6 @@
 ---
-title: 81 Dan Miller, crowdfunding and its key role in regenerative agriculture
+title: 81 Dan Miller Crowdfunding And Its Key Role In Regenerative Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-06-09)  

@@ -1,7 +1,6 @@
 ---
-title: #32 Carbon sequestration and current research on alley cropping with Eric Toensmeier
+title: 32 Carbon Sequestration And Current Research On Alley Cropping With Eric Toensmeier
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-12-21)  

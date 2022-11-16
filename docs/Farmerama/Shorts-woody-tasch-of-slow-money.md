@@ -1,7 +1,6 @@
 ---
-title: Shorts: Woody Tasch of Slow Money
+title: Shorts Woody Tasch Of Slow Money
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-04-07)  

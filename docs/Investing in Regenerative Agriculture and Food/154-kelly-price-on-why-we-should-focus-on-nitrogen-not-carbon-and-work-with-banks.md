@@ -1,7 +1,6 @@
 ---
-title: 154 Kelly Price on why we should focus on nitrogen not carbon and work with banks
+title: 154 Kelly Price On Why We Should Focus On Nitrogen Not Carbon And Work With Banks
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-03-01)  

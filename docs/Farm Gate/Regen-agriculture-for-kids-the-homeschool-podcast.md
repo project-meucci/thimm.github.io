@@ -1,7 +1,6 @@
 ---
-title: Regen agriculture for kids - The #Homeschool podcast
+title: Regen Agriculture For Kids The Homeschool Podcast
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-05-11)  

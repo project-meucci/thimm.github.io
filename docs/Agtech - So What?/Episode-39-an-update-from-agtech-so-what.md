@@ -1,7 +1,6 @@
 ---
-title: Episode 39: An Update from AgTech - So What
+title: Episode 39 An Update From Agtech So What
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-04-08)  

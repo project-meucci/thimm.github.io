@@ -1,7 +1,6 @@
 ---
-title: 08: Small-holders, business for urban gardens, cellular agriculture and organics in India
+title: 08 Small Holders Business For Urban Gardens Cellular Agriculture And Organics In India
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-10)  

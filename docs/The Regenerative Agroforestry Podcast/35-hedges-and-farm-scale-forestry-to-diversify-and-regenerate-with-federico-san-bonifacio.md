@@ -1,7 +1,6 @@
 ---
-title: #35 Hedges and farm scale forestry to diversify and regenerate with Federico San Bonifacio
+title: 35 Hedges And Farm Scale Forestry To Diversify And Regenerate With Federico San Bonifacio
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-03-02)  

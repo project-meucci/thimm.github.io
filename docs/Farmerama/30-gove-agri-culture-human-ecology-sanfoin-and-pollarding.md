@@ -1,7 +1,6 @@
 ---
-title: 30: Gove, agri-culture, Human Ecology, Sanfoin and Pollarding
+title: 30 Gove Agri Culture Human Ecology Sanfoin And Pollarding
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-01-27)  

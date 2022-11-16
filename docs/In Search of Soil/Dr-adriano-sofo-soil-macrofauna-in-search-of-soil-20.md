@@ -1,7 +1,6 @@
 ---
-title: Dr. Adriano Sofo - Soil Macrofauna| In Search of Soil #20
+title: Dr Adriano Sofo Soil Macrofauna In Search Of Soil 20
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### In Search of Soil  (2021-09-01)  

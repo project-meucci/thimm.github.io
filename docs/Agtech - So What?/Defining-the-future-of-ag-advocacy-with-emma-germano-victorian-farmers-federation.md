@@ -1,7 +1,6 @@
 ---
-title: Defining the Future of Ag Advocacy, with Emma Germano, Victorian Farmers Federation
+title: Defining The Future Of Ag Advocacy With Emma Germano Victorian Farmers Federation
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-08-10)  

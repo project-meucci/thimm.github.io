@@ -1,7 +1,6 @@
 ---
-title: 55 John Kempf, Forget about soil, Focus on plant health instead
+title: 55 John Kempf Forget About Soil Focus On Plant Health Instead
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-07-27)  

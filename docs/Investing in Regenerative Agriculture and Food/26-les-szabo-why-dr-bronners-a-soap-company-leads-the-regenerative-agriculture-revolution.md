@@ -1,7 +1,6 @@
 ---
-title: 26 Les Szabo, why Dr Bronner's a soap company, leads the regenerative agriculture revolution?
+title: 26 Les Szabo Why Dr Bronners A Soap Company Leads The Regenerative Agriculture Revolution
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-01-10)  

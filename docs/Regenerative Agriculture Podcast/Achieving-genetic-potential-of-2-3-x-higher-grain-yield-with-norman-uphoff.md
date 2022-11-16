@@ -1,7 +1,6 @@
 ---
-title: Achieving Genetic Potential of 2-3 X Higher Grain Yield with Norman Uphoff
+title: Achieving Genetic Potential Of 2 3 X Higher Grain Yield With Norman Uphoff
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2020-03-17)  

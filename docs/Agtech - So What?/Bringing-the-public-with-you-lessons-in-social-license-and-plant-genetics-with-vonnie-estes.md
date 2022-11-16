@@ -1,7 +1,6 @@
 ---
-title: Bringing the public with you... lessons in social license and plant genetics, with Vonnie Estes
+title: Bringing The Public With You Lessons In Social License And Plant Genetics With Vonnie Estes
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-04-21)  

@@ -1,7 +1,6 @@
 ---
-title: Sarah Day Levesque, gathering many pioneers at the Regenerative Food System Investment Forum
+title: Sarah Day Levesque Gathering Many Pioneers At The Regenerative Food System Investment Forum
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-08-27)  

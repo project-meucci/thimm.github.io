@@ -1,7 +1,6 @@
 ---
-title: Shorts: Harvest Barn market Garden June
+title: Shorts Harvest Barn Market Garden June
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-07-01)  

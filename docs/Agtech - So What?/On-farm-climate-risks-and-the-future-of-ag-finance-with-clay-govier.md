@@ -1,7 +1,6 @@
 ---
-title: On-Farm Climate Risks and the Future of Ag Finance with Clay Govier
+title: On Farm Climate Risks And The Future Of Ag Finance With Clay Govier
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-10-12)  

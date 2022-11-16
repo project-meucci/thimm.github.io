@@ -1,7 +1,6 @@
 ---
-title: Shorts: The Herdsman
+title: Shorts The Herdsman
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-02-23)  

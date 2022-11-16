@@ -1,7 +1,6 @@
 ---
-title: 122 Wayne Gibbins on the role of tech in regenerative agriculture from gene editing to nanotech soil sensors
+title: 122 Wayne Gibbins On The Role Of Tech In Regenerative Agriculture From Gene Editing To Nanotech Soil Sensors
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-06-08)  

@@ -1,7 +1,6 @@
 ---
-title: 100 Gina Pattisson on how to raise more than half a million euros during a pandemic
+title: 100 Gina Pattisson On How To Raise More Than Half A Million Euros During A Pandemic
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-01-05)  

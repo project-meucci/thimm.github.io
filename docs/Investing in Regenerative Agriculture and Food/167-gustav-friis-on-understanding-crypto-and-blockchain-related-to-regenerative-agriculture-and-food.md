@@ -1,7 +1,6 @@
 ---
-title: 167 Gustav Friis on understanding crypto and blockchain related to regenerative agriculture and food
+title: 167 Gustav Friis On Understanding Crypto And Blockchain Related To Regenerative Agriculture And Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-05-03)  

@@ -1,7 +1,6 @@
 ---
-title: 52 Paul Chatterton, WWF's Finance Lab working on landscapes of 1M hectares and $100M investments
+title: 52 Paul Chatterton Wwfs Finance Lab Working On Landscapes Of 1m Hectares And 100m Investments
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-06-11)  

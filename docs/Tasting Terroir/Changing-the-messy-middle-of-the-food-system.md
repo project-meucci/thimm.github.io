@@ -1,7 +1,6 @@
 ---
-title: Changing the "Messy Middle" of the Food System
+title: Changing The Messy Middle Of The Food System
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Tasting Terroir  (2022-09-29)  

@@ -1,7 +1,6 @@
 ---
-title: Regeneration Newsroom Podcast Oct 2019 ft Ethan Soloviev @ RFSI
+title: Regeneration Newsroom Podcast Oct 2019 Ft Ethan Soloviev Rfsi
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-10-04)  

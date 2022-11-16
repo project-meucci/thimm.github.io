@@ -1,7 +1,6 @@
 ---
-title: Farming & mental illness
+title: Farming Mental Illness
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-02-01)  

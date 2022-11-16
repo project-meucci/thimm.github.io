@@ -1,7 +1,6 @@
 ---
-title: 55: Enlightened agriculture, sustainable economies, and regenerative businesses
+title: 55 Enlightened Agriculture Sustainable Economies And Regenerative Businesses
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-04-26)  

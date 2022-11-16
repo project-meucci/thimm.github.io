@@ -1,7 +1,6 @@
 ---
-title: 118 Anastasia Volkova on how to monitor whole landscapes and watersheds from space
+title: 118 Anastasia Volkova On How To Monitor Whole Landscapes And Watersheds From Space
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-05-11)  

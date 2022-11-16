@@ -1,7 +1,6 @@
 ---
-title: Changing human behavior - how Matt Crozier introduced technology to a 200 year old sheep station
+title: Changing Human Behavior How Matt Crozier Introduced Technology To A 200 Year Old Sheep Station
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-11-04)  

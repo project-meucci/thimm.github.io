@@ -1,7 +1,6 @@
 ---
-title: A Geological Perspective On Regenerative Agriculture with David Montgomery
+title: A Geological Perspective On Regenerative Agriculture With David Montgomery
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2019-05-15)  

@@ -1,7 +1,6 @@
 ---
-title: Shorts: Adam Kaye on Polenta
+title: Shorts Adam Kaye On Polenta
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-09-05)  

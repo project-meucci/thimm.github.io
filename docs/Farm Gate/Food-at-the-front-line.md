@@ -1,7 +1,6 @@
 ---
-title: Food at the front line
+title: Food At The Front Line
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-04-13)  

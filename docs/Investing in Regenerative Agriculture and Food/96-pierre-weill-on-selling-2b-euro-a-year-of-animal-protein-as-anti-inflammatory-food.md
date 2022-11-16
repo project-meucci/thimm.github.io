@@ -1,7 +1,6 @@
 ---
-title: 96 Pierre Weill on selling 2b euro a year of animal protein as anti inflammatory food
+title: 96 Pierre Weill On Selling 2b Euro A Year Of Animal Protein As Anti Inflammatory Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-11-17)  

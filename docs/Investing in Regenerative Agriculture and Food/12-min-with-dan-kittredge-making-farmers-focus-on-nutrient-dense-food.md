@@ -1,7 +1,6 @@
 ---
-title: 12 min with Dan Kittredge, making farmers focus on nutrient dense food
+title: 12 Min With Dan Kittredge Making Farmers Focus On Nutrient Dense Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-07-02)  

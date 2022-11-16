@@ -1,7 +1,6 @@
 ---
-title: Jerry Hatfield on Why Should We Care About Soil Health
+title: Jerry Hatfield On Why Should We Care About Soil Health
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-05-30)  

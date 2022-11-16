@@ -1,7 +1,6 @@
 ---
-title: #2 Innovative agroforestry systems on a diversified CSA farm with Matteo Mazzola
+title: 2 Innovative Agroforestry Systems On A Diversified Csa Farm With Matteo Mazzola
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-08-12)  

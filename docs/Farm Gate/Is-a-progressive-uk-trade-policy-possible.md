@@ -1,7 +1,6 @@
 ---
-title: Is a progressive UK trade policy possible?
+title: Is A Progressive Uk Trade Policy Possible
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2020-12-01)  

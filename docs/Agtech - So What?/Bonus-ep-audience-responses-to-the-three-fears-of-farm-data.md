@@ -1,7 +1,6 @@
 ---
-title: Bonus Ep: Audience Responses to "The Three Fears of Farm Data"
+title: Bonus Ep Audience Responses To The Three Fears Of Farm Data
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-08-03)  

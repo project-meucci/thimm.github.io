@@ -1,7 +1,6 @@
 ---
-title: 75 Felipe Villela, regenerating 1M ha of land worldwide by 2030 through agroforestry
+title: 75 Felipe Villela Regenerating 1m Ha Of Land Worldwide By 2030 Through Agroforestry
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-03-03)  

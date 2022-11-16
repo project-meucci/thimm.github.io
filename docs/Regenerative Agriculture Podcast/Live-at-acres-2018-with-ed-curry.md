@@ -1,7 +1,6 @@
 ---
-title: LIVE at ACRES 2018 with Ed Curry
+title: Live At Acres 2018 With Ed Curry
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-12-07)  

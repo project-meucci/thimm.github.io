@@ -1,7 +1,6 @@
 ---
-title: Episode 35: EvokeAG Special 2. Live Panel - Faster, Smarter Farms
+title: Episode 35 Evokeag Special 2 Live Panel Faster Smarter Farms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-03-09)  

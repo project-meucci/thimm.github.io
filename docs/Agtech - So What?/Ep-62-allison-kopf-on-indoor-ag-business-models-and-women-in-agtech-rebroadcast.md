@@ -1,7 +1,6 @@
 ---
-title: Ep 62 Allison Kopf on indoor ag business models and women in agtech (rebroadcast)
+title: Ep 62 Allison Kopf On Indoor Ag Business Models And Women In Agtech Rebroadcast
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-03-18)  

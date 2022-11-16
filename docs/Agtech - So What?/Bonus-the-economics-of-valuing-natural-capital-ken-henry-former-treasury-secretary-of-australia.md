@@ -1,7 +1,6 @@
 ---
-title: Bonus: The Economics of Valuing Natural Capital - Ken Henry, former Treasury Secretary of Australia
+title: Bonus The Economics Of Valuing Natural Capital Ken Henry Former Treasury Secretary Of Australia
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-09-29)  

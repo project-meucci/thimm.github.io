@@ -1,7 +1,6 @@
 ---
-title: ‘Cereal’ bonus episode: Fintan Keenan
+title: Cereal Bonus Episode Fintan Keenan
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2022-09-18)  

@@ -1,7 +1,6 @@
 ---
-title: #38 Understanding a EU funded pig agroforestry system with Carl Sheard
+title: 38 Understanding A Eu Funded Pig Agroforestry System With Carl Sheard
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-04-18)  

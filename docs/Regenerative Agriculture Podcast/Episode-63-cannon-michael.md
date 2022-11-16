@@ -1,7 +1,6 @@
 ---
-title: Episode #63: Cannon Michael
+title: Episode 63 Cannon Michael
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2021-01-29)  

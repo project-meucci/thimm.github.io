@@ -1,7 +1,6 @@
 ---
-title: (Live Panel) What does it take for researchers & startups to collaborate in agtech?
+title: Live Panel What Does It Take For Researchers Startups To Collaborate In Agtech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-11-06)  

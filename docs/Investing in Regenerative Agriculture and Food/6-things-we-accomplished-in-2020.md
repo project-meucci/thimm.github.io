@@ -1,7 +1,6 @@
 ---
-title: 6 things we accomplished in 2020
+title: 6 Things We Accomplished In 2020
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-12-30)  

@@ -1,7 +1,6 @@
 ---
-title: Landed part 3: Colonial connections
+title: Landed Part 3 Colonial Connections
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2021-07-25)  

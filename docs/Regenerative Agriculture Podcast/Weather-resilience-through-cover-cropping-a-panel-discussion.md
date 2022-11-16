@@ -1,7 +1,6 @@
 ---
-title: Weather Resilience Through Cover Cropping - A Panel Discussion
+title: Weather Resilience Through Cover Cropping A Panel Discussion
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2019-07-17)  

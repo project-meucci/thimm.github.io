@@ -1,7 +1,6 @@
 ---
-title: #7 Creating regenerative supply chains based on multi strata agroforestry with Ryan Zinn from Dr. Bronner's
+title: 7 Creating Regenerative Supply Chains Based On Multi Strata Agroforestry With Ryan Zinn From Dr Bronners
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-10-12)  

@@ -1,7 +1,6 @@
 ---
-title: 59 Isabella Tree, rewilding a 3,500 acre British farm that was never profitable before
+title: 59 Isabella Tree Rewilding A 3500 Acre British Farm That Was Never Profitable Before
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-09-17)  

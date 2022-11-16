@@ -1,7 +1,6 @@
 ---
-title: Venture opportunities for a regenerative Food System - Fresh Convo
+title: Venture Opportunities For A Regenerative Food System Fresh Convo
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-11-05)  

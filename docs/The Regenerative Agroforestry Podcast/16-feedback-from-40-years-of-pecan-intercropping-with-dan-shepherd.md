@@ -1,7 +1,6 @@
 ---
-title: #16 Feedback from 40 years of pecan intercropping with Dan Shepherd
+title: 16 Feedback From 40 Years Of Pecan Intercropping With Dan Shepherd
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-02-21)  

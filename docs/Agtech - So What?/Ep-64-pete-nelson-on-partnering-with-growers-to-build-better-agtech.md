@@ -1,7 +1,6 @@
 ---
-title: Ep 64 Pete Nelson on partnering with growers to build better agtech
+title: Ep 64 Pete Nelson On Partnering With Growers To Build Better Agtech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-04-08)  

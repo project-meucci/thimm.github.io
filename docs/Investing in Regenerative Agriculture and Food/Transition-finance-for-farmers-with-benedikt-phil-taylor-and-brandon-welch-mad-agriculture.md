@@ -1,7 +1,6 @@
 ---
-title: Transition Finance for Farmers with Benedikt - Phil Taylor and Brandon Welch, Mad Agriculture
+title: Transition Finance For Farmers With Benedikt Phil Taylor And Brandon Welch Mad Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-06-16)  

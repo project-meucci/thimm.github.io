@@ -1,7 +1,6 @@
 ---
-title: #22 How agroforestry improves farm biodiversity and impacts insect dynamics with Tom Staton
+title: 22 How Agroforestry Improves Farm Biodiversity And Impacts Insect Dynamics With Tom Staton
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-06-13)  

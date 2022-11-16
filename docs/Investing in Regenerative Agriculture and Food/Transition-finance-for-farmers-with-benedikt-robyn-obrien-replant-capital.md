@@ -1,7 +1,6 @@
 ---
-title: Transition Finance for Farmers with Benedikt - Robyn O'Brien, rePlant Capital
+title: Transition Finance For Farmers With Benedikt Robyn Obrien Replant Capital
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-04-28)  

@@ -1,7 +1,6 @@
 ---
-title: 12 Judith D Schwartz, what is possible with soil?
+title: 12 Judith D Schwartz What Is Possible With Soil
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-05-29)  

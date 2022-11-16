@@ -1,7 +1,6 @@
 ---
-title: Dr. David Laird - The Role of Clay in Soils | In Search of Soil #17
+title: Dr David Laird The Role Of Clay In Soils In Search Of Soil 17
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### In Search of Soil  (2021-08-11)  

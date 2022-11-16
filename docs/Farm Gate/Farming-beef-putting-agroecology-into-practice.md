@@ -1,7 +1,6 @@
 ---
-title: Farming Beef - Putting agroecology into practice
+title: Farming Beef Putting Agroecology Into Practice
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-01-25)  

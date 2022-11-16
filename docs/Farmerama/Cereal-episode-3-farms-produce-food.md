@@ -1,7 +1,6 @@
 ---
-title: 'Cereal', Episode 3: Farms produce food
+title: Cereal Episode 3 Farms Produce Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-12-08)  

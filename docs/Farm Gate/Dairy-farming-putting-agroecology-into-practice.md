@@ -1,7 +1,6 @@
 ---
-title: Dairy farming - Putting agroecology into practice
+title: Dairy Farming Putting Agroecology Into Practice
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-04-13)  

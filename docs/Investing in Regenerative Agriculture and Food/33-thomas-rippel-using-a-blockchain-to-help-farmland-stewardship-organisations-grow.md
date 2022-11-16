@@ -1,7 +1,6 @@
 ---
-title: 33 Thomas Rippel, using a blockchain to help Farmland Stewardship Organisations grow
+title: 33 Thomas Rippel Using A Blockchain To Help Farmland Stewardship Organisations Grow
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-04-22)  

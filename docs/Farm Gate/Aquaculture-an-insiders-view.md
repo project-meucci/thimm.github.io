@@ -1,7 +1,6 @@
 ---
-title: Aquaculture - An insider's view
+title: Aquaculture An Insiders View
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-05-05)  

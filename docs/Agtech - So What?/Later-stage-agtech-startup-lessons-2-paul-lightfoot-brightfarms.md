@@ -1,7 +1,6 @@
 ---
-title: Later-Stage Agtech Startup Lessons #2 - Paul Lightfoot, BrightFarms
+title: Later Stage Agtech Startup Lessons 2 Paul Lightfoot Brightfarms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-11-17)  

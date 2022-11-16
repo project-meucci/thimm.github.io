@@ -1,7 +1,6 @@
 ---
-title: QA webinar with Geert van der Veer, Herenboeren, about community owned regen farms
+title: Qa Webinar With Geert Van Der Veer Herenboeren About Community Owned Regen Farms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-06-12)  

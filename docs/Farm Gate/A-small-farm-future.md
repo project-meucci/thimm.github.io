@@ -1,7 +1,6 @@
 ---
-title: A small farm future
+title: A Small Farm Future
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2022-07-21)  

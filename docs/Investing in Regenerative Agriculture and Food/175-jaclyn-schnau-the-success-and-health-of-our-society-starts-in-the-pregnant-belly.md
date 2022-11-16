@@ -1,7 +1,6 @@
 ---
-title: 175 Jaclyn Schnau, the success and health of our society starts in the pregnant belly
+title: 175 Jaclyn Schnau The Success And Health Of Our Society Starts In The Pregnant Belly
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-06-28)  

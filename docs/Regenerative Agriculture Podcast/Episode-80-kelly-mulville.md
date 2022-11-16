@@ -1,7 +1,6 @@
 ---
-title: Episode #80: Kelly Mulville
+title: Episode 80 Kelly Mulville
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2022-03-17)  

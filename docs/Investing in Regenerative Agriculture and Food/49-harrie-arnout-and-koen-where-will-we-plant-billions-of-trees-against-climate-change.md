@@ -1,7 +1,6 @@
 ---
-title: 49 Harrie, Arnout and Koen, where will we plant billions of trees against climate change?
+title: 49 Harrie Arnout And Koen Where Will We Plant Billions Of Trees Against Climate Change
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-04-30)  

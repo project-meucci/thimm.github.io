@@ -1,7 +1,6 @@
 ---
-title: 07: Seeds on film, secret sauces, woodchip composts, Care Farming plus cheeky outdoor winter salads
+title: 07 Seeds On Film Secret Sauces Woodchip Composts Care Farming Plus Cheeky Outdoor Winter Salads
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2017-03-10)  

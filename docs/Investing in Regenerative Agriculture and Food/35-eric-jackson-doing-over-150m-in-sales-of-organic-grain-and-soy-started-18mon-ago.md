@@ -1,7 +1,6 @@
 ---
-title: 35 Eric Jackson, doing over 150M in sales of organic grain and soy, started 18mon ago
+title: 35 Eric Jackson Doing Over 150m In Sales Of Organic Grain And Soy Started 18mon Ago
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-07-18)  

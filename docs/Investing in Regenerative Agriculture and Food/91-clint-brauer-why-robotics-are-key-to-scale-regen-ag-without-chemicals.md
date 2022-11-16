@@ -1,7 +1,6 @@
 ---
-title: 91 Clint Brauer, why robotics are key to scale regen ag without chemicals
+title: 91 Clint Brauer Why Robotics Are Key To Scale Regen Ag Without Chemicals
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-09-15)  

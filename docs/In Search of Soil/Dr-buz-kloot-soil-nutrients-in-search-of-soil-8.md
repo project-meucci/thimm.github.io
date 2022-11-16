@@ -1,7 +1,6 @@
 ---
-title: Dr. Buz Kloot - Soil Nutrients | In Search of Soil #8
+title: Dr Buz Kloot Soil Nutrients In Search Of Soil 8
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### In Search of Soil  (2020-12-02)  

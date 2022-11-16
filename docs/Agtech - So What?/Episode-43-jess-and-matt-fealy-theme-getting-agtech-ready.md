@@ -1,7 +1,6 @@
 ---
-title: Episode 43: Jess and Matt Fealy (Theme: getting agtech ready)
+title: Episode 43 Jess And Matt Fealy Theme Getting Agtech Ready
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-06-11)  

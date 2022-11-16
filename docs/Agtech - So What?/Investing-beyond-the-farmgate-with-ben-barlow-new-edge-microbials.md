@@ -1,7 +1,6 @@
 ---
-title: Investing Beyond the Farmgate with Ben Barlow, New Edge Microbials
+title: Investing Beyond The Farmgate With Ben Barlow New Edge Microbials
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-03-23)  

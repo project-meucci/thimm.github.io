@@ -1,7 +1,6 @@
 ---
-title: Symbiotic Relationships in Ecology with Don Huber
+title: Symbiotic Relationships In Ecology With Don Huber
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2018-04-28)  

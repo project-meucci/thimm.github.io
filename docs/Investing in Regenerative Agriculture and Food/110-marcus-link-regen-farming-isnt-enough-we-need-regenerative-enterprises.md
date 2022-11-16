@@ -1,7 +1,6 @@
 ---
-title: 110 Marcus Link, Regen farming isn’t enough, we need regenerative enterprises
+title: 110 Marcus Link Regen Farming Isnt Enough We Need Regenerative Enterprises
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-03-30)  

@@ -1,7 +1,6 @@
 ---
-title: Mixed farming - Putting agroecology into practice
+title: Mixed Farming Putting Agroecology Into Practice
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-02-08)  

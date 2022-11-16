@@ -1,7 +1,6 @@
 ---
-title: 24 David R Montgomery, ditching the plow, covering the soil and diversifying crop rotations
+title: 24 David R Montgomery Ditching The Plow Covering The Soil And Diversifying Crop Rotations
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-01-10)  

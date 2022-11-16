@@ -1,7 +1,6 @@
 ---
-title: What we learned in 2021 about tech, farmers, scale and love for nature
+title: What We Learned In 2021 About Tech Farmers Scale And Love For Nature
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-12-28)  

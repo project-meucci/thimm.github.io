@@ -1,7 +1,6 @@
 ---
-title: Legacy Finance Eyes Agtech, with Wells Fargo
+title: Legacy Finance Eyes Agtech With Wells Fargo
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-10-05)  

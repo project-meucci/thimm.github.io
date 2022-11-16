@@ -1,7 +1,6 @@
 ---
-title: Bonus Ep: The State of Fundraising in Agtech
+title: Bonus Ep The State Of Fundraising In Agtech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-03-30)  

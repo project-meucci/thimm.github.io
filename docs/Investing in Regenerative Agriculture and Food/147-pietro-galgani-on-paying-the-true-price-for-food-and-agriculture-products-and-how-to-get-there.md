@@ -1,7 +1,6 @@
 ---
-title: 147 Pietro Galgani on paying the true price for food and agriculture products and how to get there
+title: 147 Pietro Galgani On Paying The True Price For Food And Agriculture Products And How To Get There
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-01-11)  

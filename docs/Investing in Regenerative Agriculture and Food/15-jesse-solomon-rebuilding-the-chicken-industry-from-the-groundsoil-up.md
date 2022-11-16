@@ -1,7 +1,6 @@
 ---
-title: 15 Jesse Solomon, rebuilding the chicken industry from the ground/soil up
+title: 15 Jesse Solomon Rebuilding The Chicken Industry From The Groundsoil Up
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2017-07-18)  

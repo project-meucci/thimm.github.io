@@ -1,7 +1,6 @@
 ---
-title: #18 Grazing turkeys in an organic fruit orchard with Garrett Miller
+title: 18 Grazing Turkeys In An Organic Fruit Orchard With Garrett Miller
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-04-01)  

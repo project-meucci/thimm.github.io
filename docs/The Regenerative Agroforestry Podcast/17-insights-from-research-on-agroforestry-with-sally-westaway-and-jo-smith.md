@@ -1,7 +1,6 @@
 ---
-title: #17 Insights from research on agroforestry with Sally Westaway and Jo Smith
+title: 17 Insights From Research On Agroforestry With Sally Westaway And Jo Smith
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2021-03-07)  

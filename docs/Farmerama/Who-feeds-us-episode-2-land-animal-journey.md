@@ -1,7 +1,6 @@
 ---
-title: "Who feeds us?" Episode 2: Land, animal, journey
+title: Who Feeds Us Episode 2 Land Animal Journey
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-10-18)  

@@ -1,7 +1,6 @@
 ---
-title: Episode #71: Harriet Mella
+title: Episode 71 Harriet Mella
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2021-06-09)  

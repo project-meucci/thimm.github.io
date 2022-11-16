@@ -1,7 +1,6 @@
 ---
-title: Ep 66: Jim Chambers (Trimble) and Derek Norman (Bayer) on agtech acquisitions
+title: Ep 66 Jim Chambers Trimble And Derek Norman Bayer On Agtech Acquisitions
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-05-06)  

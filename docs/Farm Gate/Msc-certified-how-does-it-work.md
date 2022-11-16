@@ -1,7 +1,6 @@
 ---
-title: MSC Certified - How does it work?
+title: Msc Certified How Does It Work
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-05-24)  

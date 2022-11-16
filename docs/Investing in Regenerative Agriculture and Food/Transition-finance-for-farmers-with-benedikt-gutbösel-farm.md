@@ -1,7 +1,6 @@
 ---
-title: Transition Finance for Farmers with Benedikt - Gut&Bösel farm
+title: Transition Finance For Farmers With Benedikt Gutbösel Farm
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2019-12-20)  

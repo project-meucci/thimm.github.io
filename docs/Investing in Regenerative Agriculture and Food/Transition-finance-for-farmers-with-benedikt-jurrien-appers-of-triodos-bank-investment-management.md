@@ -1,7 +1,6 @@
 ---
-title: Transition Finance for Farmers with Benedikt - Jurrien Appers of Triodos Bank Investment Management
+title: Transition Finance For Farmers With Benedikt Jurrien Appers Of Triodos Bank Investment Management
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-02-11)  

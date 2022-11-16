@@ -1,7 +1,6 @@
 ---
-title: 10 min with Isabella Tree on rewilding a 3,500 acre British farm that was never profitable before
+title: 10 Min With Isabella Tree On Rewilding A 3500 Acre British Farm That Was Never Profitable Before
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-03-10)  

@@ -1,7 +1,6 @@
 ---
-title: 88 Elaine Ingham on why healthy soils don't need rotations
+title: 88 Elaine Ingham On Why Healthy Soils Dont Need Rotations
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-08-04)  

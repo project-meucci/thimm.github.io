@@ -1,7 +1,6 @@
 ---
-title: What's the role of government in agtech ecosystems? Salvatore Lavallo, Abu Dhabi Investment Office
+title: Whats The Role Of Government In Agtech Ecosystems Salvatore Lavallo Abu Dhabi Investment Office
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-12-15)  

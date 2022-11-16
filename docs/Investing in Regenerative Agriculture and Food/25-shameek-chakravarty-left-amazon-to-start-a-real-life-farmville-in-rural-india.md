@@ -1,7 +1,6 @@
 ---
-title: 25 Shameek Chakravarty, left Amazon to start a real life FarmVille in rural India
+title: 25 Shameek Chakravarty Left Amazon To Start A Real Life Farmville In Rural India
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-01-10)  

@@ -1,7 +1,6 @@
 ---
-title: Episode 21 - Seana Day On What's Hot In Livestock And Dairy Tech
+title: Episode 21 Seana Day On Whats Hot In Livestock And Dairy Tech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2018-05-16)  

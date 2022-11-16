@@ -1,7 +1,6 @@
 ---
-title: Episode 28: Mark Mortimer
+title: Episode 28 Mark Mortimer
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2018-12-17)  

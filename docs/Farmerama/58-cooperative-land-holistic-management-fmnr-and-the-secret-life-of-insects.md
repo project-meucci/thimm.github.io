@@ -1,7 +1,6 @@
 ---
-title: 58: Cooperative land, holistic management, FMNR and the secret life of insects
+title: 58 Cooperative Land Holistic Management Fmnr And The Secret Life Of Insects
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-07-26)  

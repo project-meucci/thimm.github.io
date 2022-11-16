@@ -1,7 +1,6 @@
 ---
-title: 100th Episode Special: our most popular guests on soil carbon, regen ag, and the future of agtech
+title: 100th Episode Special Our Most Popular Guests On Soil Carbon Regen Ag And The Future Of Agtech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-09-22)  

@@ -1,7 +1,6 @@
 ---
-title: Taking Charge Of Your Farm’s Future With Jay Hill
+title: Taking Charge Of Your Farms Future With Jay Hill
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2020-12-08)  

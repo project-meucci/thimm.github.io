@@ -1,7 +1,6 @@
 ---
-title: 174 Thomas Hogenhaven - A regenerative investment fund for the most disruptive entrepreneurs
+title: 174 Thomas Hogenhaven A Regenerative Investment Fund For The Most Disruptive Entrepreneurs
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-06-21)  

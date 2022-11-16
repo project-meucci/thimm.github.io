@@ -1,7 +1,6 @@
 ---
-title: Urban food
+title: Urban Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2022-07-05)  

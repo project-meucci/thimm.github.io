@@ -1,7 +1,6 @@
 ---
-title: #44 The potential of fast growing biomass trees in agroforestry systems with Michael Weitz
+title: 44 The Potential Of Fast Growing Biomass Trees In Agroforestry Systems With Michael Weitz
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2022-08-25)  

@@ -1,7 +1,6 @@
 ---
-title: Episode 3: Sophie Hellyer
+title: Episode 3 Sophie Hellyer
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Natural Lifestylist Podcast  (2019-09-15)  

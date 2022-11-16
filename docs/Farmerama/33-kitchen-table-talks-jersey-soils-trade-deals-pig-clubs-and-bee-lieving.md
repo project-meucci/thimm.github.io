@@ -1,7 +1,6 @@
 ---
-title: 33: Kitchen Table talks, Jersey soils, trade deals, pig clubs and bee-lieving
+title: 33 Kitchen Table Talks Jersey Soils Trade Deals Pig Clubs And Bee Lieving
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-04-29)  

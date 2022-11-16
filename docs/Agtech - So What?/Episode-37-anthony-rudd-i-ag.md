@@ -1,7 +1,6 @@
 ---
-title: Episode 37: Anthony Rudd, I-AG
+title: Episode 37 Anthony Rudd I Ag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-03-18)  

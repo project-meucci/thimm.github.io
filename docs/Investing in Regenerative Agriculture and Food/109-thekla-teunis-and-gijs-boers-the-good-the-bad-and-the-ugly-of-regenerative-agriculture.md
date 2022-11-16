@@ -1,7 +1,6 @@
 ---
-title: 109 Thekla Teunis and Gijs Boers, the good the bad and the ugly of regenerative agriculture
+title: 109 Thekla Teunis And Gijs Boers The Good The Bad And The Ugly Of Regenerative Agriculture
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-03-23)  

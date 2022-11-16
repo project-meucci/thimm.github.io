@@ -1,7 +1,6 @@
 ---
-title: Indigenous with the earth
+title: Indigenous With The Earth
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2021-06-07)  

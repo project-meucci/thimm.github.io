@@ -1,7 +1,6 @@
 ---
-title: Shorts: Alice Bettany from Sacred Seeds Herbal Project
+title: Shorts Alice Bettany From Sacred Seeds Herbal Project
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-02-21)  

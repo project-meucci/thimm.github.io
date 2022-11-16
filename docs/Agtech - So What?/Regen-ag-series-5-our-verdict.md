@@ -1,7 +1,6 @@
 ---
-title: Regen Ag Series #5: Our Verdict
+title: Regen Ag Series 5 Our Verdict
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2020-09-23)  

@@ -1,7 +1,6 @@
 ---
-title: 36 Martijn Blom, investing 15m into regen food/agri companies in Sub Saharan Africa
+title: 36 Martijn Blom Investing 15m Into Regen Foodagri Companies In Sub Saharan Africa
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2018-08-03)  

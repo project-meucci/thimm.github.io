@@ -1,7 +1,6 @@
 ---
-title: 151 Shaun Paul on building a regenerative business movement that gives 90% of the wealth to local indigenous peoples
+title: 151 Shaun Paul On Building A Regenerative Business Movement That Gives 90 Of The Wealth To Local Indigenous Peoples
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-02-08)  

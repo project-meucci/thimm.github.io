@@ -1,7 +1,6 @@
 ---
-title: 'Cereal' Bonus Episode: High Rise Bakers
+title: Cereal Bonus Episode High Rise Bakers
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-05-17)  

@@ -1,7 +1,6 @@
 ---
-title: Shorts: GROW Observatory farm tour summary
+title: Shorts Grow Observatory Farm Tour Summary
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2018-05-28)  

@@ -1,7 +1,6 @@
 ---
-title: The one with Six inches of Soil
+title: The One With Six Inches Of Soil
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2022-05-04)  

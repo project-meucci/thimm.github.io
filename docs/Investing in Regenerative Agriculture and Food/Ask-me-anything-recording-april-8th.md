@@ -1,7 +1,6 @@
 ---
-title: Ask Me Anything Recording - April 8th
+title: Ask Me Anything Recording April 8th
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-05-24)  

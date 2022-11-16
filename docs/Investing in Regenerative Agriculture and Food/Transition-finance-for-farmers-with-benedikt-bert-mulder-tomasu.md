@@ -1,7 +1,6 @@
 ---
-title: Transition Finance for Farmers with Benedikt - Bert Mulder, Tomasu
+title: Transition Finance For Farmers With Benedikt Bert Mulder Tomasu
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-05-12)  

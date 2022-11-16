@@ -1,7 +1,6 @@
 ---
-title: #10 Fertile woodchips and managing the tree line understory with Iain Tolhurst
+title: 10 Fertile Woodchips And Managing The Tree Line Understory With Iain Tolhurst
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### The Regenerative Agroforestry Podcast  (2020-11-23)  

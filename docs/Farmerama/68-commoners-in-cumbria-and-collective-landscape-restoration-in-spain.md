@@ -1,7 +1,6 @@
 ---
-title: 68: Commoners in Cumbria and collective landscape restoration in Spain
+title: 68 Commoners In Cumbria And Collective Landscape Restoration In Spain
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2021-10-31)  

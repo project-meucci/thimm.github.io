@@ -1,7 +1,6 @@
 ---
-title: 'Cereal', Episode 1: Flour, water, salt
+title: Cereal Episode 1 Flour Water Salt
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2019-11-24)  

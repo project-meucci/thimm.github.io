@@ -1,7 +1,6 @@
 ---
-title: 113 Sarah Mock on treating farms like businesses
+title: 113 Sarah Mock On Treating Farms Like Businesses
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-04-20)  

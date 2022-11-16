@@ -1,7 +1,6 @@
 ---
-title: Farmers and Startups: Lessons and Tips for Collaborating
+title: Farmers And Startups Lessons And Tips For Collaborating
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2021-10-06)  

@@ -1,7 +1,6 @@
 ---
-title: 69 Thomas Rippel, checking in on land ownership, stable coins, pensions for farmers and city folks
+title: 69 Thomas Rippel Checking In On Land Ownership Stable Coins Pensions For Farmers And City Folks
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-01-14)  

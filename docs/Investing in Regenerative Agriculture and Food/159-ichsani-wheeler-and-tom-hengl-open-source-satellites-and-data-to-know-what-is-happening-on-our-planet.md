@@ -1,7 +1,6 @@
 ---
-title: 159 Ichsani Wheeler and Tom Hengl – Open source, satellites and data to know what is happening on our planet
+title: 159 Ichsani Wheeler And Tom Hengl Open Source Satellites And Data To Know What Is Happening On Our Planet
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-03-22)  

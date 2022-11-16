@@ -1,7 +1,6 @@
 ---
-title: 73 Stephanie Race, demystifying science to help farmers to make better decisions
+title: 73 Stephanie Race Demystifying Science To Help Farmers To Make Better Decisions
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2020-02-18)  

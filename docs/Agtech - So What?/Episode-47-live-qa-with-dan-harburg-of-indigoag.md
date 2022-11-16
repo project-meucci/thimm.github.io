@@ -1,7 +1,6 @@
 ---
-title: Episode 47: Live Q&A with Dan Harburg of IndigoAg
+title: Episode 47 Live Qa With Dan Harburg Of Indigoag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2019-08-07)  

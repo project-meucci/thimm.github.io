@@ -1,7 +1,6 @@
 ---
-title: Online Video Course of Investing in Regenerative Agriculture and Food - Promo
+title: Online Video Course Of Investing In Regenerative Agriculture And Food Promo
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-05-27)  

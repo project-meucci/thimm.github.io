@@ -1,7 +1,6 @@
 ---
-title: Shorts: Norwich Farmshare December 2019
+title: Shorts Norwich Farmshare December 2019
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farmerama  (2020-01-03)  

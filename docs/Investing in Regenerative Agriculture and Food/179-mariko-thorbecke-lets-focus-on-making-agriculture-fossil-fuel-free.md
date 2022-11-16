@@ -1,7 +1,6 @@
 ---
-title: 179 Mariko Thorbecke - Let's focus on making agriculture fossil fuel free
+title: 179 Mariko Thorbecke Lets Focus On Making Agriculture Fossil Fuel Free
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2022-07-26)  

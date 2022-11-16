@@ -1,7 +1,6 @@
 ---
-title: 132 Jason Hayward Jones, making super accurate keyline design on a landscape scale on 10000 hectares altering the behaviour of water
+title: 132 Jason Hayward Jones Making Super Accurate Keyline Design On A Landscape Scale On 10000 Hectares Altering The Behaviour Of Water
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Investing in Regenerative Agriculture and Food  (2021-09-21)  

@@ -1,7 +1,6 @@
 ---
-title: Episode 23 - Allison Kopf On Redefining What It Means To Farm
+title: Episode 23 Allison Kopf On Redefining What It Means To Farm
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2018-05-30)  

@@ -1,7 +1,6 @@
 ---
-title: The one with Prof Sir Dieter Helm CBE
+title: The One With Prof Sir Dieter Helm Cbe
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Farm Gate  (2022-11-04)  

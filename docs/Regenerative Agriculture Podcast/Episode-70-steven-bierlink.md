@@ -1,7 +1,6 @@
 ---
-title: Episode #70: Steven Bierlink
+title: Episode 70 Steven Bierlink
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Regenerative Agriculture Podcast  (2021-05-27)  

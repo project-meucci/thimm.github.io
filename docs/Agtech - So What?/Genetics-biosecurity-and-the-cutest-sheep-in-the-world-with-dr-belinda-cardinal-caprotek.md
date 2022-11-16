@@ -1,7 +1,6 @@
 ---
-title: Genetics, biosecurity, and the cutest sheep in the world with Dr Belinda Cardinal, Caprotek
+title: Genetics Biosecurity And The Cutest Sheep In The World With Dr Belinda Cardinal Caprotek
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
-
 ---
 
 ### Agtech - So What?  (2022-01-26)  
