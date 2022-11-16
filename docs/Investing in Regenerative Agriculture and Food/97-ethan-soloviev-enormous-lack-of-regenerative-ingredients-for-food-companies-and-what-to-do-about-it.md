@@ -1,9 +1,9 @@
+---
+title: 97 Ethan Soloviev Enormous Lack Of Regenerative Ingredients For Food Companies And What To Do About It
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 97 Ethan Soloviev, enormous lack of regenerative ingredients for food companies and what to do about it
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-11-24)  
+### Investing in Regenerative Agriculture and Food  (2020-11-24)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/2020/11/24/ethan-soloviev-2#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

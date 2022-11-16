@@ -1,9 +1,9 @@
+---
+title: 56 Mary Jane Melendez Leading The Regen Ag Efforts Of General Mills A 15 Billion Food Giant
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 56 Mary Jane Melendez, Leading the regen ag efforts of General Mills, a $15 billion food giant
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-08-06)  
+### Investing in Regenerative Agriculture and Food  (2019-08-06)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2019/08/06/mary-jane-melendez/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

@@ -1,9 +1,9 @@
+---
+title: Ruminant Methane Global Warming Gwp
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Ruminant methane, global warming, & GWP*
-    ---
-
-    ### Farm Gate  (2020-01-08)  
+### Farm Gate  (2020-01-08)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Ruminant-methane--global-warming---GWP-ea27m1#t=0:00:00):**  Hello, I'm Finnlow Castayne and this is Farmgate. Today I'm investigating the contribution  that ruminant methane makes to global warming. Research by a global team of scientists based  at the Oxford Martin School at the University of Oxford has established a new way of measuring  

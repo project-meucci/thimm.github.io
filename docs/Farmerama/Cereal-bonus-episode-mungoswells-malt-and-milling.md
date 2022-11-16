@@ -1,9 +1,9 @@
+---
+title: Cereal Bonus Episode Mungoswells Malt And Milling
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: ‘Cereal’ bonus episode: Mungoswells Malt and Milling
-    ---
-
-    ### Farmerama  (2022-09-11)  
+### Farmerama  (2022-09-11)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/cereal-bonus-episode-mungoswells-malt-and-milling#t=0:00:00):**  There was no plan when we started and there still isn't really a plan. I hadn't dreamt  of making flour when we started.  Welcome to Cereal from Farmerama. This is a bonus episode featuring an extended interview  

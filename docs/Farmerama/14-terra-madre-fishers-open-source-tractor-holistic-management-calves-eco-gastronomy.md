@@ -1,9 +1,9 @@
+---
+title: 14 Terra Madre Fishers Open Source Tractor Holistic Management Calves Eco Gastronomy
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 14: Terra Madre fishers, open-source tractor, holistic management, calves & eco-gastronomy
-    ---
-
-    ### Farmerama  (2017-03-10)  
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/14-farmerama#t=0:00:00):**  The noise you can hear is the Slow Food Tierra Madre Salon de Gusto parade. There are literally  thousands of people marching from all around the world for Slow Foods.  This month we are live from Turin, Italy, where thousands of small-scale farmers, shepherds,  

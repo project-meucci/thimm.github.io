@@ -1,9 +1,9 @@
+---
+title: 02 Natural Agriculture Csas Urban Salads And Ex Addicts
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 02: Natural Agriculture, CSAs, urban salads and ex-addicts
-    ---
-
-    ### Farmerama  (2017-03-10)  
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:02](https://soundcloud.com/farmerama-radio/02-farmerama#t=0:00:00):**  Farmer, farmer llama.  Farmer llama.  Hahaha, did you get it?  

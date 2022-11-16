@@ -1,9 +1,9 @@
+---
+title: 43 Children Growers Travelling Cow Laboratory Silvopasture And A Taste Of Sustainable Wine
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 43: Children growers, travelling cow laboratory, silvopasture, and a taste of sustainable wine
-    ---
-
-    ### Farmerama  (2019-02-24)  
+### Farmerama  (2019-02-24)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:11](https://soundcloud.com/farmerama-radio/farmerama-43#t=0:00:00):**  Welcome to episode 43 of Farmerama.  This month we turn to a much loved friend of the show for some wisdom on cattle management.  We get an introduction to the whole food system approach that is silver pasture and we kick  

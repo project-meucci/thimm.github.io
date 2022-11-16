@@ -1,9 +1,9 @@
+---
+title: The Flavor Of A Better World The Ohio Pizza Company You Will Love
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: The Flavor of a Better World: The Ohio Pizza Company You Will Love
-    ---
-
-    ### Tasting Terroir  (2022-09-21)  
+### Tasting Terroir  (2022-09-21)  
 ### Author(s): Sara Hessenflow Harper  
 
 **0:00:00-0:00:29:**  We're starting out with Adam Chappell's regeneratively grown rice.  I'm super excited.  He's been texting me the last two days asking how the milling's been going.  

@@ -1,9 +1,9 @@
+---
+title: 187 Neal Spackman From Growing Trees In The Saudi Arabian Desert To Restoring Degraded Coastal Lands
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 187 Neal Spackman - From growing trees in the Saudi Arabian desert to restoring degraded coastal lands
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-10-04)  
+### Investing in Regenerative Agriculture and Food  (2022-10-04)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/neal-spackman#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

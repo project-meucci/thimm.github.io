@@ -1,9 +1,9 @@
+---
+title: Lets Help Dominic Cummings Radical Proposals For Agricultural Reform
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Let's help Dominic Cummings! Radical proposals for agricultural reform
-    ---
-
-    ### Farm Gate  (2020-02-16)  
+### Farm Gate  (2020-02-16)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Lets-help-Dominic-Cummings--Radical-proposals-for-agricultural-reform-easbfc#t=0:00:00):**  Welcome to Farmgate, I'm Finnlow Costayne. Dominic Cummings, the UK Prime Minister's  Strategist in Chief, has said that he wants to shake up government. He wants to break  the alleged stranglehold that the civil service has over policy development and delivery.  

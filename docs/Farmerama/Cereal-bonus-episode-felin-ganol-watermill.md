@@ -1,9 +1,9 @@
+---
+title: Cereal Bonus Episode Felin Ganol Watermill
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: ‘Cereal’ bonus episode: Felin Ganol watermill
-    ---
-
-    ### Farmerama  (2022-10-02)  
+### Farmerama  (2022-10-02)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/cereal-bonus-episode-felin-ganol-watermill#t=0:00:00):**  I'm Anne Parry and I guess I'm the miller at Vellinganol Watermill, which is probably  why we're having this conversation.  Welcome to Serial from Farmerama. This is a bonus episode featuring an extended interview  

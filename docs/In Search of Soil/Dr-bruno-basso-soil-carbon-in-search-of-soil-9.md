@@ -1,9 +1,9 @@
+---
+title: Dr Bruno Basso Soil Carbon In Search Of Soil 9
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Dr. Bruno Basso - Soil Carbon | In Search of Soil #9
-    ---
-
-    ### In Search of Soil  (2020-12-09)  
+### In Search of Soil  (2020-12-09)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-09-BrunoBasso-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Carbon – it's the building block of life.  When it comes to soil, it's critically important.  
 **[0:00:27-0:00:33](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-09-BrunoBasso-FullEpisode.mp3#t=0:00:27):**  But how well do you fully understand carbon when it comes to soil science?  For example, do you know the difference between percent organic matter and percent carbon  in the soil?  

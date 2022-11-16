@@ -1,9 +1,9 @@
+---
+title: Episode 78 Adam Chappell
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode #78: Adam Chappell
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-12-30)  
+### Regenerative Agriculture Podcast  (2021-12-30)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/adam-chappell.mp3#t=0:00:00):**  Hi friends, this is Jon and this is the Regenerative Agriculture Podcast, where we talk about agronomic  sciences and cultural management practices that can regenerate soil health, plant health,  and ultimately public health. My guest for this episode is a farmer that you may have  

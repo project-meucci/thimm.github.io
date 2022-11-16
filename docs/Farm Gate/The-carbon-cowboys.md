@@ -1,9 +1,9 @@
+---
+title: The Carbon Cowboys
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: The Carbon Cowboys
-    ---
-
-    ### Farm Gate  (2020-06-15)  
+### Farm Gate  (2020-06-15)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/The-Carbon-Cowboys-efeugp#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn Loke-Kustain. Today I'm talking to the producer and director  of Carbon Cowboys, Peter Bicke. Carbon Cowboys is a series of ten films about regenerative  agriculture and adaptive multi-paddock grazing. They demonstrate the enormous potential of  

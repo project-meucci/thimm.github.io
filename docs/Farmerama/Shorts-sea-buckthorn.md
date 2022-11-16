@@ -1,9 +1,9 @@
+---
+title: Shorts Sea Buckthorn
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Sea Buckthorn
-    ---
-
-    ### Farmerama  (2017-07-04)  
+### Farmerama  (2017-07-04)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/shorts-sea-buckthorn#t=0:00:00):**  Chinese grow something like two million hectares of it and they're putting in about 150,000  hectares a year. Germany they started to grow it particularly in the 40s post-war for its  vitamin C to give to the population. It's grown in France, it's called Lagusia in France. One  

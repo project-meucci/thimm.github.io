@@ -1,9 +1,9 @@
+---
+title: Episode 64 Ben Taylor Davies
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode #64: Ben Taylor-Davies
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-02-25)  
+### Regenerative Agriculture Podcast  (2021-02-25)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_S4Ep2_Ben_Taylor_Davies_Final_Audio.mp3#t=0:00:00):**  Hi, friends. Welcome back. This is Jon and you are at the Regenerative Agriculture podcast,  where we talk about the agronomic science and cultural management practices that regenerate  plant health, soil health, and of course, ultimately public health, which is what  

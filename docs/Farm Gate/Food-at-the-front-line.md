@@ -1,9 +1,9 @@
+---
+title: Food At The Front Line
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Food at the front line
-    ---
-
-    ### Farm Gate  (2020-04-13)  
+### Farm Gate  (2020-04-13)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Food-at-the-front-line-eco46a#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne.  Throughout any normal year, food aid providers such as food banks and food kitchens ensure  that nutritious food and meals are available for people and families in crisis and for  

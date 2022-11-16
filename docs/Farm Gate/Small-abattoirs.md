@@ -1,9 +1,9 @@
+---
+title: Small Abattoirs
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Small abattoirs
-    ---
-
-    ### Farm Gate  (2022-09-30)  
+### Farm Gate  (2022-09-30)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Small-abattoirs-e1oje6k#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finnlow Kustein, the Chief Executive of Farmwell and founder  of the Food and Global Security Network. Small abattoirs are essential infrastructure. Whether  you're an agro-ecological farmer bringing your livestock to market, a customer wanting  

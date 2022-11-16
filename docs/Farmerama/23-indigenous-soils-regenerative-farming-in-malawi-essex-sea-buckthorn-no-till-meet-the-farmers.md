@@ -1,9 +1,9 @@
+---
+title: 23 Indigenous Soils Regenerative Farming In Malawi Essex Sea Buckthorn No Till Meet The Farmers
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 23: Indigenous Soils, regenerative farming in Malawi, Essex Sea Buckthorn & no-till Meet the Farmers
-    ---
-
-    ### Farmerama  (2017-06-25)  
+### Farmerama  (2017-06-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:12](https://soundcloud.com/farmerama-radio/farmerama-23#t=0:00:00):**  I suppose my earliest reference to my personal involvement with the soil is using it to make  mud cakes with the doll's head I think and you know, liking to play with its London clay  stickiness watching my grandmother, my maternal grandmother cultivate the soil in our back  

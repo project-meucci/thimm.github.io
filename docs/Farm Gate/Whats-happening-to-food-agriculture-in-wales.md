@@ -1,9 +1,9 @@
+---
+title: Whats Happening To Food Agriculture In Wales
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: What's happening to food & agriculture in Wales?
-    ---
-
-    ### Farm Gate  (2020-08-04)  
+### Farm Gate  (2020-08-04)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Whats-happening-to-food--agriculture-in-Wales-ehlj29#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. Since 2017, the Food, Farming and  Countryside Commission has helped to shape the UK's conversation about food. Where  it comes from, how it's produced, how far it travels and where and how it gets sold  

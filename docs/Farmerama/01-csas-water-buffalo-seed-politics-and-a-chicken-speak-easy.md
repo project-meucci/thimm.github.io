@@ -1,9 +1,9 @@
+---
+title: 01 Csas Water Buffalo Seed Politics And A Chicken Speak Easy
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 01: CSAs, water buffalo, seed politics and a chicken speak-easy
-    ---
-
-    ### Farmerama  (2017-03-10)  
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:11](https://soundcloud.com/farmerama-radio/01-farmerama#t=0:00:00):**  Welcome to the first ever episode of Farmerama. I'm Nigel and here with...  I'm Joe and I'm Abby. We're here to bring you stories from farmers and growers around the UK.  We want to get into the nitty-gritty of producing things like soil experiments,  

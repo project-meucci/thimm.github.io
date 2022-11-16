@@ -1,9 +1,9 @@
+---
+title: 138 Tripp Wall On Why Provenance Is Key And Time Kills Food
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 138 Tripp Wall on why provenance is key and time kills food
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-11-02)  
+### Investing in Regenerative Agriculture and Food  (2021-11-02)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/tripp-wall#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

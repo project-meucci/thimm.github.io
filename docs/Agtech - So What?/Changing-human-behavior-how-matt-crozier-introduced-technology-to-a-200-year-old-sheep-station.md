@@ -1,9 +1,9 @@
+---
+title: Changing Human Behavior How Matt Crozier Introduced Technology To A 200 Year Old Sheep Station
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Changing human behavior - how Matt Crozier introduced technology to a 200 year old sheep station
-    ---
-
-    ### Agtech - So What?  (2020-11-04)  
+### Agtech - So What?  (2020-11-04)  
 
 **[0:00:00-0:00:08](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/11/4/matt-crozier-changing-human-behavior#t=0:00:00):**  Hello, and welcome to the AgTech So What podcast, brought to you by Agthentic. I'm your host,  Sarah Nolet. In this episode, we take you to a large Australian grazing station, which  200 years ago developed the Saxon Merino sheep, known for its fine, bright wool. Now it's  
 **[0:00:21-0:00:26](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/11/4/matt-crozier-changing-human-behavior#t=0:00:21):**  again at the forefront of innovation in agriculture. In the last 10 years, they have been pushing  the envelope across the operation, from leadership, training and goal setting, to genetics and  genomics to data and software. And they're getting some promising results, but it hasn't  

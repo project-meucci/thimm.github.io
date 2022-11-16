@@ -1,9 +1,9 @@
+---
+title: Ask Me Anything Webinar Recording October 13th
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Ask Me Anything Webinar Recording - October 13th
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-10-20)  
+### Investing in Regenerative Agriculture and Food  (2020-10-20)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/ama-webinar-10-13-2020/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

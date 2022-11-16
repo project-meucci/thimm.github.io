@@ -1,9 +1,9 @@
+---
+title: Regen Question Time 2 Arable Livestock
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Regen Question Time 2 - Arable & livestock
-    ---
-
-    ### Farm Gate  (2021-02-01)  
+### Farm Gate  (2021-02-01)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Regen-Question-Time-2---Arable--livestock-eppgid#t=0:00:00):**  Welcome to Farmgate, I'm Finnlow Costayne. This is the second of our Regenerative Agriculture  Question Time podcasts, where we gather together experts and farmers working in the regenerative  agriculture space to answer your questions, which have come in, some by Twitter and lots  

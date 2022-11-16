@@ -1,9 +1,9 @@
+---
+title: Regenerative Farming Making The Transition
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Regenerative farming - making the transition
-    ---
-
-    ### Farm Gate  (2020-02-07)  
+### Farm Gate  (2020-02-07)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Regenerative-farming---making-the-transition-eami93#t=0:00:00):**  Hello, and welcome to FarmGate. Our strapline is Practical Solutions for Climate and Food  Security. Well, today we're getting down to the practical solutions, and we're looking  at how farmers can make the transition to regenerative agriculture. I'm joined by  

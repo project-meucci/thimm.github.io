@@ -1,9 +1,9 @@
+---
+title: Bonus Ep The State Of Fundraising In Agtech
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Bonus Ep: The State of Fundraising in Agtech
-    ---
-
-    ### Agtech - So What?  (2022-03-30)  
+### Agtech - So What?  (2022-03-30)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/3/31/agtech-fundraising-vc-investing#t=0:00:00):**  Hello, and welcome to a very special bonus episode of AgTech So What.  I'm Sarah Nalet, your host, but today I'm also going to be wearing another hat.  As most listeners probably already know, in addition to hosting this lovely podcast, I'm  
 **[0:00:16-0:00:21](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/3/31/agtech-fundraising-vc-investing#t=0:00:16):**  also a general partner at Tenacious Ventures alongside my co-founder, Matthew Pryor, who  will, in the spirit of new hats, be co-hosting with me today.  Hey, Matthew.  

@@ -1,9 +1,9 @@
+---
+title: Cereal Episode 4 The Miller Is Missing
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: ‘Cereal’ Episode 4: The miller is missing
-    ---
-
-    ### Farmerama  (2019-12-15)  
+### Farmerama  (2019-12-15)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/cereal-episode-4-the-miller-is-missing#t=0:00:00):**  So this is quite cool, there's two stones in there and you just adjust here to either make the stones closer together or wider apart  and if the stones are close together, you'll get a finer flower, but it will heat up considerably.  So it's interesting for you to just feel the heat of the flower coming out or turn it on.  

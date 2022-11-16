@@ -1,9 +1,9 @@
+---
+title: 28 Farming Films Rural Urban Connections In Greece And Fungi To Manage Weeds
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 28: Farming films, rural-urban connections in Greece and fungi to manage weeds
-    ---
-
-    ### Farmerama  (2017-11-26)  
+### Farmerama  (2017-11-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/28-films-for-the-farming-movement-rural-urban-connections-in-greece-and-fungi-to-manage-weeds#t=0:00:00):**  Welcome to another episode of Farmerama, with more voices from smaller scale farmers in  the UK and beyond.  We'll be hearing from two projects which are using film to share stories from the front  

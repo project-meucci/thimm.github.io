@@ -1,9 +1,9 @@
+---
+title: Rethinking Plant Physiology And Absorption Of Nutrients From The Soil With Gerald Pollack
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Rethinking Plant Physiology and Absorption of Nutrients from the Soil with Gerald  Pollack
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-06-29)  
+### Regenerative Agriculture Podcast  (2018-06-29)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/rethinking-plant-physiology-and-absorption-of-nutrients-from-the-soil-with-gerald-pollack/#t=0:00:00):**  Hi friends, I'm John Kempf hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

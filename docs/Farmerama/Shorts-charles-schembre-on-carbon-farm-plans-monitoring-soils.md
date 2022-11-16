@@ -1,9 +1,9 @@
+---
+title: Shorts Charles Schembre On Carbon Farm Plans Monitoring Soils
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Charles Schembre on Carbon Farm Plans & Monitoring Soils
-    ---
-
-    ### Farmerama  (2018-07-26)  
+### Farmerama  (2018-07-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/short-charles-schembre-on-carbon-farm-plans-monitoring-soils#t=0:00:00):**  My name is Charles Shembrey. I work for the Napa County Resource Conservation District.  My title here is Vineyard Conservation Coordinator. I'm basically a soil conservationist that  works primarily in vineyard agriculture, but I do work in some grazing lands as well throughout  

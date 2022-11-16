@@ -1,9 +1,9 @@
+---
+title: 117 Paul Pizzala From A London City Private Bank To The Biggest Regenerative Farm In The Uk
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 117 Paul Pizzala from a London city private bank to the biggest regenerative farm in the UK
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-05-07)  
+### Investing in Regenerative Agriculture and Food  (2021-05-07)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/paul-pizzala#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com.com or in the links below.  Now onto the podcast.  

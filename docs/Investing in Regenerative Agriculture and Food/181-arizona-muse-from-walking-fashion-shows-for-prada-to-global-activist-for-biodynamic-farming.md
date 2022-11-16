@@ -1,9 +1,9 @@
+---
+title: 181 Arizona Muse From Walking Fashion Shows For Prada To Global Activist For Biodynamic Farming
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 181 Arizona Muse from walking fashion shows for Prada to global activist for biodynamic farming
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-08-09)  
+### Investing in Regenerative Agriculture and Food  (2022-08-09)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/arizona-muse#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

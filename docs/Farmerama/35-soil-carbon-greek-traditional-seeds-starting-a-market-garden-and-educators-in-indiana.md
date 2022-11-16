@@ -1,9 +1,9 @@
+---
+title: 35 Soil Carbon Greek Traditional Seeds Starting A Market Garden And Educators In Indiana
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 35: soil carbon, Greek traditional seeds, starting a market garden and educators in Indiana
-    ---
-
-    ### Farmerama  (2018-06-24)  
+### Farmerama  (2018-06-24)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/35-soil-carbon-greek-traditional-seeds-starting-a-market-garden-and-educators-in-indiana#t=0:00:00):**  Hello and welcome to Farmerama, episode 35.  This month we begin in California, where they're paying farmers to sequester carbon using practices  proven to increase soil health.  

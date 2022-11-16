@@ -1,9 +1,9 @@
+---
+title: Glasgow Food Climate Declaration
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Glasgow Food & Climate Declaration
-    ---
-
-    ### Farm Gate  (2021-12-13)  
+### Farm Gate  (2021-12-13)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Glasgow-Food--Climate-Declaration-e1blcsi#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finnlow Kastain, the Chief Executive of Farmwell and  founder of the Food and Global Security Network. It had been hoped that COP26 would be the  COP where food systems, soil and agriculture would finally make it to the top negotiating  

@@ -1,9 +1,9 @@
+---
+title: What Does Food Security Actually Mean
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: What does 'food security' actually mean?
-    ---
-
-    ### Farm Gate  (2020-04-07)  
+### Farm Gate  (2020-04-07)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/What-does-food-security-actually-mean-ecg6b2#t=0:00:00):**  Hello, and welcome to Farmgate. I'm Finn Logue-Kustain.  Food security is a hot topic. Suddenly coronavirus has placed it at the top of people's minds.  But for many years, the issue has been much lower on the public agenda, perhaps because  

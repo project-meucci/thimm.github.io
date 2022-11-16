@@ -1,9 +1,9 @@
+---
+title: 61 Fine Fleeces Pasture Cropping And Land In Commons
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 61: Fine Fleeces, Pasture Cropping and Land in Commons
-    ---
-
-    ### Farmerama  (2020-12-27)  
+### Farmerama  (2020-12-27)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/61-fine-fleeces-pasture-cropping-and-land-in-commons#t=0:00:00):**  Hello, and welcome to Farmerama.  It's good to be back this month with a collection of conversations with farmers who are trying  to build a more ecological future.  

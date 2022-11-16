@@ -1,9 +1,9 @@
+---
+title: 04 Female Farmers Dairy Protests Walled Gardens Cows Natural Wine In Italy
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 04: Female farmers, dairy protests, walled gardens, cows & natural wine in Italy
-    ---
-
-    ### Farmerama  (2017-03-10)  
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/04-farmerama#t=0:00:00):**  Go on! Go on then! Go on girls!  Welcome to Farmerama and stories from smaller scale farms in the UK and beyond.  We bring you a collection of anecdotes and experiments from the front line of farming.  

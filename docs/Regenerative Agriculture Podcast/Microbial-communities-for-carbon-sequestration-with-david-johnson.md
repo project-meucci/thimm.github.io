@@ -1,9 +1,9 @@
+---
+title: Microbial Communities For Carbon Sequestration With David Johnson
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Microbial Communities for Carbon Sequestration with David Johnson
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-06-29)  
+### Regenerative Agriculture Podcast  (2020-06-29)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://podcast.vhostevents.com/episodes/microbial-communities-for-carbon-sequestration-with-david-johnson/#t=0:00:00):**  Hi friends, welcome back to the Regenerative Agriculture Podcast.  This is John Kempf and today I'm delighted to be here with Dr. David Johnson from New  Mexico University and also Chico State University.  

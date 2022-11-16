@@ -1,9 +1,9 @@
+---
+title: 182 Liz Carlisle Regeneration Is Nothing New Lets Honour The Indigenous History
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 182 Liz Carlisle – Regeneration is nothing new, let’s honour the indigenous history
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-08-30)  
+### Investing in Regenerative Agriculture and Food  (2022-08-30)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/liz-carlisle-2#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

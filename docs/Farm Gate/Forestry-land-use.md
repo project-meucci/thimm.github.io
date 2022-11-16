@@ -1,9 +1,9 @@
+---
+title: Forestry Land Use
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Forestry & land use
-    ---
-
-    ### Farm Gate  (2022-03-24)  
+### Farm Gate  (2022-03-24)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Forestry--land-use-e1g6bod#t=0:00:00):**  Hello, welcome to FarmGate. I'm Finn LoKusteyn, the Chief Executive of Farmwell and founder  of the Food and Global Security Network. In this programme, we're talking trees. Demand  for new woodland is growing for everything from timber to carbon sequestration. But forests  

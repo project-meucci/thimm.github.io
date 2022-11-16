@@ -1,9 +1,9 @@
+---
+title: Soil Builders Using A Bond To Scale Regenerative Approaches In West Africa
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Soil Builders, using a bond to scale regenerative approaches in West Africa
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-12-01)  
+### Investing in Regenerative Agriculture and Food  (2020-12-01)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/11/30/soil-builders-3/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

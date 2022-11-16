@@ -1,9 +1,9 @@
+---
+title: 06 Oxford Real Farming Conference Health Csa Field Of Wheat Cover Crops No Till Land Songs
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 06: Oxford Real Farming Conference, health CSA, Field of Wheat, cover crops + no-till, & land songs
-    ---
-
-    ### Farmerama  (2017-03-10)  
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:04](https://soundcloud.com/farmerama-radio/06-farmerama#t=0:00:00):**  The land, the land, the day the sun was set.  The land, the land, the ground the trees stood on.  This year things are different.  

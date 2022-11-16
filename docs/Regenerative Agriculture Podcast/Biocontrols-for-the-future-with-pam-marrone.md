@@ -1,9 +1,9 @@
+---
+title: Biocontrols For The Future With Pam Marrone
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Biocontrols for the future, with Pam Marrone
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-11-30)  
+### Regenerative Agriculture Podcast  (2018-11-30)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/biocontrols-for-the-future-with-pam-marrone/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems that improve soil health,  

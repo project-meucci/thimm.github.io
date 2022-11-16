@@ -1,9 +1,9 @@
+---
+title: Scaling Regenerative Agriculture
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Scaling regenerative agriculture
-    ---
-
-    ### Farm Gate  (2020-09-22)  
+### Farm Gate  (2020-09-22)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Scaling-regenerative-agriculture-ek0it6#t=0:00:00):**  Hello, welcome to Farmgate, the Regenerative Agriculture podcast. I'm Finnlow Costayne.  Forum for the Future's report, Growing Our Future, concentrates on scaling regenerative  agriculture in the United States. It does a really good job of describing the threats  

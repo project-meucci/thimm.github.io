@@ -1,9 +1,9 @@
+---
+title: A Taste Of North Dakota
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: A Taste of North Dakota
-    ---
-
-    ### Tasting Terroir  (2022-09-15)  
+### Tasting Terroir  (2022-09-15)  
 ### Author(s): Sara H Harper  
 
 **0:00:00-0:00:21:**  Life is busy and in a pinch pasta is like a go-to for us. And I know that it is for  a lot of families, but what makes our pasta different is that we're using two ingredients.  We are stonemilling wheat into full nutrition flour, so nothing is sifted. We have all the  

@@ -1,9 +1,9 @@
+---
+title: Shorts Jubilee Farm Volunteer Day
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Jubilee Farm volunteer day
-    ---
-
-    ### Farmerama  (2018-05-28)  
+### Farmerama  (2018-05-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:14](https://soundcloud.com/farmerama-radio/farmerama-31#t=0:00:00):**  Johnny Hansen is an environmentalist who's involved in setting up Northern Ireland's  first community-supported agriculture scheme at Jubilee Farm.  Johnny reports from Jubilee Farm's first community volunteer day and provides a  

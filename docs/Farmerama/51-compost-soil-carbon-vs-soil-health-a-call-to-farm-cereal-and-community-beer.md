@@ -1,9 +1,9 @@
+---
+title: 51 Compost Soil Carbon Vs Soil Health A Call To Farm Cereal And Community Beer
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 51: Compost, soil carbon vs soil health, a call to farm, CEREAL, and community beer
-    ---
-
-    ### Farmerama  (2019-10-27)  
+### Farmerama  (2019-10-27)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/51-compost-soil-carbon-vs-soil-health-a-call-to-farm-cereal-and-community-beer#t=0:00:00):**  Hello and welcome to Farmerama.  This month we hear from microbiology pioneers in the USA about compost's role in building  microbial life and how to produce a more fungally dominated compost.  

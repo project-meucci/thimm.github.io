@@ -1,9 +1,9 @@
+---
+title: Dr Gabe Kenne Regenerative Soils In Search Of Soil 14
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Dr. Gabe Kenne - Regenerative Soils | In Search of Soil #14
-    ---
-
-    ### In Search of Soil  (2021-07-21)  
+### In Search of Soil  (2021-07-21)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-14-GabeKenne-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Today it's all about the science of no-till and cover cropping based on real world experiences  with Gabe Kenney of the University of South Carolina.  
 **[0:00:30-0:00:33](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-14-GabeKenne-FullEpisode.mp3#t=0:00:30):**  In this episode of In Search of Soil, Gabe's going to share some of the results that he's  seen working with farmers trialing different methods of agriculture like no-till and cover  cropping and how those results have affected the soil compared to control plots in those  

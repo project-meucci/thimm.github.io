@@ -1,9 +1,9 @@
+---
+title: Taking Charge Of Your Farms Future With Jay Hill
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Taking Charge Of Your Farm’s Future With Jay Hill
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-12-08)  
+### Regenerative Agriculture Podcast  (2020-12-08)  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_S3_Ep20_Jay_Hill_Final_Audio.mp3#t=0:00:00):**  Hi, friends. This is John. Welcome back to the Regenerative Agriculture podcast, where we talk  about agronomic science and cultural management practices that regenerate plant health, that  regenerate soil health, and ultimately that regenerate public health. My guest for this  
 **[0:00:15-0:00:20](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_S3_Ep20_Jay_Hill_Final_Audio.mp3#t=0:00:15):**  episode is Jay Hill, who farms in the American Southwest, has a significant following on social  media, also hosts his own podcast. And I'm sure many of you have heard of him. And for those of  you who haven't, you deserve to hear about him, which is why we have him on. So welcome, Jay.  

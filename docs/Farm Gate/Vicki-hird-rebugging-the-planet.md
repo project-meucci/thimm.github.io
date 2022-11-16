@@ -1,9 +1,9 @@
+---
+title: Vicki Hird Rebugging The Planet
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Vicki Hird & Rebugging The Planet
-    ---
-
-    ### Farm Gate  (2021-10-05)  
+### Farm Gate  (2021-10-05)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Vicki-Hird--Rebugging-The-Planet-e18b49h#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finlow Costain, the Chief Executive of Farmwell. My guest  today is Vicky Hurd, an expert and author who's been at the heart of environment, food  and farming policy discussions for over 30 years. Vicky is currently the head of sustainable  

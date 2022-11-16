@@ -1,9 +1,9 @@
+---
+title: 66 Ecosystem Agriculture The Probiotic Turn And Regenerative Flower Growing
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 66: Ecosystem agriculture, the probiotic turn and regenerative flower growing
-    ---
-
-    ### Farmerama  (2021-05-30)  
+### Farmerama  (2021-05-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/66-ecosystem-agriculture-the-probiotic-turn-and-regenerative-flower-growing#t=0:00:00):**  Hello and welcome to Farmer Armour.  This month we're introduced to the importance of ecosystem architecture by a forest ecologist  and wine grower.  

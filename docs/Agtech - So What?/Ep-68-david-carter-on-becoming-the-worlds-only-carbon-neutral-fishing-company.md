@@ -1,9 +1,9 @@
+---
+title: Ep 68 David Carter On Becoming The Worlds Only Carbon Neutral Fishing Company
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Ep 68: David Carter on becoming the world's only carbon neutral fishing company
-    ---
-
-    ### Agtech - So What?  (2020-06-03)  
+### Agtech - So What?  (2020-06-03)  
 
 **[0:00:00-0:00:06](http://www.agtechsowhat.com/agtechsowhatepisodes/david-carter-carbon-neutral-fishing#t=0:00:00):**  Welcome back to the AgTech So What podcast brought to you by Agthentic.  I'm your host, Sarah Nolet.  Today I chat with an expert in a very different kind of agriculture, fisheries.  
 **[0:00:13-0:00:19](http://www.agtechsowhat.com/agtechsowhatepisodes/david-carter-carbon-neutral-fishing#t=0:00:13):**  David Carter is the CEO of Austral Fisheries and he shares how his career has taken him  from deckhand to CEO and some of the tough decisions he's made in his efforts to use  business to address social and environmental challenges.  

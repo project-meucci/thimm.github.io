@@ -1,9 +1,9 @@
+---
+title: 75 Biology First Regen Black British Farmers And The Miller To Baker Relationship
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 75: ‘Biology first’ regen, Black British farmers and the miller-to-baker relationship
-    ---
-
-    ### Farmerama  (2022-05-29)  
+### Farmerama  (2022-05-29)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:04](https://soundcloud.com/farmerama-radio/75-biology-first-regen-black-british-farmers-and-the-miller-to-baker-relationship#t=0:00:00):**  Hello and welcome to FarmerRama.  Thank you to everyone who signed up to our Patreon last month, or previously.  We appreciate every one of you.  

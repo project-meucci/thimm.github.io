@@ -1,9 +1,9 @@
+---
+title: Ag Insuranceso What
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Ag Insurance...So What?
-    ---
-
-    ### Agtech - So What?  (2022-06-29)  
+### Agtech - So What?  (2022-06-29)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/6/29/ag-insurance-so-what#t=0:00:00):**  Hello, and welcome to another episode of AgTech So What, brought to you by the Agtenti Group.  I'm Sarah Nolet.  This week, we're bringing you the final episode in our series on the future of ag insurance,  
 **[0:00:12-0:00:13](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/6/29/ag-insurance-so-what#t=0:00:12):**  and we're pumped about it.  Our journey started with learning the ins and outs of how the sector currently operates,  and talking to key players about where the weak points are and where technology might  

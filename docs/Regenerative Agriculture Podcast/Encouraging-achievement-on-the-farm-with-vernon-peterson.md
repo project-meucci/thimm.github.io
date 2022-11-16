@@ -1,9 +1,9 @@
+---
+title: Encouraging Achievement On The Farm With Vernon Peterson
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Encouraging Achievement on the Farm with Vernon Peterson
-    ---
-
-    ### Regenerative Agriculture Podcast  (2019-08-27)  
+### Regenerative Agriculture Podcast  (2019-08-27)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/encouraging-achievement-on-the-farm-with-vernon-peterson/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing regenerative agriculture systems that improve soil health,  produce crops that are completely resistant to diseases and insects, and produce food  

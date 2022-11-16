@@ -1,9 +1,9 @@
+---
+title: Ep 69 Renée Anderson Cotton Farm Girl On Social Media And Social License
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Ep 69: Renée Anderson "Cotton Farm Girl" on social media and social license
-    ---
-
-    ### Agtech - So What?  (2020-06-17)  
+### Agtech - So What?  (2020-06-17)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/social-media-and-social-license#t=0:00:00):**  Hello, and welcome back to the Ag Tech So What podcast brought to you by Agthentic.  I'm your host, Sarah Nolette. Today's guest is Renee Anderson. Renee is a farmer from  Emerald in Queensland. She's also overall just a champion for the cotton industry and  
 **[0:00:20-0:00:26](https://www.agtechsowhat.com/agtechsowhatepisodes/social-media-and-social-license#t=0:00:20):**  best management practices. Renee has spent 23 years working in cotton as a researcher,  an agronomist, an off-field scholar, and a farmer. And she has lots to share about social  license and the role that technology can play in changing the narrative and improving production.  

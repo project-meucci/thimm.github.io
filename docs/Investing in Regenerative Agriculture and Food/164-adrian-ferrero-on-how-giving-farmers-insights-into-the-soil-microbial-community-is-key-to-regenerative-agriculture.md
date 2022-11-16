@@ -1,9 +1,9 @@
+---
+title: 164 Adrian Ferrero On How Giving Farmers Insights Into The Soil Microbial Community Is Key To Regenerative Agriculture
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 164 Adrian Ferrero on how giving farmers insights into the soil microbial community is key to regenerative agriculture
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-04-12)  
+### Investing in Regenerative Agriculture and Food  (2022-04-12)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/adrian-ferrero#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

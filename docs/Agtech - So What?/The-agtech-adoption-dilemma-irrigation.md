@@ -1,9 +1,9 @@
+---
+title: The Agtech Adoption Dilemma Irrigation
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: The agtech adoption dilemma: Irrigation
-    ---
-
-    ### Agtech - So What?  (2021-03-24)  
+### Agtech - So What?  (2021-03-24)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/3/24/the-agtech-adoption-dilemma-irrigation#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm your host, Sarah Nolet.  Ask any farmer how important water is, and you'll hear just how much it contributes  
 **[0:00:11-0:00:13](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/3/24/the-agtech-adoption-dilemma-irrigation#t=0:00:11):**  to their success.  So surely, irrigation technology would be a lucrative field for investors and agtech  developers, right?  

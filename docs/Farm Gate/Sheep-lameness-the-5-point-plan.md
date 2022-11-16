@@ -1,9 +1,9 @@
+---
+title: Sheep Lameness The 5 Point Plan
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Sheep lameness & the 5-Point Plan
-    ---
-
-    ### Farm Gate  (2020-04-20)  
+### Farm Gate  (2020-04-20)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Sheep-lameness--the-5-Point-Plan-ed12g0#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. There are conditions so prevalent  on farms that they are regarded by many as just simply endemic, ever-present, regardless  of the efforts made to curb new infections. Sheep lameness is one of these conditions.  

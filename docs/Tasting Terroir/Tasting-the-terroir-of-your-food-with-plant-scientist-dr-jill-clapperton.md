@@ -1,9 +1,9 @@
+---
+title: Tasting The Terroir Of Your Food With Plant Scientist Dr Jill Clapperton
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Tasting the Terroir of Your Food with plant scientist Dr. Jill Clapperton
-    ---
-
-    ### Tasting Terroir  (2022-08-17)  
+### Tasting Terroir  (2022-08-17)  
 ### Author(s): Sara Harper and Jill Clapperton  
 
 **0:00:00-0:00:21:**  How does the health of the soil affect the flavor of our food?  How do the farmers' choices, the weather, the soil microbiome, that world underground,  shape the taste of our food?  

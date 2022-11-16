@@ -1,9 +1,9 @@
+---
+title: Trailer Podcast Investing In Regenerative Agriculture And Food
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Trailer podcast Investing in Regenerative Agriculture and Food
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-07-20)  
+### Investing in Regenerative Agriculture and Food  (2020-07-20)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:03](https://investinginregenerativeagriculture.com#t=0:00:00):**  Welcome to Investing in Regenerative Agriculture and Food.  Investing as if the planet mattered,  a podcast show where I talk to the pioneers in  

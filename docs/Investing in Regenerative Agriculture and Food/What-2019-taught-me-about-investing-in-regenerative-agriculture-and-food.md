@@ -1,9 +1,9 @@
+---
+title: What 2019 Taught Me About Investing In Regenerative Agriculture And Food
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: What 2019 taught me about Investing in Regenerative Agriculture and Food
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-12-27)  
+### Investing in Regenerative Agriculture and Food  (2019-12-27)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/01/10/what-we-learn-in-2019-about-investing-in-regenerative-agriculture-and-food/#t=0:00:00):**  What 2019 told me about investing in regenerative agriculture and food?  Wow, what a year! Thank you all for listening, sharing and supporting this work.  Some facts of this year.  

@@ -1,9 +1,9 @@
+---
+title: Episode 38 Angus Street Auctionsplus
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode 38: Angus Street, AuctionsPlus
-    ---
-
-    ### Agtech - So What?  (2019-03-26)  
+### Agtech - So What?  (2019-03-26)  
 
 **[0:00:00-0:00:11](https://player.whooshkaa.com/episode?id=357322#t=0:00:00):**  Hello and welcome back to the AgTechSoWhat podcast. I'm your host, Sarah Nolet, and founder  of AgTentik, where we work to bridge the gaps between agriculture and technology. This week,  we have something new for you or something that we've tried in the past and wanted to  
 **[0:00:20-0:00:25](https://player.whooshkaa.com/episode?id=357322#t=0:00:20):**  bring back, which is a live recording from the Sydney AgTech Meetup. The Sydney AgTech  Meetup is something we do about every six to eight weeks, thanks to our sponsor, SproutX.  This week's guest was Angus Street, CEO of AuctionsPlus, an online livestock sale yard.  

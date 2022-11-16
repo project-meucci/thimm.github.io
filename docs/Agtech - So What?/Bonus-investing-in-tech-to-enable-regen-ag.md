@@ -1,9 +1,9 @@
+---
+title: Bonus Investing In Tech To Enable Regen Ag
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Bonus: Investing in tech to enable regen ag
-    ---
-
-    ### Agtech - So What?  (2021-10-28)  
+### Agtech - So What?  (2021-10-28)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/10/27/investing-in-tech-to-enable-regen-ag#t=0:00:00):**  Hello, and welcome to a bonus episode of Ag Tech So What, brought to you by the Agthentic  Group.  I'm Kirsten Deprose.  
 **[0:00:10-0:00:15](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/10/27/investing-in-tech-to-enable-regen-ag#t=0:00:10):**  If regenerative agriculture is going to scale, it needs to be enabled by tech right across  the supply chain.  In this episode, you'll hear from a panel of venture investors, including Sarah Nollett,  

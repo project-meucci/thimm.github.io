@@ -1,9 +1,9 @@
+---
+title: 148 Johannes Quodt On Making The First Regenerative And Biodegradable Luxury Leather Shoe
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 148 Johannes Quodt on making the first regenerative and biodegradable luxury leather shoe
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-01-18)  
+### Investing in Regenerative Agriculture and Food  (2022-01-18)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/johannes-quodt#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course, or in the links below.  Now onto the podcast.  

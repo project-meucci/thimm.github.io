@@ -1,9 +1,9 @@
+---
+title: Episode 80 Kelly Mulville
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode #80: Kelly Mulville
-    ---
-
-    ### Regenerative Agriculture Podcast  (2022-03-17)  
+### Regenerative Agriculture Podcast  (2022-03-17)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](http://regenerativeagriculturepodcast.com/episode-80-kelly-mulville#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast where we talk about the  agronomic science and the cultural management practices that regenerate soil health and  plant health and human health, livestock health, and of course on the pathway to achieving  

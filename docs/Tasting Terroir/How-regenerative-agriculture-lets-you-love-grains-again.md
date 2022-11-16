@@ -1,9 +1,9 @@
+---
+title: How Regenerative Agriculture Lets You Love Grains Again
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: How Regenerative Agriculture Lets You Love Grains Again!
-    ---
-
-    ### Tasting Terroir  (2022-11-03)  
+### Tasting Terroir  (2022-11-03)  
 ### Author(s): Sara Hessenflow Harper  
 
 **0:00:00-0:00:05:**  When you look at the nutritional profile of, say, sorghum compared to other commodity crops that we  commonly consume, it's shocking how much higher it is in almost every nutrient. So that was one  of our big, big points. Like, for me, I was like, okay, what do I feed my kids? I want to feed them  

@@ -1,9 +1,9 @@
+---
+title: More Soon
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: More Soon
-    ---
-
-    ### Agtech - So What?  (2018-06-27)  
+### Agtech - So What?  (2018-06-27)  
 
 **[0:00:00-0:00:03](https://player.whooshkaa.com/episode?id=357336#t=0:00:00):**  Hey, Bush Tech listeners.  Sarah here.  With episode 26, I can't believe we have done 25 episodes so far.  
 **[0:00:08-0:00:13](https://player.whooshkaa.com/episode?id=357336#t=0:00:08):**  And I just want to thank you so much for your support, for listening, for sharing the podcast,  for commenting on social media.  And for those of you who have been guests, it's been really awesome.  

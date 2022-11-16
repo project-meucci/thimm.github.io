@@ -1,9 +1,9 @@
+---
+title: What Does Less Better Mean
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: What does Less & Better mean?
-    ---
-
-    ### Farm Gate  (2020-03-23)  
+### Farm Gate  (2020-03-23)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:12](https://anchor.fm/farmgate/episodes/What-does-Less--Better-mean-ebr9a0#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finn Logue-Kustain. In the drive to improve food sustainability,  meat is often caught in the crosshairs. NGOs and active food citizens regularly criticise  the climate, nature and welfare impacts of the meat industry. A solution, a compromise  

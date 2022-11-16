@@ -1,9 +1,9 @@
+---
+title: 37 Ian Mcsweeney 400m Us Acres Will Change Hands Soon How To Make Them Regenerative
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 37 Ian McSweeney, 400M US acres will change hands soon, how to make them regenerative?!
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2018-08-04)  
+### Investing in Regenerative Agriculture and Food  (2018-08-04)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2018/08/21/ian-mcsweeney/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

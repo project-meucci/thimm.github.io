@@ -1,9 +1,9 @@
+---
+title: Why Are Facts Not Enough
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Why are facts not enough?
-    ---
-
-    ### Farm Gate  (2020-03-17)  
+### Farm Gate  (2020-03-17)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Why-are-facts-not-enough-ebjjlf#t=0:00:00):**  Hello, thanks for listening to this podcast. But just before you start, I want to apologise  for some of the sound quality. We're not sure what's happened, but the conferencing  equipment didn't work as well as usual, and although we've cleaned up the recording  

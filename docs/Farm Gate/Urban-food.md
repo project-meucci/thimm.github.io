@@ -1,9 +1,9 @@
+---
+title: Urban Food
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Urban food
-    ---
-
-    ### Farm Gate  (2022-07-05)  
+### Farm Gate  (2022-07-05)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Urban-food-e1kqtqq#t=0:00:00):**  Hello, welcome to Farmgate. I'm Fenlow Kustain, the Chief Executive of Farmwell and founder  of the Food and Global Security Network. Often when we talk about shortening supply chains,  there are a set of unspoken assumptions and personal biases that frame the conversation.  

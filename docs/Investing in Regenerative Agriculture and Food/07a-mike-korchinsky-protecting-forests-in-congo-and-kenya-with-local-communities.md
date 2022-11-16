@@ -1,9 +1,9 @@
+---
+title: 07a Mike Korchinsky Protecting Forests In Congo And Kenya With Local Communities
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 07a Mike Korchinsky, protecting forests in Congo and Kenya with local communities
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2017-02-25)  
+### Investing in Regenerative Agriculture and Food  (2017-02-25)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2019/03/14/mike-korchinsky-1/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

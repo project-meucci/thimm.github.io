@@ -1,9 +1,9 @@
+---
+title: Lessons From Ukraine Food Systems
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Lessons from Ukraine (food systems)
-    ---
-
-    ### Farm Gate  (2022-07-08)  
+### Farm Gate  (2022-07-08)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:08](https://anchor.fm/farmgate/episodes/Lessons-from-Ukraine-food-systems-e1kvdat#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne.  This programme is a little different. It's the recording of a webinar run by the Food  and Global Security Network called Lessons from Ukraine.  

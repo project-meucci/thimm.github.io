@@ -1,9 +1,9 @@
+---
+title: 177 Bert Glover On Investing Over 600m Into Regenerative Farms In The Us And Australia And Selling Soil Carbon Credits To Microsoft
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 177 Bert Glover on investing over $600M into regenerative farms in the US and Australia and selling soil carbon credits to Microsoft
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-07-12)  
+### Investing in Regenerative Agriculture and Food  (2022-07-12)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/bert-glover-3#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

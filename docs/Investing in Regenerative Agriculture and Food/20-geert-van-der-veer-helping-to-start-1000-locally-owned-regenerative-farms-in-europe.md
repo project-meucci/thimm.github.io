@@ -1,9 +1,9 @@
+---
+title: 20 Geert Van Der Veer Helping To Start 1000 Locally Owned Regenerative Farms In Europe
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 20 Geert van der Veer, helping to start 1000 locally owned regenerative farms in Europe
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2017-10-03)  
+### Investing in Regenerative Agriculture and Food  (2017-10-03)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/2017/10/20/geert-van-der-veer/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

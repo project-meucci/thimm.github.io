@@ -1,9 +1,9 @@
+---
+title: 48 Striking The Balance Between Complexity And Efficiency In Large Scale Syntropic Systems With Daniel Fröbel
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: #48 Striking the balance between complexity and efficiency in large scale Syntropic systems with Daniel Fröbel
-    ---
-
-    ### The Regenerative Agroforestry Podcast  (2022-10-20)  
+### The Regenerative Agroforestry Podcast  (2022-10-20)  
 
 **0:00:00-0:00:16:**  Can we change the way we produce food to both meet the needs of humans whilst regenerating  our soils and ecosystems?  And can we do so in a way that improves the financial viability of farms?  
 **0:00:23-0:00:27:**  These questions are becoming increasingly urgent to answer and we're here to investigate  a promising technique called agroforestry.  In order to find out how it can help us with these challenges, we'll be interviewing farmers,  

@@ -1,9 +1,9 @@
+---
+title: 174 Thomas Hogenhaven A Regenerative Investment Fund For The Most Disruptive Entrepreneurs
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 174 Thomas Hogenhaven - A regenerative investment fund for the most disruptive entrepreneurs
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-06-21)  
+### Investing in Regenerative Agriculture and Food  (2022-06-21)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/thomas-hogenhaven#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

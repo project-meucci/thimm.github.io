@@ -1,9 +1,9 @@
+---
+title: Episode 77 Rick Clark
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode #77: Rick Clark
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-11-24)  
+### Regenerative Agriculture Podcast  (2021-11-24)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:13](https://traffic.libsyn.com/secure/regenerativeagriculture/Rick_Clark_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is Jon and this is the Regenerative Agriculture Podcast, where we talk about agronomic science and cultural management practices that regenerate soil health, that regenerate plant health and livestock health and human health.  And very importantly, also regenerate farm profitability.  My guest for this episode is a farmer who's become very widely known in the last half a dozen years, and I'm delighted to have him here with me, Rick Clark.  

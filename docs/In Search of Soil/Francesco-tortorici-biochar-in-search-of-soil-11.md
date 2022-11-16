@@ -1,9 +1,9 @@
+---
+title: Francesco Tortorici Biochar In Search Of Soil 11
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Francesco Tortorici - Biochar | In Search of Soil #11
-    ---
-
-    ### In Search of Soil  (2021-06-30)  
+### In Search of Soil  (2021-06-30)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-11-FrancescoTortorici-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Biochar – plant matter turned charcoal via pyrolysis.  It's an often talked about soil amendment that's able to put carbon into the soil  
 **[0:00:32-0:00:35](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-11-FrancescoTortorici-FullEpisode.mp3#t=0:00:32):**  for a very, very long period of time.  The big question is, is it worth it?  To answer those questions, today I'm talking to Francesco Todorici of Olympic Biochar.  

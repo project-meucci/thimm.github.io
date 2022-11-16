@@ -1,9 +1,9 @@
+---
+title: Dr Johannes Lehman Soil Humus In Search Of Soil 12
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Dr. Johannes Lehman - Soil Humus | In Search of Soil #12
-    ---
-
-    ### In Search of Soil  (2021-07-07)  
+### In Search of Soil  (2021-07-07)  
 
 **[0:00:00-0:00:19](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-12-JohannesLehmann-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Humus.  We all know what that is, right?  
 **[0:00:24-0:00:28](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-12-JohannesLehmann-FullEpisode.mp3#t=0:00:24):**  That dark, organic matter found in soil?  Well, if you think that, you might be wrong.  Because it might not actually exist after all.  

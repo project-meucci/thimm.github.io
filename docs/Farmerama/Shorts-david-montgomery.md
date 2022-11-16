@@ -1,9 +1,9 @@
+---
+title: Shorts David Montgomery
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: David Montgomery
-    ---
-
-    ### Farmerama  (2017-09-24)  
+### Farmerama  (2017-09-24)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/short-david-montgomery#t=0:00:00):**  Given that I'm a geologist and Anne's a kind of a biologist that studies the visible world  of nature, I thought I'd visit farmers who have already restored fertility to their land  and ask, how did you do it?  

@@ -1,9 +1,9 @@
+---
+title: Biologicals Snake Oil Or Science And How Do We Know
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Biologicals: snake oil or science, and how do we know?
-    ---
-
-    ### Agtech - So What?  (2021-06-30)  
+### Agtech - So What?  (2021-06-30)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/6/28/biologicals-snake-oil-or-science#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agfentik Group.  You've probably heard of these seemingly magical inputs that farmers are told they can put  on their seeds or crops, and then suddenly the plant is heat resistant or no longer waterlogged.  
 **[0:00:17-0:00:21](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/6/28/biologicals-snake-oil-or-science#t=0:00:17):**  Often these are biologicals, a different type of input.  And let's be honest, right now, many in the industry would call them snake oil.  People say it's a trade secret, we can't tell you, but we increase pepper production by 17%  

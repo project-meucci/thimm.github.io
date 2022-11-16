@@ -1,9 +1,9 @@
+---
+title: 56 The Bowhouse
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 56: The Bowhouse
-    ---
-
-    ### Farmerama  (2020-05-31)  
+### Farmerama  (2020-05-31)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/56-the-bowhouse#t=0:00:00):**  Hi, it's Joe, with a short message before we start the episode.  This month we're bringing you a special episode about The Bow House, a food hub in Fife, in  Scotland.  

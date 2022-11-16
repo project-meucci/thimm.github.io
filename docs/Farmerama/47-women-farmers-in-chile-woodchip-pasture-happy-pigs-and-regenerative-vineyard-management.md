@@ -1,9 +1,9 @@
+---
+title: 47 Women Farmers In Chile Woodchip Pasture Happy Pigs And Regenerative Vineyard Management
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 47: Women farmers in Chile, woodchip, pasture-happy pigs and regenerative vineyard management
-    ---
-
-    ### Farmerama  (2019-06-30)  
+### Farmerama  (2019-06-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:14](https://soundcloud.com/farmerama-radio/47-women-farmers-in-chile-woodchip-pasture-happy-pigs-and-regenerative-vineyard-management#t=0:00:00):**  Hello and welcome to Farmerama. This month we pop to Hampshire to discuss wood chip for  fertile soils. We get tips on rearing pigs on pasture and we visit a regenerative vineyard  system in Oregon. But first, while I was in Chile on my family's farm earlier this year,  

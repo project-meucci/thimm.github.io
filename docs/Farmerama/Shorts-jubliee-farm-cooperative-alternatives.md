@@ -1,9 +1,9 @@
+---
+title: Shorts Jubliee Farm Cooperative Alternatives
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Jubliee Farm Cooperative Alternatives
-    ---
-
-    ### Farmerama  (2018-12-09)  
+### Farmerama  (2018-12-09)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/farmerama-39#t=0:00:00):**  And now it's time for another of our regular visits to Jubilee Farm in Northern Ireland.  I reported a few months ago that our first choice site for our community farm had fallen through,  but also that we were in negotiations to purchase a small farm.  

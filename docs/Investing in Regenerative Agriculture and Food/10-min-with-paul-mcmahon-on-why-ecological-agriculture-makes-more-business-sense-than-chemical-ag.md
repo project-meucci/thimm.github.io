@@ -1,9 +1,9 @@
+---
+title: 10 Min With Paul Mcmahon On Why Ecological Agriculture Makes More Business Sense Than Chemical Ag
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 10 min with Paul McMahon on why ecological agriculture makes more business sense than chemical ag
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-05-02)  
+### Investing in Regenerative Agriculture and Food  (2019-05-02)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2016/12/26/paul-mcmahon/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full-length episode, please check the description below.  Welcome to another episode of Investing in Regenerative Agriculture – Investing as if the Planet Mattered,  a podcast show where I talk to the pioneers in the regenerative food and agriculture space  

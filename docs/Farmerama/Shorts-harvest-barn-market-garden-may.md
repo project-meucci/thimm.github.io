@@ -1,9 +1,9 @@
+---
+title: Shorts Harvest Barn Market Garden May
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Harvest Barn market garden May
-    ---
-
-    ### Farmerama  (2018-07-01)  
+### Farmerama  (2018-07-01)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/shorts-harvest-barn-market-garden-may#t=0:00:00):**  It's Thursday the 24th of May, I'm in the polytunnel again and it's actually raining  as you can hear. I think the last time I recorded something for Farmerama it was raining and  I was in the polytunnel but actually it's been very dry and warm the last few weeks  

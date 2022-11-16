@@ -1,9 +1,9 @@
+---
+title: 13 Post Brexit Perspectives Soil Tests Uncovered Practical Farm Advice Seed Journeys
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 13: Post-brexit perspectives, soil tests uncovered, practical farm advice & seed journeys
-    ---
-
-    ### Farmerama  (2017-03-10)  
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/13-farmerama#t=0:00:00):**  Hello, time for another Farmerama. This month I'm tucked away in a little corner of Northern  Italy and I'm really enjoying being in a place which values its food and where it comes from.  But Abi and Nigel are back in London and they'll be here shortly to guide you through the show.  

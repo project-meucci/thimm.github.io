@@ -1,9 +1,9 @@
+---
+title: Restoring Water With Walter Jehne Caroline Grindrod
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Restoring water, with Walter Jehne & Caroline Grindrod
-    ---
-
-    ### Farm Gate  (2022-09-22)  
+### Farm Gate  (2022-09-22)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Restoring-water--with-Walter-Jehne--Caroline-Grindrod-e1o6rqt#t=0:00:00):**  Hello, welcome to Farmgate. This episode is the recording of a recent webinar, Restoring  the Water Cycle, with Walter Jayner and Caroline Grindrod.  Hello, everybody. Thanks so much for taking the time to be with us this morning. My name's  

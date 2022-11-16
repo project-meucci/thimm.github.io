@@ -1,9 +1,9 @@
+---
+title: 11 Organic Soil Less Growing Landscape Based Eating Salad Harvester Crowdfarming More
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 11: Organic Soil-less Growing?, landscape based eating, salad harvester, crowdfarming & more
-    ---
-
-    ### Farmerama  (2017-03-10)  
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:05](https://soundcloud.com/farmerama-radio/11-farmerama#t=0:00:00):**  Oh look, there's another little beetle here look.  Oh no he's gone, he'll come back, he'll come back right in.  Welcome Farmer Honors!  

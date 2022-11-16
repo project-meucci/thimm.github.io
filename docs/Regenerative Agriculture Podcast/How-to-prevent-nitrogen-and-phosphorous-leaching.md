@@ -1,9 +1,9 @@
+---
+title: How To Prevent Nitrogen And Phosphorous Leaching
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: How To Prevent Nitrogen and Phosphorous Leaching
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-08-10)  
+### Regenerative Agriculture Podcast  (2018-08-10)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:03](https://podcast.vhostevents.com/uncategorized/how-to-prevent-nitrogen-and-phosphorous-leaching/#t=0:00:00):**  Hi friends, I'm Jon Kempf, hosting this podcast.  I am passionate about developing regenerative agriculture systems that improve soil health,  produce crops that are completely resistant to diseases and insects, and produce fruit  

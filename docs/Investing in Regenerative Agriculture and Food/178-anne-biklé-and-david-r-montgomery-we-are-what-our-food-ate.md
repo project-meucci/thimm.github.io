@@ -1,9 +1,9 @@
+---
+title: 178 Anne Biklé And David R Montgomery We Are What Our Food Ate
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 178 Anne Biklé and David R Montgomery – We are what our food ate
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-07-19)  
+### Investing in Regenerative Agriculture and Food  (2022-07-19)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:07](https://investinginregenerativeagriculture.com/anne-bikle-and-david-r-montgomery#t=0:00:00):**  No better way to start to unpack the connection between soil building agriculture practices and human health  further than with David and Anne who have studied over a thousand papers and published a peer review one themselves  looking at the connection between soil health and human health.  

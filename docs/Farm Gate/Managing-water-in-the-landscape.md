@@ -1,9 +1,9 @@
+---
+title: Managing Water In The Landscape
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Managing water in the landscape
-    ---
-
-    ### Farm Gate  (2022-08-17)  
+### Farm Gate  (2022-08-17)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Managing-water-in-the-landscape-e1m3cnt#t=0:00:00):**  Hello, welcome to Farmgate. I'm Fenlow Kastain, the Chief Executive of Farmwell and founder  of the Food and Global Security Network.  The way land is managed has a fundamental impact on our ability not only to mitigate  

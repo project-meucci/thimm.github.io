@@ -1,9 +1,9 @@
+---
+title: Farmer First Technologies That Transform The Food System Fresh Talk
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Farmer first technologies that transform the food system - Fresh Talk
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-08-17)  
+### Investing in Regenerative Agriculture and Food  (2021-08-17)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

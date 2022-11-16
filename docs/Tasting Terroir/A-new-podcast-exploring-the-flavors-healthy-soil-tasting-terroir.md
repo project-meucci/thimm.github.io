@@ -1,9 +1,9 @@
+---
+title: A New Podcast Exploring The Flavors Healthy Soil Tasting Terroir
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: A New Podcast Exploring the Flavors Healthy Soil: Tasting Terroir
-    ---
-
-    ### Tasting Terroir  (2022-08-05)  
+### Tasting Terroir  (2022-08-05)  
 ### Author(s): Sara H Harper and Jill Clapperton  
 
 **0:00:00-0:00:07:**  How does the health of the soil affect the flavor of our food?  How do the farmers' choices, the weather, the soil microbiome that world underground  shape the taste of our food?  

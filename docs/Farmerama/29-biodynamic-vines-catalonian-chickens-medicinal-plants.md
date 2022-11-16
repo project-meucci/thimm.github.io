@@ -1,9 +1,9 @@
+---
+title: 29 Biodynamic Vines Catalonian Chickens Medicinal Plants
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 29: Biodynamic vines, Catalonian chickens & medicinal plants
-    ---
-
-    ### Farmerama  (2017-12-31)  
+### Farmerama  (2017-12-31)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/farmerama-29#t=0:00:00):**  Hello everybody, and welcome once again to Farmerama.  We have some slightly longer stories for you this month from three young farmers scattered  across the globe.  

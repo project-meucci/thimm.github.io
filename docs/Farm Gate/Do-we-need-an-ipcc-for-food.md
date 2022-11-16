@@ -1,9 +1,9 @@
+---
+title: Do We Need An Ipcc For Food
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Do we need an IPCC for food?
-    ---
-
-    ### Farm Gate  (2021-08-02)  
+### Farm Gate  (2021-08-02)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:05](https://anchor.fm/farmgate/episodes/Do-we-need-an-IPCC-for-food-e15bgh9#t=0:00:00):**  A few days after recording this podcast, IPES Food members stepped down from roles they  held within the UN Food Systems Summit process. The discussion that follows helps to explain  why.  

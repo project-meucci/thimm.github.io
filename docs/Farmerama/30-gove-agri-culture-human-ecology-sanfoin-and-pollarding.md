@@ -1,9 +1,9 @@
+---
+title: 30 Gove Agri Culture Human Ecology Sanfoin And Pollarding
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 30: Gove, agri-culture, Human Ecology, Sanfoin and Pollarding
-    ---
-
-    ### Farmerama  (2018-01-27)  
+### Farmerama  (2018-01-27)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:22](https://soundcloud.com/farmerama-radio/farmerama-30-gove-agri-culture-human-ecology-sanfoin-and-pollarding#t=0:00:00):**  Hello and welcome to episode 30 of Farmerama. This month we bring you stories from the 9th  annual Oxford Real Farming Conference, the ORFC. We embrace agriculture with new poetry  written at the front lines of farming. There's a brief introduction to human ecology and  

@@ -1,9 +1,9 @@
+---
+title: Soil Builders Saving Harvests With Small Holders Farmers And Connecting Local Farms To City Folk In The Uk
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Soil Builders, saving harvests with small holders farmers and connecting local farms to city folk in the UK
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-02-18)  
+### Investing in Regenerative Agriculture and Food  (2022-02-18)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/soil-builders-7/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

@@ -1,9 +1,9 @@
+---
+title: Carbon Neutrality And Tackling Misinformation In Red Meat Jason Strong Meat And Livestock Australia
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Carbon neutrality and tackling misinformation in red meat - Jason Strong, Meat and Livestock Australia
-    ---
-
-    ### Agtech - So What?  (2021-08-11)  
+### Agtech - So What?  (2021-08-11)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/8/10/misinformation-carbon-neutrality-red-meat#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the AgVenti Group.  I'm Sarah Nolet.  Increasingly, meat, especially red meat, is being positioned as the bad guy when it comes  
 **[0:00:13-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/8/10/misinformation-carbon-neutrality-red-meat#t=0:00:13):**  to climate change, the environment, and health.  And there are some loud voices in this debate, on both sides.  If a sustainable food system is the end goal, how helpful is this debate, and are we focusing  

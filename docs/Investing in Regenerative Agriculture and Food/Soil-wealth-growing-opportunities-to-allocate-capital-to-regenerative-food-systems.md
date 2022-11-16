@@ -1,9 +1,9 @@
+---
+title: Soil Wealth Growing Opportunities To Allocate Capital To Regenerative Food Systems
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Soil Wealth: growing opportunities to allocate capital to regenerative food systems
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-10-08)  
+### Investing in Regenerative Agriculture and Food  (2019-10-08)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:07](https://investinginregenerativeagriculture.com/2019/10/09/soil-wealth-report/#t=0:00:00):**  So, a very warm welcome for a short interview today live from the Regen Food System Investment  Forum.  It's a mouthful, but I'm very, very excited to be here with David and Josh, and we're  

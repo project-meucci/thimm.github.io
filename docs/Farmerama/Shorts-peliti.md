@@ -1,9 +1,9 @@
+---
+title: Shorts Peliti
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Peliti
-    ---
-
-    ### Farmerama  (2018-05-28)  
+### Farmerama  (2018-05-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:18](https://soundcloud.com/farmerama-radio/shorts-grow-observatory-peliti#t=0:00:00):**  The seed came as an idea to Panagiotis Aenatoudis, who is the founder and the coordinator of  the community about 20 or 25 years ago, when he realized that he wasn't able to find all  the varieties of, let's say, corn that he used to eat as a child.  

@@ -1,9 +1,9 @@
+---
+title: Aquaculture An Insiders View
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Aquaculture - An insider's view
-    ---
-
-    ### Farm Gate  (2021-05-05)  
+### Farm Gate  (2021-05-05)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:08](https://anchor.fm/farmgate/episodes/Aquaculture---An-insiders-view-e109odg#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finn Logue Costayne.  In 2013, for the first time, more seafood was produced globally in aquaculture systems  than from wild caught fisheries. This statistic has become a trend with continuing rapid growth  

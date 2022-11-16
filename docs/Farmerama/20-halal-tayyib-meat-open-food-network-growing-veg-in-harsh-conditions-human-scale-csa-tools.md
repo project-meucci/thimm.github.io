@@ -1,9 +1,9 @@
+---
+title: 20 Halal Tayyib Meat Open Food Network Growing Veg In Harsh Conditions Human Scale Csa Tools
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 20: Halal & Tayyib meat, Open Food Network, growing veg in harsh conditions & human-scale CSA tools
-    ---
-
-    ### Farmerama  (2017-03-25)  
+### Farmerama  (2017-03-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/farmerama-20#t=0:00:00):**  Hello and welcome to FarmerArmor. This week we start with a trip to Abraham Organics,  a specialist halal and ta'ev meat supplier in London. We learn about the work of the  Open Food Network from Lynn Davis and Mark Harrison. Then we're visiting two old friends  

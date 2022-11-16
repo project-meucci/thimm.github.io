@@ -1,9 +1,9 @@
+---
+title: The Regenerative Orchard Cherry Success With Mike Omeg
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: The Regenerative Orchard: Cherry Success with Mike Omeg
-    ---
-
-    ### Regenerative Agriculture Podcast  (2019-04-16)  
+### Regenerative Agriculture Podcast  (2019-04-16)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/the-regenerative-orchard-cherry-success-with-mike-omeg/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems that improve soil health,  

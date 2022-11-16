@@ -1,9 +1,9 @@
+---
+title: 10min With Bert Glover On Investing 160m To Regenerate Australian Soils
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 10min with Bert Glover on investing $160M to regenerate Australian soils
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-06-18)  
+### Investing in Regenerative Agriculture and Food  (2019-06-18)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2019/05/17/bert-glover/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full-length episode, please check the description below.  You will listen to an interview with Bert Glover on how he and his team put 160 million to work in regenerative agriculture and food.  Their lessons learned and how we can scale this to the size which is absolutely necessary.  

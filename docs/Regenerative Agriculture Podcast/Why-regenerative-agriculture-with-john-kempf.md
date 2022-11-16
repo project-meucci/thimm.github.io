@@ -1,9 +1,9 @@
+---
+title: Why Regenerative Agriculture With John Kempf
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Why Regenerative Agriculture with John Kempf
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-06-26)  
+### Regenerative Agriculture Podcast  (2018-06-26)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/why-regenerative-agriculture-with-john-kempf/#t=0:00:00):**  Hi friends, I'm Jon Kempf hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

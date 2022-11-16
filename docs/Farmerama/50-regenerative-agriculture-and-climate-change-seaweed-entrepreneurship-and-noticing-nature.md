@@ -1,9 +1,9 @@
+---
+title: 50 Regenerative Agriculture And Climate Change Seaweed Entrepreneurship And Noticing Nature
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 50: Regenerative agriculture and climate change, Seaweed entrepreneurship and noticing nature
-    ---
-
-    ### Farmerama  (2019-09-29)  
+### Farmerama  (2019-09-29)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:11](https://soundcloud.com/farmerama-radio/50-regenerative-agriculture-and-climate-change-seaweed-entrepreneurship-and-noticing-nature#t=0:00:00):**  Hello and welcome to another episode of Farmerama.  This month we begin by looking at the links between regenerative agriculture and climate  change.  

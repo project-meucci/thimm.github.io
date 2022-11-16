@@ -1,9 +1,9 @@
+---
+title: Facilitating Large Scale Transitions To Regenerative Agriculture With Terry Mccosker
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Facilitating Large Scale Transitions to Regenerative Agriculture with Terry McCosker
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-09-02)  
+### Regenerative Agriculture Podcast  (2020-09-02)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/REGEN_AG_PODCAST_TERRY_MCCOSKER_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is Jon and this is the Regenerative Agriculture Podcast where we talk about the  agronomic science and the cultural management practices that regenerate plant health, soil  health and ultimately public health.  

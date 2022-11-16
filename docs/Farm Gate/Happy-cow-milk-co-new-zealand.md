@@ -1,9 +1,9 @@
+---
+title: Happy Cow Milk Co New Zealand
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Happy Cow Milk Co. New Zealand
-    ---
-
-    ### Farm Gate  (2020-04-28)  
+### Farm Gate  (2020-04-28)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Happy-Cow-Milk-Co--New-Zealand-edbp54#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. Today we travel to Christchurch,  New Zealand to speak with Glen Herrod, the founder of the Happy Cow Milk Company.  Glen founded Happy Cow, a cow and calf dairy business, in 2014. But despite the fact that  

@@ -1,9 +1,9 @@
+---
+title: Panic Buying A Rational Reaction To Crisis
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Panic buying - a rational reaction to crisis?
-    ---
-
-    ### Farm Gate  (2020-03-31)  
+### Farm Gate  (2020-03-31)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Panic-buying---a-rational-reaction-to-crisis-ec6imp#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn Lobe-Kustain. One of the big stories since the start of  the coronavirus pandemic has been panic buying. People rushing out to food stores to stock  up on essential items. Retailers were slow to intervene, but they've now placed tight  

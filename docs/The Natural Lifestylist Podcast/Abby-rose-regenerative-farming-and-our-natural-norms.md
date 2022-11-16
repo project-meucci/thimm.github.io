@@ -1,9 +1,9 @@
+---
+title: Abby Rose Regenerative Farming And Our Natural Norms
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Abby Rose - Regenerative Farming and Our Natural Norms
-    ---
-
-    ### The Natural Lifestylist Podcast  (2021-01-21)  
+### The Natural Lifestylist Podcast  (2021-01-21)  
 ### Author(s): Tony Riddle  
 
 **[0:00:00-0:00:11](https://anchor.fm/tony-riddle/episodes/Abby-Rose---Regenerative-Farming-and-Our-Natural-Norms-eotbl2#t=0:00:00):**  Welcome to the Natural Lifestyle podcast with me, your host Tony Riddle.  Happy new year you beautiful beings of planet earth.  Now let's just take a moment to celebrate the fact that we all woke up today.  

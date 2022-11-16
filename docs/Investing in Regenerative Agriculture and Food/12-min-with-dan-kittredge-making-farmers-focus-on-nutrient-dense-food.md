@@ -1,9 +1,9 @@
+---
+title: 12 Min With Dan Kittredge Making Farmers Focus On Nutrient Dense Food
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 12 min with Dan Kittredge, making farmers focus on nutrient dense food
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-07-02)  
+### Investing in Regenerative Agriculture and Food  (2019-07-02)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2019/05/29/dan-kittredge/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full-length episode, please check the description below.  This interview is about quality, nutrient density and flavour of food and their connection with soil health and human health.  I think it's safe to say that if Dan and the team at the Bionutrient Food Association get it right, they will change the entire food and agriculture sector for the better.  

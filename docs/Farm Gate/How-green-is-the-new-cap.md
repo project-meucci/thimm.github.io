@@ -1,9 +1,9 @@
+---
+title: How Green Is The New Cap
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: How green is the new CAP?
-    ---
-
-    ### Farm Gate  (2020-11-17)  
+### Farm Gate  (2020-11-17)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/How-green-is-the-new-CAP-emja75#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finnlow Costayne. In this programme, I'm crossing  the English Channel, which seems to have become emotionally much wider since the UK left the  European Union. What's been happening on the continent, as we Brits used to call mainland  

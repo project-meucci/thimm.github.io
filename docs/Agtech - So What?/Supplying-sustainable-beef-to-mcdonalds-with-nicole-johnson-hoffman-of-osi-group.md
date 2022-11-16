@@ -1,9 +1,9 @@
+---
+title: Supplying Sustainable Beef To Mcdonalds With Nicole Johnson Hoffman Of Osi Group
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Supplying sustainable beef to McDonalds with Nicole-Johnson-Hoffman of OSI Group
-    ---
-
-    ### Agtech - So What?  (2020-08-26)  
+### Agtech - So What?  (2020-08-26)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/can-big-brands-like-mcdonalds-be-global-leaders-in-sustainability#t=0:00:00):**  Welcome to the AgTech So What podcast brought to you by Agthentic. I'm your host, Sarah  Nolette. Today we are taking a sidestep from our Regen Ag series to bring you a guest who  is a leader in sustainability in the global beef industry. She has spent her career in  
 **[0:00:19-0:00:23](https://www.agtechsowhat.com/agtechsowhatepisodes/can-big-brands-like-mcdonalds-be-global-leaders-in-sustainability#t=0:00:19):**  beef and isn't afraid of defending it.  I personally believe that beef production is good for the planet. I think beef production  is good for our communities. I think it's good for it's a net positive for people. And  

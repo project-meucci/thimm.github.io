@@ -1,9 +1,9 @@
+---
+title: Changing The Messy Middle Of The Food System
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Changing the "Messy Middle" of the Food System
-    ---
-
-    ### Tasting Terroir  (2022-09-29)  
+### Tasting Terroir  (2022-09-29)  
 ### Author(s): Sara Hessenflow Harper  
 
 **0:00:00-0:00:18:**  It's easy to put a cheaper watermelon on a store shelf that comes from another country,  but doesn't come with all the things that people value.  So if you value those things, you know, support the places that are doing those things.  

@@ -1,9 +1,9 @@
+---
+title: Updating Soil Analysis To Consider Microbial Influence With Rick Haney
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Updating Soil Analysis to Consider Microbial Influence with Rick Haney
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-10-06)  
+### Regenerative Agriculture Podcast  (2020-10-06)  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/S3EP18_RICK_HANEY_AUDIO_FINAL.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast where we talk about the  agronomic science and cultural management practices that regenerate plant health, soil  health, and ultimately public health.  
 **[0:00:14-0:00:19](https://traffic.libsyn.com/secure/regenerativeagriculture/S3EP18_RICK_HANEY_AUDIO_FINAL.mp3#t=0:00:14):**  My guest for this episode is Rick Haney, a name that you've probably heard or hopefully  you have heard and are familiar with over the last couple of years who developed the  soil test that carries his name and a soil test that I'm quite intrigued by.  

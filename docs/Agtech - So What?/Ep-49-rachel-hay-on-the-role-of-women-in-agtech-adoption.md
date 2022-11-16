@@ -1,9 +1,9 @@
+---
+title: Ep 49 Rachel Hay On The Role Of Women In Agtech Adoption
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Ep 49: Rachel Hay on the role of women in agtech adoption
-    ---
-
-    ### Agtech - So What?  (2019-09-11)  
+### Agtech - So What?  (2019-09-11)  
 
 **[0:00:00-0:00:11](https://player.whooshkaa.com/episode?id=424225#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast. Emerging technologies are rapidly  changing the global agricultural industry. We believe that this revolution is only getting  started, but there's still too much hype out there and too big of a disconnect between  
 **[0:00:21-0:00:27](https://player.whooshkaa.com/episode?id=424225#t=0:00:21):**  ag and ag tech. So on this show, we try to bridge that gap. In each episode, we bring  you the story of a different innovator in agriculture and try to find the place where  ag and tech meet. I'm your host, Sarah Nolette. Today's guest is Dr. Rachel Hay, a researcher  

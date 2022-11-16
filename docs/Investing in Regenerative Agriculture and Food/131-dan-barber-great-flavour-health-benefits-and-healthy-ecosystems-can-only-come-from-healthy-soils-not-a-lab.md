@@ -1,9 +1,9 @@
+---
+title: 131 Dan Barber Great Flavour Health Benefits And Healthy Ecosystems Can Only Come From Healthy Soils Not A Lab
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 131 Dan Barber, Great flavour, health benefits and healthy ecosystems can only come from healthy soils not a lab
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-09-14)  
+### Investing in Regenerative Agriculture and Food  (2021-09-14)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/dan-barber#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

@@ -1,9 +1,9 @@
+---
+title: Unscrambling Go To Market And Brand In Alternative Protein With Tanja Bogumil Perfeggt
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Unscrambling Go-to-Market and Brand in Alternative Protein, with Tanja Bogumil, Perfeggt
-    ---
-
-    ### Agtech - So What?  (2022-04-06)  
+### Agtech - So What?  (2022-04-06)  
 
 **[0:00:00-0:00:04](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/4/7/tanja-bogumil-vegan-eggs-plant-based-alternative-protein-startup#t=0:00:00):**  Hello, and welcome to Ag Tech So What.  I'm your host, Sarah Nolet.  Do you ever think about eggs?  
 **[0:00:08-0:00:11](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/4/7/tanja-bogumil-vegan-eggs-plant-based-alternative-protein-startup#t=0:00:08):**  They're pretty miraculous in terms of an ingredient.  They're full of protein, they're flavorful, and they come neatly packaged in a sanitary,  yet easy-to-break shell.  

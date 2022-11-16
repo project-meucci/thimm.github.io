@@ -1,9 +1,9 @@
+---
+title: 53 Storytelling Nutrient Density Fashion And Community Farms
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 53: Storytelling, Nutrient Density, Fashion and Community Farms
-    ---
-
-    ### Farmerama  (2020-02-23)  
+### Farmerama  (2020-02-23)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:04](https://soundcloud.com/farmerama-radio/53-storytelling-nutrient-density-fashion-and-community-farms#t=0:00:00):**  Hello and welcome to Farmerama.  This month we bring you the first of three special episodes focusing for the most part  on stories from the Oxford Real Farming Conference or ORFC which took place in January.  

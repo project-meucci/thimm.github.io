@@ -1,9 +1,9 @@
+---
+title: Episode 1 Surfers Against Sewage With Hugo Tagholm
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode 1: Surfers Against Sewage with Hugo Tagholm
-    ---
-
-    ### The Natural Lifestylist Podcast  (2019-09-03)  
+### The Natural Lifestylist Podcast  (2019-09-03)  
 ### Author(s): Tony Riddle  
 
 **[0:00:00-0:00:10](https://anchor.fm/tony-riddle/episodes/Episode-1-Surfers-Against-Sewage-with-Hugo-Tagholm-e579p8#t=0:00:00):**  Hi, I'm Tony Riddle and this is the Natural Lifestylist podcast.  So way back in December I had this crazy idea that I was going to run 900 miles from Land's  End to Jono Grote in 30 days.  

@@ -1,9 +1,9 @@
+---
+title: Shorts Harvest Barn Market Garden Update March
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Harvest Barn Market Garden update March
-    ---
-
-    ### Farmerama  (2018-04-01)  
+### Farmerama  (2018-04-01)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/shorts-harvest-barn-market-garden-update-march#t=0:00:00):**  Hello, it's Joel here at Harvest Barn Farm Shop in the Market Garden.  It's the 20th of March, day 50 of my time here and the last few days and weeks I've  been working on the polytunnel.  

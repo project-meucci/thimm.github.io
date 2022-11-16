@@ -1,9 +1,9 @@
+---
+title: 6 Things We Accomplished In 2020
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 6 things we accomplished in 2020
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-12-30)  
+### Investing in Regenerative Agriculture and Food  (2020-12-30)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/six-things-we-accomplished-in-2020#t=0:00:00):**  Six things we accomplished in 2020. 2020 was a very, very intense year. It's hard to believe it  was only 12 months. We hope you and your loved ones haven't been personally affected by the  health crisis. Many thanks for listening, watching, sharing and participating this year. The attention  

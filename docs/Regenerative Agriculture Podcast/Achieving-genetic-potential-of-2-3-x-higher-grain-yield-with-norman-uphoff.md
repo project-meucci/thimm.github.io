@@ -1,9 +1,9 @@
+---
+title: Achieving Genetic Potential Of 2 3 X Higher Grain Yield With Norman Uphoff
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Achieving Genetic Potential of 2-3 X Higher Grain Yield with Norman Uphoff
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-03-17)  
+### Regenerative Agriculture Podcast  (2020-03-17)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://podcast.vhostevents.com/uncategorized/achieving-genetic-potential-of-2-3-x-higher-grain-yield-with-norman-uphoff/#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast.  Thank you for being with us and for listening. Today I have Dr. Norman Uchoff from Cornell  University. One of the themes that I've spoken about a bit in the past is the idea that we're  

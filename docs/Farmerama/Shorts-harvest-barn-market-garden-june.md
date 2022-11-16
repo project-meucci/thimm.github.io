@@ -1,9 +1,9 @@
+---
+title: Shorts Harvest Barn Market Garden June
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Harvest Barn market Garden June
-    ---
-
-    ### Farmerama  (2018-07-01)  
+### Farmerama  (2018-07-01)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/shorts-harvest-barn-market-garden-june#t=0:00:00):**  Good evening everyone, it's the 25th of June 2018. The sound you can hear in the background  is a impact sprayer, an irrigation unit that I've just got. Finally I've got a hose with  a wand so I can water in the polytunnel and out in the field without going backwards and  

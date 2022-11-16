@@ -1,9 +1,9 @@
+---
+title: The Politics Of Protein
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: The politics of protein
-    ---
-
-    ### Farm Gate  (2022-04-07)  
+### Farm Gate  (2022-04-07)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/The-politics-of-protein-e1grpd3#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn Loke Stain, the Chief Executive of Farmwell and  founder of the Food and Global Security Network. In this programme we're talking about meat,  fish and protein alternatives and the competing claims about sustainability that are made  

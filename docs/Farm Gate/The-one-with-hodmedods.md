@@ -1,9 +1,9 @@
+---
+title: The One With Hodmedods
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: The one with Hodmedods
-    ---
-
-    ### Farm Gate  (2022-02-23)  
+### Farm Gate  (2022-02-23)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/The-one-with-Hodmedods-e1eprhf#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn Loke stain, the chief executive of Farmwell and  founder of the Food and Global Security Network. My guest today is Josiah Meldrum, a co-founder  of the hugely successful online retailer Hodmodods, which works with British farms to source top  

@@ -1,9 +1,9 @@
+---
+title: Collaboration Spirit And Change Perspectives From Ray Archuleta
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Collaboration, Spirit and Change, Perspectives from Ray Archuleta
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-04-28)  
+### Regenerative Agriculture Podcast  (2020-04-28)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://podcast.vhostevents.com/uncategorized/collaboration-spirit-and-change-perspectives-from-ray-archuleta/#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast.  Welcome back.  I know you find our conversations enjoyable.  

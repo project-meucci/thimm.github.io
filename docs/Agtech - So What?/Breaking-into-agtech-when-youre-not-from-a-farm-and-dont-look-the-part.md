@@ -1,9 +1,9 @@
+---
+title: Breaking Into Agtech When Youre Not From A Farm And Dont Look The Part
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Breaking into agtech when you're not from a farm and "don't look the part"
-    ---
-
-    ### Agtech - So What?  (2020-12-16)  
+### Agtech - So What?  (2020-12-16)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/12/16/breaking-into-agtech#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolette.  In this episode, we're starting our Ag Tech Careers series, which we're bringing to you  
 **[0:00:12-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/12/16/breaking-into-agtech#t=0:00:12):**  in collaboration with the Future Farmers Network.  Let's face it, Ag Tech as an industry barely existed even five years ago, so there's not  really a well-worn path to break into the industry.  

@@ -1,9 +1,9 @@
+---
+title: 40 Kevin Egolf How Retail Investors Can Provide Land Access To Regen Farmers
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 40 Kevin Egolf, how (retail) investors can provide land access to regen farmers
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2018-10-02)  
+### Investing in Regenerative Agriculture and Food  (2018-10-02)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2018/10/05/kevin-egolf/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

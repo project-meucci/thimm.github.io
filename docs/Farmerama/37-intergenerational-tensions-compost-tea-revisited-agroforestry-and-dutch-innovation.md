@@ -1,9 +1,9 @@
+---
+title: 37 Intergenerational Tensions Compost Tea Revisited Agroforestry And Dutch Innovation
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 37: intergenerational tensions, compost tea revisited, agroforestry and Dutch innovation
-    ---
-
-    ### Farmerama  (2018-08-25)  
+### Farmerama  (2018-08-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/37-family-tensions-compost-tea-revisited-agroforestry-and-innovative-business-models#t=0:00:00):**  Hello and welcome to Farmerama. This month we head to Herefordshire for a farmer who  is rethinking his apple growing. We get the latest on composting with and without tea  from an experiment we first heard about last year. And we learn about an innovative business  

@@ -1,9 +1,9 @@
+---
+title: 18 Productivity In Small Scale Farming No Dig And Street Play As Teaching Tool
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 18: productivity in small-scale farming, no-dig and street play as teaching tool
-    ---
-
-    ### Farmerama  (2017-03-11)  
+### Farmerama  (2017-03-11)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:22](https://soundcloud.com/farmerama-radio/18-farmerama#t=0:00:00):**  The farming is life.  Farmers are the backbone of the farming.  If the farmers are being disorganised or if the farmers are not able to do farming, then  

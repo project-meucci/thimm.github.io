@@ -1,9 +1,9 @@
+---
+title: 102 Walter Jehne Stop Talking About Carbon Emissions And Focus On Restoring The Water Cycle
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 102 Walter Jehne, stop talking about carbon emissions and focus on restoring the water cycle
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-01-26)  
+### Investing in Regenerative Agriculture and Food  (2021-01-26)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/walter-jehne#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

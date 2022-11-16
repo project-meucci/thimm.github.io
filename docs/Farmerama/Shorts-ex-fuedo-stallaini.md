@@ -1,9 +1,9 @@
+---
+title: Shorts Ex Fuedo Stallaini
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Ex Fuedo Stallaini
-    ---
-
-    ### Farmerama  (2018-08-19)  
+### Farmerama  (2018-08-19)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:12](https://soundcloud.com/farmerama-radio/shorts-ex-fuedo-stallaini#t=0:00:00):**  So I can say without being shy that we are very lucky to live here.  And when I walk and I have this heaven of plants and my soul is, I can say, full of joy.  And I feel peaceful and full of love too, even if I'm alone.  

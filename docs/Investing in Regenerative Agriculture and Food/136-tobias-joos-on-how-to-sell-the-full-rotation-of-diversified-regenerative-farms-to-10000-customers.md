@@ -1,9 +1,9 @@
+---
+title: 136 Tobias Joos On How To Sell The Full Rotation Of Diversified Regenerative Farms To 10000 Customers
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 136 Tobias Joos on how to sell the full rotation of diversified regenerative farms to 10000 customers
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-10-19)  
+### Investing in Regenerative Agriculture and Food  (2021-10-19)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/tobias-joos#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

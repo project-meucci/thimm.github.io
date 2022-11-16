@@ -1,9 +1,9 @@
+---
+title: 80 Jonathan Lundgren Regen Ag Much More Profitable Than Extractive Ag
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 80 Jonathan Lundgren - Regen ag much more profitable than extractive ag?!
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-06-02)  
+### Investing in Regenerative Agriculture and Food  (2020-06-02)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/06/02/jonathan-lundgren#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

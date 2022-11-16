@@ -1,9 +1,9 @@
+---
+title: Regen Ag Series 5 Our Verdict
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Regen Ag Series #5: Our Verdict
-    ---
-
-    ### Agtech - So What?  (2020-09-23)  
+### Agtech - So What?  (2020-09-23)  
 
 **[0:00:00-0:00:01](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/9/23/regen-ag-series-5-our-verdict#t=0:00:00):**  Hey, Kristen.  Hey, Sarah.  How are you going?  
 **[0:00:03-0:00:04](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/9/23/regen-ag-series-5-our-verdict#t=0:00:03):**  I need you to do something for me.  Yeah, sure.  What is it?  

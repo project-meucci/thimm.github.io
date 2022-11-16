@@ -1,9 +1,9 @@
+---
+title: Live Panel What Does It Take For Researchers Startups To Collaborate In Agtech
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: (Live Panel) What does it take for researchers & startups to collaborate in agtech?
-    ---
-
-    ### Agtech - So What?  (2019-11-06)  
+### Agtech - So What?  (2019-11-06)  
 
 **[0:00:00-0:00:09](https://player.whooshkaa.com/episode?id=458170#t=0:00:00):**  Hello and welcome to the Ag Tech So What podcast.  Emerging technologies are rapidly changing the global agricultural industry.  We believe that this revolution is only getting started, but there's still too much hype out  
 **[0:00:19-0:00:23](https://player.whooshkaa.com/episode?id=458170#t=0:00:19):**  there and too big of a disconnect between ag and ag tech.  So on this show, we try to bridge that gap.  In each episode, we bring you the story of a different innovator in agriculture and try  

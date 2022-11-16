@@ -1,9 +1,9 @@
+---
+title: James Thornton Client Earth Protecting People Nature The Planet
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: James Thornton - Client Earth. Protecting People, Nature & The Planet.
-    ---
-
-    ### The Natural Lifestylist Podcast  (2020-04-27)  
+### The Natural Lifestylist Podcast  (2020-04-27)  
 ### Author(s): Tony Riddle  
 
 **[0:00:00-0:00:05](https://anchor.fm/tony-riddle/episodes/James-Thornton---Client-Earth--Protecting-People--Nature--The-Planet-eda40l#t=0:00:00):**  Welcome to the Natural Lifestyle is podcast with me, your host, Tony Riddle.  Now it's been quite some time since I last released the new pod, even though this one's been in the bank and I've been itching to put it out, just didn't feel appropriate.  You know, in these coronavirus times, but then by magic, I've just been presented with some research that's actually suggesting that high levels of air pollution, specifically diesel, may be one of the main contributing factors to deaths from COVID-19.  

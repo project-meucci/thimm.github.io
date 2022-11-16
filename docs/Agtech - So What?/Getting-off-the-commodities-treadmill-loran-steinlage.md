@@ -1,9 +1,9 @@
+---
+title: Getting Off The Commodities Treadmill Loran Steinlage
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Getting Off the Commodities Treadmill - Loran Steinlage
-    ---
-
-    ### Agtech - So What?  (2021-09-08)  
+### Agtech - So What?  (2021-09-08)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/9/8/getting-off-the-commodities-treadmill#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolette.  When you think of the stereotype of a quote unquote regenerative farmer, my next guest,  
 **[0:00:13-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/9/8/getting-off-the-commodities-treadmill#t=0:00:13):**  Lauren Steinloggy, may not exactly fit the image that comes to mind.  Lauren, who farms in Iowa, has been tinkering with ag machinery for as long as he can remember.  So when he started looking more into soil health and practices such as cover cropping  

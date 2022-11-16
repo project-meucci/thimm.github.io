@@ -1,9 +1,9 @@
+---
+title: Discussion Vets Sustainability
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Discussion - Vets & sustainability
-    ---
-
-    ### Farm Gate  (2019-12-29)  
+### Farm Gate  (2019-12-29)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:05](https://anchor.fm/farmgate/episodes/Discussion---Vets--sustainability-e9t31j#t=0:00:00):**  Welcome to Farmgate. In this program, I'm fortunate to be joined by two remarkable people  to discuss how vets can contribute to sustainability.  Gudrun Ravitz is a past president of the British Veterinary Association and currently the head  

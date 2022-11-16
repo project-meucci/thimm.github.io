@@ -1,9 +1,9 @@
+---
+title: Whats Changing At Fai Farms
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: What's changing at FAI Farms?
-    ---
-
-    ### Farm Gate  (2020-09-09)  
+### Farm Gate  (2020-09-09)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:08](https://anchor.fm/farmgate/episodes/Whats-changing-at-FAI-Farms-ejc2tv#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finn Logue-Kustein.  FAI Farms has worked with global food brands to embed sustainability at the heart of their  supply chains for more than 20 years.  

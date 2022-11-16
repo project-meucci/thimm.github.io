@@ -1,9 +1,9 @@
+---
+title: 166 Rafaela Gontijo Lenz Stop Focussing On Plant Based The Real Blue Ocean Is In Regenerative Dairy And Meat
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 166 Rafaela Gontijo Lenz – Stop focussing on plant based, the real blue ocean is in regenerative dairy and meat
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-04-26)  
+### Investing in Regenerative Agriculture and Food  (2022-04-26)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/rafaela-gontijo-lenz#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

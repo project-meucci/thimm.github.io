@@ -1,9 +1,9 @@
+---
+title: 98 Frank Wooten On How Virtual Fencing Unlocks The Potential Of Carbon Positive Grazing At Scale
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 98 Frank Wooten on how virtual fencing unlocks the potential of carbon positive grazing at scale
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-12-08)  
+### Investing in Regenerative Agriculture and Food  (2020-12-08)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/12/08/frank-wooten#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

@@ -1,9 +1,9 @@
+---
+title: 48 Cover Crops Pigs To Pork Wilding And Chilean Agroforestry
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 48: Cover crops, pigs to pork, wilding and Chilean agroforestry
-    ---
-
-    ### Farmerama  (2019-07-28)  
+### Farmerama  (2019-07-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/48-cover-crops-pigs-to-pork-wilding-and-chilean-agroforestry#t=0:00:00):**  It's July and we've now been following the nitty-gritty of the smaller-scale farming  world for four whole years.  Four laps of this world around the sun.  

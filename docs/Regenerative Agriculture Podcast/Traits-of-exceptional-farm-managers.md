@@ -1,9 +1,9 @@
+---
+title: Traits Of Exceptional Farm Managers
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Traits of Exceptional Farm Managers
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-10-25)  
+### Regenerative Agriculture Podcast  (2018-10-25)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/traits-of-exceptional-farm-managers/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems that improve soil health,  

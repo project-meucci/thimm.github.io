@@ -1,9 +1,9 @@
+---
+title: Regenerative Oceans
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Regenerative oceans
-    ---
-
-    ### Farm Gate  (2020-05-26)  
+### Farm Gate  (2020-05-26)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Regenerative-oceans-eej1d8#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finn Loke-Kustain. Over the last few years, regenerative agriculture  has moved from a fringe discussion or activity to a movement that's capturing people's  imagination around the world. At its most basic level, regenerative agriculture is rooted  

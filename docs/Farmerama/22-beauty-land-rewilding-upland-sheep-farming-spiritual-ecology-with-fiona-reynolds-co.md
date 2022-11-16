@@ -1,9 +1,9 @@
+---
+title: 22 Beauty Land Rewilding Upland Sheep Farming Spiritual Ecology With Fiona Reynolds Co
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 22: Beauty, land, rewilding, upland sheep farming, spiritual ecology with Fiona Reynolds & Co
-    ---
-
-    ### Farmerama  (2017-05-28)  
+### Farmerama  (2017-05-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/22-farmerama#t=0:00:00):**  Hello and welcome to Farmerama.  This month's episode is a little different to usual, as we weave in and out of a conversation  we had with Dame Fiona Reynolds, former Director General of the National Trust.  

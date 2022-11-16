@@ -1,9 +1,9 @@
+---
+title: Shorts Sylvia Kay On Land Grabbing In Europe
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Sylvia Kay on land grabbing in Europe
-    ---
-
-    ### Farmerama  (2018-03-07)  
+### Farmerama  (2018-03-07)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:12](https://soundcloud.com/farmerama-radio/shorts-sylvia-kay#t=0:00:00):**  My name is Sylvia Kaye, I'm a researcher at the Transnational Institute, TNI for short.  We're an international think tank based in Amsterdam, the Netherlands.  Yeah, and we work on lots of different issues related to globalisation from a kind of critical  

@@ -1,9 +1,9 @@
+---
+title: Episode 79 Joe Lewis
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode #79: Joe Lewis
-    ---
-
-    ### Regenerative Agriculture Podcast  (2022-02-24)  
+### Regenerative Agriculture Podcast  (2022-02-24)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](http://regenerativeagriculturepodcast.com/episode-79-joe-lewis#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast where we  talk about the agronomic science and the cultural management practices that regenerate plant health,  soil health, and public health, and of course very importantly, regenerate farm profitability  

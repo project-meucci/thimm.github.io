@@ -1,9 +1,9 @@
+---
+title: Episode 69 Jason Hobson
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode #69: Jason Hobson
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-05-04)  
+### Regenerative Agriculture Podcast  (2021-05-04)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_Jason_Hobson_Final_Audio.mp3#t=0:00:00):**  Hi friends, this is Jon and this is the Regenerative Agriculture Podcast. Thanks for coming back.  This is the place where we talk about the agronomic science and the cultural management  practices that regenerate plant health, soil health, and public health. In this episode,  

@@ -1,9 +1,9 @@
+---
+title: National Organic Combinable Crops 2017
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: National Organic Combinable Crops 2017
-    ---
-
-    ### Farmerama  (2017-07-23)  
+### Farmerama  (2017-07-23)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:11](https://soundcloud.com/farmerama-radio/nocc-final#t=0:00:00):**  On July 6th we headed to Fullerton Farms partnership near Andover with a couple of  hundred farmers for the 10th National Organic Combineable Crops event.  Famed for its delicious lunches and plentiful tea breaks, the day was alive with farmers,  

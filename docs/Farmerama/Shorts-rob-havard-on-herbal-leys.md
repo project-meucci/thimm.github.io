@@ -1,9 +1,9 @@
+---
+title: Shorts Rob Havard On Herbal Leys
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Rob Havard on herbal leys
-    ---
-
-    ### Farmerama  (2018-05-28)  
+### Farmerama  (2018-05-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:15](https://soundcloud.com/farmerama-radio/shorts-rob-havard#t=0:00:00):**  My name's Rob Havard, I farm about 420 acres in the Worcestershire countryside, 44 acres  owned and we rent the rest off to two main landowners.  Basically we have very species rich meadows and grasslands that we farm to produce organic  

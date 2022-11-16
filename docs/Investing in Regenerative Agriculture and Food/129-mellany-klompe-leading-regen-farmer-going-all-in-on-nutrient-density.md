@@ -1,9 +1,9 @@
+---
+title: 129 Mellany Klompe Leading Regen Farmer Going All In On Nutrient Density
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 129 Mellany Klompe, leading regen farmer going all in on nutrient density
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-08-31)  
+### Investing in Regenerative Agriculture and Food  (2021-08-31)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/mellany-klompe#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course, or in the links below.  Now onto the podcast.  

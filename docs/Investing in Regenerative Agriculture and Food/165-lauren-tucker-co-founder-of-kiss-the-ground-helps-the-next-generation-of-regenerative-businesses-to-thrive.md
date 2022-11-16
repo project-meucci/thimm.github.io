@@ -1,9 +1,9 @@
+---
+title: 165 Lauren Tucker Co Founder Of Kiss The Ground Helps The Next Generation Of Regenerative Businesses To Thrive
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 165 Lauren Tucker, co-founder of Kiss the Ground helps the next generation of regenerative businesses to thrive
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-04-19)  
+### Investing in Regenerative Agriculture and Food  (2022-04-19)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/lauren-tucker#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

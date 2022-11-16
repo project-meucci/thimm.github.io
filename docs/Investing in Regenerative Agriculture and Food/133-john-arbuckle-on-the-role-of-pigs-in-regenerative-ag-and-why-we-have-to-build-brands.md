@@ -1,9 +1,9 @@
+---
+title: 133 John Arbuckle On The Role Of Pigs In Regenerative Ag And Why We Have To Build Brands
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 133 John Arbuckle on the role of pigs in regenerative ag and why we have to build brands
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-09-28)  
+### Investing in Regenerative Agriculture and Food  (2021-09-28)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/john-arbuckle#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

@@ -1,9 +1,9 @@
+---
+title: Bonus Ep Audience Responses To The Three Fears Of Farm Data
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Bonus Ep: Audience Responses to "The Three Fears of Farm Data"
-    ---
-
-    ### Agtech - So What?  (2022-08-03)  
+### Agtech - So What?  (2022-08-03)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/8/3/farm-data-fears-agtech-audience-response#t=0:00:00):**  Hello and welcome to another special bonus episode of AgTech So What brought to you by  the Agfentik Group.  I'm Sarah Nalet and joining me today is my co-founder, co-host and today's guy in the  
 **[0:00:13-0:00:15](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/8/3/farm-data-fears-agtech-audience-response#t=0:00:13):**  hot seat, Matthew Pryor.  Hi Sarah, how's it going?  Good.  

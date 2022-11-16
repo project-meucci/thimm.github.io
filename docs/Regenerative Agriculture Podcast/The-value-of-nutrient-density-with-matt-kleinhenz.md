@@ -1,9 +1,9 @@
+---
+title: The Value Of Nutrient Density With Matt Kleinhenz
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: The Value of Nutrient Density with Matt Kleinhenz
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-04-21)  
+### Regenerative Agriculture Podcast  (2018-04-21)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://podcast.vhostevents.com/uncategorized/the-value-of-nutrient-density-with-matt-kleinhenz/#t=0:00:00):**  Well, greetings friends and welcome to the Regenerative Agriculture podcast. On this  show we explore the science of growing exceptional crops and we work to describe why you have  crop challenges and possible disease and insect pests, fruit quality challenges, and how you  

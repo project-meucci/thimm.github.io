@@ -1,9 +1,9 @@
+---
+title: Live At Acres 2018 With Ed Curry
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: LIVE at ACRES 2018 with Ed Curry
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-12-07)  
+### Regenerative Agriculture Podcast  (2018-12-07)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/live-at-acres-2018-with-ed-curry/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems  

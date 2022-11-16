@@ -1,9 +1,9 @@
+---
+title: Shorts Alice Bettany From Sacred Seeds Herbal Project
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Alice Bettany from Sacred Seeds Herbal Project
-    ---
-
-    ### Farmerama  (2018-02-21)  
+### Farmerama  (2018-02-21)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/shorts-alice-bettany-from-sacred-seeds-herbal-project#t=0:00:00):**  Hi Summer, it's beautiful. With the herbs you get some really tall herbs and you get  sort of the low level ground herbs so it's actually really easy to make your garden look  amazing and have it head to toe in the medicinals. On the sort of tall level you've got the marshmallow  

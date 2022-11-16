@@ -1,9 +1,9 @@
+---
+title: The Food Price Crisis
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: The food price crisis
-    ---
-
-    ### Farm Gate  (2022-06-13)  
+### Farm Gate  (2022-06-13)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/The-food-price-crisis-e1jsoti#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finlow Kostain, the chief executive of Farmwell and founder  of the Food and Global Security Network.  The war in Ukraine has sparked a food price crisis, with devastating impacts being felt  

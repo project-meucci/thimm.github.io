@@ -1,9 +1,9 @@
+---
+title: 71 Yasmine Svan Why A 13 Trillion Asset Manager Is Asking Questions About Soil Health
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 71 Yasmine Svan, why a 1.3 trillion asset manager is asking questions about soil health
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-01-28)  
+### Investing in Regenerative Agriculture and Food  (2020-01-28)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2020/01/31/yasmine-svan/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

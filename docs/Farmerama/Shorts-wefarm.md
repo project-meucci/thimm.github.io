@@ -1,9 +1,9 @@
+---
+title: Shorts Wefarm
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: WeFarm
-    ---
-
-    ### Farmerama  (2017-12-26)  
+### Farmerama  (2017-12-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/farmerama-shorts-wefarm#t=0:00:00):**  I'm Amy and I'm here with Kenny from Wefarm. Hi Kenny.  Hi.  Now can you just tell me what Wefarm is?  

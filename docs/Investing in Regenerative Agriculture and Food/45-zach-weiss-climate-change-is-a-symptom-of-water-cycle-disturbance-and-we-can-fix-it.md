@@ -1,9 +1,9 @@
+---
+title: 45 Zach Weiss Climate Change Is A Symptom Of Water Cycle Disturbance And We Can Fix It
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 45 Zach Weiss, climate change is a symptom of water cycle disturbance and we can fix it
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-01-29)  
+### Investing in Regenerative Agriculture and Food  (2019-01-29)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2019/02/03/zach-weiss/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

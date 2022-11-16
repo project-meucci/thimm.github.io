@@ -1,9 +1,9 @@
+---
+title: New Zealands Dairy Pollution Problem How An Urgent Issue Is Driving Innovation
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: New Zealand's Dairy Pollution Problem - how an urgent issue is driving innovation
-    ---
-
-    ### Agtech - So What?  (2021-05-05)  
+### Agtech - So What?  (2021-05-05)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/5/4/nz-dairy-pollution-problem#t=0:00:00):**  Hello, and welcome to the AgTech So What podcast, brought to you by the Agthentic Group. I'm  Sarah Nolet. Ask any farmer what they think about having more government regulation, and  the initial reaction is probably not going to be a positive one. In this episode, we're  
 **[0:00:16-0:00:19](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/5/4/nz-dairy-pollution-problem#t=0:00:16):**  putting the spotlight on New Zealand. Its government isn't just encouraging farmers  to meet certain environmental standards, it's actually about to start enforcing them. And  a big part of the reason why is because of the country's nitrate leaching problem, which  

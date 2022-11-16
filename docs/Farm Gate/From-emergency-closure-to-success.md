@@ -1,9 +1,9 @@
+---
+title: From Emergency Closure To Success
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: From emergency closure to success
-    ---
-
-    ### Farm Gate  (2021-05-17)  
+### Farm Gate  (2021-05-17)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:08](https://anchor.fm/farmgate/episodes/From-emergency-closure-to-success-e1123ur#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne.  The Isle of Man is an independent nation and home to one of the most successful sustainable  shellfish fisheries in the British Isles. Developed over a period of 30 years, the Marine  

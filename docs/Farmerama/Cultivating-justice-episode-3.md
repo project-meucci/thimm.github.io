@@ -1,9 +1,9 @@
+---
+title: Cultivating Justice Episode 3
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Cultivating Justice: Episode 3
-    ---
-
-    ### Farmerama  (2022-07-10)  
+### Farmerama  (2022-07-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:15](https://soundcloud.com/farmerama-radio/cultivating-justice-episode-3#t=0:00:00):**  Cultivating justice, cultivating justice. Cultivating justice, cultivating justice.  Justice, episode three.  It has a taste of its own.  

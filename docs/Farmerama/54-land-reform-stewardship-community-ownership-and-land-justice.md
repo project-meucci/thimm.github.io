@@ -1,9 +1,9 @@
+---
+title: 54 Land Reform Stewardship Community Ownership And Land Justice
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 54: Land reform, stewardship, community ownership and land justice
-    ---
-
-    ### Farmerama  (2020-03-29)  
+### Farmerama  (2020-03-29)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/54-land-reform-stewardship-community-ownership-and-land-justice#t=0:00:00):**  Welcome to episode 54 of Farmerama.  We're recording this on the 25th of March. Here in the UK, the coronavirus outbreak has  upended supermarket supply chains. And around the world, farmers are finding themselves  

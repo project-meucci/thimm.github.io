@@ -1,9 +1,9 @@
+---
+title: Regeneration Not Regenesis
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Regeneration, not Regenesis
-    ---
-
-    ### Farm Gate  (2022-09-15)  
+### Farm Gate  (2022-09-15)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Regeneration--not-Regenesis-e1nr5oh#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn Loke stain, the chief executive of Farmwell and  founder of the Food and Global Security Network. Jyoti Fernandes is from the UK Land Workers  Alliance and well known as a campaigner working for the rights of small farmers and peasant  

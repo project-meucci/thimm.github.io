@@ -1,9 +1,9 @@
+---
+title: Dr Jane Fife Applying Better Soil Microbes In Search Of Soil 16
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Dr. Jane Fife - Applying Better Soil Microbes | In Search of Soil #16
-    ---
-
-    ### In Search of Soil  (2021-08-04)  
+### In Search of Soil  (2021-08-04)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-16-JaneFife-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Adding live microbes to the soil, does it actually make sense?  Intuitively, we might think yes, but what are you actually adding to the soil?  
 **[0:00:32-0:00:36](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-16-JaneFife-FullEpisode.mp3#t=0:00:32):**  It's a question that you need to know the answer to.  Because while you might be adding something beneficial to the soil, there's also a pretty  good chance that you might be adding something worthless to the soil, or even worse, something  

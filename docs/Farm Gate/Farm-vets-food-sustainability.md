@@ -1,9 +1,9 @@
+---
+title: Farm Vets Food Sustainability
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Farm vets & food sustainability
-    ---
-
-    ### Farm Gate  (2019-11-22)  
+### Farm Gate  (2019-11-22)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:14](https://anchor.fm/farmgate/episodes/Farm-vets--food-sustainability-e94n7k#t=0:00:00):**  Welcome to FarmGate, where we root out practical solutions for climate and food security.  In this programme, I'm asking the question, how can farm vets contribute to sustainability?  There's an increasing awareness that farm animal welfare, while important in itself,  

@@ -1,9 +1,9 @@
+---
+title: 70 Resilient Grapes Soil Insight And Aotearoa Farm Tour
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 70: Resilient grapes, Soil insight and Aotearoa farm tour
-    ---
-
-    ### Farmerama  (2021-12-26)  
+### Farmerama  (2021-12-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/69-resilient-grapes-soil-insight-and-aotearoa-farm-tour#t=0:00:00):**  Hello and welcome to Farmerama. We're very grateful to those of you that support us and  allow us to bring you these stories every month. Even the smallest contribution makes  a big difference to us. If you'd like to become a supporter, please visit patreon.com  

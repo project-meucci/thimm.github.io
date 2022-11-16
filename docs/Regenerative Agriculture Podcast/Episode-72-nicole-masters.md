@@ -1,9 +1,9 @@
+---
+title: Episode 72 Nicole Masters
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode #72: Nicole Masters
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-06-25)  
+### Regenerative Agriculture Podcast  (2021-06-25)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_Nicole_Masters_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast.  Welcome back.  On this podcast, we talk about agronomic science and the cultural management practices that  

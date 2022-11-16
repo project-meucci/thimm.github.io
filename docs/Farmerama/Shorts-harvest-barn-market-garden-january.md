@@ -1,9 +1,9 @@
+---
+title: Shorts Harvest Barn Market Garden January
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Shorts: Harvest Barn Market Garden January
-    ---
-
-    ### Farmerama  (2019-02-10)  
+### Farmerama  (2019-02-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/shorts-harvest-barn-market-garden-january#t=0:00:00):**  Hello Farmerama, this is Joel in the market garden at Harvest Barn Farm Shop. This is  probably going to be one of my last, if not the last, podcasts from here. I'm going to  go inside to record the rest of this because you probably won't be able to hear me if I  

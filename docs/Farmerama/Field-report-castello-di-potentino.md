@@ -1,9 +1,9 @@
+---
+title: Field Report Castello Di Potentino
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Field Report: Castello di Potentino
-    ---
-
-    ### Farmerama  (2017-03-11)  
+### Farmerama  (2017-03-11)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:05](https://soundcloud.com/farmerama-radio/farmerama-field-report-castello-di-potentino#t=0:00:00):**  From time to time we get in a story that deserves a bit more attention than we're able to give  on our regular monthly episode.  And here's one of those.  

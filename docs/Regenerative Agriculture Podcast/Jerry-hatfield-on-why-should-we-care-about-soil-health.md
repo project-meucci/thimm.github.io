@@ -1,9 +1,9 @@
+---
+title: Jerry Hatfield On Why Should We Care About Soil Health
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Jerry Hatfield on Why Should We Care About Soil Health
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-05-30)  
+### Regenerative Agriculture Podcast  (2018-05-30)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/jerry-hatfield-on-why-should-we-care-about-soil-health/#t=0:00:00):**  Hi friends, I'm Jon Kempf hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

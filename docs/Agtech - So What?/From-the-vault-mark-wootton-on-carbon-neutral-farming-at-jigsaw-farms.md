@@ -1,9 +1,9 @@
+---
+title: From The Vault Mark Wootton On Carbon Neutral Farming At Jigsaw Farms
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: From the Vault: Mark Wootton on Carbon-Neutral Farming at Jigsaw Farms
-    ---
-
-    ### Agtech - So What?  (2022-06-01)  
+### Agtech - So What?  (2022-06-01)  
 
 **[0:00:00-0:00:04](https://www.agtechsowhat.com/agtechsowhatepisodes/6/2/mark-wootton-on-carbon-neutral-farming-sustainable-livestock#t=0:00:00):**  Hello, and welcome to Ag Tech So What.  I'm Sarah Nolette with a bit of a cold.  It's been a busy time for us here at Tenacious.  
 **[0:00:09-0:00:15](https://www.agtechsowhat.com/agtechsowhatepisodes/6/2/mark-wootton-on-carbon-neutral-farming-sustainable-livestock#t=0:00:09):**  And just last week, our whole team got the chance to get out of town and onto the farm.  And not just any farm either.  We visited Jigsaw Farms, home to sheep farmer and longtime friend of the show, Mark Wooten  

@@ -1,9 +1,9 @@
+---
+title: 36 Wondrous Worms Cow Pats Biodynamic Vines And Free Range Families
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 36: Wondrous worms, cow pats, biodynamic vines and Free Range Families
-    ---
-
-    ### Farmerama  (2018-07-29)  
+### Farmerama  (2018-07-29)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/36-wondrous-worms-cow-pats-biodynamic-vines-and-free-range-families#t=0:00:00):**  Hello and welcome to Farmerama, our third birthday edition supported by Revel Kitchen.  This month we hear from the Worm Lady, Jackie Stroud.  We get some tips on cow paths and profitability from a Missouri based mob grazer.  

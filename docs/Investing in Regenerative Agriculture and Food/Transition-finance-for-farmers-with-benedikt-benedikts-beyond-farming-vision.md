@@ -1,9 +1,9 @@
+---
+title: Transition Finance For Farmers With Benedikt Benedikts Beyond Farming Vision
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Transition Finance for Farmers with Benedikt - Benedikt's beyond farming vision
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-12-19)  
+### Investing in Regenerative Agriculture and Food  (2019-12-19)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:03](https://www.investinginregenerativeagriculture.com/transition-finance-series/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative  food and agriculture, follow our video course via investinginregenerativeagriculture.com  slash course, or in the links below now onto the podcast.  

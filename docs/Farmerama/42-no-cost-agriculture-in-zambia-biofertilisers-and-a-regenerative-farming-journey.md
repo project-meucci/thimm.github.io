@@ -1,9 +1,9 @@
+---
+title: 42 No Cost Agriculture In Zambia Biofertilisers And A Regenerative Farming Journey
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 42: No-cost agriculture in Zambia, Biofertilisers and a Regenerative farming journey
-    ---
-
-    ### Farmerama  (2019-01-27)  
+### Farmerama  (2019-01-27)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:12](https://soundcloud.com/farmerama-radio/42-no-cost-agriculture-in-zambia-biofertilisers-and-a-regenerative-farming-journey#t=0:00:00):**  Hello and welcome to episode 42 of Farmorama.  January, for us and many others across the UK regenerative farming community, means ORFC,  the Oxford Real Farming Conference, now in its 10th year and this year double the size.  

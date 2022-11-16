@@ -1,9 +1,9 @@
+---
+title: 134 Troy Carter And Patrick Leung On Preventing Speculative Boom Around The 5t Carbon Potential Of Degraded Land
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 134 Troy Carter and Patrick Leung on preventing speculative boom around the $5T carbon potential of degraded land
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-10-05)  
+### Investing in Regenerative Agriculture and Food  (2021-10-05)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/troy-carter-patrick-leung#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

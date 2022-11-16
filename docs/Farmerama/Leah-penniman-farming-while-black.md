@@ -1,9 +1,9 @@
+---
+title: Leah Penniman Farming While Black
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Leah Penniman: Farming While Black
-    ---
-
-    ### Farmerama  (2018-11-04)  
+### Farmerama  (2018-11-04)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:14](https://soundcloud.com/farmerama-radio/leah-penniman-farming-while-black#t=0:00:00):**  Hello and welcome to this special interview with author, activist and farmer, Leah Penniman.  This Farmerama podcast is brought to you by Chelsea Green Publishing and Leah Penniman's  Farming While Black.  

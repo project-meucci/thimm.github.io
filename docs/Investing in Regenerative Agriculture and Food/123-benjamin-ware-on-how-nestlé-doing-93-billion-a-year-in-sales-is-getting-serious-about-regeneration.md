@@ -1,9 +1,9 @@
+---
+title: 123 Benjamin Ware On How Nestlé Doing 93 Billion A Year In Sales Is Getting Serious About Regeneration
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 123 Benjamin Ware on how Nestlé, doing 93 billion a year in sales, is getting serious about regeneration
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-06-15)  
+### Investing in Regenerative Agriculture and Food  (2021-06-15)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/benjamin-ware#t=0:00:00):**  What is the role of a food company doing 93 billion, yes that's a B, a year in sales in  the regenerative transition?  If we like it or not, large food companies, actually large food conglomerates, play a  

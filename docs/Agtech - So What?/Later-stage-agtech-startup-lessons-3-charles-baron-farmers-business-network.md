@@ -1,9 +1,9 @@
+---
+title: Later Stage Agtech Startup Lessons 3 Charles Baron Farmers Business Network
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Later-Stage Agtech Startup Lessons #3 - Charles Baron, Farmers Business Network
-    ---
-
-    ### Agtech - So What?  (2021-12-01)  
+### Agtech - So What?  (2021-12-01)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/11/28/later-stage-agtech-startup-lessons-3-farmers-business-network#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agtenti Group.  I'm Sarah Nollet.  This episode is the third and final in our Lessons from Later Stage AgTech Founders series.  
 **[0:00:13-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/11/28/later-stage-agtech-startup-lessons-3-farmers-business-network#t=0:00:13):**  And today we'll hear from a founder of one of the best known agtech startups globally,  which has recently announced a $300 million funding round.  One of their secrets to success is a farmer-centric approach that has become a company ideology.  

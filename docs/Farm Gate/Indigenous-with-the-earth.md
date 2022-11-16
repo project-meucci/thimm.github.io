@@ -1,9 +1,9 @@
+---
+title: Indigenous With The Earth
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Indigenous with the earth
-    ---
-
-    ### Farm Gate  (2021-06-07)  
+### Farm Gate  (2021-06-07)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Indigenous-with-the-earth-e12b91t#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. Today I'm delving into the origins  of regenerative agriculture. What is this knowledge? Where does it come from? Can anyone  claim ownership over regenerative principles? And how can we ensure that the phrase regenerative  

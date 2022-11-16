@@ -1,9 +1,9 @@
+---
+title: 10min With Tony Lovell How The 100m Slm Fund Handled The Six Driest Years On Record
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 10min with Tony Lovell, how the $ 100M SLM fund handled the six driest years on record
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-10-22)  
+### Investing in Regenerative Agriculture and Food  (2019-10-22)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2019/08/27/tony-lovell-2/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full length episode, please check the description below.  Welcome to another episode of investing in regenerative agriculture investing as if the planet mattered  Podcast show where I talk to the pioneers in the regenerative food and agriculture space  

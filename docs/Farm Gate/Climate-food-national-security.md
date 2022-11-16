@@ -1,9 +1,9 @@
+---
+title: Climate Food National Security
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Climate, food & national security
-    ---
-
-    ### Farm Gate  (2020-02-29)  
+### Farm Gate  (2020-02-29)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Climate--food--national-security-eb5fgq#t=0:00:00):**  Welcome to Farmgate, I'm Finnlow Costayne. It's widely accepted that climate change  can have an impact on food availability in developing countries, and that these impacts  can act on existing vulnerabilities and threats, and lead to conflict. But what about developed  

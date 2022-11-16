@@ -1,9 +1,9 @@
+---
+title: 132 Jason Hayward Jones Making Super Accurate Keyline Design On A Landscape Scale On 10000 Hectares Altering The Behaviour Of Water
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 132 Jason Hayward Jones, making super accurate keyline design on a landscape scale on 10000 hectares altering the behaviour of water
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-09-21)  
+### Investing in Regenerative Agriculture and Food  (2021-09-21)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/jason-hayward-jones#t=0:00:00):**  Water is absolutely crucial for any farm. Many brittle places have water but it's concentrated  in very short rainy seasons leading to massive erosion and long dry periods. So identifying  yeoman's key points and key lines on or off contour and thus altering the behaviour of  

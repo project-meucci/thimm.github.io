@@ -1,9 +1,9 @@
+---
+title: Scaling Regenerative Dairy
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Scaling regenerative dairy
-    ---
-
-    ### Farm Gate  (2022-08-04)  
+### Farm Gate  (2022-08-04)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Scaling-regenerative-dairy-e1m36t3#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finlow Kastain, the Chief Executive of Farmwell and founder  of the Food and Global Security Network. This programme is the first in a series in which  I'll be talking to regenerative dairy producers from around the world as part of the Regen  

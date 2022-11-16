@@ -1,9 +1,9 @@
+---
+title: Brigit Strawbridge Howard Dancing With Bees
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Brigit Strawbridge Howard: Dancing with Bees
-    ---
-
-    ### Farmerama  (2019-09-05)  
+### Farmerama  (2019-09-05)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:04](https://soundcloud.com/farmerama-radio/brigit-strawbridge-howard-dancing-with-bees#t=0:00:00):**  I have not always loved bees as I do now.  Even when I was a child, it was butterflies, baby birds, frog spawn, snails and newts that  most grabbed my attention.  

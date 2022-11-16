@@ -1,9 +1,9 @@
+---
+title: 168 Nicole Masters And Abby Rose On How Tech Can Enable An Army Of Creative Thinking Farmers
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 168 Nicole Masters and Abby Rose on how tech can enable an army of creative thinking farmers
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-05-10)  
+### Investing in Regenerative Agriculture and Food  (2022-05-10)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/nicole-masters-abby-rose#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

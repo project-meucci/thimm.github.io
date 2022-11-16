@@ -1,9 +1,9 @@
+---
+title: Episode 33 Matt Roesner
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode 33: Matt Roesner
-    ---
-
-    ### Agtech - So What?  (2019-02-25)  
+### Agtech - So What?  (2019-02-25)  
 
 **[0:00:00-0:00:25](https://player.whooshkaa.com/episode?id=357327#t=0:00:00):**  Hello and welcome to the AgTech So What podcast. Emerging technologies are rapidly changing  the global agricultural industry. We believe that this revolution is only getting started.  But there's still too much hype out there and too big of a disconnect between Ag and  
 **[0:00:35-0:00:39](https://player.whooshkaa.com/episode?id=357327#t=0:00:35):**  AgTech. So on this show, we try to bridge that gap. In each episode, we bring you the  story of a different innovator in agriculture and try to find the place where Ag and Tech  meet. I'm your host, Sarah Nolet. Welcome to our latest episode of the AgTech  

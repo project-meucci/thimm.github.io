@@ -1,9 +1,9 @@
+---
+title: Disease Resistance And Regenerating Soil With Michael Mcneill
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Disease Resistance and Regenerating Soil with Michael McNeill
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-04-14)  
+### Regenerative Agriculture Podcast  (2018-04-14)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/disease-resistance-and-regenerating-soil-with-michael-mcneill/#t=0:00:00):**  Hi friends, I'm John Kempf, hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

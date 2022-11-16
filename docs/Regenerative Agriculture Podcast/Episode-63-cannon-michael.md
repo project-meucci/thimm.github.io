@@ -1,9 +1,9 @@
+---
+title: Episode 63 Cannon Michael
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Episode #63: Cannon Michael
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-01-29)  
+### Regenerative Agriculture Podcast  (2021-01-29)  
 
 **[0:00:00-0:00:04](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_S4_Ep1_Cannon_Michael_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast,  where we talk about the agronomic science and cultural management practices that  regenerate plant health, soil health, and of course, ultimately public health,  
 **[0:00:14-0:00:16](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_S4_Ep1_Cannon_Michael_FINAL_AUDIO.mp3#t=0:00:14):**  as well as ecosystem health.  My guest for this episode is Kenan Michael,  who is a sixth generation farmer from California, which is arguably one of  

@@ -1,9 +1,9 @@
+---
+title: 155 Knut Bentzen On How To Scale Virtual Fencing The True Enabler Of Regeneration
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 155 Knut Bentzen on how to scale virtual fencing, the true enabler of regeneration
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-03-04)  
+### Investing in Regenerative Agriculture and Food  (2022-03-04)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/knut-bentzen#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

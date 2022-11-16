@@ -1,9 +1,9 @@
+---
+title: 10min With Harrie Arnout And Koen Where We Plant Billions Of Trees Vs Climate Change
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 10min with Harrie, Arnout and Koen where we plant billions of trees vs climate change?
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-05-09)  
+### Investing in Regenerative Agriculture and Food  (2019-05-09)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2019/04/30/harrie-lovenstein-arnout-asjes-koen-kramer/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full-length episode, please check the description below.  You're going to listen to an episode about trees and tree planting.  Why we need to plant millions of trees is known to most of us, but how are we going to do that?  

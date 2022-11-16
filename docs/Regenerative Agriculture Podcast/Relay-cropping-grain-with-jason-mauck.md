@@ -1,9 +1,9 @@
+---
+title: Relay Cropping Grain With Jason Mauck
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Relay Cropping Grain with Jason Mauck
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-02-24)  
+### Regenerative Agriculture Podcast  (2020-02-24)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://podcast.vhostevents.com/uncategorized/relay-cropping-grain-with-jason-mauck/#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast. Today I'm very  happy to have with me Jason Malk from Indiana. Jason is a corn, soybean, wheat and a hog farmer  from Indiana who seems to be pretty much incapable of restricting his thinking to the borders that  

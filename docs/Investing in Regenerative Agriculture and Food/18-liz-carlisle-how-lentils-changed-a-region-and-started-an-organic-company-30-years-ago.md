@@ -1,9 +1,9 @@
+---
+title: 18 Liz Carlisle How Lentils Changed A Region And Started An Organic Company 30 Years Ago
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: 18 Liz Carlisle, how lentils changed a region and started an organic company 30 years ago
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2017-09-09)  
+### Investing in Regenerative Agriculture and Food  (2017-09-09)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2017/09/10/liz-carlisle/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

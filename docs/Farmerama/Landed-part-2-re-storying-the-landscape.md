@@ -1,9 +1,9 @@
+---
+title: Landed Part 2 Re Storying The Landscape
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
 
-    ---
-    title: Landed part 2: Re-storying the landscape
-    ---
-
-    ### Farmerama  (2021-07-11)  
+### Farmerama  (2021-07-11)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/landed-part-2-re-storying-the-landscape#t=0:00:00):**  You belong to the land and the land belongs to you. There is no distinction. It's like a hand in a glove.  Everything fits in and your culture is part of that as well. And everything you know that's around you,  every part of life that's around you is all interlinked and interdependent.  
