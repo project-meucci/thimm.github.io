@@ -1,9 +1,7 @@
-
-    ---
-    title: Farming & mental illness
-    ---
-
-    ### Farm Gate  (2020-02-01)  
+---
+title: Farming & mental illness
+---
+### Farm Gate  (2020-02-01)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Farming--mental-illness-eaiu78#t=0:00:00):**  Welcome to Farmgate. I'm Finnlow Castayne and in this programme I'm talking to Graham  Morgan about farming, mental health and mental illness. Graham works for the Mental Health  Commission for Scotland and volunteers with Hug Action for Mental Health. He was awarded  

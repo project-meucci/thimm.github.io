@@ -1,9 +1,7 @@
-
-    ---
-    title: Making Soil Healthy Again – Why Organic Might Not Be Enough
-    ---
-
-    ### Tasting Terroir  (2022-08-24)  
+---
+title: Making Soil Healthy Again – Why Organic Might Not Be Enough
+---
+### Tasting Terroir  (2022-08-24)  
 ### Author(s): Sara (Hessenflow) Harper  
 
 **[0:00:00-0:00:20](https://www.jillclapperton.com#t=0:00:00):**  Hello, and welcome back to our podcast Tasting Terroir, where we are on a journey to explore  the link between healthy soil and the flavor of your food.  I'm your host, Sarah Harper.  

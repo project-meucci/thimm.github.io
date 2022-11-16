@@ -1,9 +1,7 @@
-
-    ---
-    title: The Incentives, Barriers, and Willingness to Pay for Carbon Programs in Agriculture, with Emma Fuller, Corteva Agriscience
-    ---
-
-    ### Agtech - So What?  (2022-07-13)  
+---
+title: The Incentives, Barriers, and Willingness to Pay for Carbon Programs in Agriculture, with Emma Fuller, Corteva Agriscience
+---
+### Agtech - So What?  (2022-07-13)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/7/14/designing-agriculture-carbon-markets-emma-fuller#t=0:00:00):**  Hello and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  The idea of preserving the planet for future generations has been a staple of environmental  
 **[0:00:12-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/7/14/designing-agriculture-carbon-markets-emma-fuller#t=0:00:12):**  movements all over the world for decades.  But for those of us who work on keeping the planet livable every day, the narrative and,  well, the imperative, has become much more urgent.  

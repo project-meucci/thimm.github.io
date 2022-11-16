@@ -1,9 +1,7 @@
-
-    ---
-    title: Dr. Matthew Wood - The Science of EM (Essential Microorganisms) | In Search of Soil #19
-    ---
-
-    ### In Search of Soil  (2021-08-25)  
+---
+title: Dr. Matthew Wood - The Science of EM (Essential Microorganisms) | In Search of Soil #19
+---
+### In Search of Soil  (2021-08-25)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-19-MatthewWood-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Lactobacillus.  LAB.  
 **[0:00:22-0:00:23](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-19-MatthewWood-FullEpisode.mp3#t=0:00:22):**  EM.  You've probably heard these terms mentioned a lot, or maybe you haven't.  They're all terms that deal with a specific consortium or group of microbes that can work  

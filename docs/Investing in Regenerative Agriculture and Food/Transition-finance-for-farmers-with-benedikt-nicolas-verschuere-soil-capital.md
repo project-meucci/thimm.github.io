@@ -1,9 +1,7 @@
-
-    ---
-    title: Transition Finance for Farmers with Benedikt - Nicolas Verschuere, Soil Capital
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-05-26)  
+---
+title: Transition Finance for Farmers with Benedikt - Nicolas Verschuere, Soil Capital
+---
+### Investing in Regenerative Agriculture and Food  (2020-05-26)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2020/05/26/transition-finance-ep6/#t=0:00:00):**  Follow our video course via investinginregenerativeagriculture.com slash course, or in the links below.  Now onto the podcast.  In this interview, me and Benedict discuss something rarely covered, which honestly  

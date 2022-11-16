@@ -1,9 +1,7 @@
-
-    ---
-    title: What is regenerative agriculture - Audio Lesson of Video Course
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-08-03)  
+---
+title: What is regenerative agriculture - Audio Lesson of Video Course
+---
+### Investing in Regenerative Agriculture and Food  (2021-08-03)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:03](https://investinginregenerativeagriculture.com/course/#t=0:00:00):**  Up next is an audio extract of one of the lessons of our video course,  investing in regenerative agriculture and food, specifically on what is regenerative agriculture.  Probably the question I get the most after can we actually make returns while investing in  

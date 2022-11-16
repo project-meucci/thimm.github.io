@@ -1,9 +1,7 @@
-
-    ---
-    title: Fungi Matters with Peter McCoy
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-10-17)  
+---
+title: Fungi Matters with Peter McCoy
+---
+### Regenerative Agriculture Podcast  (2018-10-17)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/fungi-matters-with-peter-mccoy/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems that improve soil health,  

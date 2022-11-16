@@ -1,9 +1,7 @@
-
-    ---
-    title: Can a small non-profit farm near NYC change the food system?
-    ---
-
-    ### Agtech - So What?  (2021-02-24)  
+---
+title: Can a small non-profit farm near NYC change the food system?
+---
+### Agtech - So What?  (2021-02-24)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/2/24/can-a-small-non-profit-farm-near-nyc-change-the-food-system#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by The Agthentic Group.  I'm your host, Sarah Nolette.  Today we're exploring whether and how a small nonprofit farm just north of New York City  
 **[0:00:14-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/2/24/can-a-small-non-profit-farm-near-nyc-change-the-food-system#t=0:00:14):**  can change how agriculture is done across the US.  If you caught our last episode, you'll know that sustainability science professor and  author Rob Paulburg would say no.  

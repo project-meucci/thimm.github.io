@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode 41: Lachlan Sutton, Southern Cross Farms (Theme: getting agtech ready)
-    ---
-
-    ### Agtech - So What?  (2019-05-14)  
+---
+title: Episode 41: Lachlan Sutton, Southern Cross Farms (Theme: getting agtech ready)
+---
+### Agtech - So What?  (2019-05-14)  
 
 **[0:00:00-0:00:12](https://player.whooshkaa.com/episode?id=371909#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast. Emerging technologies are rapidly  changing the global agricultural industry. We believe that this revolution is only getting  started, but there's still too much hype out there and too big of a disconnect between  
 **[0:00:22-0:00:27](https://player.whooshkaa.com/episode?id=371909#t=0:00:22):**  ag and ag tech. So on this show, we try to bridge that gap. In each episode, we bring  you the story of a different innovator in agriculture and try to find the place where  ag and tech meet. I'm your host, Sarah Nolette. Today's episode is number two on the theme  

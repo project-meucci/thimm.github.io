@@ -1,9 +1,7 @@
-
-    ---
-    title: The Carbon Capture Business with Jerry Hatfield
-    ---
-
-    ### Regenerative Agriculture Podcast  (2019-06-11)  
+---
+title: The Carbon Capture Business with Jerry Hatfield
+---
+### Regenerative Agriculture Podcast  (2019-06-11)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/the-carbon-capture-business-with-jerry-hatfield/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Spoils
-    ---
-
-    ### Farmerama  (2017-04-30)  
+---
+title: Shorts: Spoils
+---
+### Farmerama  (2017-04-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/spoils#t=0:00:00):**  Spoils, written at Romshed Farm in Kent in February.  Cattle come running to the hum of the quad bike, the promise of hay sweeter than this  tired winter grass.  

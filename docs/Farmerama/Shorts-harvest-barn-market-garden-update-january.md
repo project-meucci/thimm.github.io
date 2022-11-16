@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Harvest Barn Market Garden update January
-    ---
-
-    ### Farmerama  (2018-02-18)  
+---
+title: Shorts: Harvest Barn Market Garden update January
+---
+### Farmerama  (2018-02-18)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:16](https://soundcloud.com/farmerama-radio/shorts-harvest-barn-market-garden-update#t=0:00:00):**  Hello again, it's Joel here at the market garden at Harvest Barn Shop just outside Peterborough  in Cambridgeshire. This is day 21 of week 7 of my time here at Harvest Barn Shop market  garden. I'm only doing about three days a week, a little bit of time off. So it's looking good  

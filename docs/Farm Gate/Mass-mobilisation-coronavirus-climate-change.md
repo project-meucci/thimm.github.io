@@ -1,9 +1,7 @@
-
-    ---
-    title: Mass mobilisation, coronavirus & climate change
-    ---
-
-    ### Farm Gate  (2020-05-04)  
+---
+title: Mass mobilisation, coronavirus & climate change
+---
+### Farm Gate  (2020-05-04)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Mass-mobilisation--coronavirus--climate-change-edjtie#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn Logue-Kustein.  The coronavirus pandemic has generated a monumental response from governments and the general  public alike. Political parties philosophically opposed to the big state have reversed their  

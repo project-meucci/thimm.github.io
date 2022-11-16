@@ -1,9 +1,7 @@
-
-    ---
-    title: Ep 70: Karmen Mehmen on growing a family farm through 40 years of change
-    ---
-
-    ### Agtech - So What?  (2020-07-01)  
+---
+title: Ep 70: Karmen Mehmen on growing a family farm through 40 years of change
+---
+### Agtech - So What?  (2020-07-01)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/karmen-mehmen-on-farm-growth-over-40-years#t=0:00:00):**  Welcome back to the Ag Tech So What podcast brought to you by Agtentik.  I'm your host, Sarah Nolet.  Today's guest joins us from Iowa, where Carmen Maiman and her husband have been farming since  
 **[0:00:15-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/karmen-mehmen-on-farm-growth-over-40-years#t=0:00:15):**  1976.  Their farm, MBS Family Farms, has grown over that time from 160 acres and 40 cows to an  operation that now supports 20 families.  

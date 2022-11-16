@@ -1,9 +1,7 @@
-
-    ---
-    title: Regenerative finance: The one with Robyn O'Brien
-    ---
-
-    ### Farm Gate  (2020-12-17)  
+---
+title: Regenerative finance: The one with Robyn O'Brien
+---
+### Farm Gate  (2020-12-17)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Regenerative-finance-The-one-with-Robyn-OBrien-entud5#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Kirstein. Today I'm talking to Robin O'Brien,  who in September 2020 was named in the Forbes Impact 50, a list of the top impact investors  in the USA. A key influencer around food quality and health in particular, Robin is the best-selling  

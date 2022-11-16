@@ -1,9 +1,7 @@
-
-    ---
-    title: 10 min with Judith D Schwartz on what is possible with soil
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-11-05)  
+---
+title: 10 min with Judith D Schwartz on what is possible with soil
+---
+### Investing in Regenerative Agriculture and Food  (2019-11-05)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2017/06/05/judith-d-schwartz/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full-length episode, please check the description below.  Welcome to another episode of Investing in Regenerative Agriculture, Investing as if the Planet Mattered,  a podcast show where I talk to the pioneers in the regenerative food and agriculture space  

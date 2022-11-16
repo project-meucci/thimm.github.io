@@ -1,9 +1,7 @@
-
-    ---
-    title: BioEnergetics in Agriculture with Steve Diver
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-06-23)  
+---
+title: BioEnergetics in Agriculture with Steve Diver
+---
+### Regenerative Agriculture Podcast  (2018-06-23)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/bioenergetics-in-agriculture-with-steve-diver/#t=0:00:00):**  Hi friends, I'm Jon Kempf hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

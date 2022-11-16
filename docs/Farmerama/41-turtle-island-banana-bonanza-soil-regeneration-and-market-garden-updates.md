@@ -1,9 +1,7 @@
-
-    ---
-    title: 41: Turtle Island, banana bonanza, soil regeneration and market garden updates
-    ---
-
-    ### Farmerama  (2018-12-30)  
+---
+title: 41: Turtle Island, banana bonanza, soil regeneration and market garden updates
+---
+### Farmerama  (2018-12-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:03](https://soundcloud.com/farmerama-radio/farmerama-41#t=0:00:00):**  Hello and welcome to Farmerama.  Happy solstice!  Here in the northern hemisphere, the long nights are a time for soup and socialising.  

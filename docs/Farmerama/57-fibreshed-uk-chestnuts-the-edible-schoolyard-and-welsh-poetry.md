@@ -1,9 +1,7 @@
-
-    ---
-    title: 57: Fibreshed UK, Chestnuts, The Edible Schoolyard and Welsh poetry
-    ---
-
-    ### Farmerama  (2020-06-28)  
+---
+title: 57: Fibreshed UK, Chestnuts, The Edible Schoolyard and Welsh poetry
+---
+### Farmerama  (2020-06-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:04](https://soundcloud.com/farmerama-radio/farmerma-57-episode-57-fibreshed-uk-chestnuts-the-edible-schoolyard-and-welsh-poetry#t=0:00:00):**  Hello and welcome to Farmerama.  Here in the Northern Hemisphere, we've just passed the summer solstice, and around us  things are in full bloom and beginning to share their fruits.  

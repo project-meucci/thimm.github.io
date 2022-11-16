@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Jubilee Farm Political Economy
-    ---
-
-    ### Farmerama  (2018-12-09)  
+---
+title: Shorts: Jubilee Farm Political Economy
+---
+### Farmerama  (2018-12-09)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/shorts-jubilee-farm-political-economy#t=0:00:00):**  We're between episodes, but bringing you something a little extra this month. A short with our  friend Jonny Hanson from Jubilee Farm in Northern Ireland, with an introduction to political  economy in relation to food and farming.  

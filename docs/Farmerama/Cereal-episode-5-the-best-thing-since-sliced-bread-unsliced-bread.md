@@ -1,9 +1,7 @@
-
-    ---
-    title: ‘Cereal’ Episode 5: The best thing since sliced bread? Unsliced bread
-    ---
-
-    ### Farmerama  (2019-12-22)  
+---
+title: ‘Cereal’ Episode 5: The best thing since sliced bread? Unsliced bread
+---
+### Farmerama  (2019-12-22)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/cereal-episode-5-the-best-thing-since-sliced-bread-unsliced-bread#t=0:00:00):**  Now, scraping it out the bowl now, getting it all together.  I can even tell by just when my knuckles touch it, it's a gorgeous dough.  It's just perfect.  

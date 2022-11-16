@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode #71: Harriet Mella
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-06-09)  
+---
+title: Episode #71: Harriet Mella
+---
+### Regenerative Agriculture Podcast  (2021-06-09)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_Harriet_Mella_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast where we talk  about the agronomic science and the cultural management practices that regenerate soil health  and plant health, that regenerate ecosystems, that regenerate the economic health of farmers,  

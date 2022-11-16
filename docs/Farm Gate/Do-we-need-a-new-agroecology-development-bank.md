@@ -1,9 +1,7 @@
-
-    ---
-    title: Do we need a new Agroecology Development Bank?
-    ---
-
-    ### Farm Gate  (2021-03-30)  
+---
+title: Do we need a new Agroecology Development Bank?
+---
+### Farm Gate  (2021-03-30)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:08](https://anchor.fm/farmgate/episodes/Do-we-need-a-new-Agroecology-Development-Bank-etsabt#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne.  A new report, Farming Smarter, Investing in Our Future, has been published by the Food,  Farming and Countryside Commission.  

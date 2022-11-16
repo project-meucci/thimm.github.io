@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Woody Tasch of Slow Money
-    ---
-
-    ### Farmerama  (2019-04-07)  
+---
+title: Shorts: Woody Tasch of Slow Money
+---
+### Farmerama  (2019-04-07)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:05](https://soundcloud.com/farmerama-radio/short-woody-tasch-of-slow-money#t=0:00:00):**  This is not about numbers doing these numbers versus doing those numbers.  This is about reaffirming the primacy of words over the claims on our attention made by numbers.  Reaffirming the primacy of relationships over the claims of transactions.  

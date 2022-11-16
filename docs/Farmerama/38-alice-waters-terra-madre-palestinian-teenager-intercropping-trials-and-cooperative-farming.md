@@ -1,9 +1,7 @@
-
-    ---
-    title: 38: Alice Waters, Terra Madre, Palestinian teenager, intercropping trials and cooperative farming
-    ---
-
-    ### Farmerama  (2018-09-30)  
+---
+title: 38: Alice Waters, Terra Madre, Palestinian teenager, intercropping trials and cooperative farming
+---
+### Farmerama  (2018-09-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:10](https://soundcloud.com/farmerama-radio/farmerama-38#t=0:00:00):**  Hello friends and welcome to episode 38 of Farmerama.  This month we hear voices of the food and farming community from all over the world,  including a renowned chef and real food campaigner, and a young woman who farms with passion against  

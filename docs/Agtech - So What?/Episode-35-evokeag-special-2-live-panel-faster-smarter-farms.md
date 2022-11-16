@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode 35: EvokeAG Special 2. Live Panel - Faster, Smarter Farms
-    ---
-
-    ### Agtech - So What?  (2019-03-09)  
+---
+title: Episode 35: EvokeAG Special 2. Live Panel - Faster, Smarter Farms
+---
+### Agtech - So What?  (2019-03-09)  
 
 **[0:00:00-0:00:25](https://player.whooshkaa.com/episode?id=357325#t=0:00:00):**  Hello and welcome to the AgTech So What podcast. Emerging technologies are rapidly changing  the global agricultural industry. We believe that this revolution is only getting started.  But there's still too much hype out there and too big of a disconnect between Ag and  
 **[0:00:35-0:00:39](https://player.whooshkaa.com/episode?id=357325#t=0:00:35):**  AgTech. So on this show, we try to bridge that gap. In each episode, we bring you the  story of a different innovator in agriculture and try to find the place where Ag and Tech  meet. I'm your host, Sarah Nolet.  

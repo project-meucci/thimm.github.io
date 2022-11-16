@@ -1,9 +1,7 @@
-
-    ---
-    title: Regen agriculture for kids - The #Homeschool podcast
-    ---
-
-    ### Farm Gate  (2020-05-11)  
+---
+title: Regen agriculture for kids - The #Homeschool podcast
+---
+### Farm Gate  (2020-05-11)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Regen-agriculture-for-kids---The-Homeschool-podcast-edt8qj#t=0:00:00):**  Hello, I'm Finnlow Kustain and welcome to a rather different Farmgate podcast. Today  we're going all homeschool to try and explain a bit about regenerative agriculture for primary  school-aged kids. So if you're about eight years old, a bit younger, a bit older, then  

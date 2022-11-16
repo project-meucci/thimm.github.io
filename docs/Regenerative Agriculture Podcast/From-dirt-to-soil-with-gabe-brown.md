@@ -1,9 +1,7 @@
-
-    ---
-    title: From Dirt To Soil with Gabe Brown
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-11-02)  
+---
+title: From Dirt To Soil with Gabe Brown
+---
+### Regenerative Agriculture Podcast  (2018-11-02)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/from-dirt-to-soil-with-gabe-brown/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems  

@@ -1,9 +1,7 @@
-
-    ---
-    title: 10min with Geert van der Veer on how Herenboeren is scaling community owned farms in Europe
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-03-24)  
+---
+title: 10min with Geert van der Veer on how Herenboeren is scaling community owned farms in Europe
+---
+### Investing in Regenerative Agriculture and Food  (2020-03-24)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2019/09/29/geert-van-der-veer-2/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full-length episode, please check the description below.  Welcome to another episode of Investing in Regenerative Agriculture – Investing as if the Planet Mattered,  a podcast show where I talk to the pioneers in the regenerative food and agriculture space  

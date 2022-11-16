@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode 24- Brooke Sauer On Closing The Gap Between Growers, Agronomists And Technology
-    ---
-
-    ### Agtech - So What?  (2018-06-06)  
+---
+title: Episode 24- Brooke Sauer On Closing The Gap Between Growers, Agronomists And Technology
+---
+### Agtech - So What?  (2018-06-06)  
 
 **[0:00:00-0:00:04](https://player.whooshkaa.com/episode?id=357338#t=0:00:00):**  Hi everyone, you're listening to BushTech, an agtech podcast that gets to the so what  of agtech. We'll bring you interesting things from interesting people and I'm one of your  co-hosts Simon Mathewson. And I'm your other co-host Sarah Nolette. On this podcast we  
 **[0:00:15-0:00:20](https://player.whooshkaa.com/episode?id=357338#t=0:00:15):**  will bring in leading speakers in technology, entrepreneurship, investment, agriculture,  science and anything else you can think of and we can find in the world of agtech. We'll  look to demystify it so that we're getting to the so what. What does it really mean for  

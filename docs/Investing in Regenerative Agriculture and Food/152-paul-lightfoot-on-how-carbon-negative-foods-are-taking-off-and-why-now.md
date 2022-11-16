@@ -1,9 +1,7 @@
-
-    ---
-    title: 152 Paul Lightfoot on how carbon negative foods are taking off and why now
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-02-15)  
+---
+title: 152 Paul Lightfoot on how carbon negative foods are taking off and why now
+---
+### Investing in Regenerative Agriculture and Food  (2022-02-15)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/paul-lightfoot#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

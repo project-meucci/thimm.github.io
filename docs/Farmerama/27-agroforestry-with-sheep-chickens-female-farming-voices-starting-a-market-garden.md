@@ -1,9 +1,7 @@
-
-    ---
-    title: 27:  Agroforestry with sheep & chickens, female farming voices & starting a market garden
-    ---
-
-    ### Farmerama  (2017-10-29)  
+---
+title: 27:  Agroforestry with sheep & chickens, female farming voices & starting a market garden
+---
+### Farmerama  (2017-10-29)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/farmerama-27-agroforestry-with-sheep-chickens-female-farming-voices-starting-a-market-garden#t=0:00:00):**  Hello and welcome to another episode of Farmerama, bringing you stories, ideas and experiments  from smaller scale farms around the world.  This month we dip into the wonderful world of agroforestry.  

@@ -1,9 +1,7 @@
-
-    ---
-    title: 180 Federico Romeri on disrupting the €7,5B Italian CAFO factory farmed beef market
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-08-02)  
+---
+title: 180 Federico Romeri on disrupting the €7,5B Italian CAFO factory farmed beef market
+---
+### Investing in Regenerative Agriculture and Food  (2022-08-02)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/federico-romeri#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

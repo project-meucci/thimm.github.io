@@ -1,9 +1,7 @@
-
-    ---
-    title: Erosion, Soil Balance, and Cover Crops with Steve Groff
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-05-05)  
+---
+title: Erosion, Soil Balance, and Cover Crops with Steve Groff
+---
+### Regenerative Agriculture Podcast  (2018-05-05)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/erosion-soil-balance-and-cover-crops-with-steve-groff/#t=0:00:00):**  Hi friends, I'm John Kempf, hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

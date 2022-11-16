@@ -1,9 +1,7 @@
-
-    ---
-    title: The Farm Robots Changing the Food System....For the Better!
-    ---
-
-    ### Tasting Terroir  (2022-10-06)  
+---
+title: The Farm Robots Changing the Food System....For the Better!
+---
+### Tasting Terroir  (2022-10-06)  
 ### Author(s): Sara Hessenflow Harper  
 
 **0:00:00-0:00:20:**  we're going to make food honest, either directly or through everyone else suddenly being pressured to count what they're doing because of the capabilities we're unleashing now. And so if a consumer wants their food to start with being honest, meaning chemicals and how it was raised, then I think that's step one, actually.  Flavor, I agree with you. That's why people buy things, but they also buy them for help. Right. And so you've got to have both. And there's no reason those two things work together actually, right. And that's what we're discussing. But that that really is Greenfield's working towards being a consumer brand now. And we think the biggest following the world sitting there waiting for us, because I don't think anyone could trust the food right now.  Welcome back to our podcast Tasting Tarawaar, a series of conversations that introduce you to people that are making food healthier, and possibly more flavorful for you, and easier on the planet. I'm your host, Sarah Harper. That clip was from an interview I did with another one of my favorite people, Clint Brower, a farmer in Chaney, Kansas, and co founder and CEO of Greenfield,  

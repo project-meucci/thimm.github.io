@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode #73: John Fagan
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-07-07)  
+---
+title: Episode #73: John Fagan
+---
+### Regenerative Agriculture Podcast  (2021-07-07)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:11](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_John_Fagan_Final_Audio.mp3#t=0:00:00):**  Hi friends, this is John, and this is the Regenerative Agriculture Podcast, where we talk about the agronomic sciences and the cultural management practices that are needed to regenerate soil health and plant health and ultimately public health.  I'm really looking forward to this conversation today. My guest for this episode is John Fagan from HRI Labs in Iowa. John is a detective, a very good detective in the laboratory.  Finding things that people sometimes might prefer not be found, sometimes finding things that people didn't know could be found, both compounds that we might consider to be a positive and some that we don't know about and some that we might prefer to avoid.  

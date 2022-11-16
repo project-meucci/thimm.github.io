@@ -1,9 +1,7 @@
-
-    ---
-    title: 15: Dairy farming, transparent pricing, cheap soil testing, Wwoofing and the first Scottish Farmhack
-    ---
-
-    ### Farmerama  (2017-03-10)  
+---
+title: 15: Dairy farming, transparent pricing, cheap soil testing, Wwoofing and the first Scottish Farmhack
+---
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/farmerama-15#t=0:00:00):**  Hello and welcome to Farmerama. After last month's words from farmers around the world,  we are now back on British soil. We have stories from Perthshire to Devon and we stop off in  a few places in between. A few of us headed to the first Scottish farm hack to share and  

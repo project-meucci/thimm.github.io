@@ -1,9 +1,7 @@
-
-    ---
-    title: The Future of Fertilizer - Nitrogen: Part 2, with Jupiter Ionics and Kula Bio
-    ---
-
-    ### Agtech - So What?  (2022-11-02)  
+---
+title: The Future of Fertilizer - Nitrogen: Part 2, with Jupiter Ionics and Kula Bio
+---
+### Agtech - So What?  (2022-11-02)  
 
 **[0:00:00-0:00:05](https://tenacious.ventures/podcast-episodes/the-future-of-fertilizer-nitrogen-part-2-with-jupiter-ionics-and-kula-bio#t=0:00:00):**  Hello and welcome to Ag Tech So One, brought to you by Tenacious Ventures.  I'm Sarah Nolet.  This week, and for two more episodes in the future, we're excited to be collaborating  
 **[0:00:10-0:00:15](https://tenacious.ventures/podcast-episodes/the-future-of-fertilizer-nitrogen-part-2-with-jupiter-ionics-and-kula-bio#t=0:00:10):**  with Trimble Agriculture, who's building technology to make farming better through precision.  A huge thanks to Trimble for partnering with us to bring you today's show.  Also a quick note, we have a ton of insights to bring you this week on the future of fertilizer,  

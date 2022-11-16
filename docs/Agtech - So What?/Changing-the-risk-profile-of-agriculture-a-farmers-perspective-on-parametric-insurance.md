@@ -1,9 +1,7 @@
-
-    ---
-    title: Changing the Risk Profile of Agriculture: a farmer's perspective on parametric insurance
-    ---
-
-    ### Agtech - So What?  (2022-09-07)  
+---
+title: Changing the Risk Profile of Agriculture: a farmer's perspective on parametric insurance
+---
+### Agtech - So What?  (2022-09-07)  
 
 **[0:00:00-0:00:06](https://tenacious.ventures/podcast-episodes/changing-the-risk-profile-of-agriculture-a-farmers-perspective-on-parametric-insurance#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by Tenacious Ventures.  I'm Sarah Nolet.  One of the things we love most about our podcast is the opportunity it gives us to learn from  
 **[0:00:13-0:00:14](https://tenacious.ventures/podcast-episodes/changing-the-risk-profile-of-agriculture-a-farmers-perspective-on-parametric-insurance#t=0:00:13):**  our listeners.  Back in June of this year, we made the decision to learn out loud about the future of risk  and insurance in agriculture.  

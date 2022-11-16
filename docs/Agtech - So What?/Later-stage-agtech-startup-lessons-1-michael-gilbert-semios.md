@@ -1,9 +1,7 @@
-
-    ---
-    title: Later-Stage Agtech Startup Lessons #1 - Michael Gilbert, Semios
-    ---
-
-    ### Agtech - So What?  (2021-11-03)  
+---
+title: Later-Stage Agtech Startup Lessons #1 - Michael Gilbert, Semios
+---
+### Agtech - So What?  (2021-11-03)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/later-stage-agtech-startup-founders#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agventic Group.  I'm Sarah Nolet.  This episode is the start of a series that I'm really excited about, where we hear lessons  
 **[0:00:11-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/later-stage-agtech-startup-founders#t=0:00:11):**  from later-stage AgTech startup founders.  So these are companies with more than 50 employees, or in the case of our next guest, 300 employees.  And we'll hear about their journey from founder to executive, and what they've learned about  

@@ -1,9 +1,7 @@
-
-    ---
-    title: 69: COP 26: Glasgow growing, participatory action research and migrant worker solidarity
-    ---
-
-    ### Farmerama  (2021-11-28)  
+---
+title: 69: COP 26: Glasgow growing, participatory action research and migrant worker solidarity
+---
+### Farmerama  (2021-11-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:16](https://soundcloud.com/farmerama-radio/69-cop-26-glasgow-growing-participatory-action-research-and#t=0:00:00):**  Welcome to Farmerama and welcome to Glasgow.  This month we're bringing you three stories from the fringes of the COP26 conference.  We'll hear about the challenges of growing food in Scotland's largest city, an innovative  

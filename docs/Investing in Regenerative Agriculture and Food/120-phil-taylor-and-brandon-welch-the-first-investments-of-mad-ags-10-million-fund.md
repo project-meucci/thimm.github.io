@@ -1,9 +1,7 @@
-
-    ---
-    title: 120 Phil Taylor and Brandon Welch, the first investments of Mad Ag's $10 million fund
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-05-25)  
+---
+title: 120 Phil Taylor and Brandon Welch, the first investments of Mad Ag's $10 million fund
+---
+### Investing in Regenerative Agriculture and Food  (2021-05-25)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/phil-taylor-brandon-welch#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

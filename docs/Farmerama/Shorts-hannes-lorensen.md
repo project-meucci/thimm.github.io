@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Hannes Lorensen
-    ---
-
-    ### Farmerama  (2018-05-14)  
+---
+title: Shorts: Hannes Lorensen
+---
+### Farmerama  (2018-05-14)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/grow-janes-lorensen#t=0:00:00):**  Is the way we produce our food today sustainable?  No, it's not at all. At least the big part of the food we are eating is processed food.  And the thought between or the idea to have sustainable food has to include many more things than just the end product.  

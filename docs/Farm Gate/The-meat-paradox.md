@@ -1,9 +1,7 @@
-
-    ---
-    title: The meat paradox
-    ---
-
-    ### Farm Gate  (2022-03-10)  
+---
+title: The meat paradox
+---
+### Farm Gate  (2022-03-10)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/The-meat-paradox-e1fh1t2#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finn Loke stain, the chief executive of Farmwell and  founder of the Food and Global Security Network.  In this program, I'm talking to Rob Percival, author of the meat paradox.  

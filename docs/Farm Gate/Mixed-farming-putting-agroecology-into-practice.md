@@ -1,9 +1,7 @@
-
-    ---
-    title: Mixed farming - Putting agroecology into practice
-    ---
-
-    ### Farm Gate  (2021-02-08)  
+---
+title: Mixed farming - Putting agroecology into practice
+---
+### Farm Gate  (2021-02-08)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Mixed-farming---Putting-agroecology-into-practice-eq4cs8#t=0:00:00):**  Hello, welcome to FarmGate, I'm Finlow Costain. This programme is part of a series in which  I talk to farmers who are delivering agro-ecological agriculture on their farms. The farmers in  this series are working with the Soil Association as Agroecology Ambassadors and as part of  

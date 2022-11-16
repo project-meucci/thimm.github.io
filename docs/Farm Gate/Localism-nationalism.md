@@ -1,9 +1,7 @@
-
-    ---
-    title: Localism & nationalism
-    ---
-
-    ### Farm Gate  (2022-05-30)  
+---
+title: Localism & nationalism
+---
+### Farm Gate  (2022-05-30)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:09](https://anchor.fm/farmgate/episodes/Localism--nationalism-e1j9176#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finn Locus-Dane, the Chief Executive of Farmwell and founder  of the Food and Global Security Network. A regenerative agricultural and environmental  transformation depends upon a resurgence of localism, of shortened supply chains and a  

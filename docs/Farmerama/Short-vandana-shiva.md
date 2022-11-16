@@ -1,9 +1,7 @@
-
-    ---
-    title: Short: Vandana Shiva
-    ---
-
-    ### Farmerama  (2019-06-02)  
+---
+title: Short: Vandana Shiva
+---
+### Farmerama  (2019-06-02)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/short-vandana-shiva#t=0:00:00):**  Vandana Shiva is a force of nature who has been described as a rockstar of the international  sustainable food movement. She has spent more than 40 years fighting for a more sustainable  agricultural system in defence and celebration of biodiversity and indigenous knowledge.  

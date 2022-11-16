@@ -1,9 +1,7 @@
-
-    ---
-    title: Optimism & story-telling
-    ---
-
-    ### Farm Gate  (2021-06-13)  
+---
+title: Optimism & story-telling
+---
+### Farm Gate  (2021-06-13)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Optimism--story-telling-e12jmnb#t=0:00:00):**  Hello, and welcome to Land Unlocked, a collaboration from the Food Farming and Countryside Commission  and the Farmgate podcast. I'm Fenlow Kustain, the chief executive of Farmwell, and in this  series I'm talking about land use, with influential figures in the UK and around the  

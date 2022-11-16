@@ -1,9 +1,7 @@
-
-    ---
-    title: 163 Jim Mann - Biochar and enhanced rock weathering to remove 1B ton carbon annually and holistically
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-04-08)  
+---
+title: 163 Jim Mann - Biochar and enhanced rock weathering to remove 1B ton carbon annually and holistically
+---
+### Investing in Regenerative Agriculture and Food  (2022-04-08)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/jim-mann-2#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

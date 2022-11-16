@@ -1,9 +1,7 @@
-
-    ---
-    title: Legacy Finance Eyes Agtech, with Wells Fargo
-    ---
-
-    ### Agtech - So What?  (2022-10-05)  
+---
+title: Legacy Finance Eyes Agtech, with Wells Fargo
+---
+### Agtech - So What?  (2022-10-05)  
 
 **[0:00:00-0:00:06](https://tenacious.ventures/podcast-episodes/legacy-finance-eyes-agtech-with-wells-fargo#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by Tenacious Ventures.  I'm Sarah Nolette.  A quick note, if you're excited to hear how fun2 fundraising is going, make sure you sit  
 **[0:00:11-0:00:13](https://tenacious.ventures/podcast-episodes/legacy-finance-eyes-agtech-with-wells-fargo#t=0:00:11):**  tight through to the end of the show.  If you do, you'll get to hear a bunch of juicy insights that Matthew and I have landed on  while raising over the past few weeks.  

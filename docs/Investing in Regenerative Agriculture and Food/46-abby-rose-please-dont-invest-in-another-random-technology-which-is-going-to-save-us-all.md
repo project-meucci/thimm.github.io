@@ -1,9 +1,7 @@
-
-    ---
-    title: 46 Abby Rose, please don’t invest in another random technology which is going to save us all
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-03-26)  
+---
+title: 46 Abby Rose, please don’t invest in another random technology which is going to save us all
+---
+### Investing in Regenerative Agriculture and Food  (2019-03-26)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2019/03/23/abby-rose/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

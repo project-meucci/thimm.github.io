@@ -1,9 +1,7 @@
-
-    ---
-    title: Dr. Kurt Spokas - The Science of Biochar | In Search of Soil #18
-    ---
-
-    ### In Search of Soil  (2021-08-18)  
+---
+title: Dr. Kurt Spokas - The Science of Biochar | In Search of Soil #18
+---
+### In Search of Soil  (2021-08-18)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-18-KurtSpokas-FullEpisode.mp3#t=0:00:00):**  So we meet again.  Biochar.  Is it worth the hype?  
 **[0:00:23-0:00:28](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-18-KurtSpokas-FullEpisode.mp3#t=0:00:23):**  That's what we're talking about in this episode of In Search of Soil with Dr. Kurt Spokas  of the USDA.  In this episode, we're going to be talking about the knowns of biochar because Dr. Spokas  

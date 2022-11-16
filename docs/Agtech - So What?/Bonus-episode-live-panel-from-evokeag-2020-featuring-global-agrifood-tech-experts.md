@@ -1,9 +1,7 @@
-
-    ---
-    title: BONUS Episode: Live panel from evokeAG 2020 featuring global agrifood tech experts
-    ---
-
-    ### Agtech - So What?  (2020-03-11)  
+---
+title: BONUS Episode: Live panel from evokeAG 2020 featuring global agrifood tech experts
+---
+### Agtech - So What?  (2020-03-11)  
 
 **[0:00:00-0:00:04](https://player.whooshkaa.com/episode?id=588506#t=0:00:00):**  We are now going to commence with the opening plenary session.  If we could please ask you to make your way through, take your seats for the commencement of this morning session. Thank you.  Hey guys, Sarah here. As you can already tell, today's bonus episode is going to be a little bit different.  
 **[0:00:19-0:00:25](https://player.whooshkaa.com/episode?id=588506#t=0:00:19):**  Instead of an interview, this is a live recording of a panel I facilitated at this year's Evoke Ag conference.  But before we get to the panel, I want to give you a little taste of how the event actually feels.  That was Culture Evolves. At Evoke Ag, they performed a traditional dance and music that told a story from the Kulin Nation about Bunjil, the creator.  

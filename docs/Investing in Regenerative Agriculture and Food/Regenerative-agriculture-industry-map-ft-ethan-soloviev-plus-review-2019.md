@@ -1,9 +1,7 @@
-
-    ---
-    title: Regenerative Agriculture Industry Map ft Ethan Soloviev plus review 2019
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-12-23)  
+---
+title: Regenerative Agriculture Industry Map ft Ethan Soloviev plus review 2019
+---
+### Investing in Regenerative Agriculture and Food  (2019-12-23)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2019/12/31/regenerative-agriculture-industry-map-ft-ethan-soloviev-plus-review-2019/#t=0:00:00):**  Welcome to another Regeneration Newsroom end of year review with Ethan and myself  where we're going to be looking at 2019 and 2020. Welcome back Ethan. Great to see  you Kun, looking forward to this review. So we're going to be in a minute we're  

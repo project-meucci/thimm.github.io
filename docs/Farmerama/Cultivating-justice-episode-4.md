@@ -1,9 +1,7 @@
-
-    ---
-    title: Cultivating Justice: Episode 4
-    ---
-
-    ### Farmerama  (2022-07-17)  
+---
+title: Cultivating Justice: Episode 4
+---
+### Farmerama  (2022-07-17)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:15](https://soundcloud.com/farmerama-radio/cultivating-justice-episode-4#t=0:00:00):**  To neurotypical society, it is important to me that my voice be one of importance. A voice  that is not only heard, but one that is able to create change. It is important to me because  I speak not just for myself, but for a whole community who are having to fight to be listened  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Measuring Nutrient Density with Dan Kittredge
-    ---
-
-    ### Regenerative Agriculture Podcast  (2019-11-05)  
+---
+title: Measuring Nutrient Density with Dan Kittredge
+---
+### Regenerative Agriculture Podcast  (2019-11-05)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/measuring-nutrient-density-with-dan-kittredge/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing regenerative agriculture systems that improve soil health,  produce crops that are completely resistant to diseases and insects, and produce food  

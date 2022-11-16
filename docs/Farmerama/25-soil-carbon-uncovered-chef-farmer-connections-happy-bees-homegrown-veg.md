@@ -1,9 +1,7 @@
-
-    ---
-    title: 25: Soil carbon uncovered, chef-farmer connections, happy bees & homegrown veg
-    ---
-
-    ### Farmerama  (2017-08-26)  
+---
+title: 25: Soil carbon uncovered, chef-farmer connections, happy bees & homegrown veg
+---
+### Farmerama  (2017-08-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/25-farmerama#t=0:00:00):**  My vision for the future is to see fields of flowers.  Wherever I drive through agricultural land in the pastures I want to see, you know, meadows,  how they used to be just full of flowers, and also in the crops.  

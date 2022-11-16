@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Norwich Farmshare December 2019
-    ---
-
-    ### Farmerama  (2020-01-03)  
+---
+title: Shorts: Norwich Farmshare December 2019
+---
+### Farmerama  (2020-01-03)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:19](https://soundcloud.com/farmerama-radio/shorts-norwich-farmshare-december-2019#t=0:00:00):**  Hello, I'm Joel, one of the two growers at Norwich Farmshare, along with Jack. It's the  very end of October. It's been an amazing summer though. We've grown over two and a  half tons of veg since June. Our membership is now over 100. We've had two very successful  

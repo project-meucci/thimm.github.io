@@ -1,9 +1,7 @@
-
-    ---
-    title: Alice Percy: Happy Pigs Taste Better
-    ---
-
-    ### Farmerama  (2019-07-25)  
+---
+title: Alice Percy: Happy Pigs Taste Better
+---
+### Farmerama  (2019-07-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:04](https://soundcloud.com/farmerama-radio/alice-percy-happy-pigs-taste-better#t=0:00:00):**  Hello and welcome to this special interview with author and farmer Alice Percy.  This episode is part of our Women of the Land series with Chelsea Green Publishing.  The Women of the Land series shares the voices of women who are fuelled by their connection with the land.  

@@ -1,9 +1,7 @@
-
-    ---
-    title: 68: Commoners in Cumbria and collective landscape restoration in Spain
-    ---
-
-    ### Farmerama  (2021-10-31)  
+---
+title: 68: Commoners in Cumbria and collective landscape restoration in Spain
+---
+### Farmerama  (2021-10-31)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/68-commoners-in-cumbria-and-collective-landscape-restoration-in-spain#t=0:00:00):**  Hello and welcome to Farmerama. We're very grateful to those of you that support us and  allow us to bring you these stories every month. Even the smallest contribution makes  a big difference to us, so if you'd like to become a supporter, please visit patreon.com  

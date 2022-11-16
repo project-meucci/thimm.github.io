@@ -1,9 +1,7 @@
-
-    ---
-    title: Stacking sheep & solar energy
-    ---
-
-    ### Farm Gate  (2021-08-18)  
+---
+title: Stacking sheep & solar energy
+---
+### Farm Gate  (2021-08-18)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Stacking-sheep--solar-energy-e163cga#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finnlow Kustein, the Chief Executive of Farmwell.  The best solutions for land use deliver multiple outcomes, especially in places where land  is relatively scarce and expensive. In recent years, opponents of renewable energy, particularly  

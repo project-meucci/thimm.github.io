@@ -1,9 +1,7 @@
-
-    ---
-    title: 66 Lachy Ritchie, why fixing the agtalent problem is the key to the regen ag revolution
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-12-23)  
+---
+title: 66 Lachy Ritchie, why fixing the agtalent problem is the key to the regen ag revolution
+---
+### Investing in Regenerative Agriculture and Food  (2019-12-23)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2019/12/20/lachy-ritchie/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

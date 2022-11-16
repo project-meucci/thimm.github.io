@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode 6: Roger Wright
-    ---
-
-    ### The Natural Lifestylist Podcast  (2019-09-25)  
+---
+title: Episode 6: Roger Wright
+---
+### The Natural Lifestylist Podcast  (2019-09-25)  
 ### Author(s): Tony Riddle  
 
 **[0:00:00-0:00:06](https://anchor.fm/tony-riddle/episodes/Episode-6-Roger-Wright-e5ig3d#t=0:00:00):**  Hi, I'm Tony Riddle and this is the Natural Lifestylist podcast.  So way back in December I had this crazy idea to run from Land's End to John O'Groats in  just 30 days.  

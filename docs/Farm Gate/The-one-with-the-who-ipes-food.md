@@ -1,9 +1,7 @@
-
-    ---
-    title: The one with the WHO & IPES Food
-    ---
-
-    ### Farm Gate  (2020-07-06)  
+---
+title: The one with the WHO & IPES Food
+---
+### Farm Gate  (2020-07-06)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/The-one-with-the-WHO--IPES-Food-egchdh#t=0:00:00):**  Hello, welcome to Farmgate. I'm Finnlow Costayne. Today I'm joined by two highly  distinguished guests who are here to discuss COVID-19 and the crisis in food systems. Dr.  David Nabarro is Special Envoy of the World Health Organisation Director General on COVID-19  

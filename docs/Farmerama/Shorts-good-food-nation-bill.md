@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Good Food Nation Bill
-    ---
-
-    ### Farmerama  (2018-03-29)  
+---
+title: Shorts: Good Food Nation Bill
+---
+### Farmerama  (2018-03-29)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:14](https://soundcloud.com/farmerama-radio/shorts-good-food-nation-bill-short-mixdown#t=0:00:00):**  Nourish is an organisation that was set up about five years ago, really to give a voice  to people who cared about changing the food system and make sure there was kind of political  representation of these ideas that were sort of thriving among civil society and local  

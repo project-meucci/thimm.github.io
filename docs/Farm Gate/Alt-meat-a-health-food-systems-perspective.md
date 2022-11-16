@@ -1,9 +1,7 @@
-
-    ---
-    title: ALT Meat - A health & food systems perspective
-    ---
-
-    ### Farm Gate  (2021-02-15)  
+---
+title: ALT Meat - A health & food systems perspective
+---
+### Farm Gate  (2021-02-15)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/ALT-Meat---A-health--food-systems-perspective-eqek94#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. This is the first of two programmes investigating  the rise of vegetable and cellular meat alternatives. In the second episode, I'll discuss the ethics  and business implications of meat alternatives, but today I'm talking to Rachel Santo, a  

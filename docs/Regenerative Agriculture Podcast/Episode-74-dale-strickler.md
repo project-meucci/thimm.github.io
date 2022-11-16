@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode #74: Dale Strickler
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-07-23)  
+---
+title: Episode #74: Dale Strickler
+---
+### Regenerative Agriculture Podcast  (2021-07-23)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_Dale_Strickler_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast where we talk about the  agronomic science and the cultural management practices that regenerate plant health, soil  health and public health. My guest for this episode is Dale Strickler from Green Cover  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Award-winning adaptive multi-paddock grazing
-    ---
-
-    ### Farm Gate  (2021-07-08)  
+---
+title: Award-winning adaptive multi-paddock grazing
+---
+### Farm Gate  (2021-07-08)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Award-winning-adaptive-multi-paddock-grazing-e144d4f#t=0:00:00):**  Hello, welcome to FarmGate. I'm Finlow Costain, the Chief Executive of FarmWell. McDonald's  UK and Ireland and FAI Farms have won Compassion in World Farming's prestigious Sustainable  Food and Farming Award for their work on regenerative beef. This is a four-year project centered  

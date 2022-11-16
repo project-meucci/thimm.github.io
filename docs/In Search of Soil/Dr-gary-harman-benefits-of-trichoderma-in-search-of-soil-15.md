@@ -1,9 +1,7 @@
-
-    ---
-    title: Dr. Gary Harman - Benefits of Trichoderma | In Search of Soil #15
-    ---
-
-    ### In Search of Soil  (2021-07-28)  
+---
+title: Dr. Gary Harman - Benefits of Trichoderma | In Search of Soil #15
+---
+### In Search of Soil  (2021-07-28)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-15-GaryHarman-FullEpisode.mp3#t=0:00:00):**  So we meet again.  Today we're talking trichoderma.  If that name doesn't ring a bell, if you don't recognize what trichoderma is, maybe you'd  
 **[0:00:27-0:00:31](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-15-GaryHarman-FullEpisode.mp3#t=0:00:27):**  recognize it by its commercial product name.  Root Shield and Root Shield Plus.  Many of you as growers may have used that product before and the primary ingredient  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Season 2 Kickoff with Don Huber
-    ---
-
-    ### Regenerative Agriculture Podcast  (2019-02-16)  
+---
+title: Season 2 Kickoff with Don Huber
+---
+### Regenerative Agriculture Podcast  (2019-02-16)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:03](https://podcast.vhostevents.com/uncategorized/season-2-kickoff-with-don-huber/#t=0:00:00):**  Hi friends, welcome to season two of the Regenerative Agriculture podcast.  Thanks to all of your support, we've had over 100,000 unique downloads of the show  with listeners in 142 countries, which shows us that the regenerative agriculture  

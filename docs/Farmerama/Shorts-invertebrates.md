@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Invertebrates
-    ---
-
-    ### Farmerama  (2017-07-28)  
+---
+title: Shorts: Invertebrates
+---
+### Farmerama  (2017-07-28)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:15](https://soundcloud.com/farmerama-radio/shorts-invertebrates#t=0:00:00):**  At the bug farm we do a lot of research about general beneficial invertebrates.  So those are the kind of invertebrates like spiders that will be carrying out pest control  in our crops, ladybirds who will eat aphids, parasitoid wasps that lay their eggs inside  

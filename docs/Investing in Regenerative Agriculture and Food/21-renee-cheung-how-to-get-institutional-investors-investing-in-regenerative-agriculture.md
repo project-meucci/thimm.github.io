@@ -1,9 +1,7 @@
-
-    ---
-    title: 21 Renee Cheung, how to get institutional investors investing in regenerative agriculture
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2017-10-22)  
+---
+title: 21 Renee Cheung, how to get institutional investors investing in regenerative agriculture
+---
+### Investing in Regenerative Agriculture and Food  (2017-10-22)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2017/10/28/renee-cheung/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

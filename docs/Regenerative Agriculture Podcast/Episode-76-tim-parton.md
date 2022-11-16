@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode #76: Tim Parton
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-09-30)  
+---
+title: Episode #76: Tim Parton
+---
+### Regenerative Agriculture Podcast  (2021-09-30)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://traffic.libsyn.com/secure/regenerativeagriculture/Episode_76_Tim_Parton_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regent of Agriculture podcast where we talk about the  agronomic sciences and the cultural management practices that regenerate plant health, soil  health, and farms financial health as well as ultimately public health where we can have  

@@ -1,9 +1,7 @@
-
-    ---
-    title: 118 Anastasia Volkova on how to monitor whole landscapes and watersheds from space
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-05-11)  
+---
+title: 118 Anastasia Volkova on how to monitor whole landscapes and watersheds from space
+---
+### Investing in Regenerative Agriculture and Food  (2021-05-11)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/anastasia-volkova#t=0:00:00):**  What is already possible with remote sensing and what isn't?  For example, you can currently monitor the farming practices and approaches of the whole  Midwest of the United States and see where regenerative agriculture is spreading faster  

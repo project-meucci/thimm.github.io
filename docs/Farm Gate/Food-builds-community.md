@@ -1,9 +1,7 @@
-
-    ---
-    title: Food builds community
-    ---
-
-    ### Farm Gate  (2021-07-05)  
+---
+title: Food builds community
+---
+### Farm Gate  (2021-07-05)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Food-builds-community-e13un20#t=0:00:00):**  Hello and welcome to Land Unlocked, a collaboration from the Food Farming and Countryside Commission  and the Farmgate podcast. I'm Finnlow Costayne, the chief executive of Farmwell, and in this  series, I'm talking about land use, with influential figures from the UK and around  

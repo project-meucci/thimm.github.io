@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode #75: James Johnson
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-08-06)  
+---
+title: Episode #75: James Johnson
+---
+### Regenerative Agriculture Podcast  (2021-08-06)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:11](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_James_Johnson_No_Roundup_Mention_FINAL_AUDIO.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast, where we talk about the agronomic science and the cultural management practices that regenerate plant health, soil health, and public health.  And that should also regenerate farm profitability.  I'm very happy today to have James Johnson here as a guest.  

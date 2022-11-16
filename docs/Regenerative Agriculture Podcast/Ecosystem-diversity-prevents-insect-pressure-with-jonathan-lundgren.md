@@ -1,9 +1,7 @@
-
-    ---
-    title: Ecosystem Diversity Prevents Insect Pressure with Jonathan Lundgren
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-07-20)  
+---
+title: Ecosystem Diversity Prevents Insect Pressure with Jonathan Lundgren
+---
+### Regenerative Agriculture Podcast  (2018-07-20)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://podcast.vhostevents.com/uncategorized/ecosystem-diversity-prevents-insect-pressure-with-jonathan-lundgren/#t=0:00:00):**  The question that I always ask farmers that come up to visit is how often can you lose  a crop and make more money than the neighbors do?  The answer is every single time when you're farming regeneratively.  

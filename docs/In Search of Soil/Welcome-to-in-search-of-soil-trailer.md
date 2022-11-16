@@ -1,9 +1,7 @@
-
-    ---
-    title: Welcome to In Search of Soil (Trailer)
-    ---
-
-    ### In Search of Soil  (2020-10-09)  
+---
+title: Welcome to In Search of Soil (Trailer)
+---
+### In Search of Soil  (2020-10-09)  
 
 **[0:00:00-0:00:05](https://insearchofsoil.libsyn.com/welcome-to-in-search-of-soil-trailer#t=0:00:00):**  How can we know so little about something we're so dependent upon?  That's the case with soil.  Where in just a single teaspoon of rich brown earth, we can find millions of species and billions of organisms.  
 **[0:00:15-0:00:18](https://insearchofsoil.libsyn.com/welcome-to-in-search-of-soil-trailer#t=0:00:15):**  But we don't know very much about any of them.  We've always just had the attitude that micro arthropods, micro arthropods were predators.  And that's really the only benefit they give to the soil food web. But that's not true.  

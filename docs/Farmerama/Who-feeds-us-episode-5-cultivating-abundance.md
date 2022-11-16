@@ -1,9 +1,7 @@
-
-    ---
-    title: "Who feeds us?" Episode 5: Cultivating abundance
-    ---
-
-    ### Farmerama  (2020-11-08)  
+---
+title: "Who feeds us?" Episode 5: Cultivating abundance
+---
+### Farmerama  (2020-11-08)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/who-feeds-us-episode-5-cultivating-abundance#t=0:00:00):**  It was really, really early in the morning and it was still foggy. I sat there until  the fog lifted and then it was a really beautiful summer's morning. Just the simplicity. I felt  really humbled to be in that space. My head just felt like I come from maybe a long line  

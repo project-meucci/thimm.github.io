@@ -1,9 +1,7 @@
-
-    ---
-    title: Why You Should Give a F*ck About Farming - Gabrielle Chan
-    ---
-
-    ### Agtech - So What?  (2021-10-20)  
+---
+title: Why You Should Give a F*ck About Farming - Gabrielle Chan
+---
+### Agtech - So What?  (2021-10-20)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/10/19/why-you-should-give-a-fck-about-farming#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  There's nothing like starting off a conversation with a provocative statement, which is exactly  
 **[0:00:12-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/10/19/why-you-should-give-a-fck-about-farming#t=0:00:12):**  what our next guest, Gabrielle Chen, has done with the title of her new book.  Gabby is a journalist and author, and she's just started as the rural and regional editor  at The Guardian in Australia.  

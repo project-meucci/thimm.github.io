@@ -1,9 +1,7 @@
-
-    ---
-    title: How Nutrition Impacts Dairy Performance with Silvia Abel-Caines
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-08-31)  
+---
+title: How Nutrition Impacts Dairy Performance with Silvia Abel-Caines
+---
+### Regenerative Agriculture Podcast  (2018-08-31)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/how-nutrition-impacts-dairy-performance-with-silvia-abel-caines/#t=0:00:00):**  Hi friends, I'm Jon Kempf, hosting this podcast. I am passionate about developing regenerative  agricultural systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Harvest Barn Market Garden July and August
-    ---
-
-    ### Farmerama  (2018-08-13)  
+---
+title: Shorts: Harvest Barn Market Garden July and August
+---
+### Farmerama  (2018-08-13)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:14](https://soundcloud.com/farmerama-radio/joel-rodker-july-august#t=0:00:00):**  Hello everyone, it's Friday the 27th of July. It's Joel here at the Market Garden at the  Harvest Barn Farm Shop just outside Peterborough and the storm has hit finally after two months  without rain. It's finally raining and very windy so I was just loading up the car to  

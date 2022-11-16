@@ -1,9 +1,7 @@
-
-    ---
-    title: ‘Cereal’ bonus episode: Fintan Keenan
-    ---
-
-    ### Farmerama  (2022-09-18)  
+---
+title: ‘Cereal’ bonus episode: Fintan Keenan
+---
+### Farmerama  (2022-09-18)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:03](https://soundcloud.com/farmerama-radio/cereal-bonus-episode-fintan-keenan#t=0:00:00):**  So if you could first tell me what you had for breakfast just to test.  I had some sneaky pastries from the bakery which I shouldn't have had but I was able to steal a few.  Louise Bannon's specialities and they're incredible.  

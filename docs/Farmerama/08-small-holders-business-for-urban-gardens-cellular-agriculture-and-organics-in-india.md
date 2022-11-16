@@ -1,9 +1,7 @@
-
-    ---
-    title: 08: Small-holders, business for urban gardens, cellular agriculture and organics in India
-    ---
-
-    ### Farmerama  (2017-03-10)  
+---
+title: 08: Small-holders, business for urban gardens, cellular agriculture and organics in India
+---
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/08-farmerama#t=0:00:00):**  Welcome to Farmerama as we happily hop into spring. Lots of work to be done in the fields,  although of course the hungry gap is upon us so we won't be seeing the fruits of all  the labour for a few months yet.  

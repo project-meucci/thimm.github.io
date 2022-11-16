@@ -1,9 +1,7 @@
-
-    ---
-    title: 12: Post-brexit perspectives, soil tests uncovered, practical farm advice & seed journeys
-    ---
-
-    ### Farmerama  (2017-03-10)  
+---
+title: 12: Post-brexit perspectives, soil tests uncovered, practical farm advice & seed journeys
+---
+### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/12-farmerama#t=0:00:00):**  It's July and we've now been following the nitty-gritty of the smaller scale farming  world for one whole growing year. One revolution of this world around the sun. We've chanced  upon and dug up so many stories and met inspirational farmers and growers as the podcast has spiralled  

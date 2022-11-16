@@ -1,9 +1,7 @@
-
-    ---
-    title: Veg & Horticulture - Putting agroecology into practice
-    ---
-
-    ### Farm Gate  (2021-03-08)  
+---
+title: Veg & Horticulture - Putting agroecology into practice
+---
+### Farm Gate  (2021-03-08)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Veg--Horticulture---Putting-agroecology-into-practice-es0cpk#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne. This is the fourth programme in our series  about agroecological agriculture. Today I'm finding out about vegetables and horticulture,  and I'm joined by two fantastic farmers putting agroecology into practice.  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Farmers unite for global statement on GWP*
-    ---
-
-    ### Farm Gate  (2020-03-06)  
+---
+title: Farmers unite for global statement on GWP*
+---
+### Farm Gate  (2020-03-06)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Farmers-unite-for-global-statement-on-GWP-eba6km#t=0:00:00):**  Welcome to Farmgate, I'm Finnlow Costayne. Farmers from across the world have issued  a joint statement calling for governments to recognise the importance of the metric  GWP star. Signatories to the statement include the NFU, CLA, the National Sheep Association  

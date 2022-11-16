@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Jubliee Farm Brexit
-    ---
-
-    ### Farmerama  (2019-02-19)  
+---
+title: Shorts: Jubliee Farm Brexit
+---
+### Farmerama  (2019-02-19)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/shorts-jubliee-farm-brexit#t=0:00:00):**  So we're back at Jubilee Farm. We've just moved on site having raised £280,000 to buy  this wonderful farm. And it's an interesting time to be setting up a farm because there  are storm clouds on the horizon with Brexit and what it is going to mean for agriculture.  

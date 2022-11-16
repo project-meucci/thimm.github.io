@@ -1,9 +1,7 @@
-
-    ---
-    title: The Role of Carbon in the Soil with Rattan Lal
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-05-11)  
+---
+title: The Role of Carbon in the Soil with Rattan Lal
+---
+### Regenerative Agriculture Podcast  (2020-05-11)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:26](https://podcast.vhostevents.com/uncategorized/the-role-of-carbon-in-the-soil-with-rattan-lal/#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast. Thank you for dialing back in today. I'm delighted to have with us. Dr. Ratan Lyle from Ohio State University, who is renowned around the world for his work on carbon sequestration. He's earned many more accolades than I can even describe. Dr. Lyle, we're very, very pleased and very happy to have you here with us.  You've had a very rich journey doing work in many different areas. Can you tell us a bit about your pathway and your work in agriculture and carbon sequestration so far?  Yes, thank you for having me on this program. I came to Ohio State from India as a graduate student in 1965. I finished here in 1968 and went to Australia.  

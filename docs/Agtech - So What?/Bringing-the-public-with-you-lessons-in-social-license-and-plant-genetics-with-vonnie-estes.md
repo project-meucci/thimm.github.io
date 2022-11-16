@@ -1,9 +1,7 @@
-
-    ---
-    title: Bringing the public with you... lessons in social license and plant genetics, with Vonnie Estes
-    ---
-
-    ### Agtech - So What?  (2021-04-21)  
+---
+title: Bringing the public with you... lessons in social license and plant genetics, with Vonnie Estes
+---
+### Agtech - So What?  (2021-04-21)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/4/20/social-license-and-plant-genetics#t=0:00:00):**  Hello and welcome to Ag Tech So What, brought to you by the Agthente Group.  I'm your host, Sarah Nollet.  I'm really excited about today's guest, Vani Estes.  
 **[0:00:11-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/4/20/social-license-and-plant-genetics#t=0:00:11):**  Not only is she an industry leader in food and ag, but she's also refreshingly candid  about her own experiences working for large and small ag and food companies.  This is Vani, remembering the US biofuels craze of the mid 2000s.  

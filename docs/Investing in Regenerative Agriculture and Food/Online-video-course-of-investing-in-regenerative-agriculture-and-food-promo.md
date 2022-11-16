@@ -1,9 +1,7 @@
-
-    ---
-    title: Online Video Course of Investing in Regenerative Agriculture and Food - Promo
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-05-27)  
+---
+title: Online Video Course of Investing in Regenerative Agriculture and Food - Promo
+---
+### Investing in Regenerative Agriculture and Food  (2021-05-27)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://gum.co/GgGixE#t=0:00:00):**  Dear friends of the podcast, I am super excited to share with you the online video course  Investing in Regenerative Agriculture and Food.  How to put money to work in regenerating soils at scale and growing a lot of tasty food while  

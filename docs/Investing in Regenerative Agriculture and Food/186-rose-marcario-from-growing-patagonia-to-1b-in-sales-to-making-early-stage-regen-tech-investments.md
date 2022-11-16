@@ -1,9 +1,7 @@
-
-    ---
-    title: 186 Rose Marcario - From growing Patagonia to $1b in sales to making early stage regen tech investments
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-09-27)  
+---
+title: 186 Rose Marcario - From growing Patagonia to $1b in sales to making early stage regen tech investments
+---
+### Investing in Regenerative Agriculture and Food  (2022-09-27)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/rose-marcario#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

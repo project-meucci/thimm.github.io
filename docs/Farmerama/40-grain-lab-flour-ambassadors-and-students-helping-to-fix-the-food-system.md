@@ -1,9 +1,7 @@
-
-    ---
-    title: 40: Grain Lab, Flour Ambassadors, and Students helping to fix the food system
-    ---
-
-    ### Farmerama  (2018-11-25)  
+---
+title: 40: Grain Lab, Flour Ambassadors, and Students helping to fix the food system
+---
+### Farmerama  (2018-11-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/40-grain-bread-and-students-helping-to-fix-the-food-system#t=0:00:00):**  Hello and welcome to episode 40 of Farmerama.  In the last month we've been to two events in the UK, so this episode is going to be  slightly different than usual.  

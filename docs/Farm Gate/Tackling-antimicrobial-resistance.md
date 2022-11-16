@@ -1,9 +1,7 @@
-
-    ---
-    title: Tackling antimicrobial resistance
-    ---
-
-    ### Farm Gate  (2020-11-24)  
+---
+title: Tackling antimicrobial resistance
+---
+### Farm Gate  (2020-11-24)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Tackling-antimicrobial-resistance-emu5h0#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Kustain. It's World Antimicrobial Awareness Week, so  we're doing our bit. What is antimicrobial resistance? Why is it a problem? What are  the drivers and what can we do about it? I'm joined by Laura Hyam from Vet Sustain and  

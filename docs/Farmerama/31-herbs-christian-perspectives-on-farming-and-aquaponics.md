@@ -1,9 +1,7 @@
-
-    ---
-    title: 31: herbs, Christian perspectives on farming and aquaponics
-    ---
-
-    ### Farmerama  (2018-02-25)  
+---
+title: 31: herbs, Christian perspectives on farming and aquaponics
+---
+### Farmerama  (2018-02-25)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/31-herbs-christian-perspectives-on-farming-and-aquaponics#t=0:00:00):**  Hello and welcome to Farmerama. This month we hear from herb growers and suppliers about  the opportunities for growing herbs in the UK. We have the first in a series of reports  from Jubilee Farm in Northern Ireland, offering a Christian perspective on agriculture and  

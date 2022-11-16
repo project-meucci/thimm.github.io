@@ -1,9 +1,7 @@
-
-    ---
-    title: BONUS EP: Capitalism for Good, feat. David Lee from AppHarvest and Impossible Foods
-    ---
-
-    ### Agtech - So What?  (2021-07-07)  
+---
+title: BONUS EP: Capitalism for Good, feat. David Lee from AppHarvest and Impossible Foods
+---
+### Agtech - So What?  (2021-07-07)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/7/7/capitalism-for-good#t=0:00:00):**  Hello and welcome to AgTech So What brought to you by the Agthentic Group.  I'm Kirsten Diprose bringing you some bonus content.  You've probably heard of the Impossible Burger.  
 **[0:00:13-0:00:19](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/7/7/capitalism-for-good#t=0:00:13):**  Well, we're about to hear from David Lee, who was the company's CFO and COO for more  than five years.  This was in the company's startup phase, back even before it had a burger.  

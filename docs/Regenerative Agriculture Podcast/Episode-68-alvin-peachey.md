@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode #68: Alvin Peachey
-    ---
-
-    ### Regenerative Agriculture Podcast  (2021-04-23)  
+---
+title: Episode #68: Alvin Peachey
+---
+### Regenerative Agriculture Podcast  (2021-04-23)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_Alvin_Peachey_Final_Audio.mp3#t=0:00:00):**  Hi friends, welcome back. This is John and this is the Regenerative Agriculture podcast  where we talk about the agronomic sciences and the cultural management practices that  regenerate plant health, soil health, and livestock health, and ultimately public health,  

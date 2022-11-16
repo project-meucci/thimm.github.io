@@ -1,9 +1,7 @@
-
-    ---
-    title: 126 Nathalie Whitaker and Mike Taitoko, regenerating New Zealand’s dairy industry focussing on water not carbon
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-07-27)  
+---
+title: 126 Nathalie Whitaker and Mike Taitoko, regenerating New Zealand’s dairy industry focussing on water not carbon
+---
+### Investing in Regenerative Agriculture and Food  (2021-07-27)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/nathalie-whitaker-mike-taitoko#t=0:00:00):**  New Zealand's dairy industry has intensified tremendously over the last 20 years and has  to change if it doesn't want to lose its social license to operate.  Consumers and governments are putting enormous pressure to clean up the heavily polluted  

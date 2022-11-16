@@ -1,9 +1,7 @@
-
-    ---
-    title: Ep 64 Pete Nelson on partnering with growers to build better agtech
-    ---
-
-    ### Agtech - So What?  (2020-04-08)  
+---
+title: Ep 64 Pete Nelson on partnering with growers to build better agtech
+---
+### Agtech - So What?  (2020-04-08)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/4/8/ep-64-pete-nelson-on-partnering-with-growers-to-build-better-agtech#t=0:00:00):**  Hello, and welcome back to the AgTech So What podcast, brought to you by Agthentik.  I'm your host, Sarah Nolet.  And today I'm joined by a guest host, Cass Mao.  
 **[0:00:12-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/4/8/ep-64-pete-nelson-on-partnering-with-growers-to-build-better-agtech#t=0:00:12):**  Cass is a principal advisor at Agthentik, and she's joining me today because of a report  we wrote on agtech ecosystems.  Basically, we looked at what's happening in the United States and teased out lessons for  

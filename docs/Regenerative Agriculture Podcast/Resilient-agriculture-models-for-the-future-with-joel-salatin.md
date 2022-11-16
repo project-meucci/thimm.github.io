@@ -1,9 +1,7 @@
-
-    ---
-    title: Resilient Agriculture Models for The Future with Joel Salatin
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-05-26)  
+---
+title: Resilient Agriculture Models for The Future with Joel Salatin
+---
+### Regenerative Agriculture Podcast  (2020-05-26)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/resilient-agriculture-models-for-the-future-with-joel-salatin/#t=0:00:00):**  Hi friends, welcome back to the regenerative agriculture podcast. Today I'm delighted and  honored to have Joel Salatin of Polyface Farms in Virginia here with us. Joel Salatin is a voice  and a name that scarcely needs an introduction. He has been a voice of inspiration to very many.  

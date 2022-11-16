@@ -1,9 +1,7 @@
-
-    ---
-    title: Concepts of Biological Farming with Gary Zimmer
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-11-09)  
+---
+title: Concepts of Biological Farming with Gary Zimmer
+---
+### Regenerative Agriculture Podcast  (2018-11-09)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/concepts-of-biological-farming-with-gary-zimmer/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing  regenerative agriculture systems  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Microbial Influences on Crop Quality with Greg Pennyroyal
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-07-13)  
+---
+title: Microbial Influences on Crop Quality with Greg Pennyroyal
+---
+### Regenerative Agriculture Podcast  (2018-07-13)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/microbial-influences-on-crop-quality-with-greg-pennyroyal/#t=0:00:00):**  Hi friends, I'm Jon Kampf, hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

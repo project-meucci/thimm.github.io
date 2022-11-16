@@ -1,9 +1,7 @@
-
-    ---
-    title: 94 Robin Saluoks and Kristjan Luha, building the biggest farmers union in the world, already covering 1m hectares on 1500 farmers
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-10-27)  
+---
+title: 94 Robin Saluoks and Kristjan Luha, building the biggest farmers union in the world, already covering 1m hectares on 1500 farmers
+---
+### Investing in Regenerative Agriculture and Food  (2020-10-27)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/2020/10/27/robin-saluoks-kristjan-luha/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

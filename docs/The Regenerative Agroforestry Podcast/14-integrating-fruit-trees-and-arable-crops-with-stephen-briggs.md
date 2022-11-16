@@ -1,9 +1,7 @@
-
-    ---
-    title: #14 Integrating fruit trees and arable crops with Stephen Briggs
-    ---
-
-    ### The Regenerative Agroforestry Podcast  (2021-01-25)  
+---
+title: #14 Integrating fruit trees and arable crops with Stephen Briggs
+---
+### The Regenerative Agroforestry Podcast  (2021-01-25)  
 
 **0:00:00-0:00:16:**  Can we change the way we produce food to both meet the needs of humans whilst regenerating  our soils and ecosystems?  And can we do so in a way that improves the financial viability of farms?  
 **0:00:23-0:00:27:**  These questions are becoming increasingly urgent to answer and we're here to investigate  a promising technique called agroforestry.  In order to find out how it can help us with these challenges, we'll be interviewing farmers,  

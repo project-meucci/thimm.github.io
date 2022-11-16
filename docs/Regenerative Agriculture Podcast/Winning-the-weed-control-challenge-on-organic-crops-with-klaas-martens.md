@@ -1,9 +1,7 @@
-
-    ---
-    title: Winning the Weed Control Challenge on Organic Crops with Klaas Martens
-    ---
-
-    ### Regenerative Agriculture Podcast  (2018-05-12)  
+---
+title: Winning the Weed Control Challenge on Organic Crops with Klaas Martens
+---
+### Regenerative Agriculture Podcast  (2018-05-12)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:06](https://podcast.vhostevents.com/uncategorized/winning-the-weed-control-challenge-on-organic-crops-with-klaas-martens/#t=0:00:00):**  Hi friends, I'm Jon Kampf, hosting this podcast. I am passionate about developing regenerative  agriculture systems that improve soil health, produce crops that are completely resistant to  diseases and insects, and produce fruit of such an exceptional quality that we can have a legitimate  

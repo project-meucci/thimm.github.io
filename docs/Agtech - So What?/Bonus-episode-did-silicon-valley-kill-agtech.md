@@ -1,9 +1,7 @@
-
-    ---
-    title: Bonus Episode: Did Silicon Valley Kill Agtech?
-    ---
-
-    ### Agtech - So What?  (2021-08-18)  
+---
+title: Bonus Episode: Did Silicon Valley Kill Agtech?
+---
+### Agtech - So What?  (2021-08-18)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/8/17/did-silicon-valley-kill-agtech#t=0:00:00):**  Hello and welcome to Ag Tech So What, brought to you by the  Agthentic Group. I'm Kirsten Diprose here with a bonus  episode. So did Silicon Valley kill Ag Tech, or at least set it  
 **[0:00:15-0:00:20](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/8/17/did-silicon-valley-kill-agtech#t=0:00:15):**  back a decade? Ah yes, Silicon Valley, California. It's the  tech sector's equivalent to Hollywood, where entrepreneurs  see their dreams go boom or bust. It's seen as the birthplace  

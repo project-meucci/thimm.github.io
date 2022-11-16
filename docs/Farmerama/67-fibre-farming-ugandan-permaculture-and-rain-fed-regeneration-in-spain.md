@@ -1,9 +1,7 @@
-
-    ---
-    title: 67: Fibre farming, Ugandan permaculture and rain-fed regeneration in Spain
-    ---
-
-    ### Farmerama  (2021-09-26)  
+---
+title: 67: Fibre farming, Ugandan permaculture and rain-fed regeneration in Spain
+---
+### Farmerama  (2021-09-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:11](https://soundcloud.com/farmerama-radio/67-fibre-farming-ugandan-permaculture-and-rain-fed-regeneration-in-spain#t=0:00:00):**  Hello and welcome to Farmerama.  We're very grateful to all of you that support us and allow us to bring you these stories  every month.  

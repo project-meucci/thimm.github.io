@@ -1,9 +1,7 @@
-
-    ---
-    title: 65: Community farm investment, Naked Oat Mylk and Palestinian fair trade
-    ---
-
-    ### Farmerama  (2021-04-26)  
+---
+title: 65: Community farm investment, Naked Oat Mylk and Palestinian fair trade
+---
+### Farmerama  (2021-04-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/65_community_farm_investment_naked_oat_mylk_and_palestinian_fair_trade#t=0:00:00):**  Hello and welcome to Farmerama.  This month we start with a fond farewell to internationally renowned water specialist  Professor Tony Allen.  

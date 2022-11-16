@@ -1,9 +1,7 @@
-
-    ---
-    title: Embracing the Connection Between Agriculture and Health with Zach Bush
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-06-16)  
+---
+title: Embracing the Connection Between Agriculture and Health with Zach Bush
+---
+### Regenerative Agriculture Podcast  (2020-06-16)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/episodes/embracing-the-connection-between-agriculture-and-health-with-zach-bush/#t=0:00:00):**  Hi friends, this is John.  Welcome back to the Regenerative Agriculture Podcast.  Mostly on this podcast, we focus on solutions.  

@@ -1,9 +1,7 @@
-
-    ---
-    title: ‘Cereal’ Episode 6: Grain futures
-    ---
-
-    ### Farmerama  (2019-12-29)  
+---
+title: ‘Cereal’ Episode 6: Grain futures
+---
+### Farmerama  (2019-12-29)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:23](https://soundcloud.com/farmerama-radio/cereal-episode-6-grain-futures#t=0:00:00):**  Welcome to Cereal from Farmerama. This is episode 6, Grain Futures.  That's the Lost Travelers, playing at the Harvest Party we recently hosted at E5 Bakehouse  in London. And against that lovely backdrop, we've reached the end of our cereal journey.  

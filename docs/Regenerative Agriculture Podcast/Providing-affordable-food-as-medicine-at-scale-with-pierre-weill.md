@@ -1,9 +1,7 @@
-
-    ---
-    title: Providing Affordable Food as Medicine At Scale with Pierre Weill
-    ---
-
-    ### Regenerative Agriculture Podcast  (2019-09-17)  
+---
+title: Providing Affordable Food as Medicine At Scale with Pierre Weill
+---
+### Regenerative Agriculture Podcast  (2019-09-17)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:01](https://podcast.vhostevents.com/uncategorized/providing-affordable-food-as-medicine-at-scale-with-pierre-weill/#t=0:00:00):**  Hi friends, this is John.  I'm passionate about developing regenerative agriculture systems that improve soil health,  produce crops that are completely resistant to diseases and insects, and produce food  

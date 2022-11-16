@@ -1,9 +1,7 @@
-
-    ---
-    title: What IS Regenerative Agriculture? Find Out from Farmers!
-    ---
-
-    ### Tasting Terroir  (2022-09-01)  
+---
+title: What IS Regenerative Agriculture? Find Out from Farmers!
+---
+### Tasting Terroir  (2022-09-01)  
 ### Author(s): Sara (Hessenflow) Harper  
 
 **0:00:00-0:00:18:**  Hello, and welcome back to our podcast, Tasting Terroir, where we are on a journey to explore  the link between healthy soil and the flavor of your food.  I'm your host, Sarah Harper.  

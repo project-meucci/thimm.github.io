@@ -1,9 +1,7 @@
-
-    ---
-    title: 04 Joe Baird, the view of an experienced impact investor on regenerative agriculture
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2016-12-20)  
+---
+title: 04 Joe Baird, the view of an experienced impact investor on regenerative agriculture
+---
+### Investing in Regenerative Agriculture and Food  (2016-12-20)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/2017/01/25/joe-baird/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

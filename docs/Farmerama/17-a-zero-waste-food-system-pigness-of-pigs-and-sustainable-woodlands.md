@@ -1,9 +1,7 @@
-
-    ---
-    title: 17: A zero-waste food system, pigness of pigs and sustainable woodlands
-    ---
-
-    ### Farmerama  (2017-03-11)  
+---
+title: 17: A zero-waste food system, pigness of pigs and sustainable woodlands
+---
+### Farmerama  (2017-03-11)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:02](https://soundcloud.com/farmerama-radio/17-farmerama#t=0:00:00):**  Hello and welcome to Farmerama!  This episode is slightly different to usual.  We're recording at Silo in Brighton, with today's co-host,  

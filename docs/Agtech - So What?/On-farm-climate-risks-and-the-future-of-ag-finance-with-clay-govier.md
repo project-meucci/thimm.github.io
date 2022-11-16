@@ -1,9 +1,7 @@
-
-    ---
-    title: On-Farm Climate Risks and the Future of Ag Finance with Clay Govier
-    ---
-
-    ### Agtech - So What?  (2022-10-12)  
+---
+title: On-Farm Climate Risks and the Future of Ag Finance with Clay Govier
+---
+### Agtech - So What?  (2022-10-12)  
 
 **[0:00:00-0:00:06](https://tenacious.ventures/podcast-episodes/on-farm-climate-risks-and-the-future-of-ag-finance-with-clay-govier#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by Tenacious Ventures.  I'm Sarah Nolette.  Just a reminder that even here on the bonus episodes, we'll be sharing our lessons and  
 **[0:00:12-0:00:16](https://tenacious.ventures/podcast-episodes/on-farm-climate-risks-and-the-future-of-ag-finance-with-clay-govier#t=0:00:12):**  stories as we wade through raising our second fund.  So hang tight through to the end of the show for some hot off the press fundraising learnings  from us.  

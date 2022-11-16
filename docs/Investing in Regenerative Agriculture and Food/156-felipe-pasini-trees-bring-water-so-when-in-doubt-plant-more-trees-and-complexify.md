@@ -1,9 +1,7 @@
-
-    ---
-    title: 156 Felipe Pasini – Trees bring water so when in doubt plant more trees and complexify
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-03-08)  
+---
+title: 156 Felipe Pasini – Trees bring water so when in doubt plant more trees and complexify
+---
+### Investing in Regenerative Agriculture and Food  (2022-03-08)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/felipe-pasini#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

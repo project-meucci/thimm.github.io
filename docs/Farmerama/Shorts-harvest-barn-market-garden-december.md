@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Harvest Barn Market Garden December
-    ---
-
-    ### Farmerama  (2019-01-03)  
+---
+title: Shorts: Harvest Barn Market Garden December
+---
+### Farmerama  (2019-01-03)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/shorts-harvest-barn-market-garden-december#t=0:00:00):**  Hello everybody, this is Joel doing another recording for the Farmerama podcast. I'm running  a market garden at the Harvest Barn Farm Shop just outside Peterborough. It's been just  over a year since I started growing at the market garden at Harvest Barn Farm Shop. It's  

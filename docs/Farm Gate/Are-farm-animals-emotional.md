@@ -1,9 +1,7 @@
-
-    ---
-    title: Are farm animals emotional?
-    ---
-
-    ### Farm Gate  (2021-09-21)  
+---
+title: Are farm animals emotional?
+---
+### Farm Gate  (2021-09-21)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Are-farm-animals-emotional-e17lb41#t=0:00:00):**  Hello, welcome to Farmgate. I'm Fenlow Kastain, the Chief Executive of Farmwell. Do farm animals  experience emotions? Or are the behaviours people perceive as emotions purely an instinctive  response? Animal welfare science is well advanced, based on the principle that all animals experience  

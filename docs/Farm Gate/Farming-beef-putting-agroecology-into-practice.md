@@ -1,9 +1,7 @@
-
-    ---
-    title: Farming Beef - Putting agroecology into practice
-    ---
-
-    ### Farm Gate  (2021-01-25)  
+---
+title: Farming Beef - Putting agroecology into practice
+---
+### Farm Gate  (2021-01-25)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:08](https://anchor.fm/farmgate/episodes/Farming-Beef---Putting-agroecology-into-practice-epev4d#t=0:00:00):**  Hello, welcome to Farmgate, I'm Finnlow Costayne.  This programme is the first in a series in which I'll be talking to farmers actually  delivering agroecological agriculture on their farms.  

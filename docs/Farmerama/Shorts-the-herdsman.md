@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: The Herdsman
-    ---
-
-    ### Farmerama  (2020-02-23)  
+---
+title: Shorts: The Herdsman
+---
+### Farmerama  (2020-02-23)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/shorts-the-herdsman#t=0:00:00):**  Here's storyteller Georgia Wingfield-Hayes sharing a piece called The Herdsman. It tells  the true story of Charles Ellett. He's now a happy herdsman at the ethical dairy, but  he previously worked at an intensive dairy farm with 1,500 cows, where his mental health  

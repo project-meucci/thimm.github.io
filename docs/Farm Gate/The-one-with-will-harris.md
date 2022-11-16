@@ -1,9 +1,7 @@
-
-    ---
-    title: The one with Will Harris
-    ---
-
-    ### Farm Gate  (2021-01-19)  
+---
+title: The one with Will Harris
+---
+### Farm Gate  (2021-01-19)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:12](https://anchor.fm/farmgate/episodes/The-one-with-Will-Harris-ep62ah#t=0:00:00):**  Hello, welcome to Farm Gate, I'm Finnlow Kestane. White Oak Pastures is a 152-year-old family  farm in Bluffton, Georgia, USA. Like most other farms, White Oak Pastures took the chemical,  industrialising route after the Second World War. For example, using nitrogen fertilisers  

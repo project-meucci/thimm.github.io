@@ -1,9 +1,7 @@
-
-    ---
-    title: 26: Fungi above & below ground, our microbiome, chicken homes & vines in the UK
-    ---
-
-    ### Farmerama  (2017-09-22)  
+---
+title: 26: Fungi above & below ground, our microbiome, chicken homes & vines in the UK
+---
+### Farmerama  (2017-09-22)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:02](https://soundcloud.com/farmerama-radio/farmerama-26#t=0:00:00):**  Hello and welcome to another episode of Farmerama.  Lots of fungi this month, for soil health and for eating,  and we explore the parallels between farmland and our own bodies.  

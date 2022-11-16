@@ -1,9 +1,7 @@
-
-    ---
-    title: 107 Brad Vanstone on why just being a vegan cheese company isn’t enough to have a big impact
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2021-03-09)  
+---
+title: 107 Brad Vanstone on why just being a vegan cheese company isn’t enough to have a big impact
+---
+### Investing in Regenerative Agriculture and Food  (2021-03-09)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/brad-vanstone#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investing in regenerativeagriculture.com or in the links below.  Now onto the podcast.  

@@ -1,9 +1,7 @@
-
-    ---
-    title: 73: Chilean natural cider, the Regen Platform and biodynamic whiskey
-    ---
-
-    ### Farmerama  (2022-03-27)  
+---
+title: 73: Chilean natural cider, the Regen Platform and biodynamic whiskey
+---
+### Farmerama  (2022-03-27)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:08](https://soundcloud.com/farmerama-radio/73-chilean-natural-cider-the-regen-platform-and-biodynamic-whiskey#t=0:00:00):**  Hello and welcome to Farmerama. We're very grateful to those of you that support us and  allow us to bring you these stories every month. Even the smallest contribution makes  a big difference to us. So if you'd like to become a supporter, please visit patreon.com  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Regen Rock Star
-    ---
-
-    ### Farm Gate  (2020-12-09)  
+---
+title: Regen Rock Star
+---
+### Farm Gate  (2020-12-09)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:11](https://anchor.fm/farmgate/episodes/Regen-Rock-Star-e9vqun#t=0:00:00):**  Hello. On the Farmgate podcast today, I'm talking to Leontino Balbo Jr. from Sao Paulo.  He is a rock star of regenerative farming, a phenomenally successful sugar producer,  an inventor and philosopher. His farm is highly productive, it yields 35% of the world's  

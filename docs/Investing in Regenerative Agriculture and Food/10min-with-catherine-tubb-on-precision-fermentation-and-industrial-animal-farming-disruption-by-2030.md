@@ -1,9 +1,7 @@
-
-    ---
-    title: 10min with Catherine Tubb on precision fermentation and industrial animal farming disruption by 2030
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-04-21)  
+---
+title: 10min with Catherine Tubb on precision fermentation and industrial animal farming disruption by 2030
+---
+### Investing in Regenerative Agriculture and Food  (2020-04-21)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:06](https://investinginregenerativeagriculture.com/2019/12/10/catherine-tubb/#t=0:00:00):**  You're listening to the summary of the interview. For a link to the full-length episode, please check the description below.  Disrupting the Cow. This interview is about how factory farms, agriculture and land prices will be disrupted by precision fermentation.  Welcome to another episode of Investing in Regenerative Agriculture – Investing as if the Planet Mattered.  

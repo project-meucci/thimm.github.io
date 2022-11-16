@@ -1,9 +1,7 @@
-
-    ---
-    title: Defining the Future of Ag Advocacy, with Emma Germano, Victorian Farmers Federation
-    ---
-
-    ### Agtech - So What?  (2022-08-10)  
+---
+title: Defining the Future of Ag Advocacy, with Emma Germano, Victorian Farmers Federation
+---
+### Agtech - So What?  (2022-08-10)  
 
 **[0:00:00-0:00:04](https://tenacious.ventures/podcast-episodes/the-future-of-ag-advocacy-with-emma-germano-victorian-farmers-federation#t=0:00:00):**  A quick note here, I've been on the road a bit, which has meant less than ideal recording conditions.  So at times in this episode, my audio is not great.  I'm sorry about that, and I do have a solution, so it won't happen again.  
 **[0:00:11-0:00:14](https://tenacious.ventures/podcast-episodes/the-future-of-ag-advocacy-with-emma-germano-victorian-farmers-federation#t=0:00:11):**  But in the meantime, thanks for your patience.  Okay, back to the show.  Hello, and welcome to Ag Tech So What. I'm Sarah Nolette.  

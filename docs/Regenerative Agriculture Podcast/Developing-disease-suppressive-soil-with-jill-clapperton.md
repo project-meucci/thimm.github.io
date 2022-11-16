@@ -1,9 +1,7 @@
-
-    ---
-    title: Developing Disease Suppressive Soil with Jill Clapperton
-    ---
-
-    ### Regenerative Agriculture Podcast  (2020-03-31)  
+---
+title: Developing Disease Suppressive Soil with Jill Clapperton
+---
+### Regenerative Agriculture Podcast  (2020-03-31)  
 ### Author(s): John Kempf  
 
 **[0:00:00-0:00:04](https://podcast.vhostevents.com/uncategorized/developing-disease-suppressive-soil-with-jill-clapperton/#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast. Today I'm  delighted to have with me Jill Clapperton who I'm certain many of you have heard of and if you have  not then you're really missing out and you're going to enjoy this conversation. Jill has done  

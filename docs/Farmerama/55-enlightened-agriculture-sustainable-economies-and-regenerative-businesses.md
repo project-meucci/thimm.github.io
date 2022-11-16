@@ -1,9 +1,7 @@
-
-    ---
-    title: 55: Enlightened agriculture, sustainable economies, and regenerative businesses
-    ---
-
-    ### Farmerama  (2020-04-26)  
+---
+title: 55: Enlightened agriculture, sustainable economies, and regenerative businesses
+---
+### Farmerama  (2020-04-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:07](https://soundcloud.com/farmerama-radio/55-enlightened-agriculture-sustainable-economies-and-regenerative-businesses#t=0:00:00):**  Welcome to Farmer Armour. As we hit the hungry gap, we know many of the farmers and growers  out there are under more pressure than ever to provide food for your local communities  and to rapidly find new markets for your produce, all whilst being concerned with the health  

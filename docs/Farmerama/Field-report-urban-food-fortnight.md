@@ -1,9 +1,7 @@
-
-    ---
-    title: Field Report: Urban Food Fortnight
-    ---
-
-    ### Farmerama  (2017-03-11)  
+---
+title: Field Report: Urban Food Fortnight
+---
+### Farmerama  (2017-03-11)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:06](https://soundcloud.com/farmerama-radio/farmerama-field-report-urban-food-fortnight#t=0:00:00):**  Hello and welcome to a special field report from Farmerama. From the 9th to the 25th of  September, Urban Food Fortnight Fund descends on London. Here's Clara Gilbert from London  Food Link to tell us what this special edition is all about.  

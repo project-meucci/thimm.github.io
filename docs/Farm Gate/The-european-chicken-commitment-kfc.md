@@ -1,9 +1,7 @@
-
-    ---
-    title: The European Chicken Commitment & KFC
-    ---
-
-    ### Farm Gate  (2020-02-23)  
+---
+title: The European Chicken Commitment & KFC
+---
+### Farm Gate  (2020-02-23)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:08](https://anchor.fm/farmgate/episodes/The-European-Chicken-Commitment--KFC-eb1216#t=0:00:00):**  Welcome to Farmgate, I'm Finnlow Costayne.  The European Chicken Commitment aims to lift standards of broiler welfare.  Signatories to the commitment must make the shift from standard intensive indoor production  

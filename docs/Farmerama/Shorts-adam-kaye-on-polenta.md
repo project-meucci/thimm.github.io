@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Adam Kaye on Polenta
-    ---
-
-    ### Farmerama  (2017-09-05)  
+---
+title: Shorts: Adam Kaye on Polenta
+---
+### Farmerama  (2017-09-05)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:13](https://soundcloud.com/farmerama-radio/short-adam-kaye-on-polenta#t=0:00:00):**  Cooking with whole grains and grinding our own grains, we just bought our first little  grain mill and Dan gave me a bag of dried corn and it was Otofile, agroflint corn, that  Glenn from Anson Mills had sent some seed up to Jack and Jack had grown the stuff out  

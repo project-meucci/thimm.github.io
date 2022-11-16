@@ -1,9 +1,7 @@
-
-    ---
-    title: Regeneration Newsroom Podcast March 2019 ft Ethan Soloviev
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-03-25)  
+---
+title: Regeneration Newsroom Podcast March 2019 ft Ethan Soloviev
+---
+### Investing in Regenerative Agriculture and Food  (2019-03-25)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/2019/03/24/regeneration-newsroom-podcast-ft-ethan-soloviev-march-2019/#t=0:00:00):**  Welcome to the Regeneration Newsroom podcast of March 2019. This is a joint venture between  the Investing in Regenerative Agriculture podcast and Ethan Soloviev's Regeneration Newsroom,  where we, Ethan Soloviev and myself, Kungfansagen, go through the most interesting  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Nicolas Verschuere, Soil Capital, Regen Ag profitable from year 1 - Groundswell Shorts
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2019-07-03)  
+---
+title: Nicolas Verschuere, Soil Capital, Regen Ag profitable from year 1 - Groundswell Shorts
+---
+### Investing in Regenerative Agriculture and Food  (2019-07-03)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:07](https://investinginregenerativeagriculture.com/2019/07/03/nicolas-verschuere-short/#t=0:00:00):**  Welcome to the groundswell shorts. I'm here at groundswell in the UK and I'm here with Nicolas Verschure, COO and co-founder of Soil Capital.  We've interviewed Chuck before and I will definitely link that in the show notes below.  He just gave a talk about the profitability of regenerative farming and especially the profitability starting in year one, which is something we don't hear too much about.  

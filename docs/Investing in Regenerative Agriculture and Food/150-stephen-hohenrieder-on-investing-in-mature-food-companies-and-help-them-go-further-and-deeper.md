@@ -1,9 +1,7 @@
-
-    ---
-    title: 150 Stephen Hohenrieder on investing in mature food companies and help them go further and deeper
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-02-01)  
+---
+title: 150 Stephen Hohenrieder on investing in mature food companies and help them go further and deeper
+---
+### Investing in Regenerative Agriculture and Food  (2022-02-01)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/stephen-hohenrieder#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com or in the links below.  Now onto the podcast.  

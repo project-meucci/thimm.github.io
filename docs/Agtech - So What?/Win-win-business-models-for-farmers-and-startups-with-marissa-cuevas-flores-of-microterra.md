@@ -1,9 +1,7 @@
-
-    ---
-    title: Win-Win Business Models for Farmers and Startups with Marissa Cuevas Flores of MicroTERRA
-    ---
-
-    ### Agtech - So What?  (2022-02-09)  
+---
+title: Win-Win Business Models for Farmers and Startups with Marissa Cuevas Flores of MicroTERRA
+---
+### Agtech - So What?  (2022-02-09)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/2/28/marissa-cuevas-flores-microterra-startup-mexico#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the AgTenta Group.  I'm Sarah Nolet.  A lot of people are drawn to AgTech because they want to change the world.  
 **[0:00:12-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/2/28/marissa-cuevas-flores-microterra-startup-mexico#t=0:00:12):**  And with the challenges that Ag is facing globally, from food security and nutrition  to environmental impact and economic development, it just feels like there's got to be a way  for anyone to contribute, whatever their skills or background might be.  

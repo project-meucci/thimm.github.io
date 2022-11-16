@@ -1,9 +1,7 @@
-
-    ---
-    title: 191 Josh Heyneke - Small scale farmers going potentially bankrupt with regen duck eggs and fertiliser
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2022-11-01)  
+---
+title: 191 Josh Heyneke - Small scale farmers going potentially bankrupt with regen duck eggs and fertiliser
+---
+### Investing in Regenerative Agriculture and Food  (2022-11-01)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:05](https://investinginregenerativeagriculture.com/josh-heyneke#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  

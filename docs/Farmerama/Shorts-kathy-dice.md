@@ -1,9 +1,7 @@
-
-    ---
-    title: Shorts: Kathy Dice
-    ---
-
-    ### Farmerama  (2019-01-30)  
+---
+title: Shorts: Kathy Dice
+---
+### Farmerama  (2019-01-30)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:09](https://soundcloud.com/farmerama-radio/shorts-cathy-dice#t=0:00:00):**  Late last year, I attended the perennial gathering put on by the Savannah Institute in Wisconsin.  The Savannah Institute are laying the groundwork for widespread agroforestry in the Midwest.  Over 100 farmers and researchers gathered to share learnings from different agroforestry  

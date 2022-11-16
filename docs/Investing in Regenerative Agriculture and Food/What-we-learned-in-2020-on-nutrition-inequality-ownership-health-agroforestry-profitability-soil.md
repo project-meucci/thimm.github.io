@@ -1,9 +1,7 @@
-
-    ---
-    title: What we learned in 2020 on nutrition, inequality, ownership, health, agroforestry, profitability, soil
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2020-12-28)  
+---
+title: What we learned in 2020 on nutrition, inequality, ownership, health, agroforestry, profitability, soil
+---
+### Investing in Regenerative Agriculture and Food  (2020-12-28)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:03](https://investinginregenerativeagriculture.com/what-we-learned-in-2020#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative  food and agriculture, follow our video course via investing in regenerative  agriculture.com slash course, or in the links below now onto the podcast.  

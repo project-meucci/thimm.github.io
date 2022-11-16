@@ -1,9 +1,7 @@
-
-    ---
-    title: Cultivating Justice: Episode 1
-    ---
-
-    ### Farmerama  (2022-06-26)  
+---
+title: Cultivating Justice: Episode 1
+---
+### Farmerama  (2022-06-26)  
 ### Author(s): Farmerama  
 
 **[0:00:00-0:00:14](https://soundcloud.com/farmerama-radio/cultivating-justice-episode-1#t=0:00:00):**  So when I think about how growing and connecting to nature along work has given me the space  to heal, it's allowed me the space to recognise, it's allowed me the space to connect with  the inner child, it's allowed me the space to connect with the things that I didn't,  

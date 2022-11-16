@@ -1,9 +1,7 @@
-
-    ---
-    title: Diversity in agriculture & animal sciences
-    ---
-
-    ### Farm Gate  (2021-03-22)  
+---
+title: Diversity in agriculture & animal sciences
+---
+### Farm Gate  (2021-03-22)  
 ### Author(s): ffinlo Costain  
 
 **[0:00:00-0:00:10](https://anchor.fm/farmgate/episodes/Diversity-in-agriculture--animal-sciences-et806l#t=0:00:00):**  Hello, welcome to Farmgate, I'm Flynnlow Costayne. In this programme we're discussing  racism, how to improve diversity in British agriculture and animal sciences, and how we  might successfully encourage more of our black, Asian and minority ethnic population to enjoy  

@@ -1,9 +1,7 @@
-
-    ---
-    title: Making Decisions in the Face of Uncertainty, with Hallie Shoffner
-    ---
-
-    ### Agtech - So What?  (2022-05-18)  
+---
+title: Making Decisions in the Face of Uncertainty, with Hallie Shoffner
+---
+### Agtech - So What?  (2022-05-18)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/05/17/hallie-shoffner-farmer-agtech-early-adopter#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  Making investments in agriculture is hard.  
 **[0:00:10-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/05/17/hallie-shoffner-farmer-agtech-early-adopter#t=0:00:10):**  And I'd argue that however challenging it is for people like us to theorize about the  future of ag tech, it's actually even harder for farmers to make investments in technology  or anything else, especially as climate change makes the future of their businesses less  

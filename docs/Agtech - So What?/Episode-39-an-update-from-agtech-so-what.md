@@ -1,9 +1,7 @@
-
-    ---
-    title: Episode 39: An Update from AgTech - So What
-    ---
-
-    ### Agtech - So What?  (2019-04-08)  
+---
+title: Episode 39: An Update from AgTech - So What
+---
+### Agtech - So What?  (2019-04-08)  
 
 **[0:00:00-0:00:07](https://player.whooshkaa.com/episode?id=357501#t=0:00:00):**  Hello and welcome back to Ag Tech So What. My name is Sarah Nolette, your host and the  founder of AgTentic, a boutique strategy advisory firm working to help bring more practical,  useful technologies and new business models to agriculture. This episode is a bit different  
 **[0:00:17-0:00:20](https://player.whooshkaa.com/episode?id=357501#t=0:00:17):**  and I promise I'll keep it short. We don't have a guest today, just some reflections  from me and an update on where Ag Tech So What is headed over the coming episodes. Over  the past about 10 episodes and what we called season two, we featured more guests on the  

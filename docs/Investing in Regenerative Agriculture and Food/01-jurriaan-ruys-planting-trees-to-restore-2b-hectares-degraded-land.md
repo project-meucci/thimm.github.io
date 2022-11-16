@@ -1,9 +1,7 @@
-
-    ---
-    title: 01 Jurriaan Ruys, planting trees to restore 2b hectares degraded land
-    ---
-
-    ### Investing in Regenerative Agriculture and Food  (2016-12-20)  
+---
+title: 01 Jurriaan Ruys, planting trees to restore 2b hectares degraded land
+---
+### Investing in Regenerative Agriculture and Food  (2016-12-20)  
 ### Author(s): Koen van Seijen  
 
 **[0:00:00-0:00:04](https://investinginregenerativeagriculture.com/2016/12/21/jurriaan-ruys/#t=0:00:00):**  Do you want to learn more on how to put money to work in regenerative food and agriculture?  Follow our video course via investinginregenerativeagriculture.com slash course or in the links below.  Now onto the podcast.  
