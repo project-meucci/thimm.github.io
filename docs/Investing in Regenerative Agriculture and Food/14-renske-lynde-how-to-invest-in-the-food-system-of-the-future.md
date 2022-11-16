@@ -1,6 +1,7 @@
 ---
 title: 14 Renske Lynde, how to invest in the food system of the future?
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-06-22)  
 ### Author(s): Koen van Seijen  
 

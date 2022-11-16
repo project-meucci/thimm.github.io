@@ -1,6 +1,7 @@
 ---
 title: 49: The Sustainable Cooperative, wilding, beneficial insects and connecting faith with farming
 ---
+
 ### Farmerama  (2019-08-25)  
 ### Author(s): Farmerama  
 

@@ -1,6 +1,7 @@
 ---
 title: 10 min with Aymeric Jung and Josep Segarra, from Lehman Brothers to rebuilding the food system
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-09-24)  
 ### Author(s): Koen van Seijen  
 

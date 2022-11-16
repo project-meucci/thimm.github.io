@@ -1,6 +1,7 @@
 ---
 title: What Commodity Agriculture Can Learn from Organic Farming, with Amy Bruch, Cyclone Farms
 ---
+
 ### Agtech - So What?  (2022-08-24)  
 
 **[0:00:00-0:00:06](https://tenacious.ventures/podcast-episodes/amy-bruch-organic-farming-technology-commodities#t=0:00:00):**  Hello, and welcome to Ag Tech So What. I'm Sarah Nolet. An update for you here at the  top of the show. The Agfentik Group has been acquired. Well, sort of. We're still the same  team on the same mission, to partner with Ag Tech operators who are unlocking world  

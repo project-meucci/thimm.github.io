@@ -1,6 +1,7 @@
 ---
 title: Systems Thinking and the Legacy of Big Food, with Dr Nigel Hughes, Kellogg
 ---
+
 ### Agtech - So What?  (2022-09-21)  
 
 **[0:00:00-0:00:06](https://tenacious.ventures/podcast-episodes/systems-thinking-and-the-legacy-of-big-food-with-dr-nigel-hughes-kellogg#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by Tenacious Ventures.  I'm Sarah Nolet.  Before we get to our show today, I have a quick but very exciting announcement.  

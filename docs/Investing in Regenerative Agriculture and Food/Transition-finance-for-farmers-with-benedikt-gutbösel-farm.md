@@ -1,6 +1,7 @@
 ---
 title: Transition Finance for Farmers with Benedikt - Gut&Bösel farm
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-12-20)  
 ### Author(s): Koen van Seijen  
 

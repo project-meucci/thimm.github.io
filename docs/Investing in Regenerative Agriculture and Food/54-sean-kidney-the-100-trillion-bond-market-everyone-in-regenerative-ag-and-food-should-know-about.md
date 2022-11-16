@@ -1,6 +1,7 @@
 ---
 title: 54 Sean Kidney, the $100 trillion bond market everyone in regenerative ag and food should know about
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-07-09)  
 ### Author(s): Koen van Seijen  
 

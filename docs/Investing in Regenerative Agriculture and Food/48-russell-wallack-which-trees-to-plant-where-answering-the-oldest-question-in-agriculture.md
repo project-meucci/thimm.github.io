@@ -1,6 +1,7 @@
 ---
 title: 48 Russell Wallack, which trees to plant where? Answering the oldest question in agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-04-16)  
 ### Author(s): Koen van Seijen  
 

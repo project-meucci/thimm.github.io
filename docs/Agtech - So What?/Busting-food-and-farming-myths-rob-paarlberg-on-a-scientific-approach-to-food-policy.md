@@ -1,6 +1,7 @@
 ---
 title: Busting food and farming myths - Rob Paarlberg on a scientific approach to food policy
 ---
+
 ### Agtech - So What?  (2021-02-10)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/2/10/busting-food-and-farming-myths-with-evidence#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm your host, Sarah Nolet.  If you've ever struggled to get the facts straight around some of the controversial  

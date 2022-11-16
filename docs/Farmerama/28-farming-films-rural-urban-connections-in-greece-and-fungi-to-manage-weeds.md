@@ -1,6 +1,7 @@
 ---
 title: 28: Farming films, rural-urban connections in Greece and fungi to manage weeds
 ---
+
 ### Farmerama  (2017-11-26)  
 ### Author(s): Farmerama  
 

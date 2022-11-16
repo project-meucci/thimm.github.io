@@ -1,6 +1,7 @@
 ---
 title: Resilient Agriculture Models for The Future with Joel Salatin
 ---
+
 ### Regenerative Agriculture Podcast  (2020-05-26)  
 ### Author(s): John Kempf  
 

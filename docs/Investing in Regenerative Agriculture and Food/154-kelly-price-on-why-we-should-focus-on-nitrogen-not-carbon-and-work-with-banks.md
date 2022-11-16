@@ -1,6 +1,7 @@
 ---
 title: 154 Kelly Price on why we should focus on nitrogen not carbon and work with banks
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-03-01)  
 ### Author(s): Koen van Seijen  
 

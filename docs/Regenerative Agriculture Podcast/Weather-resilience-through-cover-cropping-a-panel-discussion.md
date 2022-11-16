@@ -1,6 +1,7 @@
 ---
 title: Weather Resilience Through Cover Cropping - A Panel Discussion
 ---
+
 ### Regenerative Agriculture Podcast  (2019-07-17)  
 ### Author(s): John Kempf  
 

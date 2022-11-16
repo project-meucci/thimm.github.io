@@ -1,6 +1,7 @@
 ---
 title: 109 Thekla Teunis and Gijs Boers, the good the bad and the ugly of regenerative agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-03-23)  
 ### Author(s): Koen van Seijen  
 

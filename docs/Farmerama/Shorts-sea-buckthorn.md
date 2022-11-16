@@ -1,6 +1,7 @@
 ---
 title: Shorts: Sea Buckthorn
 ---
+
 ### Farmerama  (2017-07-04)  
 ### Author(s): Farmerama  
 

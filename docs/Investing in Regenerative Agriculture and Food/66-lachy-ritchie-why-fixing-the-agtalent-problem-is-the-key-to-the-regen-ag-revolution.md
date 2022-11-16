@@ -1,6 +1,7 @@
 ---
 title: 66 Lachy Ritchie, why fixing the agtalent problem is the key to the regen ag revolution
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-12-23)  
 ### Author(s): Koen van Seijen  
 

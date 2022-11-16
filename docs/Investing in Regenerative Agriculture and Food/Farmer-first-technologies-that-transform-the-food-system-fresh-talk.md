@@ -1,6 +1,7 @@
 ---
 title: Farmer first technologies that transform the food system - Fresh Talk
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-08-17)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 136 Tobias Joos on how to sell the full rotation of diversified regenerative farms to 10000 customers
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-10-19)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Vegetative and Reproductive Nutrients with John Kempf
 ---
+
 ### Regenerative Agriculture Podcast  (2018-07-10)  
 ### Author(s): John Kempf  
 

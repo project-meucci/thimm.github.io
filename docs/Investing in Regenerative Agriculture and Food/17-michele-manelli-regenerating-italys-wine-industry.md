@@ -1,6 +1,7 @@
 ---
 title: 17 Michele Manelli, regenerating Italy's wine industry
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-09-01)  
 ### Author(s): Koen van Seijen  
 

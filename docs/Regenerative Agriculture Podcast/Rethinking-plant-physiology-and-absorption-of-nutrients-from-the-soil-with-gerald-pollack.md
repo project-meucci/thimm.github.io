@@ -1,6 +1,7 @@
 ---
 title: Rethinking Plant Physiology and Absorption of Nutrients from the Soil with Gerald  Pollack
 ---
+
 ### Regenerative Agriculture Podcast  (2018-06-29)  
 ### Author(s): John Kempf  
 

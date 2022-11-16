@@ -1,6 +1,7 @@
 ---
 title: 50: Regenerative agriculture and climate change, Seaweed entrepreneurship and noticing nature
 ---
+
 ### Farmerama  (2019-09-29)  
 ### Author(s): Farmerama  
 

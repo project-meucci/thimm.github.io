@@ -1,6 +1,7 @@
 ---
 title: 12 Judith D Schwartz, what is possible with soil?
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-05-29)  
 ### Author(s): Koen van Seijen  
 

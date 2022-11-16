@@ -1,6 +1,7 @@
 ---
 title: Bonus Ep: The State of Fundraising in Agtech
 ---
+
 ### Agtech - So What?  (2022-03-30)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/3/31/agtech-fundraising-vc-investing#t=0:00:00):**  Hello, and welcome to a very special bonus episode of AgTech So What.  I'm Sarah Nalet, your host, but today I'm also going to be wearing another hat.  As most listeners probably already know, in addition to hosting this lovely podcast, I'm  

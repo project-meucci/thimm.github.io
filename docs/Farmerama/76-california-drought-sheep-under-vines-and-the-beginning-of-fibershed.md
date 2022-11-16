@@ -1,6 +1,7 @@
 ---
 title: 76: California drought, Sheep under vines and the beginning of Fibershed
 ---
+
 ### Farmerama  (2022-10-30)  
 ### Author(s): Farmerama  
 

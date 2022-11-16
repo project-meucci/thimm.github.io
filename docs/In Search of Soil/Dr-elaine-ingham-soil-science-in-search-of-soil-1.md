@@ -1,6 +1,7 @@
 ---
 title: Dr. Elaine Ingham - Soil Science | In Search of Soil #1
 ---
+
 ### In Search of Soil  (2020-10-14)  
 
 **[0:00:00-0:00:20](https://insearchofsoil.libsyn.com/full-episode#t=0:00:00):**  So, we meet again.  Today's episode of In Search of Soil takes us to the rhizosphere.  The area of soil where plants and roots come together to interact.  

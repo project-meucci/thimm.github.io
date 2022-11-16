@@ -1,6 +1,7 @@
 ---
 title: 58 Bert Glover, investing in agtech to build soil at scale
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-09-03)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Farmers and Startups: Lessons and Tips for Collaborating
 ---
+
 ### Agtech - So What?  (2021-10-06)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/10/5/farmers-and-startups-tips-for-collaboration#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agtenti Group.  I'm Sarah Nolet.  For the global ag tech ecosystem to grow and solve real problems for farmers and our food  

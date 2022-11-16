@@ -1,6 +1,7 @@
 ---
 title: Randy Ritchie - Compost | In Search of Soil #10
 ---
+
 ### In Search of Soil  (2020-12-16)  
 
 **[0:00:00-0:00:21](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-10-RandyRitchie-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Compost  It's something that we all use and we love.  

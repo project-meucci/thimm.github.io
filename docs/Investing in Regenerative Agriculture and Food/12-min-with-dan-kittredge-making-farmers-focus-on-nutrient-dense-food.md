@@ -1,6 +1,7 @@
 ---
 title: 12 min with Dan Kittredge, making farmers focus on nutrient dense food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-07-02)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Arable farming - Putting agroecology into practice
 ---
+
 ### Farm Gate  (2021-02-23)  
 ### Author(s): ffinlo Costain  
 

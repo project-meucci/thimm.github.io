@@ -1,6 +1,7 @@
 ---
 title: Updating Soil Analysis to Consider Microbial Influence with Rick Haney
 ---
+
 ### Regenerative Agriculture Podcast  (2020-10-06)  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/S3EP18_RICK_HANEY_AUDIO_FINAL.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast where we talk about the  agronomic science and cultural management practices that regenerate plant health, soil  health, and ultimately public health.  

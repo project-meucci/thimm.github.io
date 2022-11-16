@@ -1,6 +1,7 @@
 ---
 title: Transition Finance for Farmers with Benedikt - Benedikt's story
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-12-18)  
 ### Author(s): Koen van Seijen  
 

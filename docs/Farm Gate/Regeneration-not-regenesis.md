@@ -1,6 +1,7 @@
 ---
 title: Regeneration, not Regenesis
 ---
+
 ### Farm Gate  (2022-09-15)  
 ### Author(s): ffinlo Costain  
 

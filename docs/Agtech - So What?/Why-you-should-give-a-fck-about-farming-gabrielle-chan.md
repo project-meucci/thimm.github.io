@@ -1,6 +1,7 @@
 ---
 title: Why You Should Give a F*ck About Farming - Gabrielle Chan
 ---
+
 ### Agtech - So What?  (2021-10-20)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/10/19/why-you-should-give-a-fck-about-farming#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  There's nothing like starting off a conversation with a provocative statement, which is exactly  

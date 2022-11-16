@@ -1,6 +1,7 @@
 ---
 title: 103 Dan Kittredge, our biggest lever against climate change is paying for food quality
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-02-02)  
 ### Author(s): Koen van Seijen  
 

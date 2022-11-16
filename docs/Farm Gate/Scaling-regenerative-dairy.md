@@ -1,6 +1,7 @@
 ---
 title: Scaling regenerative dairy
 ---
+
 ### Farm Gate  (2022-08-04)  
 ### Author(s): ffinlo Costain  
 

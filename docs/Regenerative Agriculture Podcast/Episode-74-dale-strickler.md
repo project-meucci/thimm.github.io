@@ -1,6 +1,7 @@
 ---
 title: Episode #74: Dale Strickler
 ---
+
 ### Regenerative Agriculture Podcast  (2021-07-23)  
 ### Author(s): John Kempf  
 

@@ -1,6 +1,7 @@
 ---
 title: 70 Mark Frederiks, how to radically change the food system through local supply chains
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-01-21)  
 ### Author(s): Koen van Seijen  
 

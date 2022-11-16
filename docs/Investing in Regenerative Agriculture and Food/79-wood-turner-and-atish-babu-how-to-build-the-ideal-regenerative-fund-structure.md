@@ -1,6 +1,7 @@
 ---
 title: 79 Wood Turner and Atish Babu, how to build the ideal regenerative fund structure
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-05-19)  
 ### Author(s): Koen van Seijen  
 

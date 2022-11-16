@@ -1,6 +1,7 @@
 ---
 title: The promises and pitfalls of making livestock sustainable
 ---
+
 ### Agtech - So What?  (2021-03-10)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/3/10/making-livestock-sustainable#t=0:00:00):**  Hello and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  We often hear that there's a simple way to solve agriculture's contribution to climate  

@@ -1,6 +1,7 @@
 ---
 title: 60 Geert van der Veer, how Herenboeren is scaling community owned farms in Europe
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-10-01)  
 ### Author(s): Koen van Seijen  
 

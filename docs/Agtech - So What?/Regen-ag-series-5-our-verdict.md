@@ -1,6 +1,7 @@
 ---
 title: Regen Ag Series #5: Our Verdict
 ---
+
 ### Agtech - So What?  (2020-09-23)  
 
 **[0:00:00-0:00:01](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/9/23/regen-ag-series-5-our-verdict#t=0:00:00):**  Hey, Kristen.  Hey, Sarah.  How are you going?  

@@ -1,6 +1,7 @@
 ---
 title: 86 Paula Costa and Valter Ziantoni, scaling agroforestry by complexifying growing systems using software
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-07-21)  
 ### Author(s): Koen van Seijen  
 

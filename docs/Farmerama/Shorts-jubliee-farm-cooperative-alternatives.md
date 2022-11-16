@@ -1,6 +1,7 @@
 ---
 title: Shorts: Jubliee Farm Cooperative Alternatives
 ---
+
 ### Farmerama  (2018-12-09)  
 ### Author(s): Farmerama  
 

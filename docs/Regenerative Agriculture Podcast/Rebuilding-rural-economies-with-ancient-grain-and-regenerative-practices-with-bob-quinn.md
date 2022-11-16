@@ -1,6 +1,7 @@
 ---
 title: Rebuilding Rural Economies with Ancient Grain and Regenerative Practices with Bob Quinn
 ---
+
 ### Regenerative Agriculture Podcast  (2020-09-15)  
 ### Author(s): John Kempf  
 

@@ -1,6 +1,7 @@
 ---
 title: A small farm future
 ---
+
 ### Farm Gate  (2022-07-21)  
 ### Author(s): ffinlo Costain  
 

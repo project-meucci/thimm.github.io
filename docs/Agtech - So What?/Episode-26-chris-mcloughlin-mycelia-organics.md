@@ -1,6 +1,7 @@
 ---
 title: Episode 26: Chris McLoughlin - Mycelia Organics
 ---
+
 ### Agtech - So What?  (2018-12-04)  
 
 **[0:00:00-0:00:25](https://player.whooshkaa.com/episode?id=357334#t=0:00:00):**  Hello, and welcome to the AgTech So What podcast. Emerging technologies are rapidly changing  the global agricultural industry. We believe that this revolution is only getting started.  But there's still too much hype out there and too big of a disconnect between Ag and  

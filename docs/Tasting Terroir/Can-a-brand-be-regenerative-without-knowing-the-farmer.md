@@ -1,6 +1,7 @@
 ---
 title: Can A Brand Be Regenerative Without Knowing the Farmer?
 ---
+
 ### Tasting Terroir  (2022-10-14)  
 ### Author(s): Sara H Harper  
 

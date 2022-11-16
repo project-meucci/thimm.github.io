@@ -1,6 +1,7 @@
 ---
 title: Practice of Biological Farming with Gary Zimmer
 ---
+
 ### Regenerative Agriculture Podcast  (2018-11-26)  
 ### Author(s): John Kempf  
 

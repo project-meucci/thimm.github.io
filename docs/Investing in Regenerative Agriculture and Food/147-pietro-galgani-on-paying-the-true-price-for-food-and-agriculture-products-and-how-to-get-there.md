@@ -1,6 +1,7 @@
 ---
 title: 147 Pietro Galgani on paying the true price for food and agriculture products and how to get there
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-01-11)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Intercropping and Regenerative Soil Management with Derek Axten
 ---
+
 ### Regenerative Agriculture Podcast  (2019-12-16)  
 ### Author(s): John Kempf  
 

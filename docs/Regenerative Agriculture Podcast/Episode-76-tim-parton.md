@@ -1,6 +1,7 @@
 ---
 title: Episode #76: Tim Parton
 ---
+
 ### Regenerative Agriculture Podcast  (2021-09-30)  
 ### Author(s): John Kempf  
 

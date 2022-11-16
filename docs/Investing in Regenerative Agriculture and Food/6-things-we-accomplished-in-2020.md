@@ -1,6 +1,7 @@
 ---
 title: 6 things we accomplished in 2020
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-12-30)  
 ### Author(s): Koen van Seijen  
 

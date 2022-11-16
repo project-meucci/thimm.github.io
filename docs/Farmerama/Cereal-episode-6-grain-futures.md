@@ -1,6 +1,7 @@
 ---
 title: ‘Cereal’ Episode 6: Grain futures
 ---
+
 ### Farmerama  (2019-12-29)  
 ### Author(s): Farmerama  
 

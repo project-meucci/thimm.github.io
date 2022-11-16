@@ -1,6 +1,7 @@
 ---
 title: Traits of Exceptional Farm Managers
 ---
+
 ### Regenerative Agriculture Podcast  (2018-10-25)  
 ### Author(s): John Kempf  
 

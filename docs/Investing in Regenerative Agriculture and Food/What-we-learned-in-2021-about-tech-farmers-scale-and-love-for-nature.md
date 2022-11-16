@@ -1,6 +1,7 @@
 ---
 title: What we learned in 2021 about tech, farmers, scale and love for nature
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-12-28)  
 ### Author(s): Koen van Seijen  
 

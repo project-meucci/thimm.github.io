@@ -1,6 +1,7 @@
 ---
 title: 192 Zuzanna Zielińska - Women's hormonal health starts with regenerative agriculture and the focus on quality and nutrient density food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-11-08)  
 ### Author(s): Koen van Seijen  
 

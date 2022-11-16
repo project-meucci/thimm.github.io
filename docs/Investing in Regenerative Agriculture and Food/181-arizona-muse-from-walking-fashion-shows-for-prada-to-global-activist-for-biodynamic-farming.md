@@ -1,6 +1,7 @@
 ---
 title: 181 Arizona Muse from walking fashion shows for Prada to global activist for biodynamic farming
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-08-09)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Peter McCoy - Mycology |In Search of Soil #7
 ---
+
 ### In Search of Soil  (2020-11-25)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-07-PeterMcCoy-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Is this our world?  Or are we just living inside of their world?  

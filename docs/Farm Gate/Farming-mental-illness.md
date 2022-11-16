@@ -1,6 +1,7 @@
 ---
 title: Farming & mental illness
 ---
+
 ### Farm Gate  (2020-02-01)  
 ### Author(s): ffinlo Costain  
 

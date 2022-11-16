@@ -1,6 +1,7 @@
 ---
 title: Episode 6: Roger Wright
 ---
+
 ### The Natural Lifestylist Podcast  (2019-09-25)  
 ### Author(s): Tony Riddle  
 

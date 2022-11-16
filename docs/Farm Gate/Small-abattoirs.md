@@ -1,6 +1,7 @@
 ---
 title: Small abattoirs
 ---
+
 ### Farm Gate  (2022-09-30)  
 ### Author(s): ffinlo Costain  
 

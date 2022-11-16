@@ -1,6 +1,7 @@
 ---
 title: "Not a cheerleader, not the enemy",  journalist Sarah Mock on making windows in the walls around agriculture
 ---
+
 ### Agtech - So What?  (2020-10-07)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/not-a-cheerleader-not-the-enemy-sarah-mock#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast, brought to you by Agthentic. I'm  Sarah Nolet. On this episode, we meet a woman who is not afraid to shine a light on some  controversial topics in agriculture, even when she offends people along the way. Sarah  

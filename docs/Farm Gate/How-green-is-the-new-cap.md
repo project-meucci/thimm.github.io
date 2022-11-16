@@ -1,6 +1,7 @@
 ---
 title: How green is the new CAP?
 ---
+
 ### Farm Gate  (2020-11-17)  
 ### Author(s): ffinlo Costain  
 

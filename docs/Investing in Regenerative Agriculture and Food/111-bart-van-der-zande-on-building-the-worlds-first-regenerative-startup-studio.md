@@ -1,6 +1,7 @@
 ---
 title: 111 Bart van der Zande on building the world's first regenerative startup studio
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-04-06)  
 ### Author(s): Koen van Seijen  
 

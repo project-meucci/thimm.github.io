@@ -1,6 +1,7 @@
 ---
 title: From the Vault: Mark Wootton on Carbon-Neutral Farming at Jigsaw Farms
 ---
+
 ### Agtech - So What?  (2022-06-01)  
 
 **[0:00:00-0:00:04](https://www.agtechsowhat.com/agtechsowhatepisodes/6/2/mark-wootton-on-carbon-neutral-farming-sustainable-livestock#t=0:00:00):**  Hello, and welcome to Ag Tech So What.  I'm Sarah Nolette with a bit of a cold.  It's been a busy time for us here at Tenacious.  

@@ -1,6 +1,7 @@
 ---
 title: 140 Satish Kumar – Be humble, you can’t outsmart nature
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-11-16)  
 ### Author(s): Koen van Seijen  
 

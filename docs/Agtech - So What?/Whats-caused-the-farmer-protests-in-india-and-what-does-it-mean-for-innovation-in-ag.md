@@ -1,6 +1,7 @@
 ---
 title: What's caused the farmer protests in India and what does it mean for innovation in Ag?
 ---
+
 ### Agtech - So What?  (2021-06-16)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/6/16/whats-caused-the-farmer-protests-in-india-and-what-does-it-mean-for-innovation-in-ag#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  Before we get started, I have a favorite ask.  

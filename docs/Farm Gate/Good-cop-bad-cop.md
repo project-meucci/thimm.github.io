@@ -1,6 +1,7 @@
 ---
 title: Good COP, Bad COP?
 ---
+
 ### Farm Gate  (2021-12-06)  
 ### Author(s): ffinlo Costain  
 

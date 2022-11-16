@@ -1,6 +1,7 @@
 ---
 title: Episode 4: Micheal Thornton
 ---
+
 ### The Natural Lifestylist Podcast  (2019-09-18)  
 ### Author(s): Tony Riddle  
 

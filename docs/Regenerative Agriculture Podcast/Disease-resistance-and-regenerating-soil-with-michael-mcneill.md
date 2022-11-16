@@ -1,6 +1,7 @@
 ---
 title: Disease Resistance and Regenerating Soil with Michael McNeill
 ---
+
 ### Regenerative Agriculture Podcast  (2018-04-14)  
 ### Author(s): John Kempf  
 

@@ -1,6 +1,7 @@
 ---
 title: Happy Cow Milk Co. New Zealand
 ---
+
 ### Farm Gate  (2020-04-28)  
 ### Author(s): ffinlo Costain  
 

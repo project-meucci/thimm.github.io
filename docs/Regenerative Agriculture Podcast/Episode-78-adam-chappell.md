@@ -1,6 +1,7 @@
 ---
 title: Episode #78: Adam Chappell
 ---
+
 ### Regenerative Agriculture Podcast  (2021-12-30)  
 ### Author(s): John Kempf  
 

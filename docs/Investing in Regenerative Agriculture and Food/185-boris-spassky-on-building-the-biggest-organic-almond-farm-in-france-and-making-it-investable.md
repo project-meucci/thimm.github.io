@@ -1,6 +1,7 @@
 ---
 title: 185 Boris Spassky on building the biggest organic almond farm in France and making it investable
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-09-20)  
 ### Author(s): Koen van Seijen  
 

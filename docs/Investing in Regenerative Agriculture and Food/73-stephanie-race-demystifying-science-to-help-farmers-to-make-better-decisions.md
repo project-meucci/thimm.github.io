@@ -1,6 +1,7 @@
 ---
 title: 73 Stephanie Race, demystifying science to help farmers to make better decisions
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-02-18)  
 ### Author(s): Koen van Seijen  
 

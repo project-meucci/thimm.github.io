@@ -1,6 +1,7 @@
 ---
 title: 09: SoilCity in Glasgow, Farmhack, urban farm updates, glasshouses, plus rural entrepreneurs
 ---
+
 ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 

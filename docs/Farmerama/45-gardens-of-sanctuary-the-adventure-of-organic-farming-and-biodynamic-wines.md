@@ -1,6 +1,7 @@
 ---
 title: 45: Gardens of Sanctuary, the adventure of organic farming, and biodynamic wines
 ---
+
 ### Farmerama  (2019-04-28)  
 ### Author(s): Farmerama  
 

@@ -1,6 +1,7 @@
 ---
 title: 10 min with Sean Kidney, the $100 trillion bond market everyone in regen ag should know about
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-09-10)  
 ### Author(s): Koen van Seijen  
 

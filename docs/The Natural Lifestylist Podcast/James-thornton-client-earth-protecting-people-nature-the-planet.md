@@ -1,6 +1,7 @@
 ---
 title: James Thornton - Client Earth. Protecting People, Nature & The Planet.
 ---
+
 ### The Natural Lifestylist Podcast  (2020-04-27)  
 ### Author(s): Tony Riddle  
 

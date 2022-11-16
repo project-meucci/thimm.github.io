@@ -1,6 +1,7 @@
 ---
 title: Episode 5: Richie Norton
 ---
+
 ### The Natural Lifestylist Podcast  (2019-09-23)  
 ### Author(s): Tony Riddle  
 

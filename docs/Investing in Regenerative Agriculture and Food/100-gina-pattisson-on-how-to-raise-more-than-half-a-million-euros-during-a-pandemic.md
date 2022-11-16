@@ -1,6 +1,7 @@
 ---
 title: 100 Gina Pattisson on how to raise more than half a million euros during a pandemic
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-01-05)  
 ### Author(s): Koen van Seijen  
 

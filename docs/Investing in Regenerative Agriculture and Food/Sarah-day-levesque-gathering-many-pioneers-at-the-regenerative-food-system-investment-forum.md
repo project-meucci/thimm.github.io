@@ -1,6 +1,7 @@
 ---
 title: Sarah Day Levesque, gathering many pioneers at the Regenerative Food System Investment Forum
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-08-27)  
 ### Author(s): Koen van Seijen  
 

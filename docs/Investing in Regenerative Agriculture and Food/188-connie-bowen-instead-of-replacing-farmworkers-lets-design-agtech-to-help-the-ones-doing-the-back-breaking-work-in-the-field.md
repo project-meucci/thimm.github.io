@@ -1,6 +1,7 @@
 ---
 title: 188 Connie Bowen – Instead of replacing farmworkers, let’s design agtech to help the ones doing the back breaking work in the field
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-10-11)  
 ### Author(s): Koen van Seijen  
 

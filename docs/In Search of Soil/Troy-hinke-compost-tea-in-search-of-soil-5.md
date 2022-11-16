@@ -1,6 +1,7 @@
 ---
 title: Troy Hinke - Compost Tea | In Search of Soil #5
 ---
+
 ### In Search of Soil  (2020-11-11)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-05-TroyHinke-CompostTea-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Compost tea.  What is it and is it as valuable as people claim it to be?  

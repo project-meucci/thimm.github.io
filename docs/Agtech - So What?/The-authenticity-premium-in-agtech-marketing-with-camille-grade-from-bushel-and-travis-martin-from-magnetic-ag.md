@@ -1,6 +1,7 @@
 ---
 title: The Authenticity Premium in AgTech Marketing with Camille Grade from Bushel and Travis Martin from Magnetic Ag
 ---
+
 ### Agtech - So What?  (2022-02-23)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/2/29/marketing-agtech-bushel-magnetic-ag#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  Marketing in the agtech space is hard.  

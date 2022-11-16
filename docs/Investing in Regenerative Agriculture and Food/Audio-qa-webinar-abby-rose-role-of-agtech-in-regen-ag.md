@@ -1,6 +1,7 @@
 ---
 title: Audio QA Webinar Abby Rose, role of agtech in regen ag
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-10-06)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: From greed to green
 ---
+
 ### Farm Gate  (2021-07-19)  
 ### Author(s): ffinlo Costain  
 

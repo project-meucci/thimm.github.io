@@ -1,6 +1,7 @@
 ---
 title: 98 Frank Wooten on how virtual fencing unlocks the potential of carbon positive grazing at scale
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-12-08)  
 ### Author(s): Koen van Seijen  
 

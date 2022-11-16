@@ -1,6 +1,7 @@
 ---
 title: Is a progressive UK trade policy possible?
 ---
+
 ### Farm Gate  (2020-12-01)  
 ### Author(s): ffinlo Costain  
 

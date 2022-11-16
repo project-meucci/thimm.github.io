@@ -1,6 +1,7 @@
 ---
 title: #31 Designing, planting and managing a silvopasture system with Brett Chedzoy
 ---
+
 ### The Regenerative Agroforestry Podcast  (2021-11-24)  
 
 **0:00:00-0:00:14:**  Can we change the way we produce food to both meet the needs of humans whilst regenerating  our soils and ecosystems?  And can we do so in a way that improves the financial viability of farms?  

@@ -1,6 +1,7 @@
 ---
 title: 30 Esther Park, CEO of Cienega capital on impact investing in regen ag and food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-03-12)  
 ### Author(s): Koen van Seijen  
 

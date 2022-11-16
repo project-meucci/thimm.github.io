@@ -1,6 +1,7 @@
 ---
 title: Shorts: Blue Corn
 ---
+
 ### Farmerama  (2017-04-30)  
 ### Author(s): Farmerama  
 

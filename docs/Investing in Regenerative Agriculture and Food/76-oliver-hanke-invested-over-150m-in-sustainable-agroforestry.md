@@ -1,6 +1,7 @@
 ---
 title: 76 Oliver Hanke, invested over 150M in sustainable agroforestry
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-03-17)  
 ### Author(s): Koen van Seijen  
 

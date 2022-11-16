@@ -1,6 +1,7 @@
 ---
 title: 22 Ethan Soloviev: As demand for regenerative agriculture skyrockets, is there enough supply?
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-11-24)  
 ### Author(s): Koen van Seijen  
 

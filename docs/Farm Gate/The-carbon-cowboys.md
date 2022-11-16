@@ -1,6 +1,7 @@
 ---
 title: The Carbon Cowboys
 ---
+
 ### Farm Gate  (2020-06-15)  
 ### Author(s): ffinlo Costain  
 

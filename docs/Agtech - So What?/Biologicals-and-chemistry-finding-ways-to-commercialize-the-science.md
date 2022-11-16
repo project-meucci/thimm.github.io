@@ -1,6 +1,7 @@
 ---
 title: Biologicals and chemistry: finding ways to commercialize the science
 ---
+
 ### Agtech - So What?  (2021-07-14)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/7/14/biologicals-finding-ways-to-commercialize-the-science#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agtenti Group.  I'm Sarah Nolet.  In our last episode, we looked at the challenge of biologicals, what they are, and how we  

@@ -1,6 +1,7 @@
 ---
 title: 74: Foodshed, Agroecological coaching and the regenerative mindset
 ---
+
 ### Farmerama  (2022-04-24)  
 ### Author(s): Farmerama  
 

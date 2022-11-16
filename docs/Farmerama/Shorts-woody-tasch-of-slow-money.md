@@ -1,6 +1,7 @@
 ---
 title: Shorts: Woody Tasch of Slow Money
 ---
+
 ### Farmerama  (2019-04-07)  
 ### Author(s): Farmerama  
 

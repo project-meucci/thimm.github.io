@@ -1,6 +1,7 @@
 ---
 title: Rebuilding The Soil Carbon Sponge, and Cooling the Climate Fast with Walter Jehne
 ---
+
 ### Regenerative Agriculture Podcast  (2019-10-15)  
 ### Author(s): John Kempf  
 

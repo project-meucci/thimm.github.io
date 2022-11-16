@@ -1,6 +1,7 @@
 ---
 title: Ep63 Evan Fraser on 3 barriers to agtech adoption and impacts of COVID-19 on agriculture
 ---
+
 ### Agtech - So What?  (2020-03-25)  
 
 **[0:00:00-0:00:07](https://player.whooshkaa.com/episode?id=600708#t=0:00:00):**  Hello, and welcome back to Ag Tech So What, brought to you by Agfentech.  I'm your host, Sarah Nolet.  Today's guest is coming to us all the way from Canada.  

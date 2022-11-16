@@ -1,6 +1,7 @@
 ---
 title: Ep 62 Allison Kopf on indoor ag business models and women in agtech (rebroadcast)
 ---
+
 ### Agtech - So What?  (2020-03-18)  
 
 **[0:00:00-0:00:07](https://player.whooshkaa.com/episode?id=597281#t=0:00:00):**  Welcome back to the AgTech So What podcast, brought to you by AgThentic.  I'm your host, Sarah Nolet.  If you've been listening with us for a while, you'll have noticed that we removed the intro.  

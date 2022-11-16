@@ -1,6 +1,7 @@
 ---
 title: Ag Insurance...So What?
 ---
+
 ### Agtech - So What?  (2022-06-29)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/6/29/ag-insurance-so-what#t=0:00:00):**  Hello, and welcome to another episode of AgTech So What, brought to you by the Agtenti Group.  I'm Sarah Nolet.  This week, we're bringing you the final episode in our series on the future of ag insurance,  

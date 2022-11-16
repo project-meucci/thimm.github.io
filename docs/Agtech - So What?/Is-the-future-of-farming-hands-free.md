@@ -1,6 +1,7 @@
 ---
 title: Is the Future of Farming Hands-Free?
 ---
+
 ### Agtech - So What?  (2021-07-28)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/7/27/is-the-future-of-farming-hands-free#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolette.  We often hear how adoption of tech in ag is slow compared to other industries.  

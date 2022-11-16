@@ -1,6 +1,7 @@
 ---
 title: 127 Pierre Rousseau, how can large banks finance the regeneration transition
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-08-10)  
 ### Author(s): Koen van Seijen  
 

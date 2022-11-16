@@ -1,6 +1,7 @@
 ---
 title: 167 Gustav Friis on understanding crypto and blockchain related to regenerative agriculture and food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-05-03)  
 ### Author(s): Koen van Seijen  
 

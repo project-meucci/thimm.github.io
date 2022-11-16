@@ -1,6 +1,7 @@
 ---
 title: Carbon farming
 ---
+
 ### Farm Gate  (2022-01-26)  
 ### Author(s): ffinlo Costain  
 

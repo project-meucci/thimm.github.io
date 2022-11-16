@@ -1,6 +1,7 @@
 ---
 title: Shorts: Jubilee Farm Political Economy
 ---
+
 ### Farmerama  (2018-12-09)  
 ### Author(s): Farmerama  
 

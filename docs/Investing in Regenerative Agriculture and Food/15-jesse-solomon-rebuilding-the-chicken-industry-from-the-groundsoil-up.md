@@ -1,6 +1,7 @@
 ---
 title: 15 Jesse Solomon, rebuilding the chicken industry from the ground/soil up
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-07-18)  
 ### Author(s): Koen van Seijen  
 

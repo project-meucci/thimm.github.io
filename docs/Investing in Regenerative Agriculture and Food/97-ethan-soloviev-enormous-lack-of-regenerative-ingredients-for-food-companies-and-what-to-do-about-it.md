@@ -1,6 +1,7 @@
 ---
 title: 97 Ethan Soloviev, enormous lack of regenerative ingredients for food companies and what to do about it
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-11-24)  
 ### Author(s): Koen van Seijen  
 

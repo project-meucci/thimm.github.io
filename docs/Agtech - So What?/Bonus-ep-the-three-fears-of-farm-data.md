@@ -1,6 +1,7 @@
 ---
 title: Bonus Ep: The Three Fears of Farm Data
 ---
+
 ### Agtech - So What?  (2022-05-11)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/05/12/farm-data-fear-tenacious-ventures-upstream-ag-shane-thomas-matthew-pryor-sarah-nolet#t=0:00:00):**  Hello, and welcome to another bonus episode of Ag Tech So What.  I'm Sarah Nollet.  In our work at Tenacious Ventures and throughout our careers, we've spent a lot of time thinking  

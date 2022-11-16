@@ -1,6 +1,7 @@
 ---
 title: BONUS EP: Capitalism for Good, feat. David Lee from AppHarvest and Impossible Foods
 ---
+
 ### Agtech - So What?  (2021-07-07)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/7/7/capitalism-for-good#t=0:00:00):**  Hello and welcome to AgTech So What brought to you by the Agthentic Group.  I'm Kirsten Diprose bringing you some bonus content.  You've probably heard of the Impossible Burger.  

@@ -1,6 +1,7 @@
 ---
 title: 32: Post-fire update, Welsh new farmers policy, farming as practice & organic matter
 ---
+
 ### Farmerama  (2018-03-25)  
 ### Author(s): Farmerama  
 

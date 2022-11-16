@@ -1,6 +1,7 @@
 ---
 title: 50 Bert Glover, investing $160M to regenerate Australian soils
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-05-14)  
 ### Author(s): Koen van Seijen  
 

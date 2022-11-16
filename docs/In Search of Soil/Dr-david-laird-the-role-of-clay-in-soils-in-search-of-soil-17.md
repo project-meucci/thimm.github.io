@@ -1,6 +1,7 @@
 ---
 title: Dr. David Laird - The Role of Clay in Soils | In Search of Soil #17
 ---
+
 ### In Search of Soil  (2021-08-11)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-17-DavidLaird-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Clay.  What is it?  

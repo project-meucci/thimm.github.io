@@ -1,6 +1,7 @@
 ---
 title: Dairy farming - Putting agroecology into practice
 ---
+
 ### Farm Gate  (2021-04-13)  
 ### Author(s): ffinlo Costain  
 

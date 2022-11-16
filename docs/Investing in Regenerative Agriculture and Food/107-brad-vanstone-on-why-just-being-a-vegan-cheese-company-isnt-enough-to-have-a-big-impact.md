@@ -1,6 +1,7 @@
 ---
 title: 107 Brad Vanstone on why just being a vegan cheese company isn’t enough to have a big impact
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-03-09)  
 ### Author(s): Koen van Seijen  
 

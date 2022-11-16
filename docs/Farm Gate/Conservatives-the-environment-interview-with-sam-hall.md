@@ -1,6 +1,7 @@
 ---
 title: Conservatives & the Environment - Interview with Sam Hall
 ---
+
 ### Farm Gate  (2020-01-20)  
 ### Author(s): ffinlo Costain  
 

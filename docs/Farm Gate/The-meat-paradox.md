@@ -1,6 +1,7 @@
 ---
 title: The meat paradox
 ---
+
 ### Farm Gate  (2022-03-10)  
 ### Author(s): ffinlo Costain  
 

@@ -1,6 +1,7 @@
 ---
 title: 20 Geert van der Veer, helping to start 1000 locally owned regenerative farms in Europe
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-10-03)  
 ### Author(s): Koen van Seijen  
 

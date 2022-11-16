@@ -1,6 +1,7 @@
 ---
 title: 70: Resilient grapes, Soil insight and Aotearoa farm tour
 ---
+
 ### Farmerama  (2021-12-26)  
 ### Author(s): Farmerama  
 

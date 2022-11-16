@@ -1,6 +1,7 @@
 ---
 title: 148 Johannes Quodt on making the first regenerative and biodegradable luxury leather shoe
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-01-18)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 85 John Kempf, what would he do with a 1 billion dollar investment fund?
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-07-14)  
 ### Author(s): Koen van Seijen  
 

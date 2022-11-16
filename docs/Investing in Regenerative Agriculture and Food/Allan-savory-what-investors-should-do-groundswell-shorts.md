@@ -1,6 +1,7 @@
 ---
 title: Allan Savory, What investors should do - Groundswell Shorts
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-07-01)  
 ### Author(s): Koen van Seijen  
 

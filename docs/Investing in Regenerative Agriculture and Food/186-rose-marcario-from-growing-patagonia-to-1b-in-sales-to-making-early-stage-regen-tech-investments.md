@@ -1,6 +1,7 @@
 ---
 title: 186 Rose Marcario - From growing Patagonia to $1b in sales to making early stage regen tech investments
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-09-27)  
 ### Author(s): Koen van Seijen  
 

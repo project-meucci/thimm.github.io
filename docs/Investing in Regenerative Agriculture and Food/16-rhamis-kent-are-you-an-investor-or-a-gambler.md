@@ -1,6 +1,7 @@
 ---
 title: 16 Rhamis Kent, are you an investor or a gambler?
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-08-10)  
 ### Author(s): Koen van Seijen  
 

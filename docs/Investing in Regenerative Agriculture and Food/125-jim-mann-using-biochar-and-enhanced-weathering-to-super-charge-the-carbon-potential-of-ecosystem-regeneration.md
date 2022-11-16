@@ -1,6 +1,7 @@
 ---
 title: 125 Jim Mann, using biochar and enhanced weathering to super charge the carbon potential of ecosystem regeneration
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-07-13)  
 ### Author(s): Koen van Seijen  
 

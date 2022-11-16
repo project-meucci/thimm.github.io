@@ -1,6 +1,7 @@
 ---
 title: 184 Anthony Corsaro on investing in regenerative CPG brands after curing an autoimmune disease with nutrient dense food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-09-13)  
 ### Author(s): Koen van Seijen  
 

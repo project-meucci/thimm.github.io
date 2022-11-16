@@ -1,6 +1,7 @@
 ---
 title: BONUS Episode: Live panel from evokeAG 2020 featuring global agrifood tech experts
 ---
+
 ### Agtech - So What?  (2020-03-11)  
 
 **[0:00:00-0:00:04](https://player.whooshkaa.com/episode?id=588506#t=0:00:00):**  We are now going to commence with the opening plenary session.  If we could please ask you to make your way through, take your seats for the commencement of this morning session. Thank you.  Hey guys, Sarah here. As you can already tell, today's bonus episode is going to be a little bit different.  

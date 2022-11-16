@@ -1,6 +1,7 @@
 ---
 title: 160 Benedikt Bösel, updates from the 3000h German farm in transition
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-03-25)  
 ### Author(s): Koen van Seijen  
 

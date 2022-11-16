@@ -1,6 +1,7 @@
 ---
 title: 129 Mellany Klompe, leading regen farmer going all in on nutrient density
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-08-31)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Season Two Teaser
 ---
+
 ### Agtech - So What?  (2018-12-04)  
 
 **[0:00:00-0:00:05](https://player.whooshkaa.com/episode?id=357335#t=0:00:00):**  Hey, podcast listeners, Sarah here, bringing you a quick update.  We've been hard at work recording season two, and we really appreciate all your feedback  during our first 25 episodes.  

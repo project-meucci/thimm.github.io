@@ -1,6 +1,7 @@
 ---
 title: 39 Satya Tripathi, raising $2.3B to transition 6m smallholder farmers beyond organic
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-08-25)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 03: Scottish Crofting, alternatives to certification, Irish seaweed & young farmers around the world
 ---
+
 ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 

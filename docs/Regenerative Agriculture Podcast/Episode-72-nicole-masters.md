@@ -1,6 +1,7 @@
 ---
 title: Episode #72: Nicole Masters
 ---
+
 ### Regenerative Agriculture Podcast  (2021-06-25)  
 ### Author(s): John Kempf  
 

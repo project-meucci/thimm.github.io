@@ -1,6 +1,7 @@
 ---
 title: Final episode Transition Finance for Farmers with Benedikt
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-09-01)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 153 Emma Chow and Eliot Beeby on how circular design for food is crucial for regenerating landscapes, and how large food companies can lead it
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-02-22)  
 ### Author(s): Koen van Seijen  
 

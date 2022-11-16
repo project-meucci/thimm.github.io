@@ -1,6 +1,7 @@
 ---
 title: Soil Builders, using a bond to scale regenerative approaches in West Africa
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-12-01)  
 ### Author(s): Koen van Seijen  
 

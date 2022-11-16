@@ -1,6 +1,7 @@
 ---
 title: 122 Wayne Gibbins on the role of tech in regenerative agriculture from gene editing to nanotech soil sensors
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-06-08)  
 ### Author(s): Koen van Seijen  
 

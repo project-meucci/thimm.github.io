@@ -1,6 +1,7 @@
 ---
 title: 100th Episode Special: our most popular guests on soil carbon, regen ag, and the future of agtech
 ---
+
 ### Agtech - So What?  (2021-09-22)  
 
 **[0:00:00-0:00:07](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/9/21/100th-episode-special#t=0:00:00):**  Hello and welcome to a very special episode of Ag Tech So What brought to you by the Ag  Fenty Group.  I'm Sarah Nolette.  

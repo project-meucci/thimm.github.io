@@ -1,6 +1,7 @@
 ---
 title: Transition Finance for Farmers with Benedikt - Sallie Calhoun and Esther Park, Cienega Capital
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-03-31)  
 ### Author(s): Koen van Seijen  
 

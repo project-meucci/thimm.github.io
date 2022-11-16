@@ -1,6 +1,7 @@
 ---
 title: Francesco Tortorici - Biochar | In Search of Soil #11
 ---
+
 ### In Search of Soil  (2021-06-30)  
 
 **[0:00:00-0:00:20](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-11-FrancescoTortorici-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Biochar – plant matter turned charcoal via pyrolysis.  It's an often talked about soil amendment that's able to put carbon into the soil  

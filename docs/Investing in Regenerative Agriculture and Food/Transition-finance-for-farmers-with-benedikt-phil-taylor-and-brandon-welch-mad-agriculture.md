@@ -1,6 +1,7 @@
 ---
 title: Transition Finance for Farmers with Benedikt - Phil Taylor and Brandon Welch, Mad Agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-06-16)  
 ### Author(s): Koen van Seijen  
 

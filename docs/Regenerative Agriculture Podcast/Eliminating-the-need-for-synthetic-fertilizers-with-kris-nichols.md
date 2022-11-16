@@ -1,6 +1,7 @@
 ---
 title: Eliminating the Need For Synthetic Fertilizers with Kris Nichols
 ---
+
 ### Regenerative Agriculture Podcast  (2018-06-15)  
 ### Author(s): John Kempf  
 

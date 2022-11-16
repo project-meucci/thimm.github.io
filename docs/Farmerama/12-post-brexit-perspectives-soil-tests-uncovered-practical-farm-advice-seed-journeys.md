@@ -1,6 +1,7 @@
 ---
 title: 12: Post-brexit perspectives, soil tests uncovered, practical farm advice & seed journeys
 ---
+
 ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 

@@ -1,6 +1,7 @@
 ---
 title: What is regenerative agriculture - Audio Lesson of Video Course
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-08-03)  
 ### Author(s): Koen van Seijen  
 

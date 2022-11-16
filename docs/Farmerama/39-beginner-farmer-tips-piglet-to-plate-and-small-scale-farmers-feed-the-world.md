@@ -1,6 +1,7 @@
 ---
 title: 39: Beginner farmer tips, Piglet to Plate and small-scale farmers feed the world
 ---
+
 ### Farmerama  (2018-10-27)  
 ### Author(s): Farmerama  
 

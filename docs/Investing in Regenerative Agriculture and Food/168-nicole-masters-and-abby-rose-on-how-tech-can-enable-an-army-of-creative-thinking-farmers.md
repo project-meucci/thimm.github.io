@@ -1,6 +1,7 @@
 ---
 title: 168 Nicole Masters and Abby Rose on how tech can enable an army of creative thinking farmers
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-05-10)  
 ### Author(s): Koen van Seijen  
 

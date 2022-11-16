@@ -1,6 +1,7 @@
 ---
 title: 117 Paul Pizzala from a London city private bank to the biggest regenerative farm in the UK
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-05-07)  
 ### Author(s): Koen van Seijen  
 

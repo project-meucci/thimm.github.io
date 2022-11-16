@@ -1,6 +1,7 @@
 ---
 title: The Future of Insurance in Agriculture, with Damon Johnson, Global Ag Risk Solutions
 ---
+
 ### Agtech - So What?  (2022-06-15)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/06/16/parametric-crop-insurance-damon-johnson#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolette.  In production agriculture, especially for commodity grains, producers face the ever  

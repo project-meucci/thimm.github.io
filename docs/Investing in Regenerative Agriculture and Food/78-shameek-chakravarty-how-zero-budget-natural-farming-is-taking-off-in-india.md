@@ -1,6 +1,7 @@
 ---
 title: 78 Shameek Chakravarty, how zero budget natural farming is taking off in India
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-05-05)  
 ### Author(s): Koen van Seijen  
 

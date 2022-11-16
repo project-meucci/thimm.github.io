@@ -1,6 +1,7 @@
 ---
 title: 63 Joelle Faulkner, why a $250M Canadian farmland investor entered regen ag
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-11-12)  
 ### Author(s): Koen van Seijen  
 

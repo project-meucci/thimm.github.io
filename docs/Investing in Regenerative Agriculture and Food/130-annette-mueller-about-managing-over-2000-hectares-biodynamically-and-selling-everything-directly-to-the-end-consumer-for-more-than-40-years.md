@@ -1,6 +1,7 @@
 ---
 title: 130 Annette Mueller about managing over 2000 hectares biodynamically and selling everything directly to the end consumer for more than 40 years
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-09-07)  
 ### Author(s): Koen van Seijen  
 

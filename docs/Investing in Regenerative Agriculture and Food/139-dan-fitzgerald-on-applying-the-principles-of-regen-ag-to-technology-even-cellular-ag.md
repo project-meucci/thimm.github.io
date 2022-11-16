@@ -1,6 +1,7 @@
 ---
 title: 139 Dan Fitzgerald on applying the principles of regen ag to technology, even cellular ag
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-11-09)  
 ### Author(s): Koen van Seijen  
 

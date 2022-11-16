@@ -1,6 +1,7 @@
 ---
 title: Shorts: Roger Dixon-Spain, Lismore, Scotland
 ---
+
 ### Farmerama  (2020-08-26)  
 ### Author(s): Farmerama  
 

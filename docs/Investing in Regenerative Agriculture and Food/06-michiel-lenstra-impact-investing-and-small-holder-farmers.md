@@ -1,6 +1,7 @@
 ---
 title: 06 Michiel Lenstra, impact investing and small holder farmers
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-02-25)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Shorts: Tony Lovell, carbon-canny cattle rancher at Atlas of the Future event
 ---
+
 ### Farmerama  (2018-06-30)  
 ### Author(s): Farmerama  
 

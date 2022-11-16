@@ -1,6 +1,7 @@
 ---
 title: 171 Charles Eisenstein - Money or ecology: investors have to make a choice on which master they serve
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-05-31)  
 ### Author(s): Koen van Seijen  
 

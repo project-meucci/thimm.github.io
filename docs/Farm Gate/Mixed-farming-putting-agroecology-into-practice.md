@@ -1,6 +1,7 @@
 ---
 title: Mixed farming - Putting agroecology into practice
 ---
+
 ### Farm Gate  (2021-02-08)  
 ### Author(s): ffinlo Costain  
 

@@ -1,6 +1,7 @@
 ---
 title: Shorts: XR Farmers
 ---
+
 ### Farmerama  (2019-10-06)  
 ### Author(s): Farmerama  
 

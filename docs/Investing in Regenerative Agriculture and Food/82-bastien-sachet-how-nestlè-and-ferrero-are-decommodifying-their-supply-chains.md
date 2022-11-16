@@ -1,6 +1,7 @@
 ---
 title: 82 Bastien Sachet, how Nestlè and Ferrero are decommodifying their supply chains
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-06-23)  
 ### Author(s): Koen van Seijen  
 

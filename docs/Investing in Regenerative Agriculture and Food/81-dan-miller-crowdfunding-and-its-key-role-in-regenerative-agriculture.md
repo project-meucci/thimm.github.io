@@ -1,6 +1,7 @@
 ---
 title: 81 Dan Miller, crowdfunding and its key role in regenerative agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-06-09)  
 ### Author(s): Koen van Seijen  
 

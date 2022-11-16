@@ -1,6 +1,7 @@
 ---
 title: Bonus Episode: The five forces shaping the future of food and ag, with Sarah Nolet
 ---
+
 ### Agtech - So What?  (2021-06-09)  
 
 **[0:00:00-0:00:09](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/6/9/the-five-forces-shaping-the-future-of-food-and-ag#t=0:00:00):**  Hey, it's Kirsten Diprose here for AgTech So What brought to you by the Agthentic Group.  This is a bonus episode.  It's something new we're trying out and we'd love to hear what you think.  

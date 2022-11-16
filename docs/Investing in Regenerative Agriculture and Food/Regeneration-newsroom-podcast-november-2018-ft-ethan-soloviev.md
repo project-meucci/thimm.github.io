@@ -1,6 +1,7 @@
 ---
 title: Regeneration Newsroom Podcast November 2018 ft. Ethan Soloviev
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-11-16)  
 ### Author(s): Koen van Seijen  
 

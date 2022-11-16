@@ -1,6 +1,7 @@
 ---
 title: Transition Finance for Farmers with Benedikt - Robyn O'Brien, rePlant Capital
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-04-28)  
 ### Author(s): Koen van Seijen  
 

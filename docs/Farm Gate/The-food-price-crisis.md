@@ -1,6 +1,7 @@
 ---
 title: The food price crisis
 ---
+
 ### Farm Gate  (2022-06-13)  
 ### Author(s): ffinlo Costain  
 

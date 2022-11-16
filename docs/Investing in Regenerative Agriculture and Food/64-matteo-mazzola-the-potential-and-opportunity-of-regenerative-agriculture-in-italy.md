@@ -1,6 +1,7 @@
 ---
 title: 64 Matteo Mazzola, the potential and opportunity of regenerative agriculture in Italy
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-11-26)  
 ### Author(s): Koen van Seijen  
 

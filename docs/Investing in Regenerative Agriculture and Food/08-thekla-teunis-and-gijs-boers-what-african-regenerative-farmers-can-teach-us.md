@@ -1,6 +1,7 @@
 ---
 title: 08 Thekla Teunis and Gijs Boers, what African regenerative farmers can teach us
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-03-19)  
 ### Author(s): Koen van Seijen  
 

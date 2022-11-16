@@ -1,6 +1,7 @@
 ---
 title: 33 Thomas Rippel, using a blockchain to help Farmland Stewardship Organisations grow
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-04-22)  
 ### Author(s): Koen van Seijen  
 

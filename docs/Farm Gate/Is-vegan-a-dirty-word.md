@@ -1,6 +1,7 @@
 ---
 title: Is vegan a dirty word?
 ---
+
 ### Farm Gate  (2020-01-04)  
 ### Author(s): ffinlo Costain  
 

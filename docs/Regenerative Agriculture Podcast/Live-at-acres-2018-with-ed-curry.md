@@ -1,6 +1,7 @@
 ---
 title: LIVE at ACRES 2018 with Ed Curry
 ---
+
 ### Regenerative Agriculture Podcast  (2018-12-07)  
 ### Author(s): John Kempf  
 

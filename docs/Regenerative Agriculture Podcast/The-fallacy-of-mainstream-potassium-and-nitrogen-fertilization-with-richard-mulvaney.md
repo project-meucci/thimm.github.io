@@ -1,6 +1,7 @@
 ---
 title: The Fallacy of Mainstream Potassium and Nitrogen Fertilization with Richard Mulvaney
 ---
+
 ### Regenerative Agriculture Podcast  (2020-07-14)  
 ### Author(s): John Kempf  
 

@@ -1,6 +1,7 @@
 ---
 title: Relay Cropping Grain with Jason Mauck
 ---
+
 ### Regenerative Agriculture Podcast  (2020-02-24)  
 ### Author(s): John Kempf  
 

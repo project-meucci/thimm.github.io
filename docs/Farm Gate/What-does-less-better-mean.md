@@ -1,6 +1,7 @@
 ---
 title: What does Less & Better mean?
 ---
+
 ### Farm Gate  (2020-03-23)  
 ### Author(s): ffinlo Costain  
 

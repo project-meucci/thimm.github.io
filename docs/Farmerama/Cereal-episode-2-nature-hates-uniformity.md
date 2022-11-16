@@ -1,6 +1,7 @@
 ---
 title: 'Cereal', Episode 2: Nature hates uniformity
 ---
+
 ### Farmerama  (2019-12-01)  
 ### Author(s): Farmerama  
 

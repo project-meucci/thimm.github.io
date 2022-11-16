@@ -1,6 +1,7 @@
 ---
 title: 35 Eric Jackson, doing over 150M in sales of organic grain and soy, started 18mon ago
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-07-18)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 55: Enlightened agriculture, sustainable economies, and regenerative businesses
 ---
+
 ### Farmerama  (2020-04-26)  
 ### Author(s): Farmerama  
 

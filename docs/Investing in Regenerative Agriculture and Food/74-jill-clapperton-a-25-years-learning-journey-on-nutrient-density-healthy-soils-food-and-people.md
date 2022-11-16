@@ -1,6 +1,7 @@
 ---
 title: 74 Jill Clapperton, a 25 years learning journey on nutrient density, healthy soils, food and people
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-02-25)  
 ### Author(s): Koen van Seijen  
 

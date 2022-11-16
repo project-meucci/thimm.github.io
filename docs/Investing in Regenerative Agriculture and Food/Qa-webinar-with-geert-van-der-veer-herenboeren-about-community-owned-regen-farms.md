@@ -1,6 +1,7 @@
 ---
 title: QA webinar with Geert van der Veer, Herenboeren, about community owned regen farms
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-06-12)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Brandon Welch, Perennial fund, investing and profit sharing to get farmers to organic and beyond
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-07-12)  
 ### Author(s): Koen van Seijen  
 

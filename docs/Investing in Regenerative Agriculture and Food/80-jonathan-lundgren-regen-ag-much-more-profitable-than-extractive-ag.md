@@ -1,6 +1,7 @@
 ---
 title: 80 Jonathan Lundgren - Regen ag much more profitable than extractive ag?!
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-06-02)  
 ### Author(s): Koen van Seijen  
 

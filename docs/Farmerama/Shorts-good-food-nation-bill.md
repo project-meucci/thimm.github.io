@@ -1,6 +1,7 @@
 ---
 title: Shorts: Good Food Nation Bill
 ---
+
 ### Farmerama  (2018-03-29)  
 ### Author(s): Farmerama  
 

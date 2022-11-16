@@ -1,6 +1,7 @@
 ---
 title: 56: The Bowhouse
 ---
+
 ### Farmerama  (2020-05-31)  
 ### Author(s): Farmerama  
 

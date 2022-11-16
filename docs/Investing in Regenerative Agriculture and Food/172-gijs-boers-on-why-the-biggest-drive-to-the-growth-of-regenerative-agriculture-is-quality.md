@@ -1,6 +1,7 @@
 ---
 title: 172 Gijs Boers on why the biggest drive to the growth of regenerative agriculture is quality
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-06-07)  
 ### Author(s): Koen van Seijen  
 

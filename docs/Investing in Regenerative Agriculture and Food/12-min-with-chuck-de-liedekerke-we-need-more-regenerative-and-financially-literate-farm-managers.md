@@ -1,6 +1,7 @@
 ---
 title: 12 min with Chuck de Liedekerke, we need more regenerative and financially literate farm managers
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-06-04)  
 ### Author(s): Koen van Seijen  
 

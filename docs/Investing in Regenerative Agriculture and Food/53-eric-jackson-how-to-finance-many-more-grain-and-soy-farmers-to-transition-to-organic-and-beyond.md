@@ -1,6 +1,7 @@
 ---
 title: 53 Eric Jackson - How to finance many more grain and soy farmers to transition to organic and beyond
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-06-25)  
 ### Author(s): Koen van Seijen  
 

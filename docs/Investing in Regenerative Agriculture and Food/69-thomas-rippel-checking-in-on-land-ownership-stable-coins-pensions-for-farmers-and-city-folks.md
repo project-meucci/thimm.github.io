@@ -1,6 +1,7 @@
 ---
 title: 69 Thomas Rippel, checking in on land ownership, stable coins, pensions for farmers and city folks
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-01-14)  
 ### Author(s): Koen van Seijen  
 

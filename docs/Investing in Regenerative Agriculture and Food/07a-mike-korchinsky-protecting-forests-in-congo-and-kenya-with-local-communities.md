@@ -1,6 +1,7 @@
 ---
 title: 07a Mike Korchinsky, protecting forests in Congo and Kenya with local communities
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-02-25)  
 ### Author(s): Koen van Seijen  
 

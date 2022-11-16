@@ -1,6 +1,7 @@
 ---
 title: 04: Female farmers, dairy protests, walled gardens, cows & natural wine in Italy
 ---
+
 ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 

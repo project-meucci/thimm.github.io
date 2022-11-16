@@ -1,6 +1,7 @@
 ---
 title: How Soil Health Impacts Performance of Cherry Varieties with Lynn Long
 ---
+
 ### Regenerative Agriculture Podcast  (2018-06-20)  
 ### Author(s): John Kempf  
 

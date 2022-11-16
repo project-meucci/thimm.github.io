@@ -1,6 +1,7 @@
 ---
 title: 180 Federico Romeri on disrupting the €7,5B Italian CAFO factory farmed beef market
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-08-02)  
 ### Author(s): Koen van Seijen  
 

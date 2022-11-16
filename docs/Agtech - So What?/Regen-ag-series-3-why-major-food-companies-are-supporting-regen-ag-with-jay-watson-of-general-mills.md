@@ -1,6 +1,7 @@
 ---
 title: Regen Ag Series #3: Why major food companies are supporting regen ag with Jay Watson of General Mills
 ---
+
 ### Agtech - So What?  (2020-08-12)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/why-the-major-food-companies-are-supporting-regen-ag-with-jay-watson-of-general-mills#t=0:00:00):**  Welcome back to the Ag Tech So What podcast, brought to you by Agthentic.  I'm your host, Sarah Nollet.  Today we're back with episode three in our Regen Ag series.  

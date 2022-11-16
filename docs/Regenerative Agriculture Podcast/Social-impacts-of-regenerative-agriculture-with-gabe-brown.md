@@ -1,6 +1,7 @@
 ---
 title: Social Impacts of Regenerative Agriculture with Gabe Brown
 ---
+
 ### Regenerative Agriculture Podcast  (2018-04-14)  
 ### Author(s): John Kempf  
 

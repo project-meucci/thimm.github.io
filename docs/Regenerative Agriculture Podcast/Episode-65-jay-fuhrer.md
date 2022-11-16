@@ -1,6 +1,7 @@
 ---
 title: Episode #65: Jay Fuhrer
 ---
+
 ### Regenerative Agriculture Podcast  (2021-03-12)  
 ### Author(s): John Kempf  
 

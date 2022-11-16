@@ -1,6 +1,7 @@
 ---
 title: Ep 70: Karmen Mehmen on growing a family farm through 40 years of change
 ---
+
 ### Agtech - So What?  (2020-07-01)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/karmen-mehmen-on-farm-growth-over-40-years#t=0:00:00):**  Welcome back to the Ag Tech So What podcast brought to you by Agtentik.  I'm your host, Sarah Nolet.  Today's guest joins us from Iowa, where Carmen Maiman and her husband have been farming since  

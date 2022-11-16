@@ -1,6 +1,7 @@
 ---
 title: Services and Software for On-Farm Autonomy, with Iftach Birger of FieldIn
 ---
+
 ### Agtech - So What?  (2022-05-04)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/5/5/farm-autonomy-fieldin-iftach#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agbenthic Group.  I'm Sarah Nolet.  Autonomous equipment has come a long way in a relatively short period of time, and the  

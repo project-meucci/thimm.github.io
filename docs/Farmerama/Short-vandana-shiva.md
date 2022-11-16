@@ -1,6 +1,7 @@
 ---
 title: Short: Vandana Shiva
 ---
+
 ### Farmerama  (2019-06-02)  
 ### Author(s): Farmerama  
 

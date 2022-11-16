@@ -1,6 +1,7 @@
 ---
 title: Episode #77: Rick Clark
 ---
+
 ### Regenerative Agriculture Podcast  (2021-11-24)  
 ### Author(s): John Kempf  
 

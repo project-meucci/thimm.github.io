@@ -1,6 +1,7 @@
 ---
 title: Andrew Voysey, Why the EU Taxonomy on Sustainable Finance matters to all regen investors?
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-07-19)  
 ### Author(s): Koen van Seijen  
 

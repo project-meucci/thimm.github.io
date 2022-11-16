@@ -1,6 +1,7 @@
 ---
 title: Glasgow Food & Climate Declaration
 ---
+
 ### Farm Gate  (2021-12-13)  
 ### Author(s): ffinlo Costain  
 

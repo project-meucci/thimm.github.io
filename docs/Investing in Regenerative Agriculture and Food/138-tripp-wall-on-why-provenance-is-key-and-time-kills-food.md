@@ -1,6 +1,7 @@
 ---
 title: 138 Tripp Wall on why provenance is key and time kills food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-11-02)  
 ### Author(s): Koen van Seijen  
 

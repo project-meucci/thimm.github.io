@@ -1,6 +1,7 @@
 ---
 title: 69: COP 26: Glasgow growing, participatory action research and migrant worker solidarity
 ---
+
 ### Farmerama  (2021-11-28)  
 ### Author(s): Farmerama  
 

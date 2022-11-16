@@ -1,6 +1,7 @@
 ---
 title: 3 Things To Do When Plants Don't Respond to Nutrient Applications
 ---
+
 ### Regenerative Agriculture Podcast  (2018-07-31)  
 ### Author(s): John Kempf  
 

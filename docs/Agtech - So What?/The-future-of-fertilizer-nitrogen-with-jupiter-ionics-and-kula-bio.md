@@ -1,6 +1,7 @@
 ---
 title: The Future of Fertilizer - Nitrogen, with Jupiter Ionics and Kula Bio
 ---
+
 ### Agtech - So What?  (2022-10-19)  
 
 **[0:00:00-0:00:06](https://tenacious.ventures/podcast-episodes/the-future-of-fertilizer-nitrogen-with-jupiter-ionics-and-kula-bio#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by Tenacious Ventures.  I'm Sarah Nolette.  A reminder, don't forget to stick around until the end of the show for some fresh insights  

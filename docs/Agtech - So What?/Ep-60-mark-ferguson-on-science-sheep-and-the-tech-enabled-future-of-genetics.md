@@ -1,6 +1,7 @@
 ---
 title: Ep 60 Mark Ferguson on science, sheep, and the tech-enabled future of genetics
 ---
+
 ### Agtech - So What?  (2020-02-19)  
 
 **[0:00:00-0:00:12](https://player.whooshkaa.com/episode?id=575058#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast. Emerging technologies are rapidly  changing the global agricultural industry. We believe that this revolution is only getting  started, but there's still too much hype out there and too big of a disconnect between  

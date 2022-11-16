@@ -1,6 +1,7 @@
 ---
 title: The Carbon Capture Business with Jerry Hatfield
 ---
+
 ### Regenerative Agriculture Podcast  (2019-06-11)  
 ### Author(s): John Kempf  
 

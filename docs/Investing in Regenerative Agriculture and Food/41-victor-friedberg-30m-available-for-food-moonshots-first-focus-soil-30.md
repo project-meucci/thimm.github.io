@@ -1,6 +1,7 @@
 ---
 title: 41 Victor Friedberg, 30m available for food moonshots! First focus: Soil 3.0
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-11-09)  
 ### Author(s): Koen van Seijen  
 

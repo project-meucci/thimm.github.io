@@ -1,6 +1,7 @@
 ---
 title: Ruminant methane, global warming, & GWP*
 ---
+
 ### Farm Gate  (2020-01-08)  
 ### Author(s): ffinlo Costain  
 

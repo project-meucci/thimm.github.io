@@ -1,6 +1,7 @@
 ---
 title: Award-winning adaptive multi-paddock grazing
 ---
+
 ### Farm Gate  (2021-07-08)  
 ### Author(s): ffinlo Costain  
 

@@ -1,6 +1,7 @@
 ---
 title: 134 Troy Carter and Patrick Leung on preventing speculative boom around the $5T carbon potential of degraded land
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-10-05)  
 ### Author(s): Koen van Seijen  
 

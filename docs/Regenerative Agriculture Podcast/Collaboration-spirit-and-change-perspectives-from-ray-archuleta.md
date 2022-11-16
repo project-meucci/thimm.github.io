@@ -1,6 +1,7 @@
 ---
 title: Collaboration, Spirit and Change, Perspectives from Ray Archuleta
 ---
+
 ### Regenerative Agriculture Podcast  (2020-04-28)  
 ### Author(s): John Kempf  
 

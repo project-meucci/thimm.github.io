@@ -1,6 +1,7 @@
 ---
 title: Mass mobilisation, coronavirus & climate change
 ---
+
 ### Farm Gate  (2020-05-04)  
 ### Author(s): ffinlo Costain  
 

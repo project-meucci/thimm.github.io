@@ -1,6 +1,7 @@
 ---
 title: Carbon tunnel vision
 ---
+
 ### Farm Gate  (2022-10-19)  
 ### Author(s): ffinlo Costain  
 

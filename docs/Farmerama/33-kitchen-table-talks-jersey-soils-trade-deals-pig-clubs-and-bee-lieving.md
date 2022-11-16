@@ -1,6 +1,7 @@
 ---
 title: 33: Kitchen Table talks, Jersey soils, trade deals, pig clubs and bee-lieving
 ---
+
 ### Farmerama  (2018-04-29)  
 ### Author(s): Farmerama  
 

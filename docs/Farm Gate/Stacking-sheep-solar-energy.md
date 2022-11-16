@@ -1,6 +1,7 @@
 ---
 title: Stacking sheep & solar energy
 ---
+
 ### Farm Gate  (2021-08-18)  
 ### Author(s): ffinlo Costain  
 

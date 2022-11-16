@@ -1,6 +1,7 @@
 ---
 title: Transition Finance for Farmers with Benedikt - Jurrien Appers of Triodos Bank Investment Management
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-02-11)  
 ### Author(s): Koen van Seijen  
 

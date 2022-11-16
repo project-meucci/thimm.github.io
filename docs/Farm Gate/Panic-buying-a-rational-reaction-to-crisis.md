@@ -1,6 +1,7 @@
 ---
 title: Panic buying - a rational reaction to crisis?
 ---
+
 ### Farm Gate  (2020-03-31)  
 ### Author(s): ffinlo Costain  
 

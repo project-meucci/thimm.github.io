@@ -1,6 +1,7 @@
 ---
 title: Abby Rose - Regenerative Farming and Our Natural Norms
 ---
+
 ### The Natural Lifestylist Podcast  (2021-01-21)  
 ### Author(s): Tony Riddle  
 

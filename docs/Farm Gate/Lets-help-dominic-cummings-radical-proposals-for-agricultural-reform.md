@@ -1,6 +1,7 @@
 ---
 title: Let's help Dominic Cummings! Radical proposals for agricultural reform
 ---
+
 ### Farm Gate  (2020-02-16)  
 ### Author(s): ffinlo Costain  
 

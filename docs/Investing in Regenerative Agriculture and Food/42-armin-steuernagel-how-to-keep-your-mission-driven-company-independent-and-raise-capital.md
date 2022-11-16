@@ -1,6 +1,7 @@
 ---
 title: 42 Armin Steuernagel, how to keep your mission driven company independent and raise capital
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-11-14)  
 ### Author(s): Koen van Seijen  
 

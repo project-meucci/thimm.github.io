@@ -1,6 +1,7 @@
 ---
 title: Shorts: David Montgomery
 ---
+
 ### Farmerama  (2017-09-24)  
 ### Author(s): Farmerama  
 

@@ -1,6 +1,7 @@
 ---
 title: 03 Paul McMahon, ecological agriculture makes more business sense than chemical agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2016-12-20)  
 ### Author(s): Koen van Seijen  
 

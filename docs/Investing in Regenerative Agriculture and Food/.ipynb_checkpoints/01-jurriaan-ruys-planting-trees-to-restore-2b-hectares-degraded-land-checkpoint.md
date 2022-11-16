@@ -1,7 +1,6 @@
 ---
 title: 01 Jurriaan Ruys, planting trees to restore 2b hectares degraded land
 ---
-
 ### Investing in Regenerative Agriculture and Food  (2016-12-20)  
 ### Author(s): Koen van Seijen  
 

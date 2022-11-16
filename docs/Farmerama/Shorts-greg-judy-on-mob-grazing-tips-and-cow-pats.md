@@ -1,6 +1,7 @@
 ---
 title: Shorts: Greg Judy on mob grazing tips and cow pats
 ---
+
 ### Farmerama  (2018-08-31)  
 ### Author(s): Farmerama  
 

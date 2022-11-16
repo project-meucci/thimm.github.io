@@ -1,6 +1,7 @@
 ---
 title: 173 Jonathan Lundgren on why all agriculture scientists should become farmers first
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-06-14)  
 ### Author(s): Koen van Seijen  
 

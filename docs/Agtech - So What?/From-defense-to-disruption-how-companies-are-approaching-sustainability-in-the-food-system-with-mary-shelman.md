@@ -1,6 +1,7 @@
 ---
 title: From defense to disruption, how companies are approaching sustainability in the food system, with Mary Shelman
 ---
+
 ### Agtech - So What?  (2020-10-21)  
 
 **[0:00:00-0:00:21](https://www.agtechsowhat.com/agtechsowhatepisodes/defend-defy-develop-or-disrupt-with-mary-shelman#t=0:00:00):**  Welcome to the Ag Tech So What podcast brought to you by Agthentic. I'm Sarah Nolet. And today's guest is someone who's looked at the agriculture industry from a range of perspectives from growing up on a farm in Kentucky, to solving big problems for corporations and governments all over the world.  I get kind of frustrated with the idea that it always gets down to, oh, it's the data, show us the profits. I think sometimes, especially with technology, we think about things now like soil health. Why don't farmers, you know, you know, they're silly, right? Why don't they adopt technology? Why don't they do the soil health things? It's like, well, actually, it's all really still too hard. And giving them more data is not going to make it simpler.  That's Mary Schellman. She's the former director of the Harvard Business School's agribusiness program. She also sits on multiple strategic advisory boards, is a venture partner with Radical Growth, and has a degree in chemical engineering. Mary is asked to speak all over the world on agribusiness. And after listening today, you'll understand why. She begins her story the way she likes to start all of her talks.  

@@ -1,6 +1,7 @@
 ---
 title: 46: Vandana Shiva, Loans for enlightened Agriculture, mulching systems and talking no-til
 ---
+
 ### Farmerama  (2019-05-26)  
 ### Author(s): Farmerama  
 

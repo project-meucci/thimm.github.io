@@ -1,6 +1,7 @@
 ---
 title: New Zealand's Dairy Pollution Problem - how an urgent issue is driving innovation
 ---
+
 ### Agtech - So What?  (2021-05-05)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/5/4/nz-dairy-pollution-problem#t=0:00:00):**  Hello, and welcome to the AgTech So What podcast, brought to you by the Agthentic Group. I'm  Sarah Nolet. Ask any farmer what they think about having more government regulation, and  the initial reaction is probably not going to be a positive one. In this episode, we're  

@@ -1,6 +1,7 @@
 ---
 title: 37 Ian McSweeney, 400M US acres will change hands soon, how to make them regenerative?!
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-08-04)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Ep61 Alisdair Tulloch on the first-mover advantages of going carbon neutral
 ---
+
 ### Agtech - So What?  (2020-03-04)  
 
 **[0:00:00-0:00:12](https://player.whooshkaa.com/episode?id=583983#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast. Emerging technologies are rapidly  changing the global agricultural industry. We believe that this revolution is only getting  started. But there's still too much hype out there and too big of a disconnect between  

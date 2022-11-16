@@ -1,6 +1,7 @@
 ---
 title: 40 Kevin Egolf, how (retail) investors can provide land access to regen farmers
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-10-02)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 174 Thomas Hogenhaven - A regenerative investment fund for the most disruptive entrepreneurs
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-06-21)  
 ### Author(s): Koen van Seijen  
 

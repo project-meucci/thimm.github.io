@@ -1,6 +1,7 @@
 ---
 title: Building Soil While Cash Cropping with Loran Steinlage
 ---
+
 ### Regenerative Agriculture Podcast  (2020-08-04)  
 ### Author(s): John Kempf  
 

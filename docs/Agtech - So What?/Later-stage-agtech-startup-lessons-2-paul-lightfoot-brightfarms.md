@@ -1,6 +1,7 @@
 ---
 title: Later-Stage Agtech Startup Lessons #2 - Paul Lightfoot, BrightFarms
 ---
+
 ### Agtech - So What?  (2021-11-17)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/11/15/later-stage-agtech-startup-lessons-2-brightfarms#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  Today, we're continuing our series on lessons from later-stage AgTech founders.  

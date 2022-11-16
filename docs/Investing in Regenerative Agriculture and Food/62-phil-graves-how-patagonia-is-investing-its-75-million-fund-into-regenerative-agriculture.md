@@ -1,6 +1,7 @@
 ---
 title: 62 Phil Graves, how Patagonia is investing its $75 million fund into regenerative agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-10-29)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 02 Tony Lovell, regenerate soils with a 100M fund and many cows
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2016-12-20)  
 ### Author(s): Koen van Seijen  
 

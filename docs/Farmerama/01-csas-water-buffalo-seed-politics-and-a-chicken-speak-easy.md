@@ -1,6 +1,7 @@
 ---
 title: 01: CSAs, water buffalo, seed politics and a chicken speak-easy
 ---
+
 ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 

@@ -1,6 +1,7 @@
 ---
 title: What's the role of government in agtech ecosystems? Salvatore Lavallo, Abu Dhabi Investment Office
 ---
+
 ### Agtech - So What?  (2021-12-15)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/12/14/-government-in-agtech-ecosystems#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agbende Group.  I'm Sarah Nolet.  We often talk on this podcast about the game-changing role of ag tech through the lenses of investment  

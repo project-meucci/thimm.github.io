@@ -1,6 +1,7 @@
 ---
 title: Soil Wealth: growing opportunities to allocate capital to regenerative food systems
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-10-08)  
 ### Author(s): Koen van Seijen  
 

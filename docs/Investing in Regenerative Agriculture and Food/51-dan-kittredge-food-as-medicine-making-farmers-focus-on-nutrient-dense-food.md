@@ -1,6 +1,7 @@
 ---
 title: 51 Dan Kittredge, food as medicine, making farmers focus on nutrient dense food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-05-28)  
 ### Author(s): Koen van Seijen  
 

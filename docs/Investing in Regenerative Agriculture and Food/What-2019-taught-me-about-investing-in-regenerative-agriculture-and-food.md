@@ -1,6 +1,7 @@
 ---
 title: What 2019 taught me about Investing in Regenerative Agriculture and Food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-12-27)  
 ### Author(s): Koen van Seijen  
 

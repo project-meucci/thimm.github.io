@@ -1,6 +1,7 @@
 ---
 title: Sustainable Supply Chains: eliminating waste and unlocking business opportunities
 ---
+
 ### Agtech - So What?  (2021-06-02)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/sustainable-supply-chains-waste#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  The word sustainability is something we hear and talk a lot about in food and ag, but what  

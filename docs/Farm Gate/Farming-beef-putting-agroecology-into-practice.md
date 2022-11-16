@@ -1,6 +1,7 @@
 ---
 title: Farming Beef - Putting agroecology into practice
 ---
+
 ### Farm Gate  (2021-01-25)  
 ### Author(s): ffinlo Costain  
 

@@ -1,6 +1,7 @@
 ---
 title: Shorts: Celebrating #SeedWeek with seed sovereignty champions Katie Hastings and Gerard Miles
 ---
+
 ### Farmerama  (2019-11-18)  
 ### Author(s): Farmerama  
 

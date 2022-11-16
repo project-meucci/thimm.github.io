@@ -1,6 +1,7 @@
 ---
 title: 58: Cooperative land, holistic management, FMNR and the secret life of insects
 ---
+
 ### Farmerama  (2020-07-26)  
 ### Author(s): Farmerama  
 

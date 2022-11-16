@@ -1,6 +1,7 @@
 ---
 title: What's the incentive? Drivers and barriers to turning soil carbon into a commodity
 ---
+
 ### Agtech - So What?  (2021-04-07)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/4/6/whats-the-incentive#t=0:00:00):**  Hello, and welcome back to Ag Tech So What, brought to you by the Agthentic Group.  I'm your host, Sarah Nolet.  If you're paying attention to ag tech these days, you're hearing a lot about carbon.  

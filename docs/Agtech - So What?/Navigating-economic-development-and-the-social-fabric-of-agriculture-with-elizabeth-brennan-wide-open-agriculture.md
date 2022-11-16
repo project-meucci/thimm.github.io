@@ -1,6 +1,7 @@
 ---
 title: Navigating Economic Development and the Social Fabric of Agriculture, with Elizabeth Brennan, Wide Open Agriculture
 ---
+
 ### Agtech - So What?  (2022-04-20)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/4/21/wide-open-agriculture-liz-brennan-women-australian-agriculture#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolette.  No matter what part of the food or ag sector you might come to know best, I think it's  

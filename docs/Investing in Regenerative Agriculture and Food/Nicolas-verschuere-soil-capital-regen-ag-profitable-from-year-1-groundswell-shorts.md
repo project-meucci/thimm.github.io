@@ -1,6 +1,7 @@
 ---
 title: Nicolas Verschuere, Soil Capital, Regen Ag profitable from year 1 - Groundswell Shorts
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-07-03)  
 ### Author(s): Koen van Seijen  
 

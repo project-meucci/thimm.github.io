@@ -1,6 +1,7 @@
 ---
 title: 151 Shaun Paul on building a regenerative business movement that gives 90% of the wealth to local indigenous peoples
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-02-08)  
 ### Author(s): Koen van Seijen  
 

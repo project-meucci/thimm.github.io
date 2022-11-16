@@ -1,6 +1,7 @@
 ---
 title: 135 Philipp Stangl on why blending regenerative meat with plant-based is key to get animal protein consumption down and regenerative production up
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-10-12)  
 ### Author(s): Koen van Seijen  
 

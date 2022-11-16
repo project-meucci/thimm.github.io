@@ -1,6 +1,7 @@
 ---
 title: Transition Finance for Farmers with Benedikt - Bert Mulder, Tomasu
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-05-12)  
 ### Author(s): Koen van Seijen  
 

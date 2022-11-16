@@ -1,6 +1,7 @@
 ---
 title: 106 Eric Smith on why regenerative agriculture is a neglected climate opportunity for the Grantham Foundation
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-02-23)  
 ### Author(s): Koen van Seijen  
 

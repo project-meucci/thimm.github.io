@@ -1,6 +1,7 @@
 ---
 title: #30 Soil fertility and the role of trees in the agricultural transition by Francis Bucaille
 ---
+
 ### The Regenerative Agroforestry Podcast  (2021-10-31)  
 
 **0:00:00-0:00:16:**  Can we change the way we produce food to both meet the needs of humans whilst regenerating  our soils and ecosystems?  And can we do so in a way that improves the financial viability of farms?  

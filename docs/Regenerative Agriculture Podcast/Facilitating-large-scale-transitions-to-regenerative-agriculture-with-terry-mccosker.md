@@ -1,6 +1,7 @@
 ---
 title: Facilitating Large Scale Transitions to Regenerative Agriculture with Terry McCosker
 ---
+
 ### Regenerative Agriculture Podcast  (2020-09-02)  
 ### Author(s): John Kempf  
 

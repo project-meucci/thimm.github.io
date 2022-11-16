@@ -1,6 +1,7 @@
 ---
 title: 88 Elaine Ingham on why healthy soils don't need rotations
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-08-04)  
 ### Author(s): Koen van Seijen  
 

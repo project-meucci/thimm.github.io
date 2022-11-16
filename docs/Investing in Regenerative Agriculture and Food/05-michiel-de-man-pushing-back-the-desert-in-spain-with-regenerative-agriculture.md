@@ -1,6 +1,7 @@
 ---
 title: 05 Michiel de Man, pushing back the desert in Spain with regenerative agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-02-05)  
 ### Author(s): Koen van Seijen  
 

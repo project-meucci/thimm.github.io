@@ -1,6 +1,7 @@
 ---
 title: Soil Builders, 40M for carbon farming in AU and transitioning a 1000a farm using regenerative approaches
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-01-12)  
 ### Author(s): Koen van Seijen  
 

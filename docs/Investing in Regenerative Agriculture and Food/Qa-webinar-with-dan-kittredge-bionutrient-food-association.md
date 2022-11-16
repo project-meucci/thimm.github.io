@@ -1,6 +1,7 @@
 ---
 title: QA webinar with Dan Kittredge, Bionutrient Food Association
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-06-22)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 04 Joe Baird, the view of an experienced impact investor on regenerative agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2016-12-20)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: Regeneration Newsroom Podcast Oct 2019 ft Ethan Soloviev @ RFSI
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-10-04)  
 ### Author(s): Koen van Seijen  
 

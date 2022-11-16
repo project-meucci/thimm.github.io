@@ -1,6 +1,7 @@
 ---
 title: Reversing Soil Degradation with Dwayne Beck
 ---
+
 ### Regenerative Agriculture Podcast  (2020-11-03)  
 
 **[0:00:00-0:00:05](https://traffic.libsyn.com/secure/regenerativeagriculture/Dwayne_Beck_Final_Audio.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast where we talk about the  agronomic science and cultural management practices that regenerate plant health, soil  health and public health.  

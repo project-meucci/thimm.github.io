@@ -1,6 +1,7 @@
 ---
 title: Localism & nationalism
 ---
+
 ### Farm Gate  (2022-05-30)  
 ### Author(s): ffinlo Costain  
 

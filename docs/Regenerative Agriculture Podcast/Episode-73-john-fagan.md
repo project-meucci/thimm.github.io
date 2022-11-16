@@ -1,6 +1,7 @@
 ---
 title: Episode #73: John Fagan
 ---
+
 ### Regenerative Agriculture Podcast  (2021-07-07)  
 ### Author(s): John Kempf  
 

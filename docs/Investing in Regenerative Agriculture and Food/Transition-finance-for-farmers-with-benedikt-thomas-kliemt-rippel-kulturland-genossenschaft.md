@@ -1,6 +1,7 @@
 ---
 title: Transition Finance for Farmers with Benedikt - Thomas Kliemt-Rippel, Kulturland Genossenschaft
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-08-18)  
 ### Author(s): Koen van Seijen  
 

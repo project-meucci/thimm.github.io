@@ -1,6 +1,7 @@
 ---
 title: 12 min with Eric Jackson, doing over 150M in sales of organic grain and soy
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-05-23)  
 ### Author(s): Koen van Seijen  
 

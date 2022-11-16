@@ -1,6 +1,7 @@
 ---
 title: 23 Osvaldo de Falco, connecting Italian organic fruit farmers directly to consumers
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-12-01)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 29 Rufo Quintavalle, the impact investor poet of regenerative agriculture
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2018-01-31)  
 ### Author(s): Koen van Seijen  
 

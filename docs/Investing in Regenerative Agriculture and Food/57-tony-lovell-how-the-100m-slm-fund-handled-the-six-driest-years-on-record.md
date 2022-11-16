@@ -1,6 +1,7 @@
 ---
 title: 57 Tony Lovell, how the $ 100M SLM fund handled the six driest years on record
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2019-08-20)  
 ### Author(s): Koen van Seijen  
 

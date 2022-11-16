@@ -1,6 +1,7 @@
 ---
 title: 105 Elizabeth Whitlow on how to change the ag world with the gold standard of regen certification
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2021-02-16)  
 ### Author(s): Koen van Seijen  
 

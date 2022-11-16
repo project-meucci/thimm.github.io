@@ -1,6 +1,7 @@
 ---
 title: The European Chicken Commitment & KFC
 ---
+
 ### Farm Gate  (2020-02-23)  
 ### Author(s): ffinlo Costain  
 

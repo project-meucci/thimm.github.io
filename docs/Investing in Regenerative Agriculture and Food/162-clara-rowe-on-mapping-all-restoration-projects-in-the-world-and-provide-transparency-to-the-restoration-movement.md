@@ -1,6 +1,7 @@
 ---
 title: 162 Clara Rowe on mapping all restoration projects in the world and provide transparency to the restoration movement
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2022-04-05)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 15: Dairy farming, transparent pricing, cheap soil testing, Wwoofing and the first Scottish Farmhack
 ---
+
 ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 

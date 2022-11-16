@@ -1,6 +1,7 @@
 ---
 title: Shorts: Charles Schembre on Carbon Farm Plans & Monitoring Soils
 ---
+
 ### Farmerama  (2018-07-26)  
 ### Author(s): Farmerama  
 

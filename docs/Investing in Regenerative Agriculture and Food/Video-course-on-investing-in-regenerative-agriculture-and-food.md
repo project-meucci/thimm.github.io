@@ -1,6 +1,7 @@
 ---
 title: Video Course on Investing in Regenerative Agriculture and Food
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-08-10)  
 ### Author(s): Koen van Seijen  
 

@@ -1,6 +1,7 @@
 ---
 title: 05: Lettuce lawns, no-dig compost, blight-resistant potatoes, mobile polytunnels and festive guests
 ---
+
 ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  
 

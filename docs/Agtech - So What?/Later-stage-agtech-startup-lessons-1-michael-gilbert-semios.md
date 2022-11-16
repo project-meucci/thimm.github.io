@@ -1,6 +1,7 @@
 ---
 title: Later-Stage Agtech Startup Lessons #1 - Michael Gilbert, Semios
 ---
+
 ### Agtech - So What?  (2021-11-03)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/later-stage-agtech-startup-founders#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agventic Group.  I'm Sarah Nolet.  This episode is the start of a series that I'm really excited about, where we hear lessons  

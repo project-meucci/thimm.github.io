@@ -1,6 +1,7 @@
 ---
 title: More Soon
 ---
+
 ### Agtech - So What?  (2018-06-27)  
 
 **[0:00:00-0:00:03](https://player.whooshkaa.com/episode?id=357336#t=0:00:00):**  Hey, Bush Tech listeners.  Sarah here.  With episode 26, I can't believe we have done 25 episodes so far.  

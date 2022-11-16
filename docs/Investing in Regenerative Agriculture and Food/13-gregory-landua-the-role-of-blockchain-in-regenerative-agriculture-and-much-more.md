@@ -1,6 +1,7 @@
 ---
 title: 13 Gregory Landua, the role of blockchain in regenerative agriculture, and much more
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2017-06-04)  
 ### Author(s): Koen van Seijen  
 

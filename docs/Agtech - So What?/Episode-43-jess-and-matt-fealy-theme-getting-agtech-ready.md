@@ -1,6 +1,7 @@
 ---
 title: Episode 43: Jess and Matt Fealy (Theme: getting agtech ready)
 ---
+
 ### Agtech - So What?  (2019-06-11)  
 
 **[0:00:00-0:00:11](https://player.whooshkaa.com/episode?id=382797#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast. Emerging technologies are rapidly  changing the global agricultural industry. We believe that this revolution is only getting  started, but there's still too much hype out there and too big of a disconnect between  

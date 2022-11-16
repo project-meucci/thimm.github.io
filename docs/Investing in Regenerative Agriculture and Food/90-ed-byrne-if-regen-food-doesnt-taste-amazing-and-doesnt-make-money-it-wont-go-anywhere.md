@@ -1,6 +1,7 @@
 ---
 title: 90 Ed Byrne, if regen food doesn't taste amazing and doesn’t make money it won't go anywhere
 ---
+
 ### Investing in Regenerative Agriculture and Food  (2020-08-25)  
 ### Author(s): Koen van Seijen  
 

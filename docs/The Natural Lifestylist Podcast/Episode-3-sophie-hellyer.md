@@ -1,6 +1,7 @@
 ---
 title: Episode 3: Sophie Hellyer
 ---
+
 ### The Natural Lifestylist Podcast  (2019-09-15)  
 ### Author(s): Tony Riddle  
 

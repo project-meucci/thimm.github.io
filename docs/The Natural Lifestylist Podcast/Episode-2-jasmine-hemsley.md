@@ -1,6 +1,7 @@
 ---
 title: Episode 2: Jasmine Hemsley
 ---
+
 ### The Natural Lifestylist Podcast  (2019-09-08)  
 ### Author(s): Tony Riddle  
 

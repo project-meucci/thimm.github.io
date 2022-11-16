@@ -1,6 +1,7 @@
 ---
 title: Carbon neutrality and tackling misinformation in red meat - Jason Strong, Meat and Livestock Australia
 ---
+
 ### Agtech - So What?  (2021-08-11)  
 
 **[0:00:00-0:00:06](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/8/10/misinformation-carbon-neutrality-red-meat#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the AgVenti Group.  I'm Sarah Nolet.  Increasingly, meat, especially red meat, is being positioned as the bad guy when it comes  

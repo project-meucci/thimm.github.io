@@ -1,6 +1,7 @@
 ---
 title: The Tricky Business of Scaling Soil Tech - Adam Litle, CEO, Sound Agriculture
 ---
+
 ### Agtech - So What?  (2022-01-12)  
 
 **[0:00:00-0:00:05](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/1/11/the-tricky-business-of-scaling-soil-tech-adam-litle-ceo-sound-agriculture#t=0:00:00):**  Hello, and welcome to 2022!  I'm Sarah Nolet, back for another year of AgTech So What, brought to you by the Agtentik  Group.  
