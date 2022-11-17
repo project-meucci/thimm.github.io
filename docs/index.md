@@ -26,6 +26,9 @@ In Investing in Regenerative Agriculture and Food podcast show we talk to the pi
 ### [Regenerative Agriculture Podcast](https://regenerativeagriculturepodcast.com){target=_blank}
 On this show, John and his guests describe why most growers have crop challenges, and how to resolve them. You will find straightforward, actionable information about growing that can be implemented right away to increase crop quality, yields, pest resistance, and climate resilience -- to regenerate soil health, and most importantly, increase farm profitability.
 
+### [Regenerative by Design](https://feeds.transistor.fm/regenerative-by-design)
+Regenerative by Design Podcast where we get to the root of health, climate, economics and food.  Host, Joni Kindwall-Moore, is an RN, an Ethnobotanist and the founder of Snacktivist Foods. Join us on this journey as we explore the ideas, stories and personalities behind the regenerative food system movement including climate change, human health, economics and food as well as other deeply interconnected topics.
+
 ### [Regenerative-Skills/Abundant Edge Podcast](https://podcasts.apple.com/us/podcast/regenerative-skills/id1199230234)
 Regenerative Skills is based on the pursuit of a regenerative life. A lifestyle centered on stewardship of the natural world, strong connections to community, and the daily habits that bring us closer to those goals. Each week learn actionable information from experts around the world that you can apply in your own life. Together we can regenerate our planet and our communities.
 
