@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/The-flavor-of-a-better-world-the-ohio-pizza-company-you-will-love.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: The Flavor Of A Better World The Ohio Pizza Company You Will Love
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

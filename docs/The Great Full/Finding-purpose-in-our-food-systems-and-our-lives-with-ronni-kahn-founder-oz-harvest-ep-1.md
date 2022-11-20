@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Finding-purpose-in-our-food-systems-and-our-lives-with-ronni-kahn-founder-oz-harvest-ep-1.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Finding Purpose In Our Food Systems And Our Lives With Ronni Kahn Founder Oz Harvest Ep 1
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

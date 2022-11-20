@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/23-indigenous-soils-regenerative-farming-in-malawi-essex-sea-buckthorn-no-till-meet-the-farmers.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 23 Indigenous Soils Regenerative Farming In Malawi Essex Sea Buckthorn No Till Meet The Farmers
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

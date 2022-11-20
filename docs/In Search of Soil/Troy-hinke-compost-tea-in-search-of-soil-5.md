@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Troy-hinke-compost-tea-in-search-of-soil-5.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Troy Hinke Compost Tea In Search Of Soil 5
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

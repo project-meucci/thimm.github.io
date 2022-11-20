@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/96-pierre-weill-on-selling-2b-euro-a-year-of-animal-protein-as-anti-inflammatory-food.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 96 Pierre Weill On Selling 2b Euro A Year Of Animal Protein As Anti Inflammatory Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/19-traditional-methods-new-tools-future-growers-rewilding-and-cambodian-learnings.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 19 Traditional Methods New Tools Future Growers Rewilding And Cambodian Learnings
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

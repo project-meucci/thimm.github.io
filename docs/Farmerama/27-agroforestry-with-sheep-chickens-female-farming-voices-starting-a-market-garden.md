@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/27-agroforestry-with-sheep-chickens-female-farming-voices-starting-a-market-garden.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 27 Agroforestry With Sheep Chickens Female Farming Voices Starting A Market Garden
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

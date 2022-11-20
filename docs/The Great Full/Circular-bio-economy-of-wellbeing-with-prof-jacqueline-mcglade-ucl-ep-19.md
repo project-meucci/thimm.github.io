@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Circular-bio-economy-of-wellbeing-with-prof-jacqueline-mcglade-ucl-ep-19.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Circular Bio Economy Of Wellbeing With Prof Jacqueline Mcglade Ucl Ep 19
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/22-ethan-soloviev-as-demand-for-regenerative-agriculture-skyrockets-is-there-enough-supply.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 22 Ethan Soloviev As Demand For Regenerative Agriculture Skyrockets Is There Enough Supply
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/64-matteo-mazzola-the-potential-and-opportunity-of-regenerative-agriculture-in-italy.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 64 Matteo Mazzola The Potential And Opportunity Of Regenerative Agriculture In Italy
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

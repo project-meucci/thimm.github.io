@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/Shorts-tony-lovell-carbon-canny-cattle-rancher-at-atlas-of-the-future-event.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Shorts Tony Lovell Carbon Canny Cattle Rancher At Atlas Of The Future Event
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

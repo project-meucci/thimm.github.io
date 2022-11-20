@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep-60-mark-ferguson-on-science-sheep-and-the-tech-enabled-future-of-genetics.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Ep 60 Mark Ferguson On Science Sheep And The Tech Enabled Future Of Genetics
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

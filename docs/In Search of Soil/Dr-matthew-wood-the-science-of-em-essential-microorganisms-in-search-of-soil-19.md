@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-matthew-wood-the-science-of-em-essential-microorganisms-in-search-of-soil-19.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Dr Matthew Wood The Science Of Em Essential Microorganisms In Search Of Soil 19
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

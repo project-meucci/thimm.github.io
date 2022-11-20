@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Jim-hoorman-soil-health-for-crops-in-search-of-soil-2.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Jim Hoorman Soil Health For Crops In Search Of Soil 2
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

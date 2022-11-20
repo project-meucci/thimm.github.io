@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/20-halal-tayyib-meat-open-food-network-growing-veg-in-harsh-conditions-human-scale-csa-tools.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 20 Halal Tayyib Meat Open Food Network Growing Veg In Harsh Conditions Human Scale Csa Tools
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

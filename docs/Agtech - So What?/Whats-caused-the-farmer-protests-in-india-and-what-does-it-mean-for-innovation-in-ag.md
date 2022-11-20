@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Whats-caused-the-farmer-protests-in-india-and-what-does-it-mean-for-innovation-in-ag.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Whats Caused The Farmer Protests In India And What Does It Mean For Innovation In Ag
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

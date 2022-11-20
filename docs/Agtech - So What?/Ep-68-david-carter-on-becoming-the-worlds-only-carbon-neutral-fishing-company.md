@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep-68-david-carter-on-becoming-the-worlds-only-carbon-neutral-fishing-company.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Ep 68 David Carter On Becoming The Worlds Only Carbon Neutral Fishing Company
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

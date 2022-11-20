@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/158-sara-scherr-on-how-to-work-on-landscape-scale-regeneration-on-1000-landscapes-for-1-billion-people.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 158 Sara Scherr On How To Work On Landscape Scale Regeneration On 1000 Landscapes For 1 Billion People
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

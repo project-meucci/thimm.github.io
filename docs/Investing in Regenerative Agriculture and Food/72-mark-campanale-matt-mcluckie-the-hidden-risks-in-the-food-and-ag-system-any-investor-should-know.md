@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/72-mark-campanale-matt-mcluckie-the-hidden-risks-in-the-food-and-ag-system-any-investor-should-know.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 72 Mark Campanale Matt Mcluckie The Hidden Risks In The Food And Ag System Any Investor Should Know
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/67-ethan-steinberg-and-jeremy-kaufman-ready-to-invest-over-15m-into-agroforestry-systems-in-the-us.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 67 Ethan Steinberg And Jeremy Kaufman Ready To Invest Over 15m Into Agroforestry Systems In The Us
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/188-connie-bowen-instead-of-replacing-farmworkers-lets-design-agtech-to-help-the-ones-doing-the-back-breaking-work-in-the-field.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 188 Connie Bowen Instead Of Replacing Farmworkers Lets Design Agtech To Help The Ones Doing The Back Breaking Work In The Field
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

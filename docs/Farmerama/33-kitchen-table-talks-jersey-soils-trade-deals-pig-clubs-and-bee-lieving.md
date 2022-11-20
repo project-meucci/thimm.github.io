@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/33-kitchen-table-talks-jersey-soils-trade-deals-pig-clubs-and-bee-lieving.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 33 Kitchen Table Talks Jersey Soils Trade Deals Pig Clubs And Bee Lieving
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

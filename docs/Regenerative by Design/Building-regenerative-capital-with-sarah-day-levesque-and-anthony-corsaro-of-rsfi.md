@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Building-regenerative-capital-with-sarah-day-levesque-and-anthony-corsaro-of-rsfi.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Building Regenerative Capital With Sarah Day Levesque And Anthony Corsaro Of Rsfi
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

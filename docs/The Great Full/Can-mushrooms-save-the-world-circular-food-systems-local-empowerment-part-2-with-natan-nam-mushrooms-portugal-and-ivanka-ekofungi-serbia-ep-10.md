@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Can-mushrooms-save-the-world-circular-food-systems-local-empowerment-part-2-with-natan-nam-mushrooms-portugal-and-ivanka-ekofungi-serbia-ep-10.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Can Mushrooms Save The World Circular Food Systems Local Empowerment Part 2 With Natan Nam Mushrooms Portugal And Ivanka Ekofungi Serbia Ep 10
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

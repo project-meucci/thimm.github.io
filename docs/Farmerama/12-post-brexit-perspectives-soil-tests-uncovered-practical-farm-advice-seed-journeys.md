@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/12-post-brexit-perspectives-soil-tests-uncovered-practical-farm-advice-seed-journeys.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 12 Post Brexit Perspectives Soil Tests Uncovered Practical Farm Advice Seed Journeys
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

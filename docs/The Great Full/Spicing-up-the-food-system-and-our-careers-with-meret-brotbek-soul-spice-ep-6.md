@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Spicing-up-the-food-system-and-our-careers-with-meret-brotbek-soul-spice-ep-6.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Spicing Up The Food System And Our Careers With Meret Brotbek Soul Spice Ep 6
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

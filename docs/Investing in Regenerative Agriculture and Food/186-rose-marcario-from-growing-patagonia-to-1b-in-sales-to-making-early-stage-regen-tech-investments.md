@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/186-rose-marcario-from-growing-patagonia-to-1b-in-sales-to-making-early-stage-regen-tech-investments.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 186 Rose Marcario From Growing Patagonia To 1b In Sales To Making Early Stage Regen Tech Investments
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

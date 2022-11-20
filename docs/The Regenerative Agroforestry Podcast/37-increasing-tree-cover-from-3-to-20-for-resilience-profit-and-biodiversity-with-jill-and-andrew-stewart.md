@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/37-increasing-tree-cover-from-3-to-20-for-resilience-profit-and-biodiversity-with-jill-and-andrew-stewart.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 37 Increasing Tree Cover From 3 To 20 For Resilience Profit And Biodiversity With Jill And Andrew Stewart
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

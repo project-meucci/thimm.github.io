@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Diversity-and-resilience-in-our-food-systems-and-our-leadership-with-louise-mabulo-founder-the-cacao-project-the-philippines-ep-17.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Diversity And Resilience In Our Food Systems And Our Leadership With Louise Mabulo Founder The Cacao Project The Philippines Ep 17
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

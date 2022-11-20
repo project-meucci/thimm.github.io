@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/135-philipp-stangl-on-why-blending-regenerative-meat-with-plant-based-is-key-to-get-animal-protein-consumption-down-and-regenerative-production-up.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 135 Philipp Stangl On Why Blending Regenerative Meat With Plant Based Is Key To Get Animal Protein Consumption Down And Regenerative Production Up
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

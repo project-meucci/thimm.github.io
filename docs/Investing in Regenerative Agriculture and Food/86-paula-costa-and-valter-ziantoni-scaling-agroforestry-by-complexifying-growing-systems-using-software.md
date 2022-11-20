@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/86-paula-costa-and-valter-ziantoni-scaling-agroforestry-by-complexifying-growing-systems-using-software.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 86 Paula Costa And Valter Ziantoni Scaling Agroforestry By Complexifying Growing Systems Using Software
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

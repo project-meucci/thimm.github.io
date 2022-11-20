@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Navigating-the-journey-from-field-to-fork-with-scott-gail-derek-axten.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Navigating The Journey From Field To Fork With Scott Gail Derek Axten
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

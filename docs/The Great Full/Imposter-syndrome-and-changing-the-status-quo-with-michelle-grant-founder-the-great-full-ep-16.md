@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Imposter-syndrome-and-changing-the-status-quo-with-michelle-grant-founder-the-great-full-ep-16.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Imposter Syndrome And Changing The Status Quo With Michelle Grant Founder The Great Full Ep 16
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

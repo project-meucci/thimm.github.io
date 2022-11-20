@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/The-fallacy-of-mainstream-potassium-and-nitrogen-fertilization-with-richard-mulvaney.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: The Fallacy Of Mainstream Potassium And Nitrogen Fertilization With Richard Mulvaney
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

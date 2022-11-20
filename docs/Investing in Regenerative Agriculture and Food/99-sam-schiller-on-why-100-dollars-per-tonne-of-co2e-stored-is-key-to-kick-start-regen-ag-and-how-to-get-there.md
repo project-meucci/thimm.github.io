@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/99-sam-schiller-on-why-100-dollars-per-tonne-of-co2e-stored-is-key-to-kick-start-regen-ag-and-how-to-get-there.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 99 Sam Schiller On Why 100 Dollars Per Tonne Of Co2e Stored Is Key To Kick Start Regen Ag And How To Get There
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

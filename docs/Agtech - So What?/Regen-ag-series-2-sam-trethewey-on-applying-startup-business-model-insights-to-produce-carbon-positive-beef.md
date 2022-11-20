@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Regen-ag-series-2-sam-trethewey-on-applying-startup-business-model-insights-to-produce-carbon-positive-beef.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Regen Ag Series 2 Sam Trethewey On Applying Startup Business Model Insights To Produce Carbon Positive Beef
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

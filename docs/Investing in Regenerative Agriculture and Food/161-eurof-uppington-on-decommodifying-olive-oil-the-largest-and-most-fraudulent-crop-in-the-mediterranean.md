@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/161-eurof-uppington-on-decommodifying-olive-oil-the-largest-and-most-fraudulent-crop-in-the-mediterranean.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 161 Eurof Uppington On Decommodifying Olive Oil The Largest And Most Fraudulent Crop In The Mediterranean
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

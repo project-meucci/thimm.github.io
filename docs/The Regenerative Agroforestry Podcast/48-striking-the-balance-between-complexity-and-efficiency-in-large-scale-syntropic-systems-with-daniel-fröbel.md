@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/48-striking-the-balance-between-complexity-and-efficiency-in-large-scale-syntropic-systems-with-daniel-fröbel.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 48 Striking The Balance Between Complexity And Efficiency In Large Scale Syntropic Systems With Daniel Fröbel
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

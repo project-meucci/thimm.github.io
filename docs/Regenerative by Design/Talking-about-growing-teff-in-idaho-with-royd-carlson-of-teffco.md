@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Talking-about-growing-teff-in-idaho-with-royd-carlson-of-teffco.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Talking About Growing Teff In Idaho With Royd Carlson Of Teffco
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

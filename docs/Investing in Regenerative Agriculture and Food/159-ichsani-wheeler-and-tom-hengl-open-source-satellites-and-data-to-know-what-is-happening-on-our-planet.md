@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/159-ichsani-wheeler-and-tom-hengl-open-source-satellites-and-data-to-know-what-is-happening-on-our-planet.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 159 Ichsani Wheeler And Tom Hengl Open Source Satellites And Data To Know What Is Happening On Our Planet
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

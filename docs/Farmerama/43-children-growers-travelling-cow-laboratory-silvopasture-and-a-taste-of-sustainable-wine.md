@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/43-children-growers-travelling-cow-laboratory-silvopasture-and-a-taste-of-sustainable-wine.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 43 Children Growers Travelling Cow Laboratory Silvopasture And A Taste Of Sustainable Wine
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

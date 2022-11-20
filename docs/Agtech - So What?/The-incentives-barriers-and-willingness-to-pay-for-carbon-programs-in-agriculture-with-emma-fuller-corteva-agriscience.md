@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/The-incentives-barriers-and-willingness-to-pay-for-carbon-programs-in-agriculture-with-emma-fuller-corteva-agriscience.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: The Incentives Barriers And Willingness To Pay For Carbon Programs In Agriculture With Emma Fuller Corteva Agriscience
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

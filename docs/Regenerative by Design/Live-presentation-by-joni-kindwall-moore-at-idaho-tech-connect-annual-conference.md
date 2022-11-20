@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Live-presentation-by-joni-kindwall-moore-at-idaho-tech-connect-annual-conference.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Live Presentation By Joni Kindwall Moore At Idaho Tech Connect Annual Conference
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

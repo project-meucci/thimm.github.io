@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/141-clément-chenost-lessons-learned-on-investing-80m-into-vertically-integrated-agroforestry-companies-in-latam-and-subsaharan-africa.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 141 Clément Chenost Lessons Learned On Investing 80m Into Vertically Integrated Agroforestry Companies In Latam And Subsaharan Africa
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

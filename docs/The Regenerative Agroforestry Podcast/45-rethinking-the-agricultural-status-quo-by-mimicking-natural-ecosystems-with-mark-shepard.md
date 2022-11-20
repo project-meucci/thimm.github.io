@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/45-rethinking-the-agricultural-status-quo-by-mimicking-natural-ecosystems-with-mark-shepard.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 45 Rethinking The Agricultural Status Quo By Mimicking Natural Ecosystems With Mark Shepard
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

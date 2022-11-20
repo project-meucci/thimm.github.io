@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/52-paul-chatterton-wwfs-finance-lab-working-on-landscapes-of-1m-hectares-and-100m-investments.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 52 Paul Chatterton Wwfs Finance Lab Working On Landscapes Of 1m Hectares And 100m Investments
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

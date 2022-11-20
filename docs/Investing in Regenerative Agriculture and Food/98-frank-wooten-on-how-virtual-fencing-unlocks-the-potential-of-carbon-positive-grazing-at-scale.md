@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/98-frank-wooten-on-how-virtual-fencing-unlocks-the-potential-of-carbon-positive-grazing-at-scale.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 98 Frank Wooten On How Virtual Fencing Unlocks The Potential Of Carbon Positive Grazing At Scale
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

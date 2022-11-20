@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Rethinking-commodities-and-california-agriculture-in-a-changing-world-with-claudia-carter.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Rethinking Commodities And California Agriculture In A Changing World With Claudia Carter
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

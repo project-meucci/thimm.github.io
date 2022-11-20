@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/33-perennial-polycultures-and-a-500-acre-landlord-driven-agroforestry-conversion-with-scott-and-sandy-williams.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 33 Perennial Polycultures And A 500 Acre Landlord Driven Agroforestry Conversion With Scott And Sandy Williams
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

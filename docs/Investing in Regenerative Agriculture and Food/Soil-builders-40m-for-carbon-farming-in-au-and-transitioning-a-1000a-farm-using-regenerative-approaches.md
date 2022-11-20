@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/Soil-builders-40m-for-carbon-farming-in-au-and-transitioning-a-1000a-farm-using-regenerative-approaches.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: Soil Builders 40m For Carbon Farming In Au And Transitioning A 1000a Farm Using Regenerative Approaches
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---

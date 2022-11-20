@@ -1,4 +1,11 @@
----
+<script src="https://cdn.podlove.org/web-player/embed.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.readyState === 'interactive' || document.readyState === 'complete') {
+            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/192-zuzanna-zielińska-womens-hormonal-health-starts-with-regenerative-agriculture-and-the-focus-on-quality-and-nutrient-density-food.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
+          }
+        })
+  </script>---
 title: 192 Zuzanna Zielińska Womens Hormonal Health Starts With Regenerative Agriculture And The Focus On Quality And Nutrient Density Food
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
