@@ -1,3 +1,8 @@
+---
+title: Dr Johannes Lehman Soil Humus In Search Of Soil 12
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-johannes-lehman-soil-humus-in-search-of-soil-12.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Dr Johannes Lehman Soil Humus In Search Of Soil 12
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### In Search of Soil  (2021-07-07)  
 

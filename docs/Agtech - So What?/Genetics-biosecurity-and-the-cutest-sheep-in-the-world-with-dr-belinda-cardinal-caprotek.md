@@ -1,3 +1,8 @@
+---
+title: Genetics Biosecurity And The Cutest Sheep In The World With Dr Belinda Cardinal Caprotek
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Genetics-biosecurity-and-the-cutest-sheep-in-the-world-with-dr-belinda-cardinal-caprotek.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Genetics Biosecurity And The Cutest Sheep In The World With Dr Belinda Cardinal Caprotek
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Agtech - So What?  (2022-01-26)  
 

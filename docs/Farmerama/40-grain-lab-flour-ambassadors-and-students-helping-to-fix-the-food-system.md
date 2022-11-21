@@ -1,3 +1,8 @@
+---
+title: 40 Grain Lab Flour Ambassadors And Students Helping To Fix The Food System
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/40-grain-lab-flour-ambassadors-and-students-helping-to-fix-the-food-system.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 40 Grain Lab Flour Ambassadors And Students Helping To Fix The Food System
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2018-11-25)  
 ### Author(s): Farmerama  

@@ -1,3 +1,8 @@
+---
+title: 29 How Trees Can Increase Livestocks Welfare And Productivity With Lindsay Whistance
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/29-how-trees-can-increase-livestocks-welfare-and-productivity-with-lindsay-whistance.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 29 How Trees Can Increase Livestocks Welfare And Productivity With Lindsay Whistance
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Regenerative Agroforestry Podcast  (2021-10-05)  
 

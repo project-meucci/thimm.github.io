@@ -1,3 +1,8 @@
+---
+title: 35 Soil Carbon Greek Traditional Seeds Starting A Market Garden And Educators In Indiana
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/35-soil-carbon-greek-traditional-seeds-starting-a-market-garden-and-educators-in-indiana.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 35 Soil Carbon Greek Traditional Seeds Starting A Market Garden And Educators In Indiana
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2018-06-24)  
 ### Author(s): Farmerama  

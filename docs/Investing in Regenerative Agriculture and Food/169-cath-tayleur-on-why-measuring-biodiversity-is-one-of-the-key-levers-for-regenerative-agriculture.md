@@ -1,3 +1,8 @@
+---
+title: 169 Cath Tayleur On Why Measuring Biodiversity Is One Of The Key Levers For Regenerative Agriculture
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/169-cath-tayleur-on-why-measuring-biodiversity-is-one-of-the-key-levers-for-regenerative-agriculture.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 169 Cath Tayleur On Why Measuring Biodiversity Is One Of The Key Levers For Regenerative Agriculture
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2022-05-17)  
 ### Author(s): Koen van Seijen  

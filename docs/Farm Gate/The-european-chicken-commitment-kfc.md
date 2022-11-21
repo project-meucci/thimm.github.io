@@ -1,3 +1,8 @@
+---
+title: The European Chicken Commitment Kfc
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/The-european-chicken-commitment-kfc.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: The European Chicken Commitment Kfc
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farm Gate  (2020-02-23)  
 ### Author(s): ffinlo Costain  

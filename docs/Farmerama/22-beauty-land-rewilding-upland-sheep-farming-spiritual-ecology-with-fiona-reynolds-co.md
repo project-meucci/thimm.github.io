@@ -1,3 +1,8 @@
+---
+title: 22 Beauty Land Rewilding Upland Sheep Farming Spiritual Ecology With Fiona Reynolds Co
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/22-beauty-land-rewilding-upland-sheep-farming-spiritual-ecology-with-fiona-reynolds-co.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 22 Beauty Land Rewilding Upland Sheep Farming Spiritual Ecology With Fiona Reynolds Co
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2017-05-28)  
 ### Author(s): Farmerama  

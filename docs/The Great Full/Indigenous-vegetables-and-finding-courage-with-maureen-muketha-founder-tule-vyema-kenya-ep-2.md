@@ -1,3 +1,8 @@
+---
+title: Indigenous Vegetables And Finding Courage With Maureen Muketha Founder Tule Vyema Kenya Ep 2
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Indigenous-vegetables-and-finding-courage-with-maureen-muketha-founder-tule-vyema-kenya-ep-2.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Indigenous Vegetables And Finding Courage With Maureen Muketha Founder Tule Vyema Kenya Ep 2
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Great Full  (2020-10-23)  
 ### Author(s): Michelle Grant  

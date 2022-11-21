@@ -1,3 +1,8 @@
+---
+title: Carbon Neutrality And Tackling Misinformation In Red Meat Jason Strong Meat And Livestock Australia
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Carbon-neutrality-and-tackling-misinformation-in-red-meat-jason-strong-meat-and-livestock-australia.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Carbon Neutrality And Tackling Misinformation In Red Meat Jason Strong Meat And Livestock Australia
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Agtech - So What?  (2021-08-11)  
 

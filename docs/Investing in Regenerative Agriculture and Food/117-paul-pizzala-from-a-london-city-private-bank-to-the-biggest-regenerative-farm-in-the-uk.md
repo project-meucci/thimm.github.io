@@ -1,3 +1,8 @@
+---
+title: 117 Paul Pizzala From A London City Private Bank To The Biggest Regenerative Farm In The Uk
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/117-paul-pizzala-from-a-london-city-private-bank-to-the-biggest-regenerative-farm-in-the-uk.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 117 Paul Pizzala From A London City Private Bank To The Biggest Regenerative Farm In The Uk
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2021-05-07)  
 ### Author(s): Koen van Seijen  

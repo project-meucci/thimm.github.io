@@ -1,3 +1,8 @@
+---
+title: Farmers Unite For Global Statement On Gwp
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/Farmers-unite-for-global-statement-on-gwp.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Farmers Unite For Global Statement On Gwp
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farm Gate  (2020-03-06)  
 ### Author(s): ffinlo Costain  

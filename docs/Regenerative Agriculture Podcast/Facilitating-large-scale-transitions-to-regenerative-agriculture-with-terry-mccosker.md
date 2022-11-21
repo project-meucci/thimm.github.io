@@ -1,3 +1,8 @@
+---
+title: Facilitating Large Scale Transitions To Regenerative Agriculture With Terry Mccosker
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Facilitating-large-scale-transitions-to-regenerative-agriculture-with-terry-mccosker.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Facilitating Large Scale Transitions To Regenerative Agriculture With Terry Mccosker
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Regenerative Agriculture Podcast  (2020-09-02)  
 ### Author(s): John Kempf  

@@ -1,3 +1,8 @@
+---
+title: Regeneration Newsroom Podcast March 2019 Ft Ethan Soloviev
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/Regeneration-newsroom-podcast-march-2019-ft-ethan-soloviev.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Regeneration Newsroom Podcast March 2019 Ft Ethan Soloviev
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2019-03-25)  
 ### Author(s): Koen van Seijen  

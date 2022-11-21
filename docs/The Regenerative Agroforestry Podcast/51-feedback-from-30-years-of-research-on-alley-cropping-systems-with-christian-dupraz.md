@@ -1,3 +1,8 @@
+---
+title: 51 Feedback From 30 Years Of Research On Alley Cropping Systems With Christian Dupraz
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/51-feedback-from-30-years-of-research-on-alley-cropping-systems-with-christian-dupraz.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 51 Feedback From 30 Years Of Research On Alley Cropping Systems With Christian Dupraz
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Regenerative Agroforestry Podcast  (2022-11-16)  
 

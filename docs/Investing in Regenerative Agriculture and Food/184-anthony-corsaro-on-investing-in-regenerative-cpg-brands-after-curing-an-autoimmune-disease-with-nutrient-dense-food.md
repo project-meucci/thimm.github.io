@@ -1,3 +1,8 @@
+---
+title: 184 Anthony Corsaro On Investing In Regenerative Cpg Brands After Curing An Autoimmune Disease With Nutrient Dense Food
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/184-anthony-corsaro-on-investing-in-regenerative-cpg-brands-after-curing-an-autoimmune-disease-with-nutrient-dense-food.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 184 Anthony Corsaro On Investing In Regenerative Cpg Brands After Curing An Autoimmune Disease With Nutrient Dense Food
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2022-09-13)  
 ### Author(s): Koen van Seijen  

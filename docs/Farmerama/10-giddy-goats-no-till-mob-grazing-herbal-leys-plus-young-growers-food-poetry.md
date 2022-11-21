@@ -1,3 +1,8 @@
+---
+title: 10 Giddy Goats No Till Mob Grazing Herbal Leys Plus Young Growers Food Poetry
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/10-giddy-goats-no-till-mob-grazing-herbal-leys-plus-young-growers-food-poetry.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 10 Giddy Goats No Till Mob Grazing Herbal Leys Plus Young Growers Food Poetry
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2017-03-10)  
 ### Author(s): Farmerama  

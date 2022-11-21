@@ -1,3 +1,8 @@
+---
+title: 143 Oscar Hovde Berntsen On How A Global Leader In Virtual Fencing Comes From A Tiny Norwegian Town
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/143-oscar-hovde-berntsen-on-how-a-global-leader-in-virtual-fencing-comes-from-a-tiny-norwegian-town.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 143 Oscar Hovde Berntsen On How A Global Leader In Virtual Fencing Comes From A Tiny Norwegian Town
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2021-12-07)  
 ### Author(s): Koen van Seijen  

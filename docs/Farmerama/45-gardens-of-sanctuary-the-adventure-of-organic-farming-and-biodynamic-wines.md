@@ -1,3 +1,8 @@
+---
+title: 45 Gardens Of Sanctuary The Adventure Of Organic Farming And Biodynamic Wines
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/45-gardens-of-sanctuary-the-adventure-of-organic-farming-and-biodynamic-wines.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 45 Gardens Of Sanctuary The Adventure Of Organic Farming And Biodynamic Wines
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2019-04-28)  
 ### Author(s): Farmerama  

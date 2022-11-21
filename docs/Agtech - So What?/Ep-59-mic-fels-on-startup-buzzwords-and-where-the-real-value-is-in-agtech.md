@@ -1,3 +1,8 @@
+---
+title: Ep 59 Mic Fels On Startup Buzzwords And Where The Real Value Is In Agtech
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep-59-mic-fels-on-startup-buzzwords-and-where-the-real-value-is-in-agtech.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Ep 59 Mic Fels On Startup Buzzwords And Where The Real Value Is In Agtech
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Agtech - So What?  (2020-02-05)  
 

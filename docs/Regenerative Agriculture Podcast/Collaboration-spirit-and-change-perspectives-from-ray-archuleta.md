@@ -1,3 +1,8 @@
+---
+title: Collaboration Spirit And Change Perspectives From Ray Archuleta
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Collaboration-spirit-and-change-perspectives-from-ray-archuleta.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Collaboration Spirit And Change Perspectives From Ray Archuleta
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Regenerative Agriculture Podcast  (2020-04-28)  
 ### Author(s): John Kempf  

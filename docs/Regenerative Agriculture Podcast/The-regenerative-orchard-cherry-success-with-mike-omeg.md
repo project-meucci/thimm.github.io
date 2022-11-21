@@ -1,3 +1,8 @@
+---
+title: The Regenerative Orchard Cherry Success With Mike Omeg
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/The-regenerative-orchard-cherry-success-with-mike-omeg.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: The Regenerative Orchard Cherry Success With Mike Omeg
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Regenerative Agriculture Podcast  (2019-04-16)  
 ### Author(s): John Kempf  

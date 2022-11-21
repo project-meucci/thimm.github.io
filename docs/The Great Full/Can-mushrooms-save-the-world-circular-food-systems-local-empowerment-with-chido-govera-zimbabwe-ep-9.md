@@ -1,3 +1,8 @@
+---
+title: Can Mushrooms Save The World Circular Food Systems Local Empowerment With Chido Govera Zimbabwe Ep 9
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Can-mushrooms-save-the-world-circular-food-systems-local-empowerment-with-chido-govera-zimbabwe-ep-9.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Can Mushrooms Save The World Circular Food Systems Local Empowerment With Chido Govera Zimbabwe Ep 9
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Great Full  (2021-03-01)  
 ### Author(s): Michelle Grant  

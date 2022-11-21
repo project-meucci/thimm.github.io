@@ -1,3 +1,8 @@
+---
+title: Dr Gary Harman Benefits Of Trichoderma In Search Of Soil 15
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-gary-harman-benefits-of-trichoderma-in-search-of-soil-15.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Dr Gary Harman Benefits Of Trichoderma In Search Of Soil 15
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### In Search of Soil  (2021-07-28)  
 

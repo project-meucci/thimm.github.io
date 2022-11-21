@@ -1,3 +1,8 @@
+---
+title: Seeds Of Community And Seeds Of The Past With Don Scheuerman
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Seeds-of-community-and-seeds-of-the-past-with-don-scheuerman.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Seeds Of Community And Seeds Of The Past With Don Scheuerman
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Regenerative by Design  (2022-04-14)  
 ### Author(s): Joni Kindwall-Moore & Don Scheuerman  

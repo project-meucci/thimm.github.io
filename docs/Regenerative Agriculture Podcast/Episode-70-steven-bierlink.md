@@ -1,3 +1,8 @@
+---
+title: Episode 70 Steven Bierlink
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Episode-70-steven-bierlink.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Episode 70 Steven Bierlink
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Regenerative Agriculture Podcast  (2021-05-27)  
 ### Author(s): John Kempf  

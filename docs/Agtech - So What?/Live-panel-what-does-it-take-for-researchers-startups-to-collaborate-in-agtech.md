@@ -1,3 +1,8 @@
+---
+title: Live Panel What Does It Take For Researchers Startups To Collaborate In Agtech
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Live-panel-what-does-it-take-for-researchers-startups-to-collaborate-in-agtech.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Live Panel What Does It Take For Researchers Startups To Collaborate In Agtech
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Agtech - So What?  (2019-11-06)  
 

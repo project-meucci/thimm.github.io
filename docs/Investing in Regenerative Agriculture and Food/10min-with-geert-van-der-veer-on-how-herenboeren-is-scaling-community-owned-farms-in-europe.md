@@ -1,3 +1,8 @@
+---
+title: 10min With Geert Van Der Veer On How Herenboeren Is Scaling Community Owned Farms In Europe
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/10min-with-geert-van-der-veer-on-how-herenboeren-is-scaling-community-owned-farms-in-europe.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 10min With Geert Van Der Veer On How Herenboeren Is Scaling Community Owned Farms In Europe
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2020-03-24)  
 ### Author(s): Koen van Seijen  

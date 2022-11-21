@@ -1,3 +1,8 @@
+---
+title: Bringing The Public With You Lessons In Social License And Plant Genetics With Vonnie Estes
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Bringing-the-public-with-you-lessons-in-social-license-and-plant-genetics-with-vonnie-estes.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Bringing The Public With You Lessons In Social License And Plant Genetics With Vonnie Estes
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Agtech - So What?  (2021-04-21)  
 

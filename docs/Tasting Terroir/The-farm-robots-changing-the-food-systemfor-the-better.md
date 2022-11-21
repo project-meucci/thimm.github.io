@@ -1,3 +1,8 @@
+---
+title: The Farm Robots Changing The Food Systemfor The Better
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/The-farm-robots-changing-the-food-systemfor-the-better.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: The Farm Robots Changing The Food Systemfor The Better
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Tasting Terroir  (2022-10-06)  
 ### Author(s): Sara Hessenflow Harper  

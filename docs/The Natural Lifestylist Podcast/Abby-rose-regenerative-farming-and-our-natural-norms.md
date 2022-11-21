@@ -1,3 +1,8 @@
+---
+title: Abby Rose Regenerative Farming And Our Natural Norms
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Natural Lifestylist Podcast/Abby-rose-regenerative-farming-and-our-natural-norms.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Natural Lifestylist Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Abby Rose Regenerative Farming And Our Natural Norms
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Natural Lifestylist Podcast  (2021-01-21)  
 ### Author(s): Tony Riddle  

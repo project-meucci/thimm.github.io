@@ -1,3 +1,8 @@
+---
+title: Sustainable Sourcing And Building Personal Resilience With Irena Loloci Founder Rena Roots Ep 3
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Sustainable-sourcing-and-building-personal-resilience-with-irena-loloci-founder-rena-roots-ep-3.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Sustainable Sourcing And Building Personal Resilience With Irena Loloci Founder Rena Roots Ep 3
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Great Full  (2020-11-06)  
 ### Author(s): Michelle Grant  

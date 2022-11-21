@@ -1,3 +1,8 @@
+---
+title: Soil Builders Checking In With Zach Weiss On Water Cycles And A Biodynamic Baby Food Startup
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/Soil-builders-checking-in-with-zach-weiss-on-water-cycles-and-a-biodynamic-baby-food-startup.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Soil Builders Checking In With Zach Weiss On Water Cycles And A Biodynamic Baby Food Startup
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2020-09-22)  
 ### Author(s): Koen van Seijen  

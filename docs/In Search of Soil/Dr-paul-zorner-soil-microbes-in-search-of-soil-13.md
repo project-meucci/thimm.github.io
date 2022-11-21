@@ -1,3 +1,8 @@
+---
+title: Dr Paul Zorner Soil Microbes In Search Of Soil 13
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-paul-zorner-soil-microbes-in-search-of-soil-13.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Dr Paul Zorner Soil Microbes In Search Of Soil 13
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### In Search of Soil  (2021-07-14)  
 

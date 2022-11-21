@@ -1,3 +1,8 @@
+---
+title: 24 Planning And Designing Holistically With Darren Doherty
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/24-planning-and-designing-holistically-with-darren-doherty.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 24 Planning And Designing Holistically With Darren Doherty
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Regenerative Agroforestry Podcast  (2021-07-12)  
 

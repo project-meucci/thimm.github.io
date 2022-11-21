@@ -1,3 +1,8 @@
+---
+title: 104 Judith D Schwartz On Why Our Current Economic Framework Is Completely Inadequate For Regeneration At Scale
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/104-judith-d-schwartz-on-why-our-current-economic-framework-is-completely-inadequate-for-regeneration-at-scale.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 104 Judith D Schwartz On Why Our Current Economic Framework Is Completely Inadequate For Regeneration At Scale
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2021-02-09)  
 ### Author(s): Koen van Seijen  

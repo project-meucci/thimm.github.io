@@ -1,3 +1,8 @@
+---
+title: 38 Understanding A Eu Funded Pig Agroforestry System With Carl Sheard
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/38-understanding-a-eu-funded-pig-agroforestry-system-with-carl-sheard.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 38 Understanding A Eu Funded Pig Agroforestry System With Carl Sheard
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Regenerative Agroforestry Podcast  (2022-04-18)  
 

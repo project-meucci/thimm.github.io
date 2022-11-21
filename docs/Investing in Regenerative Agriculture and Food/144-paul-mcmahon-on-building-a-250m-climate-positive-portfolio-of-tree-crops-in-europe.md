@@ -1,3 +1,8 @@
+---
+title: 144 Paul Mcmahon On Building A 250m Climate Positive Portfolio Of Tree Crops In Europe
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/144-paul-mcmahon-on-building-a-250m-climate-positive-portfolio-of-tree-crops-in-europe.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 144 Paul Mcmahon On Building A 250m Climate Positive Portfolio Of Tree Crops In Europe
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2021-12-14)  
 ### Author(s): Koen van Seijen  

@@ -1,3 +1,8 @@
+---
+title: 39 The Nuances Of Farm Forestry And The Opportunities Of Integrating Biodiversity With Campbell Mercer
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/39-the-nuances-of-farm-forestry-and-the-opportunities-of-integrating-biodiversity-with-campbell-mercer.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 39 The Nuances Of Farm Forestry And The Opportunities Of Integrating Biodiversity With Campbell Mercer
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Regenerative Agroforestry Podcast  (2022-05-03)  
 

@@ -1,3 +1,8 @@
+---
+title: 10 Min With Zach Weiss Climate Change Is A Symptom Of Water Cycle Disturbance And We Can Fix It
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/10-min-with-zach-weiss-climate-change-is-a-symptom-of-water-cycle-disturbance-and-we-can-fix-it.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 10 Min With Zach Weiss Climate Change Is A Symptom Of Water Cycle Disturbance And We Can Fix It
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2019-12-03)  
 ### Author(s): Koen van Seijen  

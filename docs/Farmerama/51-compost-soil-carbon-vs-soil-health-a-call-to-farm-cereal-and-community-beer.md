@@ -1,3 +1,8 @@
+---
+title: 51 Compost Soil Carbon Vs Soil Health A Call To Farm Cereal And Community Beer
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/51-compost-soil-carbon-vs-soil-health-a-call-to-farm-cereal-and-community-beer.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 51 Compost Soil Carbon Vs Soil Health A Call To Farm Cereal And Community Beer
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2019-10-27)  
 ### Author(s): Farmerama  

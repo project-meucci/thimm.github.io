@@ -1,3 +1,8 @@
+---
+title: Season 2 Kickoff With Don Huber
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Season-2-kickoff-with-don-huber.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Season 2 Kickoff With Don Huber
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Regenerative Agriculture Podcast  (2019-02-16)  
 ### Author(s): John Kempf  

@@ -1,3 +1,8 @@
+---
+title: Kelpie Wilson Biochar In Search Of Soil 4
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Kelpie-wilson-biochar-in-search-of-soil-4.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Kelpie Wilson Biochar In Search Of Soil 4
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### In Search of Soil  (2020-11-04)  
 

@@ -1,3 +1,8 @@
+---
+title: Leading Change From The Inside Out Be The Change Program Participants Ep 7
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Leading-change-from-the-inside-out-be-the-change-program-participants-ep-7.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Leading Change From The Inside Out Be The Change Program Participants Ep 7
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Great Full  (2021-01-11)  
 ### Author(s): Michelle Grant  

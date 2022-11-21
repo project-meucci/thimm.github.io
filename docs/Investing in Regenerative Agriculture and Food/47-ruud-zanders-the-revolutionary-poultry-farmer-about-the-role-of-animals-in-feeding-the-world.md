@@ -1,3 +1,8 @@
+---
+title: 47 Ruud Zanders The Revolutionary Poultry Farmer About The Role Of Animals In Feeding The World
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/47-ruud-zanders-the-revolutionary-poultry-farmer-about-the-role-of-animals-in-feeding-the-world.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 47 Ruud Zanders The Revolutionary Poultry Farmer About The Role Of Animals In Feeding The World
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2019-04-02)  
 ### Author(s): Koen van Seijen  

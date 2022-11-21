@@ -1,3 +1,8 @@
+---
+title: Episode 6 Roger Wright
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Natural Lifestylist Podcast/Episode-6-roger-wright.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Natural Lifestylist Podcast/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Episode 6 Roger Wright
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Natural Lifestylist Podcast  (2019-09-25)  
 ### Author(s): Tony Riddle  

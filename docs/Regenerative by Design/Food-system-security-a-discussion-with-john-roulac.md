@@ -1,3 +1,8 @@
+---
+title: Food System Security A Discussion With John Roulac
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Food-system-security-a-discussion-with-john-roulac.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Food System Security A Discussion With John Roulac
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Regenerative by Design  (2022-07-28)  
 ### Author(s): Joni Kindwall-Moore & John Roulac  

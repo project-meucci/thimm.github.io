@@ -1,3 +1,8 @@
+---
+title: English Agriculture Policy Where Are We Now
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/English-agriculture-policy-where-are-we-now.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: English Agriculture Policy Where Are We Now
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farm Gate  (2020-11-10)  
 ### Author(s): ffinlo Costain  

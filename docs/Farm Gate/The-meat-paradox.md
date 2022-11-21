@@ -1,3 +1,8 @@
+---
+title: The Meat Paradox
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/The-meat-paradox.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: The Meat Paradox
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farm Gate  (2022-03-10)  
 ### Author(s): ffinlo Costain  

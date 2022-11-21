@@ -1,3 +1,8 @@
+---
+title: 21 Care Farming Globally Cover Crop Porridge Small Farmers Activism Purple Corn Pfla Poetry
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/21-care-farming-globally-cover-crop-porridge-small-farmers-activism-purple-corn-pfla-poetry.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 21 Care Farming Globally Cover Crop Porridge Small Farmers Activism Purple Corn Pfla Poetry
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2017-04-30)  
 ### Author(s): Farmerama  

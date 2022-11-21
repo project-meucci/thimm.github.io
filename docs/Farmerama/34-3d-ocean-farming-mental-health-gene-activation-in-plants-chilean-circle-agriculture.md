@@ -1,3 +1,8 @@
+---
+title: 34 3d Ocean Farming Mental Health Gene Activation In Plants Chilean Circle Agriculture
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/34-3d-ocean-farming-mental-health-gene-activation-in-plants-chilean-circle-agriculture.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 34 3d Ocean Farming Mental Health Gene Activation In Plants Chilean Circle Agriculture
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2018-05-27)  
 ### Author(s): Farmerama  

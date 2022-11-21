@@ -1,3 +1,8 @@
+---
+title: Conserving Nature And Our Wellbeing With Kavita Prakash Mani Ep 12
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Conserving-nature-and-our-wellbeing-with-kavita-prakash-mani-ep-12.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Conserving Nature And Our Wellbeing With Kavita Prakash Mani Ep 12
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Great Full  (2021-05-18)  
 ### Author(s): Michelle Grant  

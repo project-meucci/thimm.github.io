@@ -1,3 +1,8 @@
+---
+title: A New Podcast Exploring The Flavors Healthy Soil Tasting Terroir
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/A-new-podcast-exploring-the-flavors-healthy-soil-tasting-terroir.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: A New Podcast Exploring The Flavors Healthy Soil Tasting Terroir
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Tasting Terroir  (2022-08-05)  
 ### Author(s): Sara H Harper and Jill Clapperton  

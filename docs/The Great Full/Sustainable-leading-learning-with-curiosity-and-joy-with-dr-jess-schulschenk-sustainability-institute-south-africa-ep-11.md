@@ -1,3 +1,8 @@
+---
+title: Sustainable Leading Learning With Curiosity And Joy With Dr Jess Schulschenk Sustainability Institute South Africa Ep 11
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Sustainable-leading-learning-with-curiosity-and-joy-with-dr-jess-schulschenk-sustainability-institute-south-africa-ep-11.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Sustainable Leading Learning With Curiosity And Joy With Dr Jess Schulschenk Sustainability Institute South Africa Ep 11
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Great Full  (2021-04-23)  
 ### Author(s): Michelle Grant  

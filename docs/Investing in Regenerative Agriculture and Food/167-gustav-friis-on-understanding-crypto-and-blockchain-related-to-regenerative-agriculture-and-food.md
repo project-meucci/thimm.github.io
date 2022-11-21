@@ -1,3 +1,8 @@
+---
+title: 167 Gustav Friis On Understanding Crypto And Blockchain Related To Regenerative Agriculture And Food
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/167-gustav-friis-on-understanding-crypto-and-blockchain-related-to-regenerative-agriculture-and-food.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 167 Gustav Friis On Understanding Crypto And Blockchain Related To Regenerative Agriculture And Food
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2022-05-03)  
 ### Author(s): Koen van Seijen  

@@ -1,3 +1,8 @@
+---
+title: Systemic Regeneration And Feminine Leadership With Jehane Akiki Co Founder Farms Not Arms Lebanon Ep 15
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Systemic-regeneration-and-feminine-leadership-with-jehane-akiki-co-founder-farms-not-arms-lebanon-ep-15.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Systemic Regeneration And Feminine Leadership With Jehane Akiki Co Founder Farms Not Arms Lebanon Ep 15
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### The Great Full  (2021-12-17)  
 ### Author(s): Michelle Grant  

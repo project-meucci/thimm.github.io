@@ -1,3 +1,8 @@
+---
+title: 126 Nathalie Whitaker And Mike Taitoko Regenerating New Zealands Dairy Industry Focussing On Water Not Carbon
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/126-nathalie-whitaker-and-mike-taitoko-regenerating-new-zealands-dairy-industry-focussing-on-water-not-carbon.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 126 Nathalie Whitaker And Mike Taitoko Regenerating New Zealands Dairy Industry Focussing On Water Not Carbon
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2021-07-27)  
 ### Author(s): Koen van Seijen  

@@ -1,3 +1,8 @@
+---
+title: Conservatives The Environment Interview With Sam Hall
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/Conservatives-the-environment-interview-with-sam-hall.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farm Gate/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Conservatives The Environment Interview With Sam Hall
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farm Gate  (2020-01-20)  
 ### Author(s): ffinlo Costain  

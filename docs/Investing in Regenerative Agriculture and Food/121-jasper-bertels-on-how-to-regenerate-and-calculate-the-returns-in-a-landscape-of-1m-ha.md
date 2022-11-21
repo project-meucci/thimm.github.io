@@ -1,3 +1,8 @@
+---
+title: 121 Jasper Bertels On How To Regenerate And Calculate The Returns In A Landscape Of 1m Ha
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/121-jasper-bertels-on-how-to-regenerate-and-calculate-the-returns-in-a-landscape-of-1m-ha.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 121 Jasper Bertels On How To Regenerate And Calculate The Returns In A Landscape Of 1m Ha
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2021-06-01)  
 ### Author(s): Koen van Seijen  

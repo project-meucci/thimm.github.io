@@ -1,3 +1,8 @@
+---
+title: 119 Dimitri Tsitos Matteo Mazzola And Koen Van Seijen On Agroforestry Agroecology And The Role Of Finance
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/119-dimitri-tsitos-matteo-mazzola-and-koen-van-seijen-on-agroforestry-agroecology-and-the-role-of-finance.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 119 Dimitri Tsitos Matteo Mazzola And Koen Van Seijen On Agroforestry Agroecology And The Role Of Finance
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2021-05-18)  
 ### Author(s): Koen van Seijen  

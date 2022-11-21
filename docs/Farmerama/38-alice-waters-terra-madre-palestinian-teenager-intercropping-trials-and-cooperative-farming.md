@@ -1,3 +1,8 @@
+---
+title: 38 Alice Waters Terra Madre Palestinian Teenager Intercropping Trials And Cooperative Farming
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/38-alice-waters-terra-madre-palestinian-teenager-intercropping-trials-and-cooperative-farming.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 38 Alice Waters Terra Madre Palestinian Teenager Intercropping Trials And Cooperative Farming
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2018-09-30)  
 ### Author(s): Farmerama  

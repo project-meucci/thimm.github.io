@@ -1,3 +1,8 @@
+---
+title: Regenerating The Sahel And Rediscovering Forgotten Foods With Chef Pierre Thiam
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Regenerating-the-sahel-and-rediscovering-forgotten-foods-with-chef-pierre-thiam.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Regenerating The Sahel And Rediscovering Forgotten Foods With Chef Pierre Thiam
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Regenerative by Design  (2022-05-05)  
 ### Author(s): Joni Kindwall-Moore & Chef Pierre Thiam  

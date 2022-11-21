@@ -1,3 +1,8 @@
+---
+title: 69 Cop 26 Glasgow Growing Participatory Action Research And Migrant Worker Solidarity
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/69-cop-26-glasgow-growing-participatory-action-research-and-migrant-worker-solidarity.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 69 Cop 26 Glasgow Growing Participatory Action Research And Migrant Worker Solidarity
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Farmerama  (2021-11-28)  
 ### Author(s): Farmerama  

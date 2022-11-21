@@ -1,3 +1,8 @@
+---
+title: Can A Brand Be Regenerative Without Knowing The Farmer
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/Can-a-brand-be-regenerative-without-knowing-the-farmer.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: Can A Brand Be Regenerative Without Knowing The Farmer
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Tasting Terroir  (2022-10-14)  
 ### Author(s): Sara H Harper  

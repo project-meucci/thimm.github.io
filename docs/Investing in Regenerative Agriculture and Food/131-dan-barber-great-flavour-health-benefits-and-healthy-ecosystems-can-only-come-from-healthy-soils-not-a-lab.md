@@ -1,3 +1,8 @@
+---
+title: 131 Dan Barber Great Flavour Health Benefits And Healthy Ecosystems Can Only Come From Healthy Soils Not A Lab
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/131-dan-barber-great-flavour-health-benefits-and-healthy-ecosystems-can-only-come-from-healthy-soils-not-a-lab.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 131 Dan Barber Great Flavour Health Benefits And Healthy Ecosystems Can Only Come From Healthy Soils Not A Lab
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2021-09-14)  
 ### Author(s): Koen van Seijen  

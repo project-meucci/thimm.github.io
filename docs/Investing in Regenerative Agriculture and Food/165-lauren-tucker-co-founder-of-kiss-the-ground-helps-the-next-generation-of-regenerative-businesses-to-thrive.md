@@ -1,3 +1,8 @@
+---
+title: 165 Lauren Tucker Co Founder Of Kiss The Ground Helps The Next Generation Of Regenerative Businesses To Thrive
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/165-lauren-tucker-co-founder-of-kiss-the-ground-helps-the-next-generation-of-regenerative-businesses-to-thrive.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 165 Lauren Tucker Co Founder Of Kiss The Ground Helps The Next Generation Of Regenerative Businesses To Thrive
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2022-04-19)  
 ### Author(s): Koen van Seijen  

@@ -1,3 +1,8 @@
+---
+title: 146 Paul Chatterton On Working To Finance The Regeneration Of 85m Hectares Across 16 Landscapes
+description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
+---
+
 <script src="https://cdn.podlove.org/web-player/embed.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -5,10 +10,7 @@
             podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/146-paul-chatterton-on-working-to-finance-the-regeneration-of-85m-hectares-across-16-landscapes.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
           }
         })
-  </script>---
-title: 146 Paul Chatterton On Working To Finance The Regeneration Of 85m Hectares Across 16 Landscapes
-description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
----
+  </script>
 
 ### Investing in Regenerative Agriculture and Food  (2022-01-04)  
 ### Author(s): Koen van Seijen  
