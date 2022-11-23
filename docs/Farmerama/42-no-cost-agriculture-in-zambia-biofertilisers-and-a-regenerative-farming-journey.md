@@ -3,15 +3,6 @@ title: 42 No Cost Agriculture In Zambia Biofertilisers And A Regenerative Farmin
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/42-no-cost-agriculture-in-zambia-biofertilisers-and-a-regenerative-farming-journey.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Farmerama  (2019-01-27)  
 ### Author(s): Farmerama  
 

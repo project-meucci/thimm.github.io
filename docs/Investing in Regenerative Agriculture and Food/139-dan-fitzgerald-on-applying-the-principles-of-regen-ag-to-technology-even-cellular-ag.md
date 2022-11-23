@@ -3,15 +3,6 @@ title: 139 Dan Fitzgerald On Applying The Principles Of Regen Ag To Technology E
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/139-dan-fitzgerald-on-applying-the-principles-of-regen-ag-to-technology-even-cellular-ag.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Investing in Regenerative Agriculture and Food  (2021-11-09)  
 ### Author(s): Koen van Seijen  
 

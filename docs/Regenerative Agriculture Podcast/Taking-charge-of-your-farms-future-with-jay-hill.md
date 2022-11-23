@@ -3,15 +3,6 @@ title: Taking Charge Of Your Farms Future With Jay Hill
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Taking-charge-of-your-farms-future-with-jay-hill.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative Agriculture Podcast  (2020-12-08)  
 
 **[0:00:00-0:00:15](https://traffic.libsyn.com/secure/regenerativeagriculture/RAP_S3_Ep20_Jay_Hill_Final_Audio.mp3#t=0:00:00):**  Hi, friends. This is John. Welcome back to the Regenerative Agriculture podcast, where we talk  about agronomic science and cultural management practices that regenerate plant health, that  regenerate soil health, and ultimately that regenerate public health. My guest for this  

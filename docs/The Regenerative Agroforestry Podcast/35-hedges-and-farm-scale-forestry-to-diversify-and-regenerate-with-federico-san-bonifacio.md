@@ -3,15 +3,6 @@ title: 35 Hedges And Farm Scale Forestry To Diversify And Regenerate With Federi
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/35-hedges-and-farm-scale-forestry-to-diversify-and-regenerate-with-federico-san-bonifacio.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Regenerative Agroforestry Podcast/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### The Regenerative Agroforestry Podcast  (2022-03-02)  
 
 **0:00:00-0:00:23:**  Can we change the way we produce food to both meet the needs of humans whilst regenerating  our soils and ecosystems?  And can we do so in a way that improves the financial viability of farms?  

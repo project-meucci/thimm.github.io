@@ -3,15 +3,6 @@ title: 25 Soil Carbon Uncovered Chef Farmer Connections Happy Bees Homegrown Veg
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/25-soil-carbon-uncovered-chef-farmer-connections-happy-bees-homegrown-veg.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Farmerama  (2017-08-26)  
 ### Author(s): Farmerama  
 

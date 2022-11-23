@@ -3,15 +3,6 @@ title: 23 Osvaldo De Falco Connecting Italian Organic Fruit Farmers Directly To 
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/23-osvaldo-de-falco-connecting-italian-organic-fruit-farmers-directly-to-consumers.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Investing in Regenerative Agriculture and Food  (2017-12-01)  
 ### Author(s): Koen van Seijen  
 

@@ -3,15 +3,6 @@ title: Randy Ritchie Compost In Search Of Soil 10
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Randy-ritchie-compost-in-search-of-soil-10.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2020-12-16)  
 
 **[0:00:00-0:00:25](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-10-RandyRitchie-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Compost  It's something that we all use and we love.  

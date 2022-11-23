@@ -3,15 +3,6 @@ title: Bonus The Economics Of Valuing Natural Capital Ken Henry Former Treasury 
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Bonus-the-economics-of-valuing-natural-capital-ken-henry-former-treasury-secretary-of-australia.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-09-29)  
 
 **[0:00:00-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/9/28/the-economics-of-valuing-natural-capital-ken-henry#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by The Agthentic Group.  In this bonus episode, I'm handing over the interviewing reins to Matthew Pryor, my business  partner, but just for this episode.  

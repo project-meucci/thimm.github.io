@@ -3,15 +3,6 @@ title: Rethinking Plant Physiology And Absorption Of Nutrients From The Soil Wit
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Rethinking-plant-physiology-and-absorption-of-nutrients-from-the-soil-with-gerald-pollack.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative Agriculture Podcast  (2018-06-29)  
 ### Author(s): John Kempf  
 

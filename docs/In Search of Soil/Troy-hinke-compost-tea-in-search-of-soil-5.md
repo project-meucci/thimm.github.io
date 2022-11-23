@@ -3,15 +3,6 @@ title: Troy Hinke Compost Tea In Search Of Soil 5
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Troy-hinke-compost-tea-in-search-of-soil-5.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2020-11-11)  
 
 **[0:00:00-0:00:27](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-05-TroyHinke-CompostTea-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Compost tea.  What is it and is it as valuable as people claim it to be?  

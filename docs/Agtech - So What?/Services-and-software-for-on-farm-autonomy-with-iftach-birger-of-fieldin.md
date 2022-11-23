@@ -3,15 +3,6 @@ title: Services And Software For On Farm Autonomy With Iftach Birger Of Fieldin
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Services-and-software-for-on-farm-autonomy-with-iftach-birger-of-fieldin.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-05-04)  
 
 **[0:00:00-0:00:11](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/5/5/farm-autonomy-fieldin-iftach#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agbenthic Group.  I'm Sarah Nolet.  Autonomous equipment has come a long way in a relatively short period of time, and the  

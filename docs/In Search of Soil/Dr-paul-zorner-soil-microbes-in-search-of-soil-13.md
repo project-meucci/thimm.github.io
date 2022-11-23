@@ -3,15 +3,6 @@ title: Dr Paul Zorner Soil Microbes In Search Of Soil 13
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-paul-zorner-soil-microbes-in-search-of-soil-13.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2021-07-14)  
 
 **[0:00:00-0:00:28](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-13-PaulZorner-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Sometimes nature works in mysterious ways.  For example, you can add one microbe to a soil and you might not see any results at  

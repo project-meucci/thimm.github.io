@@ -3,15 +3,6 @@ title: 191 Josh Heyneke Small Scale Farmers Going Potentially Bankrupt With Rege
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/191-josh-heyneke-small-scale-farmers-going-potentially-bankrupt-with-regen-duck-eggs-and-fertiliser.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Investing in Regenerative Agriculture and Food  (2022-11-01)  
 ### Author(s): Koen van Seijen  
 

@@ -3,15 +3,6 @@ title: Whats The Incentive Drivers And Barriers To Turning Soil Carbon Into A Co
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Whats-the-incentive-drivers-and-barriers-to-turning-soil-carbon-into-a-commodity.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-04-07)  
 
 **[0:00:00-0:00:12](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/4/6/whats-the-incentive#t=0:00:00):**  Hello, and welcome back to Ag Tech So What, brought to you by the Agthentic Group.  I'm your host, Sarah Nolet.  If you're paying attention to ag tech these days, you're hearing a lot about carbon.  

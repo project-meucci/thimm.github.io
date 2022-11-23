@@ -3,15 +3,6 @@ title: Biologicals Snake Oil Or Science And How Do We Know
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Biologicals-snake-oil-or-science-and-how-do-we-know.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-06-30)  
 
 **[0:00:00-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/6/28/biologicals-snake-oil-or-science#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agfentik Group.  You've probably heard of these seemingly magical inputs that farmers are told they can put  on their seeds or crops, and then suddenly the plant is heat resistant or no longer waterlogged.  

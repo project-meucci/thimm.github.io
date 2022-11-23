@@ -3,15 +3,6 @@ title: Can A Small Non Profit Farm Near Nyc Change The Food System
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Can-a-small-non-profit-farm-near-nyc-change-the-food-system.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-02-24)  
 
 **[0:00:00-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/2/24/can-a-small-non-profit-farm-near-nyc-change-the-food-system#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by The Agthentic Group.  I'm your host, Sarah Nolette.  Today we're exploring whether and how a small nonprofit farm just north of New York City  

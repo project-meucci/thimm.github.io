@@ -3,15 +3,6 @@ title: 181 Arizona Muse From Walking Fashion Shows For Prada To Global Activist 
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/181-arizona-muse-from-walking-fashion-shows-for-prada-to-global-activist-for-biodynamic-farming.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Investing in Regenerative Agriculture and Food/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Investing in Regenerative Agriculture and Food  (2022-08-09)  
 ### Author(s): Koen van Seijen  
 

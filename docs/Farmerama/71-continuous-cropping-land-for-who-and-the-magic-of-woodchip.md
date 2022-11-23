@@ -3,15 +3,6 @@ title: 71 Continuous Cropping Land For Who And The Magic Of Woodchip
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/71-continuous-cropping-land-for-who-and-the-magic-of-woodchip.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Farmerama  (2022-01-30)  
 ### Author(s): Farmerama  
 

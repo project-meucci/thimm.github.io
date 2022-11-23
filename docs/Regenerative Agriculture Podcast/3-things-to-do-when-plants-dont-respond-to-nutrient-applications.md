@@ -3,15 +3,6 @@ title: 3 Things To Do When Plants Dont Respond To Nutrient Applications
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/3-things-to-do-when-plants-dont-respond-to-nutrient-applications.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative Agriculture Podcast  (2018-07-31)  
 ### Author(s): John Kempf  
 

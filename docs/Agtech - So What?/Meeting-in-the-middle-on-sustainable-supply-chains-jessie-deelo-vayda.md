@@ -3,15 +3,6 @@ title: Meeting In The Middle On Sustainable Supply Chains Jessie Deelo Vayda
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Meeting-in-the-middle-on-sustainable-supply-chains-jessie-deelo-vayda.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-03-09)  
 
 **[0:00:00-0:00:11](https://player.whooshkaa.com/episode?id=967349#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Icthentic Group.  I'm Sarah Nollet.  At this point, it seems like pretty much every major food company has announced their commitment  

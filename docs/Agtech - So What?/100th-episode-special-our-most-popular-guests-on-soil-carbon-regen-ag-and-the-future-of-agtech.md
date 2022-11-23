@@ -3,15 +3,6 @@ title: 100th Episode Special Our Most Popular Guests On Soil Carbon Regen Ag And
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/100th-episode-special-our-most-popular-guests-on-soil-carbon-regen-ag-and-the-future-of-agtech.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-09-22)  
 
 **[0:00:00-0:00:09](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/9/21/100th-episode-special#t=0:00:00):**  Hello and welcome to a very special episode of Ag Tech So What brought to you by the Ag  Fenty Group.  I'm Sarah Nolette.  

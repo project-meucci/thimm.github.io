@@ -3,15 +3,6 @@ title: Not A Cheerleader Not The Enemy Journalist Sarah Mock On Making Windows I
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Not-a-cheerleader-not-the-enemy-journalist-sarah-mock-on-making-windows-in-the-walls-around-agriculture.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-10-07)  
 
 **[0:00:00-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/not-a-cheerleader-not-the-enemy-sarah-mock#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast, brought to you by Agthentic. I'm  Sarah Nolet. On this episode, we meet a woman who is not afraid to shine a light on some  controversial topics in agriculture, even when she offends people along the way. Sarah  

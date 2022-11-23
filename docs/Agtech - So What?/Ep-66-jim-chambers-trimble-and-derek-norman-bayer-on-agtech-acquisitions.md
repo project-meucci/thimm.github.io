@@ -3,15 +3,6 @@ title: Ep 66 Jim Chambers Trimble And Derek Norman Bayer On Agtech Acquisitions
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep-66-jim-chambers-trimble-and-derek-norman-bayer-on-agtech-acquisitions.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-05-06)  
 
 **[0:00:00-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/5/6/ep-66-jim-chambers-trimble-and-derek-norman-bayer-on-agtech-acquisitions#t=0:00:00):**  Welcome back to the Ag Tech Silhouette podcast brought to you by Agthentik.  I'm your host and Agthentik founding partner, Sarah Nolet.  Today we are bringing you another live episode that was recorded at a virtual event I co-hosted  

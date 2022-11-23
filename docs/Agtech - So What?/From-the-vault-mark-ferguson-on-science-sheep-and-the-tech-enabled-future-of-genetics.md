@@ -3,15 +3,6 @@ title: From The Vault Mark Ferguson On Science Sheep And The Tech Enabled Future
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/From-the-vault-mark-ferguson-on-science-sheep-and-the-tech-enabled-future-of-genetics.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-12-22)  
 
 **[0:00:00-0:00:12](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/2/16/ep-60-mark-ferguson-on-science-sheep-and-the-tech-enabled-future-of-genetics#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the AgPentate Group.  I'm Sarah Nolet.  As we head off for the holidays and the summer here in Australia, we thought we'd bring back  

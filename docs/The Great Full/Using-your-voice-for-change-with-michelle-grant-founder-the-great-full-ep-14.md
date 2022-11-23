@@ -3,15 +3,6 @@ title: Using Your Voice For Change With Michelle Grant Founder The Great Full Ep
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Using-your-voice-for-change-with-michelle-grant-founder-the-great-full-ep-14.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### The Great Full  (2021-11-28)  
 ### Author(s): Michelle Grant  
 

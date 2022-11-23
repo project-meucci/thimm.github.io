@@ -3,15 +3,6 @@ title: Regen Ag Series 2 Sam Trethewey On Applying Startup Business Model Insigh
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Regen-ag-series-2-sam-trethewey-on-applying-startup-business-model-insights-to-produce-carbon-positive-beef.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-07-29)  
 
 **[0:00:00-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/sam-tretheway-on-carbon-positive-beef#t=0:00:00):**  Welcome back to the Ag Tech So What podcast, brought to you by Agthentic.  I'm your host, Sarah Nolet.  Today we are back with episode two in our series on regenerative agriculture or regen  

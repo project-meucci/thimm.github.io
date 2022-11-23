@@ -3,15 +3,6 @@ title: Rethinking Commodities And California Agriculture In A Changing World Wit
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Rethinking-commodities-and-california-agriculture-in-a-changing-world-with-claudia-carter.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative by Design  (2022-04-29)  
 ### Author(s): Joni Kindwall-Moore & Claudia Carter  
 

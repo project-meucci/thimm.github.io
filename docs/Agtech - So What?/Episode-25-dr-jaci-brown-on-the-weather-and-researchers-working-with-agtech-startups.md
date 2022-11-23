@@ -3,15 +3,6 @@ title: Episode 25 Dr Jaci Brown On The Weather And Researchers Working With Agte
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Episode-25-dr-jaci-brown-on-the-weather-and-researchers-working-with-agtech-startups.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2018-06-18)  
 
 **[0:00:00-0:00:15](https://player.whooshkaa.com/episode?id=357337#t=0:00:00):**  Hi everyone, you're listening to BushTech, an agtech podcast that gets to the so what  of agtech. We'll bring you interesting things from interesting people and I'm one of your  co-hosts Simon Mathewson. And I'm your other co-host Sarah Nolette. On this podcast we  

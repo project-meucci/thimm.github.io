@@ -3,15 +3,6 @@ title: Farmers And Startups Lessons And Tips For Collaborating
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Farmers-and-startups-lessons-and-tips-for-collaborating.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-10-06)  
 
 **[0:00:00-0:00:13](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/10/5/farmers-and-startups-tips-for-collaboration#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agtenti Group.  I'm Sarah Nolet.  For the global ag tech ecosystem to grow and solve real problems for farmers and our food  

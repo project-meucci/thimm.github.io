@@ -3,15 +3,6 @@ title: Supplying Sustainable Beef To Mcdonalds With Nicole Johnson Hoffman Of Os
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Supplying-sustainable-beef-to-mcdonalds-with-nicole-johnson-hoffman-of-osi-group.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-08-26)  
 
 **[0:00:00-0:00:19](https://www.agtechsowhat.com/agtechsowhatepisodes/can-big-brands-like-mcdonalds-be-global-leaders-in-sustainability#t=0:00:00):**  Welcome to the AgTech So What podcast brought to you by Agthentic. I'm your host, Sarah  Nolette. Today we are taking a sidestep from our Regen Ag series to bring you a guest who  is a leader in sustainability in the global beef industry. She has spent her career in  

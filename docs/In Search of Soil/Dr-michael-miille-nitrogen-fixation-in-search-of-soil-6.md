@@ -3,15 +3,6 @@ title: Dr Michael Miille Nitrogen Fixation In Search Of Soil 6
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-michael-miille-nitrogen-fixation-in-search-of-soil-6.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2020-11-18)  
 
 **[0:00:00-0:00:32](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-06-JOYN-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  For the past 50 years, the Holy Grail and Agricultural Research has been getting nitrogen-fixing  bacteria to form a relationship with non-legumes.  

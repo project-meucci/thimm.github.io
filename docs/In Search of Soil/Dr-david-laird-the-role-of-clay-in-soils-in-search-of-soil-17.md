@@ -3,15 +3,6 @@ title: Dr David Laird The Role Of Clay In Soils In Search Of Soil 17
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-david-laird-the-role-of-clay-in-soils-in-search-of-soil-17.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2021-08-11)  
 
 **[0:00:00-0:00:23](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-17-DavidLaird-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Clay.  What is it?  

@@ -3,15 +3,6 @@ title: Ep 64 Pete Nelson On Partnering With Growers To Build Better Agtech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep-64-pete-nelson-on-partnering-with-growers-to-build-better-agtech.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-04-08)  
 
 **[0:00:00-0:00:12](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/4/8/ep-64-pete-nelson-on-partnering-with-growers-to-build-better-agtech#t=0:00:00):**  Hello, and welcome back to the AgTech So What podcast, brought to you by Agthentik.  I'm your host, Sarah Nolet.  And today I'm joined by a guest host, Cass Mao.  

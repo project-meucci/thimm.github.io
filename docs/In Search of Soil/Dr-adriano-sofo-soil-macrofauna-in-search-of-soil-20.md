@@ -3,15 +3,6 @@ title: Dr Adriano Sofo Soil Macrofauna In Search Of Soil 20
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-adriano-sofo-soil-macrofauna-in-search-of-soil-20.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2021-09-01)  
 
 **[0:00:00-0:00:26](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-20-AdrianoSofo-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Soil macrophauna.  Earthworms, beetles, ants, termites.  

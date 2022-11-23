@@ -3,15 +3,6 @@ title: 47 Women Farmers In Chile Woodchip Pasture Happy Pigs And Regenerative Vi
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/47-women-farmers-in-chile-woodchip-pasture-happy-pigs-and-regenerative-vineyard-management.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Farmerama  (2019-06-30)  
 ### Author(s): Farmerama  
 

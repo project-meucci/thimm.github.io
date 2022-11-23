@@ -3,15 +3,6 @@ title: Legacy Finance Eyes Agtech With Wells Fargo
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Legacy-finance-eyes-agtech-with-wells-fargo.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-10-05)  
 
 **[0:00:00-0:00:11](https://tenacious.ventures/podcast-episodes/legacy-finance-eyes-agtech-with-wells-fargo#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by Tenacious Ventures.  I'm Sarah Nolette.  A quick note, if you're excited to hear how fun2 fundraising is going, make sure you sit  

@@ -3,15 +3,6 @@ title: Dr Gabe Kenne Regenerative Soils In Search Of Soil 14
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-gabe-kenne-regenerative-soils-in-search-of-soil-14.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2021-07-21)  
 
 **[0:00:00-0:00:30](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-14-GabeKenne-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Today it's all about the science of no-till and cover cropping based on real world experiences  with Gabe Kenney of the University of South Carolina.  

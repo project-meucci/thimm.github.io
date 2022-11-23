@@ -3,15 +3,6 @@ title: 46 Vandana Shiva Loans For Enlightened Agriculture Mulching Systems And T
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/46-vandana-shiva-loans-for-enlightened-agriculture-mulching-systems-and-talking-no-til.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Farmerama/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Farmerama  (2019-05-26)  
 ### Author(s): Farmerama  
 

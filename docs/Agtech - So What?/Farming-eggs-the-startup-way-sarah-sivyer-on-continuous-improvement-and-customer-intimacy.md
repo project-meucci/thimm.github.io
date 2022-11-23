@@ -3,15 +3,6 @@ title: Farming Eggs The Startup Way Sarah Sivyer On Continuous Improvement And C
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Farming-eggs-the-startup-way-sarah-sivyer-on-continuous-improvement-and-customer-intimacy.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-11-18)  
 
 **[0:00:00-0:00:13](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/11/18/farming-eggs-the-startup-way-sarah-sivyer#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast, brought to you by the Agthentic Group.  I'm your host, Sarah Nolet.  In this episode, we asked, how do you like your eggs?  

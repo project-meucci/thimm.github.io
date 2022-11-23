@@ -3,15 +3,6 @@ title: Dr Elaine Ingham Soil Science In Search Of Soil 1
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-elaine-ingham-soil-science-in-search-of-soil-1.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2020-10-14)  
 
 **[0:00:00-0:00:30](https://insearchofsoil.libsyn.com/full-episode#t=0:00:00):**  So, we meet again.  Today's episode of In Search of Soil takes us to the rhizosphere.  The area of soil where plants and roots come together to interact.  

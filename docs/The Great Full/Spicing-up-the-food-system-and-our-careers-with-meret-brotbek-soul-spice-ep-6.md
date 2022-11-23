@@ -3,15 +3,6 @@ title: Spicing Up The Food System And Our Careers With Meret Brotbek Soul Spice 
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Spicing-up-the-food-system-and-our-careers-with-meret-brotbek-soul-spice-ep-6.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### The Great Full  (2020-12-19)  
 ### Author(s): Michelle Grant  
 

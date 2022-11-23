@@ -3,15 +3,6 @@ title: Regen Ag Series 4 Greenwashing Or Good Business Live Debate
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Regen-ag-series-4-greenwashing-or-good-business-live-debate.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-09-09)  
 
 **[0:00:00-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/9/9/regen-ag-is-it-greenwashing-or-good-business#t=0:00:00):**  Hello and welcome back to the AgTech So What podcast, brought to you by Agthentic.  I'm your host, Sarah Nollet.  This episode jumps back to our Regen Ag series, this time with a debate.  

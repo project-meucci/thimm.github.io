@@ -3,15 +3,6 @@ title: Episode 35 Evokeag Special 2 Live Panel Faster Smarter Farms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Episode-35-evokeag-special-2-live-panel-faster-smarter-farms.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2019-03-09)  
 
 **[0:00:00-0:00:35](https://player.whooshkaa.com/episode?id=357325#t=0:00:00):**  Hello and welcome to the AgTech So What podcast. Emerging technologies are rapidly changing  the global agricultural industry. We believe that this revolution is only getting started.  But there's still too much hype out there and too big of a disconnect between Ag and  

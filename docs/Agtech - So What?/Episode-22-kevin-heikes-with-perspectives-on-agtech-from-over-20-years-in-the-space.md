@@ -3,15 +3,6 @@ title: Episode 22 Kevin Heikes With Perspectives On Agtech From Over 20 Years In
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Episode-22-kevin-heikes-with-perspectives-on-agtech-from-over-20-years-in-the-space.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2018-05-23)  
 
 **[0:00:00-0:00:10](https://player.whooshkaa.com/episode?id=357340#t=0:00:00):**  Hi everyone, you're listening to BushTech, an agtech podcast that gets to the so what  of agtech.  We'll bring you interesting things from interesting people and I'm one of your co-hosts,  

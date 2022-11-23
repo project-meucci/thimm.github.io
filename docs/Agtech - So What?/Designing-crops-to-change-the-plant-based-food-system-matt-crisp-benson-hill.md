@@ -3,15 +3,6 @@ title: Designing Crops To Change The Plant Based Food System Matt Crisp Benson H
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Designing-crops-to-change-the-plant-based-food-system-matt-crisp-benson-hill.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-08-25)  
 
 **[0:00:00-0:00:13](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/8/24/designing-crops-to-change-the-plant-based-food-system#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  We often hear agtech startups making some pretty bold statements, like wanting to feed  

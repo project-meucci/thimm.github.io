@@ -3,15 +3,6 @@ title: The Future Of Insurance In Agriculture With Damon Johnson Global Ag Risk 
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/The-future-of-insurance-in-agriculture-with-damon-johnson-global-ag-risk-solutions.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-06-15)  
 
 **[0:00:00-0:00:12](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/06/16/parametric-crop-insurance-damon-johnson#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolette.  In production agriculture, especially for commodity grains, producers face the ever  

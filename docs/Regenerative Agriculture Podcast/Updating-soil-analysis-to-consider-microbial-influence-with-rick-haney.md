@@ -3,15 +3,6 @@ title: Updating Soil Analysis To Consider Microbial Influence With Rick Haney
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Updating-soil-analysis-to-consider-microbial-influence-with-rick-haney.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative Agriculture Podcast  (2020-10-06)  
 
 **[0:00:00-0:00:14](https://traffic.libsyn.com/secure/regenerativeagriculture/S3EP18_RICK_HANEY_AUDIO_FINAL.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture Podcast where we talk about the  agronomic science and cultural management practices that regenerate plant health, soil  health, and ultimately public health.  

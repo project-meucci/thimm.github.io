@@ -3,15 +3,6 @@ title: Ep 62 Allison Kopf On Indoor Ag Business Models And Women In Agtech Rebro
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep-62-allison-kopf-on-indoor-ag-business-models-and-women-in-agtech-rebroadcast.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-03-18)  
 
 **[0:00:00-0:00:14](https://player.whooshkaa.com/episode?id=597281#t=0:00:00):**  Welcome back to the AgTech So What podcast, brought to you by AgThentic.  I'm your host, Sarah Nolet.  If you've been listening with us for a while, you'll have noticed that we removed the intro.  

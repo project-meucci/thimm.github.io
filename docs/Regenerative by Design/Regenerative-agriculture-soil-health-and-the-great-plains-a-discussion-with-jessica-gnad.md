@@ -3,15 +3,6 @@ title: Regenerative Agriculture Soil Health And The Great Plains A Discussion Wi
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Regenerative-agriculture-soil-health-and-the-great-plains-a-discussion-with-jessica-gnad.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative by Design  (2022-07-21)  
 ### Author(s): Joni Kindwall-Moore  
 

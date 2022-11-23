@@ -3,15 +3,6 @@ title: Bonus Episode The Five Forces Shaping The Future Of Food And Ag With Sara
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Bonus-episode-the-five-forces-shaping-the-future-of-food-and-ag-with-sarah-nolet.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-06-09)  
 
 **[0:00:00-0:00:14](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/6/9/the-five-forces-shaping-the-future-of-food-and-ag#t=0:00:00):**  Hey, it's Kirsten Diprose here for AgTech So What brought to you by the Agthentic Group.  This is a bonus episode.  It's something new we're trying out and we'd love to hear what you think.  

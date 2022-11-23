@@ -3,15 +3,6 @@ title: Episode 39 An Update From Agtech So What
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Episode-39-an-update-from-agtech-so-what.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2019-04-08)  
 
 **[0:00:00-0:00:17](https://player.whooshkaa.com/episode?id=357501#t=0:00:00):**  Hello and welcome back to Ag Tech So What. My name is Sarah Nolette, your host and the  founder of AgTentic, a boutique strategy advisory firm working to help bring more practical,  useful technologies and new business models to agriculture. This episode is a bit different  

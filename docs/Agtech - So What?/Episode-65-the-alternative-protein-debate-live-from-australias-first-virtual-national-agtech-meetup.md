@@ -3,15 +3,6 @@ title: Episode 65 The Alternative Protein Debate Live From Australias First Virt
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Episode-65-the-alternative-protein-debate-live-from-australias-first-virtual-national-agtech-meetup.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-04-22)  
 
 **[0:00:00-0:00:15](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/4/22/episode-65-the-alternative-protein-debate-live-from-australias-first-virtual-national-agtech-meetup#t=0:00:00):**  Welcome back to the Ag Tech So What! podcast brought to you by Agthentic.  I'm your host, Sarah Nolet.  Today's episode is a slightly edited recording of the first national virtual Ag Tech meetup.  

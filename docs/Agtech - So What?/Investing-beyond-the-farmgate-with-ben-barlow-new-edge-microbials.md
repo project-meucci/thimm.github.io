@@ -3,15 +3,6 @@ title: Investing Beyond The Farmgate With Ben Barlow New Edge Microbials
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Investing-beyond-the-farmgate-with-ben-barlow-new-edge-microbials.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-03-23)  
 
 **[0:00:00-0:00:11](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/23/ben-barlow-new-edge-microbials-biologicals-agriculture#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the AgPente Group.  I'm Sarah Nolet.  Right now, there are a lot of existential threats facing global agriculture.  

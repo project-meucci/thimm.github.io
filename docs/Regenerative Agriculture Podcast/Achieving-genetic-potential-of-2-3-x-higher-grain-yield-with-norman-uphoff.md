@@ -3,15 +3,6 @@ title: Achieving Genetic Potential Of 2 3 X Higher Grain Yield With Norman Uphof
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Achieving-genetic-potential-of-2-3-x-higher-grain-yield-with-norman-uphoff.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative Agriculture Podcast  (2020-03-17)  
 ### Author(s): John Kempf  
 

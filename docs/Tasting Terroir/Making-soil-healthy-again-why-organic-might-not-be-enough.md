@@ -3,15 +3,6 @@ title: Making Soil Healthy Again Why Organic Might Not Be Enough
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/Making-soil-healthy-again-why-organic-might-not-be-enough.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Tasting Terroir/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Tasting Terroir  (2022-08-24)  
 ### Author(s): Sara (Hessenflow) Harper  
 

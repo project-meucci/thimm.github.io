@@ -3,15 +3,6 @@ title: Episode 38 Angus Street Auctionsplus
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Episode-38-angus-street-auctionsplus.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2019-03-26)  
 
 **[0:00:00-0:00:20](https://player.whooshkaa.com/episode?id=357322#t=0:00:00):**  Hello and welcome back to the AgTechSoWhat podcast. I'm your host, Sarah Nolet, and founder  of AgTentik, where we work to bridge the gaps between agriculture and technology. This week,  we have something new for you or something that we've tried in the past and wanted to  

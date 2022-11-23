@@ -3,15 +3,6 @@ title: Kelpie Wilson Biochar In Search Of Soil 4
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Kelpie-wilson-biochar-in-search-of-soil-4.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2020-11-04)  
 
 **[0:00:00-0:00:09](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-04-KelpieWilson-FullEpisode.mp3#t=0:00:00):**  So Kelby, prior to getting into biochar,  what were you doing at the time?  Oh, a variety of things.  

@@ -3,15 +3,6 @@ title: Dr Matthew Wood The Science Of Em Essential Microorganisms In Search Of S
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-matthew-wood-the-science-of-em-essential-microorganisms-in-search-of-soil-19.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2021-08-25)  
 
 **[0:00:00-0:00:22](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-19-MatthewWood-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Lactobacillus.  LAB.  

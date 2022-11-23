@@ -3,15 +3,6 @@ title: Regen Ag Series 1 Mark Wootton On Carbon Neutral Farming At Jigsaw Farms
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Regen-ag-series-1-mark-wootton-on-carbon-neutral-farming-at-jigsaw-farms.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-07-15)  
 
 **[0:00:00-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/mark-wootton-on-carbon-neutral-farming#t=0:00:00):**  Hello, and welcome back to the AgTech So What podcast brought to you by Agthentic.  As always, I'm your host, Sarah Nolet.  Today's episode is the first in another series that we're doing, this time on regenerative  

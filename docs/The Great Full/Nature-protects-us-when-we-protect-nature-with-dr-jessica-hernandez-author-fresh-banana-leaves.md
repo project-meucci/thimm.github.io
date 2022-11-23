@@ -3,15 +3,6 @@ title: Nature Protects Us When We Protect Nature With Dr Jessica Hernandez Autho
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Nature-protects-us-when-we-protect-nature-with-dr-jessica-hernandez-author-fresh-banana-leaves.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### The Great Full  (2022-04-25)  
 ### Author(s): Michelle Grant  
 

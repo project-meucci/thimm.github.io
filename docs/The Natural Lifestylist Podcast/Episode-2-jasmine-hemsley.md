@@ -3,15 +3,6 @@ title: Episode 2 Jasmine Hemsley
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Natural Lifestylist Podcast/Episode-2-jasmine-hemsley.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Natural Lifestylist Podcast/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### The Natural Lifestylist Podcast  (2019-09-08)  
 ### Author(s): Tony Riddle  
 

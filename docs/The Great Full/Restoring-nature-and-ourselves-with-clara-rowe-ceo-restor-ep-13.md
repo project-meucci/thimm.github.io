@@ -3,15 +3,6 @@ title: Restoring Nature And Ourselves With Clara Rowe Ceo Restor Ep 13
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Restoring-nature-and-ourselves-with-clara-rowe-ceo-restor-ep-13.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### The Great Full  (2021-11-07)  
 ### Author(s): Michelle Grant  
 

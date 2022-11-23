@@ -3,15 +3,6 @@ title: Biologicals And Chemistry Finding Ways To Commercialize The Science
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Biologicals-and-chemistry-finding-ways-to-commercialize-the-science.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-07-14)  
 
 **[0:00:00-0:00:12](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/7/14/biologicals-finding-ways-to-commercialize-the-science#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agtenti Group.  I'm Sarah Nolet.  In our last episode, we looked at the challenge of biologicals, what they are, and how we  

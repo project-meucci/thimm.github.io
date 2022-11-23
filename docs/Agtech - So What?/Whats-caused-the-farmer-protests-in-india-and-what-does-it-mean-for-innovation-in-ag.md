@@ -3,15 +3,6 @@ title: Whats Caused The Farmer Protests In India And What Does It Mean For Innov
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Whats-caused-the-farmer-protests-in-india-and-what-does-it-mean-for-innovation-in-ag.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-06-16)  
 
 **[0:00:00-0:00:11](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/6/16/whats-caused-the-farmer-protests-in-india-and-what-does-it-mean-for-innovation-in-ag#t=0:00:00):**  Hello, and welcome to Ag Tech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  Before we get started, I have a favorite ask.  

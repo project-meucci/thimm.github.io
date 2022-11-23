@@ -3,15 +3,6 @@ title: From Buyer Beware To Seller Beware In Agtech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/From-buyer-beware-to-seller-beware-in-agtech.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-11-16)  
 
 **[0:00:00-0:00:12](https://tenacious.ventures/podcast-episodes/from-buyer-beware-to-seller-beware-in-agtech#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by Tenacious Ventures.  I'm Sarah Nolet.  This week, and for two more episodes in the future, we are so excited to be collaborating  

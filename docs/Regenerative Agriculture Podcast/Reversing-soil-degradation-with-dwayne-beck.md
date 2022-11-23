@@ -3,15 +3,6 @@ title: Reversing Soil Degradation With Dwayne Beck
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/Reversing-soil-degradation-with-dwayne-beck.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative Agriculture Podcast/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative Agriculture Podcast  (2020-11-03)  
 
 **[0:00:00-0:00:12](https://traffic.libsyn.com/secure/regenerativeagriculture/Dwayne_Beck_Final_Audio.mp3#t=0:00:00):**  Hi friends, this is John and this is the Regenerative Agriculture podcast where we talk about the  agronomic science and cultural management practices that regenerate plant health, soil  health and public health.  

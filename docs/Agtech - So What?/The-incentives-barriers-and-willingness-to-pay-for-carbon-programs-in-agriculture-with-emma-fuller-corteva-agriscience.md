@@ -3,15 +3,6 @@ title: The Incentives Barriers And Willingness To Pay For Carbon Programs In Agr
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/The-incentives-barriers-and-willingness-to-pay-for-carbon-programs-in-agriculture-with-emma-fuller-corteva-agriscience.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-07-13)  
 
 **[0:00:00-0:00:12](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/7/14/designing-agriculture-carbon-markets-emma-fuller#t=0:00:00):**  Hello and welcome to AgTech So What, brought to you by the Agthentic Group.  I'm Sarah Nolet.  The idea of preserving the planet for future generations has been a staple of environmental  

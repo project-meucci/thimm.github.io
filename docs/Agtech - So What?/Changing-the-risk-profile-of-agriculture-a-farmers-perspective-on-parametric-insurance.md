@@ -3,15 +3,6 @@ title: Changing The Risk Profile Of Agriculture A Farmers Perspective On Paramet
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Changing-the-risk-profile-of-agriculture-a-farmers-perspective-on-parametric-insurance.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-09-07)  
 
 **[0:00:00-0:00:13](https://tenacious.ventures/podcast-episodes/changing-the-risk-profile-of-agriculture-a-farmers-perspective-on-parametric-insurance#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by Tenacious Ventures.  I'm Sarah Nolet.  One of the things we love most about our podcast is the opportunity it gives us to learn from  

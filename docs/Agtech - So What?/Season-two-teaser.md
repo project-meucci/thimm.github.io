@@ -3,15 +3,6 @@ title: Season Two Teaser
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Season-two-teaser.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2018-12-04)  
 
 **[0:00:00-0:00:11](https://player.whooshkaa.com/episode?id=357335#t=0:00:00):**  Hey, podcast listeners, Sarah here, bringing you a quick update.  We've been hard at work recording season two, and we really appreciate all your feedback  during our first 25 episodes.  

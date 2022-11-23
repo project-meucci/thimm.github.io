@@ -3,15 +3,6 @@ title: What Commodity Agriculture Can Learn From Organic Farming With Amy Bruch 
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/What-commodity-agriculture-can-learn-from-organic-farming-with-amy-bruch-cyclone-farms.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-08-24)  
 
 **[0:00:00-0:00:15](https://tenacious.ventures/podcast-episodes/amy-bruch-organic-farming-technology-commodities#t=0:00:00):**  Hello, and welcome to Ag Tech So What. I'm Sarah Nolet. An update for you here at the  top of the show. The Agfentik Group has been acquired. Well, sort of. We're still the same  team on the same mission, to partner with Ag Tech operators who are unlocking world  

@@ -3,15 +3,6 @@ title: From Defense To Disruption How Companies Are Approaching Sustainability I
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/From-defense-to-disruption-how-companies-are-approaching-sustainability-in-the-food-system-with-mary-shelman.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-10-21)  
 
 **[0:00:00-0:01:05](https://www.agtechsowhat.com/agtechsowhatepisodes/defend-defy-develop-or-disrupt-with-mary-shelman#t=0:00:00):**  Welcome to the Ag Tech So What podcast brought to you by Agthentic. I'm Sarah Nolet. And today's guest is someone who's looked at the agriculture industry from a range of perspectives from growing up on a farm in Kentucky, to solving big problems for corporations and governments all over the world.  I get kind of frustrated with the idea that it always gets down to, oh, it's the data, show us the profits. I think sometimes, especially with technology, we think about things now like soil health. Why don't farmers, you know, you know, they're silly, right? Why don't they adopt technology? Why don't they do the soil health things? It's like, well, actually, it's all really still too hard. And giving them more data is not going to make it simpler.  That's Mary Schellman. She's the former director of the Harvard Business School's agribusiness program. She also sits on multiple strategic advisory boards, is a venture partner with Radical Growth, and has a degree in chemical engineering. Mary is asked to speak all over the world on agribusiness. And after listening today, you'll understand why. She begins her story the way she likes to start all of her talks.  

@@ -3,15 +3,6 @@ title: Ep 67 Tips From Three Leading Farmers Using Tech Everyday Live From Evoke
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep-67-tips-from-three-leading-farmers-using-tech-everyday-live-from-evokeag.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-05-20)  
 
 **[0:00:00-0:00:13](https://www.agtechsowhat.com/agtechsowhatepisodes/tips-from-leading-producers#t=0:00:00):**  Welcome back to the AgTech So What podcast, brought to you by Agthentic.  I'm your host, Sarah Nolet.  We're on a bit of a streak here with episodes recorded live at recent events.  

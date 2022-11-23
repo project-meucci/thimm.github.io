@@ -3,15 +3,6 @@ title: Bonus Ep The State Of Fundraising In Agtech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Bonus-ep-the-state-of-fundraising-in-agtech.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-03-30)  
 
 **[0:00:00-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/3/31/agtech-fundraising-vc-investing#t=0:00:00):**  Hello, and welcome to a very special bonus episode of AgTech So What.  I'm Sarah Nalet, your host, but today I'm also going to be wearing another hat.  As most listeners probably already know, in addition to hosting this lovely podcast, I'm  

@@ -3,15 +3,6 @@ title: Joni Talks With Anne Biklé David R Montgomery About Regenerative Agricul
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/Joni-talks-with-anne-biklé-david-r-montgomery-about-regenerative-agriculture-soil-degradation.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Regenerative by Design/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Regenerative by Design  (2022-10-13)  
 ### Author(s): Joni Kindwall-Moore & Anne Biklé & David R. Montgomery  
 

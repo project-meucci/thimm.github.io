@@ -3,15 +3,6 @@ title: Ep 68 David Carter On Becoming The Worlds Only Carbon Neutral Fishing Com
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep-68-david-carter-on-becoming-the-worlds-only-carbon-neutral-fishing-company.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-06-03)  
 
 **[0:00:00-0:00:13](http://www.agtechsowhat.com/agtechsowhatepisodes/david-carter-carbon-neutral-fishing#t=0:00:00):**  Welcome back to the AgTech So What podcast brought to you by Agthentic.  I'm your host, Sarah Nolet.  Today I chat with an expert in a very different kind of agriculture, fisheries.  

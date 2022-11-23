@@ -3,15 +3,6 @@ title: Defining The Future Of Ag Advocacy With Emma Germano Victorian Farmers Fe
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Defining-the-future-of-ag-advocacy-with-emma-germano-victorian-farmers-federation.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-08-10)  
 
 **[0:00:00-0:00:11](https://tenacious.ventures/podcast-episodes/the-future-of-ag-advocacy-with-emma-germano-victorian-farmers-federation#t=0:00:00):**  A quick note here, I've been on the road a bit, which has meant less than ideal recording conditions.  So at times in this episode, my audio is not great.  I'm sorry about that, and I do have a solution, so it won't happen again.  

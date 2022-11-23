@@ -3,15 +3,6 @@ title: Later Stage Agtech Startup Lessons 3 Charles Baron Farmers Business Netwo
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Later-stage-agtech-startup-lessons-3-charles-baron-farmers-business-network.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-12-01)  
 
 **[0:00:00-0:00:13](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/11/28/later-stage-agtech-startup-lessons-3-farmers-business-network#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agtenti Group.  I'm Sarah Nollet.  This episode is the third and final in our Lessons from Later Stage AgTech Founders series.  

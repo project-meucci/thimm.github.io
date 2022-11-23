@@ -3,15 +3,6 @@ title: Genetics Biosecurity And The Cutest Sheep In The World With Dr Belinda Ca
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Genetics-biosecurity-and-the-cutest-sheep-in-the-world-with-dr-belinda-cardinal-caprotek.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-01-26)  
 
 **[0:00:00-0:00:12](https://www.agtechsowhat.com/2022/1/27/belinda-cardinal-livestock-genetics#t=0:00:00):**  Hello and welcome to AgTech So What, brought to you by the Agnetic Group.  I'm Sarah Nolet.  Our next guest has enjoyed the benefits of some good press and endured some pretty rough  

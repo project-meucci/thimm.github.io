@@ -3,15 +3,6 @@ title: How Can Big Companies Like Coca Cola Impact The Sustainability Of Our Foo
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/How-can-big-companies-like-coca-cola-impact-the-sustainability-of-our-food-system.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-01-27)  
 
 **[0:00:00-0:00:17](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/1/26-coca-cola-and-our-food-system#t=0:00:00):**  Hello, and welcome to the Ag Tech So What podcast, brought to you by the Agthente Group.  I'm Sarah Nolet. So you've just clicked on this episode about Coca-Cola and you might  be wondering, well, what does Coke have to do with Ag Tech and farming? Well, more than  

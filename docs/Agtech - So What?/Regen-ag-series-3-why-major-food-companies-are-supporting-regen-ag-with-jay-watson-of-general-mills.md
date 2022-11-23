@@ -3,15 +3,6 @@ title: Regen Ag Series 3 Why Major Food Companies Are Supporting Regen Ag With J
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Regen-ag-series-3-why-major-food-companies-are-supporting-regen-ag-with-jay-watson-of-general-mills.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-08-12)  
 
 **[0:00:00-0:00:12](https://www.agtechsowhat.com/agtechsowhatepisodes/why-the-major-food-companies-are-supporting-regen-ag-with-jay-watson-of-general-mills#t=0:00:00):**  Welcome back to the Ag Tech So What podcast, brought to you by Agthentic.  I'm your host, Sarah Nollet.  Today we're back with episode three in our Regen Ag series.  

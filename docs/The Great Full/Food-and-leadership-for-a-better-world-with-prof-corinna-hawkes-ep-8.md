@@ -3,15 +3,6 @@ title: Food And Leadership For A Better World With Prof Corinna Hawkes Ep 8
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/Food-and-leadership-for-a-better-world-with-prof-corinna-hawkes-ep-8.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/The Great Full/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### The Great Full  (2021-02-01)  
 ### Author(s): Michelle Grant  
 

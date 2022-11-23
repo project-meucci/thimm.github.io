@@ -3,15 +3,6 @@ title: Episode 21 Seana Day On Whats Hot In Livestock And Dairy Tech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Episode-21-seana-day-on-whats-hot-in-livestock-and-dairy-tech.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2018-05-16)  
 
 **[0:00:00-0:00:10](https://player.whooshkaa.com/episode?id=357341#t=0:00:00):**  Hi everyone, you're listening to BushTech, an agtech podcast that gets to the so what  of agtech.  We'll bring you interesting things from interesting people and I'm one of your co-hosts,  

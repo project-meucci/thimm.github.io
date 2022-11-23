@@ -3,15 +3,6 @@ title: Regen Ag Series 5 Our Verdict
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Regen-ag-series-5-our-verdict.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-09-23)  
 
 **[0:00:00-0:00:03](https://www.agtechsowhat.com/agtechsowhatepisodes/2020/9/23/regen-ag-series-5-our-verdict#t=0:00:00):**  Hey, Kristen.  Hey, Sarah.  How are you going?  

@@ -3,15 +3,6 @@ title: Francesco Tortorici Biochar In Search Of Soil 11
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Francesco-tortorici-biochar-in-search-of-soil-11.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2021-06-30)  
 
 **[0:00:00-0:00:32](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-11-FrancescoTortorici-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Biochar – plant matter turned charcoal via pyrolysis.  It's an often talked about soil amendment that's able to put carbon into the soil  

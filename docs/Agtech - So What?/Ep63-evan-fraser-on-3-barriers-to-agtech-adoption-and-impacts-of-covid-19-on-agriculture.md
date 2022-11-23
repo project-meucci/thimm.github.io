@@ -3,15 +3,6 @@ title: Ep63 Evan Fraser On 3 Barriers To Agtech Adoption And Impacts Of Covid 19
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Ep63-evan-fraser-on-3-barriers-to-agtech-adoption-and-impacts-of-covid-19-on-agriculture.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-03-25)  
 
 **[0:00:00-0:00:13](https://player.whooshkaa.com/episode?id=600708#t=0:00:00):**  Hello, and welcome back to Ag Tech So What, brought to you by Agfentech.  I'm your host, Sarah Nolet.  Today's guest is coming to us all the way from Canada.  

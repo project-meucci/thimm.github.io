@@ -3,15 +3,6 @@ title: Dr Bruno Basso Soil Carbon In Search Of Soil 9
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-bruno-basso-soil-carbon-in-search-of-soil-9.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2020-12-09)  
 
 **[0:00:00-0:00:27](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-09-BrunoBasso-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Carbon – it's the building block of life.  When it comes to soil, it's critically important.  

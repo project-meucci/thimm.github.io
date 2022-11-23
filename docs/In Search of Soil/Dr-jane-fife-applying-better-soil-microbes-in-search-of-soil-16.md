@@ -3,15 +3,6 @@ title: Dr Jane Fife Applying Better Soil Microbes In Search Of Soil 16
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/Dr-jane-fife-applying-better-soil-microbes-in-search-of-soil-16.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/In Search of Soil/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### In Search of Soil  (2021-08-04)  
 
 **[0:00:00-0:00:32](https://traffic.libsyn.com/secure/insearchofsoil/iSOS-16-JaneFife-FullEpisode.mp3#t=0:00:00):**  So, we meet again.  Adding live microbes to the soil, does it actually make sense?  Intuitively, we might think yes, but what are you actually adding to the soil?  

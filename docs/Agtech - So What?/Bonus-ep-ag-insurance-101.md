@@ -3,15 +3,6 @@ title: Bonus Ep Ag Insurance 101
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Bonus-ep-ag-insurance-101.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2022-06-14)  
 
 **[0:00:00-0:00:09](https://www.agtechsowhat.com/agtechsowhatepisodes/2022/06/15/how-does-agricultural-insurance-work-explainer#t=0:00:00):**  Hello, and welcome to another special bonus episode of Ag Tech So What, brought to you  by the Agthintic Group.  I'm Sarah Nolet.  

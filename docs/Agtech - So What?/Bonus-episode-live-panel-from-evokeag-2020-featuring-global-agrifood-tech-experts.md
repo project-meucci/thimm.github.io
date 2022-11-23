@@ -3,15 +3,6 @@ title: Bonus Episode Live Panel From Evokeag 2020 Featuring Global Agrifood Tech
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/Bonus-episode-live-panel-from-evokeag-2020-featuring-global-agrifood-tech-experts.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2020-03-11)  
 
 **[0:00:00-0:00:19](https://player.whooshkaa.com/episode?id=588506#t=0:00:00):**  We are now going to commence with the opening plenary session.  If we could please ask you to make your way through, take your seats for the commencement of this morning session. Thank you.  Hey guys, Sarah here. As you can already tell, today's bonus episode is going to be a little bit different.  

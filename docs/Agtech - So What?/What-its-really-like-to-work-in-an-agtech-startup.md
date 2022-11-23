@@ -3,15 +3,6 @@ title: What Its Really Like To Work In An Agtech Startup
 description: Transcripts for podcasts from the regenerative agriculture space. Search and find episodes and timestamps.
 ---
 
-<script src="https://cdn.podlove.org/web-player/embed.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          if (document.readyState === 'interactive' || document.readyState === 'complete') {
-            podlovePlayer('#player', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/What-its-really-like-to-work-in-an-agtech-startup.json', 'https://raw.githubusercontent.com/Thimm/thimm.github.io/main/podlove/podlove/Agtech - So What?/config.json').then(registerExternalEvents('player'))
-          }
-        })
-  </script>
-
 ### Agtech - So What?  (2021-01-13)  
 
 **[0:00:00-0:00:16](https://www.agtechsowhat.com/agtechsowhatepisodes/2021/1/13/what-its-really-like-to-work-in-an-agtech-startup#t=0:00:00):**  Hello, and welcome to AgTech So What, brought to you by the Agthentic Group. I'm Sarah Nolet.  This is the second episode in our two-part AgTech Career series, which we're bringing  to you in collaboration with the Future Farmers Network. I know a lot of people, whether you've  
