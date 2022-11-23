@@ -7,7 +7,7 @@ Transcripts for podcasts from the regenerative agriculture space. We do not own 
 
 ## Transcribed Podcasts
 
-### [Agtech So What?]
+### Agtech So What?
 Investment in agriculture technology and momentum for agtech entrepreneurship is taking off. But this is not new: farmers have been adopting technologies that add value for decades. So is it just hype? What does all the momentum for agtech- from accelerators to venture capital funds to sexy technologies like drones and robots- actually mean for farmers and the agriculture industry?
 [Link](https://www.agtechsowhat.com/){target=_blank}
 
