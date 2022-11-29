@@ -7,3 +7,4 @@
 .SearchEngine/segments
 .SearchEngine/transcriptions
 *.zip
+.ipynb_checkpoints/
