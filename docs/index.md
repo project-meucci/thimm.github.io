@@ -28,6 +28,11 @@ Each week features scientists and experts sharing insights into topics like soil
 In Investing in Regenerative Agriculture and Food podcast show we talk to the pioneers in the regenerative food and agriculture space to learn more on how to put our money to work to regenerate soil, people, local communities and ecosystems while making an appropriate and fair return.
 [Link](https://investinginregenerativeagriculture.com/){target=_blank}
 
+
+### Ranching Reboot
+Rebooting your thinking about Farming, Ranching and Food production. Conversations in land stewardship with some of today's most innovative ranchers and producers.
+[Link](https://podcasts.apple.com/us/podcast/ranching-reboot/id1553797016){target=_blank}
+
 ### Regenerative Agriculture Podcast 
 On this show, John and his guests describe why most growers have crop challenges, and how to resolve them. You will find straightforward, actionable information about growing that can be implemented right away to increase crop quality, yields, pest resistance, and climate resilience -- to regenerate soil health, and most importantly, increase farm profitability.
 [Link](https://regenerativeagriculturepodcast.com){target=_blank}
